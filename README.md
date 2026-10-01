@@ -2,2631 +2,1995 @@
 
 A curated list of awesome Shell frameworks, libraries and software.
 
-* [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-* [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-* [Neilpang/acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
-* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-* [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-* [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Debian, Ubuntu and CentOS
-* [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
-* [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-* [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-* [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
-* [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
-* [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
-* [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-* [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-* [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-* [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-* [holman/spark](https://github.com/holman/spark) -  ▁▂▃▅▂▇ in your shell.
-* [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - This is now the official location of the Kaldi project.
-* [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
-* [spotify/docker-gc](https://github.com/spotify/docker-gc) - Docker garbage collection of containers and images
-* [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
-* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-* [lukas2511/dehydrated](https://github.com/lukas2511/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-* [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell
-* [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-* [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
-* [Mayccoll/Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
-* [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
-* [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-* [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-* [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
-* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
-* [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-* [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
-* [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-* [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - Linux Game Server Managers_
-* [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
-* [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-* [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
-* [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
-* [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
-* [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB/Percona Server + PHP ) for CentOS/Fedora/Debian/Ubuntu
-* [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-* [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
-* [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
-* [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
-* [Fourdee/DietPi](https://github.com/Fourdee/DietPi) - Lightweight justice for your single-board computer.
-* [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
-* [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
-* [silinternational/ecs-deploy](https://github.com/silinternational/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
-* [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
-* [WritingMinds/ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
-* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
-* [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
-* [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
-* [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-* [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
-* [kerl/kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
-* [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
-* [dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) - backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.
-* [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
-* [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
-* [licess/lnmp](https://github.com/licess/lnmp) - Auto compile and install LNMP/LNMPA/LAMP on CentOS/RHEL/Fedora/Aliyun/Amazon,Debian/Ubuntu/Raspbian/Deepin/Mint Linux. Easy install,upgrade and use.
-* [xero/dotfiles](https://github.com/xero/dotfiles) - custom linux config files - managed via gnu stow
-* [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
-* [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
-* [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
-* [jayrambhia/Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV) - shell scripts to install different version of OpenCV in different distributions of Linux
-* [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
-* [dsixda/Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization.  Uses shell scripts and works with Cygwin/OS X/Linux.
-* [rmarquis/pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction
-* [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
-* [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
-* [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
-* [jorgebucaran/fish-cookbook](https://github.com/jorgebucaran/fish-cookbook) - Tips and recipes for fish, from shell to plate
-* [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-* [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
-* [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
-* [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
-* [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
-* [andreyvit/create-dmg](https://github.com/andreyvit/create-dmg) - A shell script to build fancy DMGs
-* [clangcn/kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
-* [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
-* [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
-* [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
-* [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
-* [adambrenecki/virtualfish](https://github.com/adambrenecki/virtualfish) - A Fish wrapper for Ian Bicking's virtualenv, based loosely on Doug Hellman's virtualenvwrapper for Bash.
-* [StarshipEngineer/OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi (TM) as an OpenVPN server
-* [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
-* [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
-* [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
-* [ivandavidov/minimal](https://github.com/ivandavidov/minimal) - Minimal Linux Live is a tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. Minimal Linux Live offers a core environment with just the Linux kernel, GNU C library and BusyBox userland utilities.
-* [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-* [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
-* [glenpike/npm-g_nosudo](https://github.com/glenpike/npm-g_nosudo) - A shell script which will fix the problem where you want to stop using sudo for npm -g on Ubuntu.
-* [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
-* [wireghoul/htshells](https://github.com/wireghoul/htshells) - Self contained htaccess shells and attacks
-* [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
-* [monlor/Monlor-Tools](https://github.com/monlor/Monlor-Tools) - 小米路由器Shell工具箱，本人自用，主要参考了小米的Misstar Tools制作，仅学习之用！Telegram群组：https://t.me/joinchat/FMraA0lwzH9fzEW1wXdCFA
-* [cloudsec/brootkit](https://github.com/cloudsec/brootkit) - Lightweight rootkit implemented by bash shell scripts v0.10
-* [monfresh/laptop](https://github.com/monfresh/laptop) - A shell script which turns your Mac into an awesome web development machine.
-* [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
-* [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - Shell script for http/https troubleshooting and profiling.
-* [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
+* Learning and Reference
+	* [Tutorials and Books](#tutorials-and-books)
+	* [Examples and Exercises](#examples-and-exercises)
+* Language and Tooling
+	* [Build Systems](#build-systems)
+	* [Package Management](#package-management)
+	* [Linters and Formatters](#linters-and-formatters)
+	* [Editor and IDE Support](#editor-and-ide-support)
+* Machine Learning and AI
+	* [LLM and Inference](#llm-and-inference)
+* Networking and Distributed
+	* [Networking](#networking)
+	* [Cloud and Infrastructure](#cloud-and-infrastructure)
+	* [Monitoring and Observability](#monitoring-and-observability)
+* User Interface
+	* [Terminal and Console UI](#terminal-and-console-ui)
+	* [Mobile](#mobile)
+	* [Applications and End User Tools](#applications-and-end-user-tools)
+* Graphics and Media
+	* [Game Development](#game-development)
+	* [Image and Video](#image-and-video)
+* Security
+	* [Cryptography](#cryptography)
+	* [Security Tools](#security-tools)
+* Testing and Quality
+	* [Testing](#testing)
+* Utilities
+	* [Command Line Tools](#command-line-tools)
+	* [Text Processing](#text-processing)
+	* [Files and Operating System](#files-and-operating-system)
+	* [Automation and Scripting](#automation-and-scripting)
+	* [General Purpose Libraries](#general-purpose-libraries)
+* Systems and Hardware
+	* [Operating Systems and Kernels](#operating-systems-and-kernels)
+* [Other](#other)
+
+## Learning and Reference
+
+### Tutorials and Books
+
+* [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. *(archived)*
+* [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. *(archived)*
+* [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+* [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell) - Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero utilizando Warp (la terminal y entorno de desarrollo con IA).
+* [liquanzhou/ops_doc](https://github.com/liquanzhou/ops_doc) - 运维简洁实用手册
+* [timothystewart6/techno-tim.github.io](https://github.com/timothystewart6/techno-tim.github.io) - Open Source, Community Driven, Documentation for Techno Tim YouTube Videos/ Complete with examples for all your copy pasta needs!
 * [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
-* [modernish/modernish](https://github.com/modernish/modernish) - Library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
-* [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu
-* [summerblue/laravel-ubuntu-init](https://github.com/summerblue/laravel-ubuntu-init) - A shell script for setting up Laravel Production environment on Ubuntu 14.04 & Ubuntu 16  system.
-* [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
-* [iridakos/goto](https://github.com/iridakos/goto) - A shell utility to quickly navigate to aliased directories supporting auto-completion :penguin:
-* [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
-* [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-* [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
-* [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - :computer: Public repo for my personal dotfiles
-* [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
-* [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
-* [x70b1/polybar-scripts](https://github.com/x70b1/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-* [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
-* [stackhou/AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS) - iOS自动打包脚本 多项选择 一行上传指定位置
-* [centos-bz/ezhttp](https://github.com/centos-bz/ezhttp) - The bash shell script stack for installation of Nginx OpenResty Tengine lua_nginx_module nginx_concat_module nginx_upload_module ngx_substitutions_filter_module　Apache-2.2 Apache-2.4　MySQL-5.1 MySQL-5.5 MySQL-5.6 MySQL-5.7 PHP-5.2 PHP-5.3 PHP-5.4 PHP-5.5 PHP-5.6 ZendOptimizer ZendGuardLoader Xcache Eaccelerator Imagemagick IonCube Memcache Memcached Redis Mongo Xdebug Mssql Memcached PureFtpd PhpMyAdmin Redis Mongodb PhpRedisAdmin MemAdmin RockMongo Jdk7 Jdk8 Tomcat7 Tomcat8
-* [bmizerany/roundup](https://github.com/bmizerany/roundup) - eliminate bugs and weeds from shell scripts
-* [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of useful extra git scripts I've discovered or written, packaged for ease of use with shell frameworks.
-* [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
-* [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac
-* [eivind88/prm](https://github.com/eivind88/prm) - A minimal project manager for the terminal.
-* [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
-* [odb/shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
-* [rafaelrinaldi/pure](https://github.com/rafaelrinaldi/pure) - Port of the `pure` ZSH prompt to Fish 🐟
-* [flplv/ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
-* [trick77/ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
-* [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-* [zoltan-dulac/css3FontConverter](https://github.com/zoltan-dulac/css3FontConverter) - A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers.  Works under Windows (using Cygwin), Mac OS X and Linux
-* [centminmod/centminmod](https://github.com/centminmod/centminmod) - CentOS Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed)
-* [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more.
-* [ericoc/zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Zabbix AlertScript for Slack.com chat
-* [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
-* [ahnick/encpass.sh](https://github.com/ahnick/encpass.sh) - Lightweight solution for using encrypted passwords in shell scripts
-* [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
-* [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
-* [kasparsd/php-7-debian](https://github.com/kasparsd/php-7-debian) - Install PHP 7 on Debian/Ubuntu
-* [petrockblog/OwncloudPie](https://github.com/petrockblog/OwncloudPie) - Shell script for installing Owncloud on the Raspberry Pi
-* [getfatday/keytool-importkeypair](https://github.com/getfatday/keytool-importkeypair) - A shell script to import key/certificate pairs into an existing Java keystore
-* [raylee/tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages
-* [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
-* [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
-* [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager) - A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
-* [oscm/shell](https://github.com/oscm/shell) - Infrastructure Management Shell - Linux
-* [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
-* [churchers/vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
-* [rylnd/shpec](https://github.com/rylnd/shpec) - Test your shell scripts!
-* [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
-* [gozoinks/unifi-pfsense](https://github.com/gozoinks/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
-* [sapegin/dotfiles](https://github.com/sapegin/dotfiles) - My macOS environment: zsh, Git, Visual Studio Code, etc.
-* [RayViljoen/Raspberry-PI-SD-Installer-OS-X](https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X) - Shell Script for creating Raspberry PI SD card on OS X.
-* [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
-* [ekalinin/envirius](https://github.com/ekalinin/envirius) - Universal Virtual Environments Manager
-* [SafeBreach-Labs/pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - Post-exploitation framework (and an interactive shell) developed in Bash shell scripting
-* [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-* [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-* [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
-* [pr1ntf/iohyve](https://github.com/pr1ntf/iohyve) - FreeBSD bhyve manager utilizing ZFS
-* [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
-* [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-* [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
-* [18F/laptop](https://github.com/18F/laptop) - A shell script which turns your Mac into an awesome web development machine.
-* [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2
-* [andrep/git-svn-clone-externals](https://github.com/andrep/git-svn-clone-externals) - Simple shell script to import svn:externals into a local git-svn repository
-* [alphabetum/bash-boilerplate](https://github.com/alphabetum/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
-* [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
-* [natelandau/shell-scripts](https://github.com/natelandau/shell-scripts) - Shell scripting utility functions and a bash script boilerplate template
-* [nystudio107/craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments
-* [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
-* [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
-* [examplecode/unused-image](https://github.com/examplecode/unused-image) - This is shell script used to check and clean unused image resource , support Android and IOS project
-* [codigofuerte/GeoNames-MySQL-DataImport](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - Shell Script to download and import geonames.org dumps into a mysql database.
-* [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
-* [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant
-* [miohtama/ztanesh](https://github.com/miohtama/ztanesh) - Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more powerful and easier to use.
-* [Screetsec/Vegile](https://github.com/Screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
-* [mstinaff/PMS_Updater](https://github.com/mstinaff/PMS_Updater) - Shell script for updating the Plex Media Server inside the FreeNAS Plex plugin
-* [anrip/ArDNSPod](https://github.com/anrip/ArDNSPod) - 基于DNSPod用户API实现的纯Shell动态域名客户端
-* [sund/auto-gitlab-backup](https://github.com/sund/auto-gitlab-backup) - A simple script to backup your Gitlab data. This script will copy the backup archives of your gitlab installation via rsync, or scp. Also, you can copy backups to Backblaze’s B2 Cloud Storage service.
-* [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
-* [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a cloud automation shell. It's the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools.  ★ this repo! https://slack.cloudposse.com/
-* [xwp/wp-dev-lib](https://github.com/xwp/wp-dev-lib) - Common code used during development of WordPress plugins and themes
-* [Screetsec/BruteSploit](https://github.com/Screetsec/BruteSploit) - BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used in CTF for manipulation,combine,transform and permutation some words or file text :p
-* [clangcn/onekey-install-shell](https://github.com/clangcn/onekey-install-shell) - 一大坨一键安装脚本
-* [jorgebucaran/fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for the fish shell
-* [chriscool/sharness](https://github.com/chriscool/sharness) - Shell library to test your Unix tools like Git does
-* [bluezio/ipwebcam-gst](https://github.com/bluezio/ipwebcam-gst) - Simple shell script for using IP Webcam as a V4L2 webcam / sound source
-* [kvz/cronlock](https://github.com/kvz/cronlock) - cronlock lets you deploy cronjobs cluster-wide without worrying about overlaps. It uses Redis to keep track of locks.
-* [karek314/macOS-home-call-drop](https://github.com/karek314/macOS-home-call-drop) - Simple shell script to fix macOS privacy issues and remove mostly useless macOS calls to cupertino
-* [erichs/composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
-* [chrismytton/shoreman](https://github.com/chrismytton/shoreman) - foreman in shell
-* [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage three monitors on X
-* [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
-* [mattly/bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge
-* [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
-* [bash-my-universe/bash-my-aws](https://github.com/bash-my-universe/bash-my-aws) - Bash functions for managing AWS resources simply and easily
-* [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 A Fish Shell prompt for Astronauts
-* [w00fz/xdebug-osx](https://github.com/w00fz/xdebug-osx) - Simple bash script to toggle xdebug on/off in OSX
-* [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
-* [DFabric/DPlatform-Shell](https://github.com/DFabric/DPlatform-Shell) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
-* [sheharyarn/mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
-* [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
-* [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
-* [xuxiaodong/tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
-* [JElchison/format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
-* [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
-* [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks
-* [geerlingguy/dotfiles](https://github.com/geerlingguy/dotfiles) - My configuration. Minimalist, but helps save a few thousand keystrokes a day.
-* [dougborg/gdub](https://github.com/dougborg/gdub) - A gradlew / gradle wrapper.
-* [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - A little agent that removes the node_modules folder of non-active projects 🗑️
-* [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
-* [pretzelhands/jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
-* [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup and configuration.
-* [jakewmeyer/Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping
-* [dotzero/vagrant-debian-jessie](https://github.com/dotzero/vagrant-debian-jessie) - Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows
-* [evanlucas/fish-kubectl-completions](https://github.com/evanlucas/fish-kubectl-completions) - kubectl completions for fish shell
-* [njhartwell/pw3nage](https://github.com/njhartwell/pw3nage) - If you get pw3ned, might want to fix your shell
-* [matthewmccullough/dotfiles](https://github.com/matthewmccullough/dotfiles) - Shell Config
-* [codeship/scripts](https://github.com/codeship/scripts) - Scripts for use on Codeship Basic
-* [jgigault/42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
-* [passcod/nvm-fish-wrapper](https://github.com/passcod/nvm-fish-wrapper) - NVM wrapper for the fish shell - NOT MAINTAINED
-* [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
-* [Nefelim4ag/systemd-swap](https://github.com/Nefelim4ag/systemd-swap) - Script for creating hybrid swap space from zram swaps, swap files and swap partitions.
-* [cyphunk/humanism.sh](https://github.com/cyphunk/humanism.sh) - subjective but sensible defaults for shell use. Ubuntu, OSX, FreeBSD tested.
-* [gaenserich/hostsblock](https://github.com/gaenserich/hostsblock) - an ad- and malware-blocking script for Linux
-* [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
-* [kyle8998/Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
-* [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
-* [exceedhl/toft](https://github.com/exceedhl/toft) - toft is a library currently supporting testing infrastructure code such as chef, shell scripts with cucumber and lxc on linux machine
-* [jreinke/modgit](https://github.com/jreinke/modgit) - Shell script for Git module deployment with include/exclude filters.
-* [archlinux/asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
-* [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
-* [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
-* [tlevine/urchin](https://github.com/tlevine/urchin) - Shell tests
-* [oldmanpushcart/shell](https://github.com/oldmanpushcart/shell) - 我在unix/linux下积累的常用工具
-* [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
-* [sheerun/dotfiles](https://github.com/sheerun/dotfiles) - My lovely dotfiles. Chocolate and unicorns.
-* [cryptojuice/gobrew](https://github.com/cryptojuice/gobrew) - Shell script to download and set GO environmental paths to allow multiple versions.
-* [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
-* [ismailtasdelen/Anti-DDOS](https://github.com/ismailtasdelen/Anti-DDOS) - 🔒 Anti DDOS | Bash Script Project 🔒
-* [konstruktoid/Docker](https://github.com/konstruktoid/Docker) - Docker playground
-* [rafritts/bunit](https://github.com/rafritts/bunit) - A unit testing framework for Shell scripts - namely Bash.
-* [GeekCloud-Team/login-shell](https://github.com/GeekCloud-Team/login-shell) - SSH登陆显示脚本
-* [jorgebucaran/fish-spark](https://github.com/jorgebucaran/fish-spark) - Sparkline generator for the fish shell
-* [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs for Debian-based servers
-* [ninrod/dotfiles](https://github.com/ninrod/dotfiles) - :octocat: Ninrod's sharpened dotfiles for emacs, vim, zsh, tmux and friends.
-* [meitar/git-archive-all.sh](https://github.com/meitar/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
-* [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - Shell Script I Use To Automatically Clean Up My Mac.
-* [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts I have made to ease the use of i3wm
-* [barnybug-archive/docker-fish-completion](https://github.com/barnybug-archive/docker-fish-completion) - ARCHIVED: docker command completion for the fish shell
-* [atarallo/TECMINT_MONITOR](https://github.com/atarallo/TECMINT_MONITOR) - A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on http://www.tecmint.com
-* [KnpLabs/symfony2-autocomplete](https://github.com/KnpLabs/symfony2-autocomplete) - [UNMAINTAINED] A very simple script to autocomplete Symfony2 commands in a bash shell.
-* [chenxiaolong/Unity-for-Arch](https://github.com/chenxiaolong/Unity-for-Arch) - Porting Ubuntu's Unity Shell to Arch Linux
-* [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
-* [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
-* [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
-* [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
-* [bfontaine/rfc](https://github.com/bfontaine/rfc) - :page_facing_up: Read RFCs from the command-line
-* [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
-* [rupa/j](https://github.com/rupa/j) - semi clone of autojump (http://github.com/joelthelion/autojump) in shell/awk
-* [qdaxb/wtool](https://github.com/qdaxb/wtool) - shell toolkit
-* [minamarkham/yonce](https://github.com/minamarkham/yonce) - 👑 Queen Bey-inspired themes for all your favs.
-* [loftuxab/alfresco-ubuntu-install](https://github.com/loftuxab/alfresco-ubuntu-install) - Alfresco script based install for Ubuntu
-* [epety/100-shell-script-examples](https://github.com/epety/100-shell-script-examples) - Collection of shell scripts found on the internet
-* [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell
-* [myplaceonline/posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
-* [jnwatts/pushover.sh](https://github.com/jnwatts/pushover.sh) - Shell script wrapper around curl for sending messages through PushOver
-* [whihail/AutoArchive](https://github.com/whihail/AutoArchive) - 一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化，让你的iOS自动打包，Android自动打包流程变得更加高效。此项目包含了各种实现细节的讲解说明，你能够使用它解决大多数跟客户端构建/分发相关的问题，并将这种能力进行开放，提高研发效率。
-* [zmalltalker/fish-nuggets](https://github.com/zmalltalker/fish-nuggets) - Completions, code snippets helping you to get even more out of the amazing Fish shell
-* [denysdovhan/dotfiles](https://github.com/denysdovhan/dotfiles) - My lovely dots ~/.💖
-* [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts
-* [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - :computer: My dot files shared between machines.
-* [grrnikos/pma](https://github.com/grrnikos/pma) - Simple shell script that installs phpMyAdmin on a Laravel Homestead box.
-* [rocky/zshdb](https://github.com/rocky/zshdb) - zsh gdb-like "trepan" debugger
-* [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell) - Minimal container for Chrome's headless shell, useful for automating / driving the web
-* [joukewitteveen/netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
-* [tokyoneon/Armor](https://github.com/tokyoneon/Armor) - Armor is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
-* [anapsix/zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
-* [kward/shflags](https://github.com/kward/shflags) - shFlags is a port of the Google gflags library for Unix shell.
-* [SpiderLabs/jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) - A JBoss script for obtaining remote shell access
-* [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com
-* [raphaelcohn/bish-bosh](https://github.com/raphaelcohn/bish-bosh) - MQTT shell script client, for bash, dash, BusyBox ash and others. Gives you MQTT on anything Unix like, from embedded routers to AIX servers with almost no dependenices.
-* [brandonprry/wicked_cool_shell_scripts_2e](https://github.com/brandonprry/wicked_cool_shell_scripts_2e) - Full shell scripts for the second edition of Wicked Cool Shell Scripts
-* [busterc/xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
-* [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle) - A shell script for throttling system CPU frequency based on a desired maximum temperature
-* [rukshn/pomodoro](https://github.com/rukshn/pomodoro) - A simple pomodoro shell script
-* [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish shell package to automatically receive notifications when long processes finish.
-* [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
-* [solidsnack/arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
-* [scponly/scponly](https://github.com/scponly/scponly) - The scponly pseudo-shell provides a file-transfer only shell for *Nix systems with optional support for using a chrooted environment.
-* [lumerit/s3-shell-backups](https://github.com/lumerit/s3-shell-backups) - Shell scripts to backup files and databases to Amazon S3
-* [jgamblin/quickinstall](https://github.com/jgamblin/quickinstall) - A Shell Script To Take Care Of Ubuntu Basics
-* [haskell/ghcup](https://github.com/haskell/ghcup) - Painless installation of GHC toolchain
-* [teracow/googliser](https://github.com/teracow/googliser) - a fast BASH downloader for multiple images sourced from Google Images
-* [sentora/sentora-installers](https://github.com/sentora/sentora-installers) - Provides a central place to store, version and distribute the Sentora installer and upgrade scripts from.
-* [raphaelcohn/swaddle](https://github.com/raphaelcohn/swaddle) - swaddle creates RPM, Deb and tarball packages using shell script. Everything you need to package is in Source Control in simple directories. No rpminfo cruft, no DEB makefile hell. No Python, Ruby, Perl or other unnecessary stuff required
-* [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - programmable completion function for shell aliases;
-* [bill-auger/git-branch-status](https://github.com/bill-auger/git-branch-status) - A shell script that prints out pretty git branch sync status reports
-* [qfish/xproj](https://github.com/qfish/xproj) - A shell script can batch adding compile flags like `-fno-objc-arc`or `-fobjc-arc` for all the files under the same dir by processing the project file.
-* [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
-* [WazeHell/PE-Linux](https://github.com/WazeHell/PE-Linux) - Linux Privilege Escalation Tool By WazeHell
-* [vinhnx/Ciapre-Xcode-theme](https://github.com/vinhnx/Ciapre-Xcode-theme) - An easy on the eyes Xcode color scheme, ported from Ciapre Sublime Text.
-* [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
-* [StanAngeloff/vagrant-shell-scripts](https://github.com/StanAngeloff/vagrant-shell-scripts) - A collection of scripts to ease Vagrant box provisioning using the shell.
-* [PeterMosmans/security-scripts](https://github.com/PeterMosmans/security-scripts) - A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)
-* [codecov/codecov-bash](https://github.com/codecov/codecov-bash) - Global coverage report uploader for Codecov
-* [zhwj184/shell-work](https://github.com/zhwj184/shell-work) - shell常用分析命令和脚本
-* [sjl/z-fish](https://github.com/sjl/z-fish) - A fork of http://github.com/rupa/z to port it to the Fish shell.
-* [magenx/Magento-2-Server-Installation](https://github.com/magenx/Magento-2-Server-Installation) - Magento 2 Server Installation - How to Install Magento 2
-* [jschx/ufetch](https://github.com/jschx/ufetch) - Moved to GitLab!
-* [ghaiklor/iterm-fish-fisher-osx](https://github.com/ghaiklor/iterm-fish-fisher-osx) - Complete guide and Bash script to install Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisher + Plugins for development purposes
-* [katernet/darkmode](https://github.com/katernet/darkmode) - Set macOS dark mode and Alfred dark theme at sunset
-* [OutsideIT/FireMotD](https://github.com/OutsideIT/FireMotD) - :fire: Fire Framework Linux MoTD Generator :fire:
-* [chrismdp/p](https://github.com/chrismdp/p) - A simple yet powerful pomodoro tracker in pure Shell
-* [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org
-* [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - OzzyCzech dotfiles for macOS
-* [NullArray/MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
-* [jorgebucaran/fish-getopts](https://github.com/jorgebucaran/fish-getopts) - CLI options parser for the fish shell—alternative to argparse
-* [Heckie75/eQ-3-radiator-thermostat](https://github.com/Heckie75/eQ-3-radiator-thermostat) - Full-Featured shell script in order to control the eQ-3 radiator thermostat via linux and Raspberry Pi
-* [IzzySoft/Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB
-* [bkuhlmann/dotfiles](https://github.com/bkuhlmann/dotfiles) - Shell scripts for applying default settings to UNIX-based operating systems.
-* [miohtama/sublime-helper](https://github.com/miohtama/sublime-helper) - sublime-helper is a shell script collection to setup Sublime Text configuration files and command line aliases based on predefined templates.
-* [justinmayer/tackle](https://github.com/justinmayer/tackle) - Collection of fish shell functions, modules, plugins, and themes
-* [slashbeast/better-initramfs](https://github.com/slashbeast/better-initramfs) - Small and reliable initramfs solution supporting (remote) rescue shell, lvm, dmcrypt luks, software raid, tuxonice, uswsusp and more.
-* [IcaliaLabs/kaishi](https://github.com/IcaliaLabs/kaishi) - A shell script to convert any Mac OS X or Linux computer into a real development machine
-* [EugeneDae/Force-Paste](https://github.com/EugeneDae/Force-Paste) - Paste text even when not allowed (password dialogs etc) in macOS
-* [alex7kom/nvm-fish](https://github.com/alex7kom/nvm-fish) - Node Version Manager for fish shell - **NO LONGER MAINTAINED, DO NOT USE** - Use https://github.com/edc/bass instead to wrap the original nvm.
-* [alphapapa/bucket](https://github.com/alphapapa/bucket) - A bucket for your shell (like a set of registers, or a clipboard manager)
-* [cswl/tsu](https://github.com/cswl/tsu) - Gain root shell on Termux.
-* [wschlich/bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
-* [sjhcockrell/gsd](https://github.com/sjhcockrell/gsd) - WasteNoTime not working? A shell script to keep you distraction-free while you work.
-* [matthiasbeyer/awesome-cli](https://github.com/matthiasbeyer/awesome-cli) - Dead. Go to https://github.com/alebcay/awesome-shell
-* [jiangxianli/SSHAutoLogin](https://github.com/jiangxianli/SSHAutoLogin) - 一个使用expect免输入密码自动登录ssh的shell脚本，方便好用,适用Mac、Linux
-* [Fakerr/goto](https://github.com/Fakerr/goto) - Navigate long command lines using a minimalistic char-based decision tree.
-* [sharkdp/trigger](https://github.com/sharkdp/trigger) - Run a user-defined command on file changes
-* [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
-* [breinhart/Lua-In-Xcode](https://github.com/breinhart/Lua-In-Xcode) - A shell script and xclanspec to add Lua syntax support in Xcode
-* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
-* [derekstavis/plugin-nvm](https://github.com/derekstavis/plugin-nvm) - Node version manager wrapper for Fish shell
-* [rafaelstz/simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
-* [ggustafsson/Tim](https://github.com/ggustafsson/Tim) - Terminal countdown timer with several modes written in Zsh shell script.
-* [TunisianEagles/winspy](https://github.com/TunisianEagles/winspy) - WinSpy a Windows reverse shell Backdoor creator with an Automatic IP Poisener
-* [rcmdnk/sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
-* [blacklabelops-legacy/jenkins](https://github.com/blacklabelops-legacy/jenkins) - Docker Jenkins Swarm-Ready with HTTPS
-* [rickfarmer/android-vm](https://github.com/rickfarmer/android-vm) - Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts.
-* [kdabir/has](https://github.com/kdabir/has) - checks presence of various command line tools and their versions on the path
-* [gmacario/easy-build](https://github.com/gmacario/easy-build) - Collection of Dockerfiles for building embedded software distributions
-* [MoOx/setup](https://github.com/MoOx/setup) - My setup... dotfiles, aliases, functions, preferences, apps. Everything.
-* [Anvil/bash-argsparse](https://github.com/Anvil/bash-argsparse) - An high level argument parsing library for bash
-* [abemassry/wsend-gpg](https://github.com/abemassry/wsend-gpg) - Encrypted end to end file transfer
-* [ramnes/context-color](https://github.com/ramnes/context-color) - :rainbow: To each context its own shell color
-* [luminousmen/Kgif](https://github.com/luminousmen/Kgif) -  :neckbeard: Tool for creating gif file from capturing active window.
-* [josh/senv](https://github.com/josh/senv) - Encrypted .env variables
-* [arcticicestudio/nord-dircolors](https://github.com/arcticicestudio/nord-dircolors) - An arctic, north-bluish clean and elegant dircolors color theme.
-* [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
-* [arcticicestudio/nord-gnome-terminal](https://github.com/arcticicestudio/nord-gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
-* [wulabing/SSR-manyuser_glzjin_shell](https://github.com/wulabing/SSR-manyuser_glzjin_shell) - sspanel v3 魔改版 后端一键安装配置管理脚本
-* [Spearfoot/FreeNAS-scripts](https://github.com/Spearfoot/FreeNAS-scripts) - Handy shell scripts for use on FreeNAS servers
-* [Neilpang/startapi.sh](https://github.com/Neilpang/startapi.sh) - A pure unix shell script for automatied startssl free certificate client
-* [geekcomputers/Shell](https://github.com/geekcomputers/Shell) - Some of the handy shell scripts I have created/acquired
-* [nyarly/simplekey](https://github.com/nyarly/simplekey) - Compatible shell scripts to make GnuPG more accessible and easier to use.
-* [jlrodriguezf/WhatsPwn](https://github.com/jlrodriguezf/WhatsPwn) - Linux tool used to extract sensitive data, inject backdoor or drop remote shells on android devices.
-* [gliyao/SketchToXcode](https://github.com/gliyao/SketchToXcode) - Exporting assets(App icon and icons) from sketch to your Xcode Images.xcassets via shell script.
-* [dysosmus/ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
-* [cornerpirate/socat-shell](https://github.com/cornerpirate/socat-shell) - Socat can be used to establish a reverse shell with bash tab completion and full shell functionality
-* [tobiasBora/Scribd-downloader](https://github.com/tobiasBora/Scribd-downloader) - A little shell script to download a pdf file from a scribd document. This script isn't perfect, but it's enough for me.
-* [qbit/snap](https://github.com/qbit/snap) - OpenBSD upgrade tool (OpenBSD,Shell)
-* [crclark96/ginh](https://github.com/crclark96/ginh) - ginh is not a histogram: visually evaluate your shell usage patterns
-* [benmarten/Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX) - Monokai Theme for OS X Terminal & Fish Shell
-* [spf-tools/spf-tools](https://github.com/spf-tools/spf-tools) - Scripts for taming the SPF (Sender Policy Framework) records in DNS in order to fight 10-maximum-DNS-look-ups limit.
-* [mattstauffer/syncCraft](https://github.com/mattstauffer/syncCraft) - Simple shell script to sync Craft DB & assets down locally
-* [alebcay/pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits.
-* [six-ddc/v2ex-shell-client](https://github.com/six-ddc/v2ex-shell-client) - A v2ex command-line client for shell
-* [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
-* [joewalnes/go-getter](https://github.com/joewalnes/go-getter) - Like 'go get' but with pinned package versions. A tiny shell script.
-* [denny0223/scrabble](https://github.com/denny0223/scrabble) - Simple tool to recover .git folder from remote server
-* [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
-* [tlrobinson/martin.sh](https://github.com/tlrobinson/martin.sh) - A simple web server and Sinatra-like microframework written in shell script. Why? WHY NOT?
-* [athlite/sqlite3-to-mysql](https://github.com/athlite/sqlite3-to-mysql) - Make an Sqlite3 export MySQL readable.
+* [techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea.
+* [Nick233333/phper-linux-gitbook](https://github.com/Nick233333/phper-linux-gitbook) - 💡PHPer 必知必会的 Linux 命令
+* [vaamonde/ubuntu-2004](https://github.com/vaamonde/ubuntu-2004) - :large_blue_circle: REPOSITÓRIO CONGELADO: Curso GRÁTIS de GNU/Linux Ubuntu Server 20.04.x LTS - DevOps utilizando Shell Script, Git e Github *(archived)*
 * [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial) - Shell入门教程（Shell tutorial book）
-* [0rax/fish-bd](https://github.com/0rax/fish-bd) - Quickly go back to a parent directory up in your current working directory tree. Don't write 'cd ../../..' redundantly, use bd instead.
-* [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
-* [seebi/rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
-* [ivandavidov/minimal-linux-script](https://github.com/ivandavidov/minimal-linux-script) - One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
-* [hannob/tlshelpers](https://github.com/hannob/tlshelpers) - A collection of shell scripts that help handling X.509 certificate and TLS issues
-* [tobykurien/NSA_b_gone](https://github.com/tobykurien/NSA_b_gone) - A Linux shell script to improve your privacy online
-* [systematicat/hack-captive-portals](https://github.com/systematicat/hack-captive-portals) - Hack any Captive portal using MAC-spoofing technique
-* [primaryobjects/vpndemon](https://github.com/primaryobjects/vpndemon) - Monitor a VPN connection on Linux and kill a process upon disconnect
-* [zxui/shell](https://github.com/zxui/shell) - :maple_leaf:  Centos运维常用工具
-* [kvz/ochtra](https://github.com/kvz/ochtra) - One Commit Hook To Rule All
-* [gheift/ght-acme.sh](https://github.com/gheift/ght-acme.sh) - a linux shell script to sign certifactes by the letsencrypt CA
-* [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - Updates, maintenance, backups and system checks in a TUI menu driven  bash shell  script for an Arch based Linux distro
-* [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
-* [ash-shell/ash](https://github.com/ash-shell/ash) - :shell: A Modular Bash Framework
-* [aa335418265/IPABuildShell](https://github.com/aa335418265/IPABuildShell) - IPABuildShell  一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
-* [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
-* [RenatGilmanov/shell-script-template](https://github.com/RenatGilmanov/shell-script-template) - Simple (and hopefully useful) shell script template
-* [junbaor/shell_script](https://github.com/junbaor/shell_script) - 一键安装 shadowsocks，支持 chacha20-ietf-poly1305 加密方式
-* [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
-* [snwh/fedora-post-install](https://github.com/snwh/fedora-post-install) - A set of post-installation shell scripts for Fedora
-* [pathikrit/mac-setup-script](https://github.com/pathikrit/mac-setup-script) - script to setup my mac
-* [geerlingguy/JJG-Ansible-Windows](https://github.com/geerlingguy/JJG-Ansible-Windows) - [DEPRECATED] Windows shell provisioning script to bootstrap Ansible from within a Vagrant VM.
-* [edouard-lopez/progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progress bar for `bash`, give it a duration and it will do the rest.
-* [pstadler/metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
-* [mm2270/CasperSuiteScripts](https://github.com/mm2270/CasperSuiteScripts) - A collection of shell scripts created for use in Casper Suite and elsewhere
-* [icy/bocker](https://github.com/icy/bocker) - Write Dockerfile completely in Bash/Bourne. Extensible and simple.
-* [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
-* [esemeniuc/ezpptp](https://github.com/esemeniuc/ezpptp) - Easy PPTP VPN setup script for Debian based VPS
-* [brigand/fast-nvm-fish](https://github.com/brigand/fast-nvm-fish) - a wrapper around node version manager for fish shell with good performance
-* [rsp/scripts](https://github.com/rsp/scripts) - Random shell scripts for different tasks
-* [dalibo/pitrery](https://github.com/dalibo/pitrery) - PostgreSQL Point In Time Recovery made easy
-* [sysdevploit/put2win](https://github.com/sysdevploit/put2win) - Script to automate PUT HTTP method exploitation to get shell
-* [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️Fish shell plugin that helps you to work with paired symbols in the command line
-* [fnando/dotfiles](https://github.com/fnando/dotfiles) - My dotfiles
-* [flaupretre/sysfunc](https://github.com/flaupretre/sysfunc) - A sysadmin-oriented shell library
-* [ahmedelgabri/dotfiles](https://github.com/ahmedelgabri/dotfiles) - ~ 🍭 ~
-* [holman/bandwidth-friends](https://github.com/holman/bandwidth-friends) - A shell script for macOS that makes sure you are being nice to your nice coffeeshop internet neighbors. 💖
-* [brunelli/gnome-shell-extension-installer](https://github.com/brunelli/gnome-shell-extension-installer) - A bash script to search and install extensions from extensions.gnome.org
-* [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
-* [techwizrd/fishmarks](https://github.com/techwizrd/fishmarks) - Bookmark and jump to directories faster than a sailfish! Fishmarks is a clone of bashmarks for the Fish shell.
-* [sudar/wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Collection of shell scripts that I am using to manage and deploy WordPress Plugins from github into svn
-* [kobe1941/shell](https://github.com/kobe1941/shell) - 一个根据linkMap文件计算Xcode里各个工程代码占安装包大小的工具
-* [ddddavidmartin/Pre-commit-hooks](https://github.com/ddddavidmartin/Pre-commit-hooks) - A set of useful (and documented!) git pre-commit hooks.
-* [levinit/itnotes](https://github.com/levinit/itnotes) - 个人笔记，IT相关。
-* [Gisto/nwjs-shell-builder](https://github.com/Gisto/nwjs-shell-builder) - NW.js (node-webkit) shell script builder and packager scripts
-* [cytopia/thunar-custom-actions](https://github.com/cytopia/thunar-custom-actions) - Custom actions for Thunar (or Nautilus) File manager
-* [spencertipping/cd](https://github.com/spencertipping/cd) - A better "cd" for bash
-* [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
-* [caarlos0/jvm](https://github.com/caarlos0/jvm) - Never manually change your JAVA_HOME again
-* [bittorf/kalua](https://github.com/bittorf/kalua) - hardware-independent openWRT-extension (using POSIX-shell as main-language) for setting up, monitor and manage many, large wifi-mesh-networks for different locations including billing, captive portal / splash screen / weblogin, accounting, data retention and layer7/8-QoS
-* [amsehili/gspeech-rec](https://github.com/amsehili/gspeech-rec) - An all-in-one shell script to use Google Speech Recognition API v2
-* [AdnanHodzic/android-sdk-installer](https://github.com/AdnanHodzic/android-sdk-installer) - Linux utility which aims to automatically install and configures Android SDK, Eclipse ADT Plugin, adds hardware support for devices and enables full MTP support.
-* [wffls/waffles](https://github.com/wffls/waffles) - Bash Configuration Management
-* [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
-* [shellhub/shellhub](https://github.com/shellhub/shellhub) - shell script hub
-* [pstadler/ticker.sh](https://github.com/pstadler/ticker.sh) - Real-time stock tickers from the command-line.
-* [KHP-Informatics/ngseasy](https://github.com/KHP-Informatics/ngseasy) - Dockerised Next Generation Sequencing Pipeline (QC, Align, Calling, Annotation)
-* [h46incon/AliDDNSBash](https://github.com/h46incon/AliDDNSBash) - 阿里云域名解析动态更新（DDNS）的 Shell 脚本
-* [fagiani/shellstack](https://github.com/fagiani/shellstack) - ShellStack is a collection of bash scripts to install apps on ubuntu linux
-* [dagon666/napi](https://github.com/dagon666/napi) - Napi Projekt Client and Subotage subtitle format converter both written in bash
-* [TMRJIJ/Night-Shift-on-Unsupported-Macs](https://github.com/TMRJIJ/Night-Shift-on-Unsupported-Macs) - Enable Night Shift on older Macs.
-* [shannonmoeller/up](https://github.com/shannonmoeller/up) - Quickly navigate to a parent directory via tab-completion.
-* [sakshamsharma/zpyi](https://github.com/sakshamsharma/zpyi) - The power of python in your Zsh - Unobtrusive and easy python scripting in shell
-* [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: dotfiles - Config files for my *nix systems
-* [bggo/Zmbkpose](https://github.com/bggo/Zmbkpose) - The zmbkpose tool is a shell script that does hot backup and hot restore of ZCS Opensource accounts, GPL(OPENSOURCE). It can run from any host in the net, which means that it can be set on a backup server already existent.
-* [aurasphere/mongodb-university-classes](https://github.com/aurasphere/mongodb-university-classes) - Courseware and solutions of problems from MongoDB University's classes that I've attended.
-* [4bitfocus/asc-key-to-qr-code](https://github.com/4bitfocus/asc-key-to-qr-code) - Shell scripts to convert between ascii armor PGP keys and QR codes for paper backup
-* [mritd/shell_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
-* [liunian1004/shell](https://github.com/liunian1004/shell) - bash shell script.
-* [kkkgo/CloudXNS-DDNS-with-BashShell](https://github.com/kkkgo/CloudXNS-DDNS-with-BashShell) - The CloudXNS DDNS with BashShell
-* [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
-* [rcrowley/json.sh](https://github.com/rcrowley/json.sh) - Pure-shell JSON parser
-* [nhoffman/argparse-bash](https://github.com/nhoffman/argparse-bash) - Use python's argparse module in shell scripts
-* [jnewland/kubernetes-pod-chaos-monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey) - Randomly delete pods in a given namespace
-* [javier-lopez/shundle](https://github.com/javier-lopez/shundle) - shundle is a plugin manager for general purpose shells
-* [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
-* [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash
-* [nicolinuxfr/macOS-post-installation](https://github.com/nicolinuxfr/macOS-post-installation) - Script d'installation et de configuration d'un Mac
-* [kevinSuttle/dotfiles](https://github.com/kevinSuttle/dotfiles) - My humble list of ~/.dotfiles: an opinionated attempt for a cross-shell setup.
-* [JeanMertz/chruby-fish](https://github.com/JeanMertz/chruby-fish) - Thin wrapper around chruby to make it work with the Fish shell
-* [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful script and configuration files.
-* [toniblyx/alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity to do Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
-* [monitisexchange/Monitis-Linux-Scripts](https://github.com/monitisexchange/Monitis-Linux-Scripts) - Shell Script to Extend or Automate Monitis
-* [mhauri/generate-modman](https://github.com/mhauri/generate-modman) - Shell script to generate modman files for Magento Extensions
-* [inquisb/unix-privesc-check](https://github.com/inquisb/unix-privesc-check) - Shell script that runs on UNIX systems (tested on Solaris 9, HPUX 11, various Linux distributions, FreeBSD 6.2). It detects misconfigurations that could allow local unprivileged user to escalate to other users (e.g. root) or to access local apps (e.g. databases). This is a collaborative rework of version 1.0
-* [GArik/bash-completion](https://github.com/GArik/bash-completion) - programmable completion for the bash shell
-* [bolknote/shellgames](https://github.com/bolknote/shellgames) - Some bash games
-* [tripflex/inodes](https://github.com/tripflex/inodes) - Bash/Shell script to count inode usage
-* [rcrowley/mustache.sh](https://github.com/rcrowley/mustache.sh) - Mustache in POSIX shell
-* [neuronalmotion/qtrpi](https://github.com/neuronalmotion/qtrpi) - An easy-to-use environment to cross-compile Qt applications for Raspberry Pi from your desktop.
-* [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
-* [bltavares/kickstart](https://github.com/bltavares/kickstart) - Agentless configuration manager in Bash
-* [rachpt/AutoSeed](https://github.com/rachpt/AutoSeed) - Pt auto seed.
-* [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - :wrench: macOS / Kubuntu / Ubuntu Server dotfiles for Python developers.
-* [emarref/webicon](https://github.com/emarref/webicon) - Generate favicon and touch icons via a shell script
-* [doubaokun/dockers](https://github.com/doubaokun/dockers) - Docker hello world templates
-* [brianpcurran/gandi-automatic-dns](https://github.com/brianpcurran/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
-* [Autorevision/autorevision](https://github.com/Autorevision/autorevision) - A script for extracting version information useful in release/build scripting.
-* [asb/sh-todo](https://github.com/asb/sh-todo) - A minimal todo-list manager written in POSIX shell
-* [arzzen/calc.plugin.zsh](https://github.com/arzzen/calc.plugin.zsh) - zsh calculator - with support for basic math
-* [Superbil/build-lame-for-iOS](https://github.com/Superbil/build-lame-for-iOS) - Build lame for iOS
-* [kickstarter/laptop](https://github.com/kickstarter/laptop) - A shell script which turns your OS X laptop into an awesome web development machine
-* [jorgebucaran/fish-gitio](https://github.com/jorgebucaran/fish-gitio) - Git.io CLI for the fish shell
-* [jonhoo/streamsh](https://github.com/jonhoo/streamsh) - Download online video streams using shell
-* [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
-* [grml/grml-live](https://github.com/grml/grml-live) - build system for creating a Grml (based) live system
-* [emerleite/mongo-migrate](https://github.com/emerleite/mongo-migrate) - MongoDB Migration using shell
-* [roperzh/heroku-buildpack-hugo](https://github.com/roperzh/heroku-buildpack-hugo) - Heroku buildpack for Hugo, the static site generator - https://github.com/spf13/hugo
-* [pontikis/bash-cloud-backup](https://github.com/pontikis/bash-cloud-backup) - bash-cloud-backup is a set of bash scripts, which can be used to automate local and cloud backup in Linux/Unix machines.
-* [csev/uninstall-python3](https://github.com/csev/uninstall-python3) - A Simple Shell Script to Uninstall Python 3 versions from Mac OS/X
-* [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
-* [alexanderepstein/Sandman-Lite](https://github.com/alexanderepstein/Sandman-Lite) - A Lightweight Script Built With Late Night Developers In Mind
-* [robb/.dotfiles](https://github.com/robb/.dotfiles) - These are my .dotfiles. There are many like them, but these ones are mine.
-* [outime/ipv6-dhclient-script](https://github.com/outime/ipv6-dhclient-script) - IPv6 w/ dhclient configuration script (Debian/RedHat-based distros)
-* [blueimp/shell-scripts](https://github.com/blueimp/shell-scripts) - A collection of (mostly POSIX compatible) shell scripts.
-* [Statemood/jenkins](https://github.com/Statemood/jenkins) - Jenkins Shell & Pipeline scripts for FreeStyle & Pipeline jobs
-* [ryanuber/slide.sh](https://github.com/ryanuber/slide.sh) - Create simple, text-based slide decks in your shell
+* [swcarpentry/shell-novice](https://github.com/swcarpentry/shell-novice) - The Unix Shell
+* [A-BenMao/pure-bash-bible-zh_CN](https://github.com/A-BenMao/pure-bash-bible-zh_CN) - 📖 一个纯bash实现外部命令的脚本集合（中文版）【翻译自pure-bash-bible仓库】
+* [llitfkitfk/docker-tutorial-cn](https://github.com/llitfkitfk/docker-tutorial-cn) - docker 教程
+* [SixArm/unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - Unix shell script tactics - best practices style guide
+* [ellerbrock/fish-shell-setup-osx](https://github.com/ellerbrock/fish-shell-setup-osx) - :blowfish: Tutorial: Fish, Fisher, Powerline Fonts + iTerm2
+* [PacktPublishing/Complete-Bash-Shell-Scripting-](https://github.com/PacktPublishing/Complete-Bash-Shell-Scripting-) - Code Repository for Complete Bash Shell Scripting; Published by Packt
+* [brandonprry/wicked_cool_shell_scripts_2e](https://github.com/brandonprry/wicked_cool_shell_scripts_2e) - Full shell scripts for the second edition of Wicked Cool Shell Scripts
+* [PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) - Linux Shell Scripting Cookbook Third Edition, published by Packt
+* [shellgei/shellgei160](https://github.com/shellgei/shellgei160) - 書籍: シェル・ワンライナー160本ノックの情報ページ #shellgei160
+* [ohmyzsh/wiki](https://github.com/ohmyzsh/wiki) - Public repository to host the Oh My Zsh project wiki.
+* [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
+* [codenameyau/sed-awk-cheatsheet](https://github.com/codenameyau/sed-awk-cheatsheet) - Things you can do with sed and awk
+* [SimonBaeumer/shell-tricks](https://github.com/SimonBaeumer/shell-tricks) - Simple bash tricks which make your life easier.
+* [muniao/SuperBigData](https://github.com/muniao/SuperBigData) - 大数据全栈学习【生态组件，技术栈，数据流，数据仓库，数据库，指标体系，血缘关系，元数据管理，数据质量，DataWorks，Hadoop，Spark，Flink，面试，笔记文档，实战练习，公共脚本，常用Shell脚本，Java，Scala，离线，实时，采集，计算，存储，可视化】
+* [unix-v4-commentary/unix-v4-source-commentary](https://github.com/unix-v4-commentary/unix-v4-source-commentary) - A comprehensive line-by-line commentary on the UNIX Fourth Edition (1973) source code. Covers the kernel, file system, device drivers, shell, and utilities.
+* [vaamonde/ubuntu-1804](https://github.com/vaamonde/ubuntu-1804) - :large_blue_circle: Curso GRÁTIS Linux Ubuntu Server 18.04.x LTS - REPOSITÓRIO CONGELADO - Esse repositório não irá mais receber atualizações. Novo repositório: vaamonde/ubuntu-2004 *(archived)*
+* [mhausenblas/modern-linux.info](https://github.com/mhausenblas/modern-linux.info) - Learning Modern Linux book website
+* [PacktPublishing/Mastering-Linux-Shell-Scripting-Second-Edition](https://github.com/PacktPublishing/Mastering-Linux-Shell-Scripting-Second-Edition) - Mastering Linux Shell Scripting - Second Edition, published by Packt
+* [ryanpcmcquen/linuxTweaks](https://github.com/ryanpcmcquen/linuxTweaks) - :penguin: A whole host of Linux tricks I have picked up over the years, in plain text. Some of them are even useful.
+* [MadhavBahl/shebang-everything](https://github.com/MadhavBahl/shebang-everything) - Your unofficial guidebook to shell scripting, give this repo a ⭐ if it helped you :)
+* [yangwenmai/learning-kubernetes](https://github.com/yangwenmai/learning-kubernetes) - Learning Kubernetes ServiceMesh Istio *(archived)*
+* [mjambon/reasonable-shell-script](https://github.com/mjambon/reasonable-shell-script) - Because shell scripts don't have to be terrible
 * [betweenbrain/linux-stuff](https://github.com/betweenbrain/linux-stuff) - A collection of Linux tricks, tips, shell scripts, and general knowledge collected from around the web and from my own personal turmoil of breaking stuff and having to fix it.
-* [ankitvad/goto](https://github.com/ankitvad/goto) - Linux Shell 'cd' replacement tool. cd on steroids, with fuzzy file finder and a directory bookmark saver.
-* [sirjaren/redoflacs](https://github.com/sirjaren/redoflacs) - Parallel BASH commandline FLAC compressor, verifier, organizer, analyzer, and retagger
-* [pronoiac/tarsnap-cron](https://github.com/pronoiac/tarsnap-cron) - Cron scripts (bash/shell) for tarsnap backup, including scheduled deletion of old backups.
-* [PaulKinlan/chromium-android-installer](https://github.com/PaulKinlan/chromium-android-installer) - Install Chromium Test Shell on Android
-* [jaromaz/yosild](https://github.com/jaromaz/yosild) - Your simple Linux distro - Yosild is a single shell script that builds a full, minimal Linux distribution, based on BusyBox.
-* [janosgyerik/shellscripts](https://github.com/janosgyerik/shellscripts) - Convenient shell scripts for everyday use, written in Bash, Perl, awk, Python
-* [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
-* [daenney/pyenv](https://github.com/daenney/pyenv) - Pyenv support plugin for fish-shell
-* [clburlison/scripts](https://github.com/clburlison/scripts) - 💡 A collection of random scripts.
-* [Ardakilic/backmeup](https://github.com/Ardakilic/backmeup) - BackMeUp: An automated MySQL / MariaDB databases and files backup solution on *nix Machines using Amazon S3, ownCloud / NextCloud and Dropbox.
-* [abs0/wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
-* [zsenliao/shellMonitor](https://github.com/zsenliao/shellMonitor) - 一个 Linux 下基于 Bash 的文件和数据库监控及备份工具，可发送微信报警通知
-* [zephinzer/golang-dev](https://github.com/zephinzer/golang-dev) - Live-reload, bootstrap, and build Golang applications via shell scripts packaged in a Docker image
-* [thecasualcoder/kube-fzf](https://github.com/thecasualcoder/kube-fzf) - Shell commands using kubectl and fzf for command-line fuzzy searching of Kubernetes Pods.
-* [pmalves/ctools-installer](https://github.com/pmalves/ctools-installer) - Shell script that installs the CTools
-* [Fleshgrinder/nginx-sysvinit-script](https://github.com/Fleshgrinder/nginx-sysvinit-script) - Linux Standard Base compliant SysVinit script for nginx.
-* [endofzero/Minecraft-Sheller](https://github.com/endofzero/Minecraft-Sheller) - Shell script designed to allow for automation of Minecraft Server Administration.
+* [yousefvand/shellman-ebook](https://github.com/yousefvand/shellman-ebook) - Guide on shell scripting with Shellman vscode snippet
+
+### Examples and Exercises
+
+* [fengyuhetao/shell](https://github.com/fengyuhetao/shell) - Linux命令行与shell脚本编程大全案例
+* [phyver/GameShell](https://github.com/phyver/GameShell) - a game to learn (or teach) how to use standard commands in a Unix shell
+* [iam-veeramalla/shell-scripting-projects](https://github.com/iam-veeramalla/shell-scripting-projects) - Projects on shell scripting. Goal is to simulate real time projects as much as posible.
+* [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
+* [epety/100-shell-script-examples](https://github.com/epety/100-shell-script-examples) - Collection of shell scripts found on the internet
+* [terminal-42s/42_examshell](https://github.com/terminal-42s/42_examshell) - 42_examshell – Updated with New Subject Support A practice exam shell for 42 school students to simulate the official exam environment. Now updated with a new subject and exercises through Rank 02, Rank 03, and Rank 04, helping you prepare more effectively for 42 exams. 🚀 Practice tool to sharpen your skills before the real exam 🆕 New subject
+* [luischaparroc/holberton-system_engineering-devops](https://github.com/luischaparroc/holberton-system_engineering-devops) - :gear: System Engineering and Devops training module
+* [aurasphere/mongodb-university-classes](https://github.com/aurasphere/mongodb-university-classes) - Courseware and solutions of problems from MongoDB University's classes that I've attended.
+* [Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions) - Complete Solutions and related tutorials for the Linux Shell - Bash, text processing, Arrays in Bash, Grep Sed Awk Challenges on HackerRank
+* [Md-MamunAbdulKayum/shell-scripting-examples](https://github.com/Md-MamunAbdulKayum/shell-scripting-examples) - This repository contains all the important shell/bash scripting examples (e.g. basic programming constructs, accessing database, reading properties file, file manipulation, etc) anyone may need.
+* [gabrieldim/Shell-Scripts](https://github.com/gabrieldim/Shell-Scripts) - Shell scripts about some basic topics, current time, calculator, sorting, restaurant and more.
+* [c-bertran/codeshell](https://github.com/c-bertran/codeshell) - CodeShell will allow you to practice coding challenges and improve your programming skills
+* [jacobproject/Shell_Scripts](https://github.com/jacobproject/Shell_Scripts) - Shell Scripts examples
+* [philipyoo/holbertonschool-sysadmin_devops](https://github.com/philipyoo/holbertonschool-sysadmin_devops) - Practicing basic shell scripts
+* [burrsutter/scripts-istio](https://github.com/burrsutter/scripts-istio) - My bash shell scripts for easy demo'ing of bit.ly/istio-tutorial
+
+## Language and Tooling
+
+### Build Systems
+
+* [kewlbear/FFmpeg-iOS-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS
+* [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
+* [cropsly/ffmpeg-android](https://github.com/cropsly/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype, fribidi and lame (Supports Android 4.1+)
+* [wukongdaily/RunFilesBuilder](https://github.com/wukongdaily/RunFilesBuilder) - 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包
+* [puppylinux-woof-CE/woof-CE](https://github.com/puppylinux-woof-CE/woof-CE) - woof - the Puppy builder
+* [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
+* [gdubw/gdub](https://github.com/gdubw/gdub) - A gradlew / gradle wrapper. *(archived)*
+* [ivandavidov/minimal-linux-script](https://github.com/ivandavidov/minimal-linux-script) - One script which generates live Linux ISO image with minimal effort. Based on the first published version of Minimal Linux Live: http://github.com/ivandavidov/minimal
+* [haxpor/aseprite-macos-buildsh](https://github.com/haxpor/aseprite-macos-buildsh) - Automated script to create latest release app (either beta, or release whichever is newer) of Aseprite for macOS
+* [fenglh/IPABuildShell](https://github.com/fenglh/IPABuildShell) - IPABuildShell 一个强大的、轻量的 iOS 自动打包工具，无需手动指定授权文件和证书
+* [qfish/xproj](https://github.com/qfish/xproj) - A shell script can batch adding compile flags like `-fno-objc-arc`or `-fobjc-arc` for all the files under the same dir by processing the project file.
+* [neuronalmotion/qtrpi](https://github.com/neuronalmotion/qtrpi) - An easy-to-use environment to cross-compile Qt applications for Raspberry Pi from your desktop.
+* [mjakob-gh/build-static-tmux](https://github.com/mjakob-gh/build-static-tmux) - Shell script for building your own static tmux release. The binaries build in the CI step are available in the releases (use at your own risk).
+* [kewlbear/fdk-aac-build-script-for-iOS](https://github.com/kewlbear/fdk-aac-build-script-for-iOS) - Shell script to build fdk-aac for use in iOS apps.
+* [stps/mpv-ios-scripts](https://github.com/stps/mpv-ios-scripts) - macOS shell script for cross-compiling libmpv for iOS
+* [stayliv3/gdb-static-cross](https://github.com/stayliv3/gdb-static-cross) - A simple shell script and two bash sourceable scripts used to build a static gdb-7.12 gdbserver using cross-compiler setups
+* [travisg/toolchains](https://github.com/travisg/toolchains) - Shell script to build gcc for various architectures
+* [zgr0629/RedisDesktopManager-Mac](https://github.com/zgr0629/RedisDesktopManager-Mac) - RedisDesktopManager compile shell, and compiled DMG file.
+* [nwutils/nwjs-shell-builder](https://github.com/nwutils/nwjs-shell-builder) - NW.js (node-webkit) shell script builder and packager scripts
+* [Autorevision/autorevision](https://github.com/Autorevision/autorevision) - A script for extracting version information useful in release/build scripting.
+* [Superbil/build-lame-for-iOS](https://github.com/Superbil/build-lame-for-iOS) - Build lame for iOS
+
+### Package Management
+
+* [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
+* [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+* [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+* [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+* [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+* [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+* [nodenv/nodenv](https://github.com/nodenv/nodenv) - Manage your app's Node.js environment
+* [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
+* [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
+* [udhos/update-golang](https://github.com/udhos/update-golang) - update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion
+* [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
+* [mattmc3/antidote](https://github.com/mattmc3/antidote) - https://antidote.sh - the cure to slow zsh plugin management
+* [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
+* [kerl/kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances
+* [isaacs/nave](https://github.com/isaacs/nave) - Virtual Environments for Node
+* [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles & plugins, plus git repos
+* [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+* [zap-zsh/zap](https://github.com/zap-zsh/zap) - :zap: Zap is a minimal zsh plugin manager
+* [justinmayer/virtualfish](https://github.com/justinmayer/virtualfish) - Fish shell tool for managing Python virtual environments
+* [jayrambhia/Install-OpenCV](https://github.com/jayrambhia/Install-OpenCV) - shell scripts to install different version of OpenCV in different distributions of Linux
+* [philcook/brew-php-switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher is a simple shell script to switch your apache and CLI quickly between major versions of PHP. If you support multiple products/projects that are built using either brand new or old legacy PHP functionality. For users of Homebrew (or brew for short) currently only.
+* [icy/pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
+* [z-shell/zi](https://github.com/z-shell/zi) - ✨ A high-performance plugin manager and toolkit for Zsh.
+* [rmarquis/pacaur](https://github.com/rmarquis/pacaur) - [unmaintained] An AUR helper that minimizes user interaction *(archived)*
+* [glenpike/npm-g_nosudo](https://github.com/glenpike/npm-g_nosudo) - A shell script which will fix the problem where you want to stop using sudo for npm -g on Ubuntu. *(archived)*
+* [canha/golang-tools-install-script](https://github.com/canha/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
+* [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell
+* [kisslinux/kiss](https://github.com/kisslinux/kiss) - KISS Linux - Package Manager *(archived)*
+* [freebsd/poudriere](https://github.com/freebsd/poudriere) - Port/Package build and test system
+* [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
+* [client9/shlib](https://github.com/client9/shlib) - generate a `curl | sh` installer for 30+ target platforms
+* [jandamm/zgenom](https://github.com/jandamm/zgenom) - A lightweight and fast plugin manager for ZSH
+* [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
+* [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
+* [ellipsis/ellipsis](https://github.com/ellipsis/ellipsis) - ◦◦◦ Ellipsis is a package manager for dotfiles.
+* [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
+* [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell) - fish and zsh support for the nix run and nix-shell environments of the Nix package manager
+* [ekalinin/envirius](https://github.com/ekalinin/envirius) - Universal Virtual Environments Manager
+* [lilyball/nix-env.fish](https://github.com/lilyball/nix-env.fish) - Nix environment setup for the fish shell
+* [archlinux/asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool *(archived)*
+* [haskell/ghcup](https://github.com/haskell/ghcup) - DEPRECATED IN FAVOR OF haskell/ghcup-hs *(archived)*
+* [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
+* [derekstavis/plugin-nvm](https://github.com/derekstavis/plugin-nvm) - Node version manager wrapper for Fish shell
+* [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
+* [kerolloz/go-installer](https://github.com/kerolloz/go-installer) - Go-Installer: Effortless Golang Installation with One Command! 🚀
+* [cryptojuice/gobrew](https://github.com/cryptojuice/gobrew) - Shell script to download and set GO environmental paths to allow multiple versions.
+* [passcod/nvm-fish-wrapper](https://github.com/passcod/nvm-fish-wrapper) - NVM wrapper for the fish shell - NOT MAINTAINED *(archived)*
+* [excalibur1234/pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI *(archived)*
+* [jreinke/modgit](https://github.com/jreinke/modgit) - Shell script for Git module deployment with include/exclude filters.
+* [Thavarshan/phpvm](https://github.com/Thavarshan/phpvm) - 📟 Simple PHP version manager for MacOS and Linux.
+* [vercel/install-node](https://github.com/vercel/install-node) - Simple one-liner shell script that installs official Node.js binaries
+* [alex7kom/nvm-fish](https://github.com/alex7kom/nvm-fish) - Node Version Manager for fish shell - **NO LONGER MAINTAINED, DO NOT USE** - Use https://github.com/edc/bass instead to wrap the original nvm. *(archived)*
+* [raphaelcohn/swaddle](https://github.com/raphaelcohn/swaddle) - swaddle creates RPM, Deb and tarball packages using shell script. Everything you need to package is in Source Control in simple directories. No rpminfo cruft, no DEB makefile hell. No Python, Ruby, Perl or other unnecessary stuff required
+* [brigand/fast-nvm-fish](https://github.com/brigand/fast-nvm-fish) - a wrapper around node version manager for fish shell with good performance
+* [jalendport/switch-php](https://github.com/jalendport/switch-php) - Easily switch between PHP versions on your Mac. Requires Homebrew and works with Laravel Valet. 🔀 *(archived)*
+* [csev/uninstall-python3](https://github.com/csev/uninstall-python3) - A Simple Shell Script to Uninstall Python 3 versions from Mac OS/X
+* [JeanMertz/chruby-fish](https://github.com/JeanMertz/chruby-fish) - Thin wrapper around chruby to make it work with the Fish shell
+* [dominiksalvet/gitpack](https://github.com/dominiksalvet/gitpack) - Git-based package manager written in POSIX shell
 * [duydo/evm](https://github.com/duydo/evm) - A Simple Elasticsearch Version Manager
-* [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT
-* [vincetse/shellutils](https://github.com/vincetse/shellutils) - A collection of command line utilities
-* [testrain/imagecrawler](https://github.com/testrain/imagecrawler) - An image crawler implemented in shell script
-* [ronalde/mpd-configure](https://github.com/ronalde/mpd-configure) - Bash scripts to assist users of mpd to configure it as an audiophile bit perfect music player.
-* [holman/eponine](https://github.com/holman/eponine) - A very simple web server interface to shell scripts. Designed for Slack integrations on a Raspberry Pi.
-* [fabiomaia/fix-spotify-icon](https://github.com/fabiomaia/fix-spotify-icon) - :musical_note: Shell script to fix the Spotify icon in Ubuntu.
-* [Bilalh/shellmarks](https://github.com/Bilalh/shellmarks) - Directory bookmarks for the shell
-* [AdrianDC/advanced_development_shell_tools](https://github.com/AdrianDC/advanced_development_shell_tools) - http://adriandc.github.io/advanced_development_shell_tools
-* [abemassry/wsend](https://github.com/abemassry/wsend) - wsend: The opposite of wget
+* [FSMaxB/lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
+* [dnkmmr69420/nix-installer-scripts](https://github.com/dnkmmr69420/nix-installer-scripts) - Various scripts to install the nix package manager. Also has installers for selinux systems and silverblue too. *(archived)*
+* [soraxas/shsh](https://github.com/soraxas/shsh) - A multi-threaded manager for shell scripts, functions, standalone binaries, tab-completions, and more.
+* [javier-lopez/shundle](https://github.com/javier-lopez/shundle) - shundle is a plugin manager for general purpose shells
+* [joewalnes/go-getter](https://github.com/joewalnes/go-getter) - Like 'go get' but with pinned package versions. A tiny shell script.
+* [AdnanHodzic/android-sdk-installer](https://github.com/AdnanHodzic/android-sdk-installer) - Linux utility which aims to automatically install and configures Android SDK, Eclipse ADT Plugin, adds hardware support for devices and enables full MTP support.
+* [caarlos0-graveyard/jvm](https://github.com/caarlos0-graveyard/jvm) - Never manually change your JAVA_HOME again *(archived)*
+* [dlang/installer](https://github.com/dlang/installer) - dmd installers for various systems
+* [pmalves/ctools-installer](https://github.com/pmalves/ctools-installer) - Shell script that installs the CTools
+
+### Linters and Formatters
+
+* [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
+* [jgigault/42FileChecker](https://github.com/jgigault/42FileChecker) - 42FileChecker is a tiny bash script developed at 42 school for testing and checking files according to the rules of the subjects
+* [xwp/wp-dev-lib](https://github.com/xwp/wp-dev-lib) - DEPRECATED. Common code used during development of WordPress plugins and themes *(archived)*
+* [examplecode/unused-image](https://github.com/examplecode/unused-image) - This is shell script used to check and clean unused image resource , support Android and IOS project
+* [luizm/action-sh-checker](https://github.com/luizm/action-sh-checker) - A GitHub action that performs static analysis for shell scripts using shellcheck, shfmt and checkbashisms.
+* [koalaman/shellcheck-precommit](https://github.com/koalaman/shellcheck-precommit) - Pre-commit hook for ShellCheck
+* [reviewdog/action-shellcheck](https://github.com/reviewdog/action-shellcheck) - Run shellcheck with reviewdog
+* [ddddavidmartin/Pre-commit-hooks](https://github.com/ddddavidmartin/Pre-commit-hooks) - A set of useful (and documented!) git pre-commit hooks.
+* [narcello/findead](https://github.com/narcello/findead) - :mag: Dead react components finder
+* [Azbagheri/shell-linter](https://github.com/Azbagheri/shell-linter) - A Github Action for ShellCheck
+
+### Editor and IDE Support
+
+* [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
+* [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
+* [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
+* [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScript, YAML & Zig
+* [vinhnx/Ciapre-Xcode-theme](https://github.com/vinhnx/Ciapre-Xcode-theme) - An easy on the eyes Xcode color scheme, ported from Ciapre Sublime Text.
+* [miohtama/sublime-helper](https://github.com/miohtama/sublime-helper) - sublime-helper is a shell script collection to setup Sublime Text configuration files and command line aliases based on predefined templates.
+* [breinhart/Lua-In-Xcode](https://github.com/breinhart/Lua-In-Xcode) - A shell script and xclanspec to add Lua syntax support in Xcode
+* [yousefvand/shellman](https://github.com/yousefvand/shellman) - vscode shell script snippet extension
+
+## Machine Learning and AI
+
+### LLM and Inference
+
+* [0xacx/chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
+* [zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop) - Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.
+* [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) - oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.
+* [terryso/claude-auto-resume](https://github.com/terryso/claude-auto-resume) - A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted.
+* [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow) - QuietHarness：Claude Code、Codex、Cursor 共用的轻量 AI 工作系统
+* [daniel3303/ClaudeCodeStatusLine](https://github.com/daniel3303/ClaudeCodeStatusLine) - Custom status line for Claude Code showing model, tokens, rate limits, and git info in real-time
+* [me2resh/apexyard](https://github.com/me2resh/apexyard) - Your AI engineering org, governed. Ship agent-built code safely to production.
+* [muthuishere/mcp-server-bash-sdk](https://github.com/muthuishere/mcp-server-bash-sdk) - MCP server SDK/example implemented entirely in bash — build a Model Context Protocol server with no runtime dependency beyond a POSIX shell.
+* [warp-context/rightStage](https://github.com/warp-context/rightStage) - Sync AI context across every terminal window. 3 seconds to know what to work on next.
+* [matheusml/zsh-ai](https://github.com/matheusml/zsh-ai) - Transform natural language into shell commands instantly
+* [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot) - 🧠 The Copilot that lives in your shell. Type in your thoughts, press ^Z and let the AI do it's magic ✨
+* [marcuspat/turbo-flow](https://github.com/marcuspat/turbo-flow) - Turbo Rig private beta HQ + devcontainer seed — the rig era starts here. Request access: turbo-rig-beta.vercel.app
+* [swaylq/master-skill](https://github.com/swaylq/master-skill) - 大师.skill — 输入行业，自动调研 6 轨[行业大佬 / 工具地图 / 工作流 / 知识正典 / 信息源 / 术语标准] → 提炼为可运行的行业 Master OS skill；装到任意 Claude Code / OpenClaw / Codex / Hermes agent 即让其进入「这一行的资深人」模式。MIT，Python + Shell。
+* [JRedeker/opencode-shell-strategy](https://github.com/JRedeker/opencode-shell-strategy) - Teaches LLMs to use non-interactive shell flags in OpenCode (no TTY/PTY available)
+* [reid41/shell-pilot](https://github.com/reid41/shell-pilot) - A simple, lightweight shell script to interact with OpenAI or Ollama or Mistral AI or LocalAI or ZhipuAI from the terminal, and enhancing intelligent system management without any dependencies(pure shell).
+* [arpitbbhayani/x](https://github.com/arpitbbhayani/x) - Run shell commands in natural language.
+* [kylesnowschwartz/zsh-ai-cmd](https://github.com/kylesnowschwartz/zsh-ai-cmd) - Zsh plugin: natural language to shell commands with AI
+* [ruvnet/openai_devops](https://github.com/ruvnet/openai_devops) - This script is a command-line tool that utilizes OpenAI's GPT-3.5 Turbo to generate shell commands based on user input. The script also features a loading animation and provides summaries of command outputs.
+
+## Networking and Distributed
+
+### Networking
+
+* [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+* [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.
+* [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+* [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+* [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
+* [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+* [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
+* [hwdsl2/wireguard-install](https://github.com/hwdsl2/wireguard-install) - WireGuard VPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE and Raspberry Pi OS. Includes interactive setup and client management.
+* [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - ss/v2ray/xray/trojan/hysteria/naive/socks5 透明代理
+* [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
+* [hwdsl2/openvpn-install](https://github.com/hwdsl2/openvpn-install) - OpenVPN server installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS, Fedora, openSUSE, Amazon Linux and Raspberry Pi OS. Includes interactive setup and client management.
+* [myxuchangbin/dnsmasq_sniproxy_install](https://github.com/myxuchangbin/dnsmasq_sniproxy_install) - One-click Install and Configure Dnsmasq and Sniproxy for CentOS/Debian/Ubuntu
+* [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
+* [zywe03/realm-xwPF](https://github.com/zywe03/realm-xwPF) - Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: Full-featured one-click network relay — configure and manage forwarding rules from an interactive TUI.
+* [rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell) - 基于DNSPod用户API实现的纯Shell动态域名客户端
+* [EternalPain/ZJL](https://github.com/EternalPain/ZJL) - ZJL 免流防跳脚本
+* [cokebar/gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq) - A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python
+* [Kylin010/tcpfit](https://github.com/Kylin010/tcpfit) - 按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点
+* [loyess/Shell](https://github.com/loyess/Shell) - Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun *(archived)*
+* [jinqians/snell.sh](https://github.com/jinqians/snell.sh) - SNELL V4/SNELL V5/SNELL V6 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
+* [rany2/warp.sh](https://github.com/rany2/warp.sh) - WARP wireguard config generator in POSIX Shell
+* [clangcn/kcp-server](https://github.com/clangcn/kcp-server) - kcp-server one key install shell,build for https://github.com/kcptunsocks/kcptun/tree/router
+* [vernette/ipregion](https://github.com/vernette/ipregion) - 🌎 Multi-source IP geolocation tester - check how streaming, GeoIP, and CDN services detect your location
+* [itdoginfo/domain-routing-openwrt](https://github.com/itdoginfo/domain-routing-openwrt) - Automatic configuration of Openwrt router for routing by domains. Ansible role and shell script
+* [kalasutra/Clash_For_Magisk](https://github.com/kalasutra/Clash_For_Magisk) - 使用shell启动clash内核,以及创建iptables tproxy规则,以此在Android上达到透明代理的目的. *(archived)*
+* [linmontfurry/clash-for-gigabit](https://github.com/linmontfurry/clash-for-gigabit) - 为可执行Shell的光猫提供clash代理服务，适用与任何不超过armv7l内核架构的设备
+* [risfeng/aliyun-ddns-shell](https://github.com/risfeng/aliyun-ddns-shell) - 阿里云域名解析动态更新IP Shell脚本
+* [h46incon/AliDDNSBash](https://github.com/h46incon/AliDDNSBash) - 阿里云域名解析动态更新（DDNS）的 Shell 脚本
+* [kkkgo/UE-DDNS](https://github.com/kkkgo/UE-DDNS) - Universal Embedded DDNS Shell Script
+* [jakewmeyer/Geo](https://github.com/jakewmeyer/Geo) - :earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping *(archived)*
+* [miaoermua/openwrt-leigodacc-manager](https://github.com/miaoermua/openwrt-leigodacc-manager) - 🏹 基于 shell 脚本的雷神加速器插件管理器，适用于 OpenWrt 系统
+* [bittorf/kalua](https://github.com/bittorf/kalua) - hardware-independent openWRT-extension (using POSIX-shell as main-language) for setting up, monitor and manage many, large wifi-mesh-networks for different locations including billing, captive portal / splash screen / weblogin, accounting, data retention and layer7/8-QoS
+* [AutisticShark/Airport-toolkit](https://github.com/AutisticShark/Airport-toolkit) - Shark's shell/python scripts for "Airport" operator
+* [xOS/Shadowsocks-Rust](https://github.com/xOS/Shadowsocks-Rust) - Shadowsocks-Rust 安装管理脚本
+* [echvoyager/shellclash_docker](https://github.com/echvoyager/shellclash_docker) - 在任意Linux主机上, 利用Docker自动创建并配置虚拟OpenWrt路由容器以运行 juewuy's ShellClash 实现旁路由透明代理
+* [triffid/pia-wg](https://github.com/triffid/pia-wg) - Linux shell scripts for connecting to Private Internet Access VPN's Wireguard service
+* [spf-tools/spf-tools](https://github.com/spf-tools/spf-tools) - Shell scripts for taming the SPF (Sender Policy Framework) records in order to fight 10-maximum-DNS-look-ups limit.
+* [junbaor/shell_script](https://github.com/junbaor/shell_script) - 一键安装 shadowsocks，支持 chacha20-ietf-poly1305 加密方式
+* [jhubig/FritzBoxShell](https://github.com/jhubig/FritzBoxShell) - Some shell scripts for controlling and checking the Fritz!Box/Fritz!Repeater
+* [joukewitteveen/netctl](https://github.com/joukewitteveen/netctl) - Profile based systemd network management
+* [FarrowStrange/hetzner-api-dyndns](https://github.com/FarrowStrange/hetzner-api-dyndns) - A small script to dynamically update DNS records using the Hetzner DNS-API.
+* [rudiratlos/hotspot](https://github.com/rudiratlos/hotspot) - shell script for setup and management of hotspot (hostapd) function on rpi plattform
+* [rustrict/keenetic-traffic-via-vpn](https://github.com/rustrict/keenetic-traffic-via-vpn) - A shell scripts that route traffic to specific network resources over the VPN on Keenetic routers.
+* [charlie0129/bupt-net-login](https://github.com/charlie0129/bupt-net-login) - 北邮北京邮电大学校园网网关自动化认证脚本。支持有线网和无线网。支持带参数 Portal 认证、AC 跳转、掉线重连。跨平台。 BUPT Network Login.
+* [vcheckzen/FamilyCloudSpeederInShell](https://github.com/vcheckzen/FamilyCloudSpeederInShell) - [ 天翼家庭云/天翼云盘提速 Shell 版 ] A Shell Implementation of FamilyCloudSpeeder, ESurfing
+* [epomatti/wsl2-dns-fix-config](https://github.com/epomatti/wsl2-dns-fix-config) - One-liner Shell script to setup your WSL to use Google DNS.
+* [AndreBL/ip6neigh](https://github.com/AndreBL/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
+* [kenzok8/trojan](https://github.com/kenzok8/trojan) - Trojan onekey install shell Trojan && trojan.go一键脚本
+* [CHIZI-0618/AndroidTProxyShell](https://github.com/CHIZI-0618/AndroidTProxyShell) - Android tproxy shell
+* [wulabing/SSR-manyuser_glzjin_shell](https://github.com/wulabing/SSR-manyuser_glzjin_shell) - sspanel v3 魔改版 后端一键安装配置管理脚本
+* [rsvp/speedtest-linux](https://github.com/rsvp/speedtest-linux) - Get download/upload speeds via speedtest.net or fast.com from command line using Bash script -- suitable for logs. POSIX OSX Linux
+* [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
+* [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
+* [kkkgo/CloudXNS-DDNS-with-BashShell](https://github.com/kkkgo/CloudXNS-DDNS-with-BashShell) - The CloudXNS DDNS with BashShell
+* [larsonzh/amdwprprsct](https://github.com/larsonzh/amdwprprsct) - Asuswrt-Merlin Router Dual-WAN Policy Routing Configuration Tool（华硕梅林路由器双线路策略路由配置工具）
+* [larsonzh/owmwpprt](https://github.com/larsonzh/owmwpprt) - OpenWrt Multi WAN Port Policy Routing Tool（OpenWrt 固件多 WAN 口策略路由分流工具）
 * [xtonousou/ship](https://github.com/xtonousou/ship) - A simple, handy network addressing multitool with plenty of features
-* [treffynnon/Benchmark-PHP-HHVM-Zephir](https://github.com/treffynnon/Benchmark-PHP-HHVM-Zephir) - Benchmark PHP, HHVM and Zephir
-* [starrhorne/Fish-Shell-Scripts](https://github.com/starrhorne/Fish-Shell-Scripts) - My personal fish shell scripts
-* [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script
-* [jqr/dotfiles](https://github.com/jqr/dotfiles) - Super bad-ass dotfiles for any Ruby/Rails/Git/OSX user.
+* [BlueSkyXN/DNS-AUTO-Switch](https://github.com/BlueSkyXN/DNS-AUTO-Switch) - 自动检测服务器故障，并自动使用API修改并切换DNS解析，支持华为云DNS和CloudFlareDNS，支持TG·telegram机器人推送
+* [vcheckzen/XunleiKuainiaoInShell](https://github.com/vcheckzen/XunleiKuainiaoInShell) - [ 迅雷快鸟 Shell 版 ] A Shell Implementation of Kuainiao, Xunlei
+* [cvmiller/v6brouter](https://github.com/cvmiller/v6brouter) - IPv6 bridge and IPv4 router (NAT) shell script for OpenWRT
+* [brianreumere/gandi-automatic-dns](https://github.com/brianreumere/gandi-automatic-dns) - Dynamic DNS shell script for Gandi
+* [scvps/scriptvps](https://github.com/scvps/scriptvps) - Script Auto Install SSH for VPS
+* [primaryobjects/vpndemon](https://github.com/primaryobjects/vpndemon) - Monitor a VPN connection on Linux and kill a process upon disconnect
+* [holman/bandwidth-friends](https://github.com/holman/bandwidth-friends) - A shell script for macOS that makes sure you are being nice to your nice coffeeshop internet neighbors. 💖
+* [esemeniuc/ezpptp](https://github.com/esemeniuc/ezpptp) - Easy PPTP VPN setup script for Debian based VPS
+* [outime/ipv6-dhclient-script](https://github.com/outime/ipv6-dhclient-script) - IPv6 w/ dhclient configuration script (Debian/RedHat-based distros)
+* [hakerdefo/check-my-net](https://github.com/hakerdefo/check-my-net) - A stupidly simple shell script to check & diagnose internet connectivity issues.
+
+### Cloud and Infrastructure
+
+* [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+* [git-ftp/git-ftp](https://github.com/git-ftp/git-ftp) - Uses Git to upload only changed files to FTP servers.
+* [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images *(archived)*
+* [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP (Linux + Apache + MariaDB + PHP) for AlmaLinux/RockyLinux/CentOS/Debian/Ubuntu
+* [sil-org/ecs-deploy](https://github.com/sil-org/ecs-deploy) - Simple shell script for initiating blue-green deployments on Amazon EC2 Container Service (ECS)
+* [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
+* [swoodford/aws](https://github.com/swoodford/aws) - A collection of bash shell scripts for automating various tasks with Amazon Web Services using the AWS CLI and jq.
+* [ZZROTDesign/docker-clean](https://github.com/ZZROTDesign/docker-clean) - A script that cleans docker containers, images, volumes, and networks.
+* [wukongdaily/OrangePiShell](https://github.com/wukongdaily/OrangePiShell) - 在Linux上快速部署一些好用的docker项目。起初只是为了香橙派制作。推荐使用1panel面板轻松管理docker。
+* [kekylin/debnas](https://github.com/kekylin/debnas) - 一个将Debian快速配置成准NAS系统的脚本。
+* [pch/welder](https://github.com/pch/welder) - 👨‍🏭Set up your Linux server with plain shell scripts
+* [visionmedia/deploy](https://github.com/visionmedia/deploy) - Minimalistic deployment shell script
+* [lework/kainstall](https://github.com/lework/kainstall) - Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
+* [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker
+* [envygeeks/jekyll-docker](https://github.com/envygeeks/jekyll-docker) - ⛴ Docker images, and CI builders for Jekyll.
+* [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments. *(archived)*
+* [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
+* [churchers/vm-bhyve](https://github.com/churchers/vm-bhyve) - Shell based, minimal dependency bhyve manager
+* [unofficial-unifi/unifi-pfsense](https://github.com/unofficial-unifi/unifi-pfsense) - A script that installs the UniFi Controller software on pfSense and other FreeBSD systems
+* [summerblue/laravel-ubuntu-init](https://github.com/summerblue/laravel-ubuntu-init) - A shell script for setting up Laravel Production environment on Ubuntu 14.04 & Ubuntu 16 & Ubuntu 18 system.
+* [centminmod/centminmod](https://github.com/centminmod/centminmod) - Shell menu based Nginx LEMP web stack auto installer (GPLv3 licensed) for AlmaLinux and Rocky Linux
+* [clangcn/onekey-install-shell](https://github.com/clangcn/onekey-install-shell) - 一大坨一键安装脚本
+* [containrrr/shepherd](https://github.com/containrrr/shepherd) - Docker swarm service for automatically updating your services whenever their image is refreshed
+* [pythops/jetson-image](https://github.com/pythops/jetson-image) - 💾 Create minimalist, Ubuntu based images for the Nvidia jetson boards
+* [spiritLHLS/one-click-installation-script](https://github.com/spiritLHLS/one-click-installation-script) - 一键修复与安装脚本(各种linux系统修复与服务器环境安装脚本) One-click repair and installation scripts (various linux system repair and server environment installation scripts)
+* [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment
+* [servisys/ispconfig_setup](https://github.com/servisys/ispconfig_setup) - ISPConfig autoinstaller and setup
+* [oneclickvirt/lxd](https://github.com/oneclickvirt/lxd) - lxd相关的各种一键(Various one-click related to lxd)通过lxd批量或单独开设NAT服务器(Bulk or individual NAT server provisioning via lxd)
+* [pr1ntf/iohyve](https://github.com/pr1ntf/iohyve) - FreeBSD bhyve manager utilizing ZFS
+* [whihail/AutoArchive](https://github.com/whihail/AutoArchive) - 一个基于Jenkins的iOS/Android自动构建系统，它实现了最大程度的自动化，让你的iOS自动打包，Android自动打包流程变得更加高效。此项目包含了各种实现细节的讲解说明，你能够使用它解决大多数跟客户端构建/分发相关的问题，并将这种能力进行开放，提高研发效率。
+* [meefik/linuxdeploy-cli](https://github.com/meefik/linuxdeploy-cli) - Linux Deploy CLI
+* [DFabric/DPlatform-Shell](https://github.com/DFabric/DPlatform-Shell) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
+* [ublue-os/boxkit](https://github.com/ublue-os/boxkit) - Build your own custom OCI distrobox container
+* [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant *(archived)*
+* [weibeld/k1s](https://github.com/weibeld/k1s) - The world's simplest Kubernetes dashboard (50 lines of Bash code)
+* [srillia/devops](https://github.com/srillia/devops) - let devops for docker, dockerswarm ,k8s easy
+* [codeship/scripts](https://github.com/codeship/scripts) - Scripts for use on Codeship Basic
+* [thecasualcoder/kube-fzf](https://github.com/thecasualcoder/kube-fzf) - Shell commands using kubectl and fzf for command-line fuzzy searching of Kubernetes Pods.
+* [llnl/magpie](https://github.com/llnl/magpie) - Magpie contains a number of scripts for running Big Data software in HPC environments, including Hadoop and Spark. There is support for Lustre, Slurm, Moab, Torque. LSF, Flux, and more.
+* [freebsd/vm-bhyve](https://github.com/freebsd/vm-bhyve) - Shell based, minimal dependency bhyve manager
+* [zero-archive/vagrant-debian-jessie](https://github.com/zero-archive/vagrant-debian-jessie) - Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows *(archived)*
+* [gmacario/easy-build](https://github.com/gmacario/easy-build) - Collection of Dockerfiles for building embedded software distributions
+* [wujun728/jun_k8s_docker](https://github.com/wujun728/jun_k8s_docker) - 一个拿来即用的docker镜像大礼包，直接构建docker镜像环境(docker、dockerfile、k8s、helm、shell and so on )，Linux运维工具及脚本，K8S构建，各种环境构建部署等，包括不限于于shell、python，运维脚本、docker脚本、各种工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、pg、apache、php、redis、tomcat、gcc、gitlib、mq、dfs、k8s、jdk等
+* [DevOpsHiveHQ/kubech](https://github.com/DevOpsHiveHQ/kubech) - Set kubectl context/namespace per shell/terminal to manage multi Kubernetes clusters at the same time (it's parallel kubectx/kubens)
+* [Comcast/k8sh](https://github.com/Comcast/k8sh) - A simple, easily extensible shell for navigating your kubernetes clusters
+* [taovietducofficial/CI-CD-Beginner](https://github.com/taovietducofficial/CI-CD-Beginner) - Production CI/CD pipeline template with quality gates, container security, SLSA provenance, cosign signing, and automated release management.
+* [fjh1997/docker_named_volume_backup](https://github.com/fjh1997/docker_named_volume_backup) - easy shell script for backup & restore docker named volume
+* [icy/bocker](https://github.com/icy/bocker) - Write Dockerfile completely in Bash/Bourne. Extensible and simple. *(archived)*
+* [silvio/docker-matrix](https://github.com/silvio/docker-matrix) - docker image for matrix.org *(archived)*
+* [predatorray/kubectl-tmux-exec](https://github.com/predatorray/kubectl-tmux-exec) - A kubectl plugin for executing commands interactively across multiple pods or containers using tmux
+* [Dbz/kube-aliases](https://github.com/Dbz/kube-aliases) - Kubernetes Aliases and Bash Functions
+* [jjlin/docker-image-extract](https://github.com/jjlin/docker-image-extract) - Minimal-dependency shell script to pull and extract all files from an image in Docker Hub
+* [pandengyang/docker.sh](https://github.com/pandengyang/docker.sh) - docker.sh 是用 Shell 写的一个简易的 docker，麻雀虽小，五脏俱全，可用于学习 Docker 原理。
+* [jrz/container-shell](https://github.com/jrz/container-shell) - Starts and attaches a sandboxed shell using docker with access to the current or project directory
+* [blacklabelops-legacy/jenkins](https://github.com/blacklabelops-legacy/jenkins) - Docker Jenkins Swarm-Ready with HTTPS *(archived)*
+* [sspreitzer/shellinabox-container-image](https://github.com/sspreitzer/shellinabox-container-image) - shellinabox Container Images
+* [jordantrizz/cloudflare-cli](https://github.com/jordantrizz/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
+* [wffls/waffles](https://github.com/wffls/waffles) - Bash Configuration Management
+* [mohatb/kubectl-exec](https://github.com/mohatb/kubectl-exec) - kubectl-exec is a shell script getting a shell into your kuberntes nodes.
+* [jnewland/kubernetes-pod-chaos-monkey](https://github.com/jnewland/kubernetes-pod-chaos-monkey) - Randomly delete pods in a given namespace
+* [geerlingguy/JJG-Ansible-Windows](https://github.com/geerlingguy/JJG-Ansible-Windows) - [DEPRECATED] Windows shell provisioning script to bootstrap Ansible from within a Vagrant VM. *(archived)*
+* [rik2803/aws-sts-assumerole](https://github.com/rik2803/aws-sts-assumerole) - Bash script to easily set shell environment with temporary access tokens using a config file and the AWS credentials file
+* [roperzh/heroku-buildpack-hugo](https://github.com/roperzh/heroku-buildpack-hugo) - Heroku buildpack for Hugo, the static site generator - https://github.com/spf13/hugo
+* [bltavares/kickstart](https://github.com/bltavares/kickstart) - Agentless configuration manager in Bash
+* [Statemood/jenkins](https://github.com/Statemood/jenkins) - Jenkins Shell & Pipeline scripts for FreeStyle & Pipeline jobs
+* [zdwork/k8s-install](https://github.com/zdwork/k8s-install) - kubernetes集群安装脚本
+* [doubaokun/dockers](https://github.com/doubaokun/dockers) - Docker hello world templates
+* [12moons/ec2-tags-env](https://github.com/12moons/ec2-tags-env) - :cloud: Import AWS EC2 tags as environment variables
+* [spiritLHLS/lxd](https://github.com/spiritLHLS/lxd) - 通过LXD命令批量或单独开设NAT服务器以及维护(简称母鸡开小鸡)(Bulk or individual NAT server provisioning and maintenance via LXD commands)
+
+### Monitoring and Observability
+
+* [RaymiiOrg/bash-http-monitoring](https://github.com/RaymiiOrg/bash-http-monitoring) - HTTP(s) monitoring webpage via shell script *(archived)*
+* [matteocorti/check_ssl_cert](https://github.com/matteocorti/check_ssl_cert) - A shell script (that can be used as a Nagios/Icinga plugin) to check an SSL/TLS connection.
+* [ericoc/zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Zabbix AlertScript for Slack.com chat *(archived)*
+* [TristanBrotherton/netcheck](https://github.com/TristanBrotherton/netcheck) - A shell script to check and log when your internet connection goes down. Pull requests are welcome.
+* [atarallo/TECMINT_MONITOR](https://github.com/atarallo/TECMINT_MONITOR) - A Shell Script to Monitor Network, Disk Usage, Uptime, Load Average and RAM Usage in Linux. Originally published on http://www.tecmint.com
+* [bcyran/fancy-motd](https://github.com/bcyran/fancy-motd) - Fancy, colorful MOTD written in bash. Server status at a glance. *(archived)*
+* [OutsideIT/FireMotD](https://github.com/OutsideIT/FireMotD) - :fire: Fire Framework Linux MoTD Generator :fire: *(archived)*
+* [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
+* [aqingsao/nana](https://github.com/aqingsao/nana) - A lightweight Nginx log analyzer written in shell(statistics of traffic/rate/response time/upstream servers/spiders/response codes)
+* [anapsix/zabbix-haproxy](https://github.com/anapsix/zabbix-haproxy) - HAProxy Zabbix Discovery and Template
+* [hagen1778/grafana-import-export](https://github.com/hagen1778/grafana-import-export) - shell scripts for importing and exporting Grafana's dashboards and datasources
+* [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft *(archived)*
+* [pstadler/metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
+* [risuorg/risu](https://github.com/risuorg/risu) - Automation Troubleshooting Framework to validate and report configuration, software installed, etc with bash, python, and your language of choice.
+* [brvphoenix/wrtbwmon](https://github.com/brvphoenix/wrtbwmon) - Shell scripts for bandwidth monitor on linux
+* [zsenliao/shellMonitor](https://github.com/zsenliao/shellMonitor) - 一个 Linux 下基于 Bash 的文件和数据库监控及备份工具，可发送微信报警通知
+* [monitisexchange/Monitis-Linux-Scripts](https://github.com/monitisexchange/Monitis-Linux-Scripts) - Shell Script to Extend or Automate Monitis
+
+## User Interface
+
+### Terminal and Console UI
+
+* [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+* [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+* [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
+* [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+* [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS. (https://gogh-co.github.io/Gogh/)
+* [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+* [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+* [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+* [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
+* [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
+* [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+* [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+* [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - text window manager, shell multiplexer, integrated DevOps environment
+* [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
+* [andresgongora/synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
+* [geometry-zsh/geometry](https://github.com/geometry-zsh/geometry) - geometry is a minimal, composable zsh prompt
+* [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
+* [matchai/spacefish](https://github.com/matchai/spacefish) - 🚀🐟 The fish shell prompt for astronauts *(archived)*
+* [lemnos/theme.sh](https://github.com/lemnos/theme.sh) - A script which lets you set your $terminal theme.
+* [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
+* [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
+* [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
+* [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
+* [cykerway/complete-alias](https://github.com/cykerway/complete-alias) - automagical shell alias completion;
+* [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; dotfiles-friendly; integrates with suggestions and syntax highlighting; comprehensive documentation; configurable for power users; surfaces core features for extension authors; feature requests considered. 25k clones by 16k cloners as of June '26. Human-written.
+* [evanlucas/fish-kubectl-completions](https://github.com/evanlucas/fish-kubectl-completions) - kubectl completions for fish shell
+* [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+* [diogocavilha/fancy-git](https://github.com/diogocavilha/fancy-git) - That's a terminal prompt changer that shows a few cool git informations about your repository state. You can choose among different styles and enjoy all the aliases it provides you. Feel free for contributing, pull requests and issues are always welcome! ;)
+* [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
+* [tmux-plugins/tmux-cpu](https://github.com/tmux-plugins/tmux-cpu) - Plug and play cpu percentage and icon indicator for Tmux.
+* [nordtheme/gnome-terminal](https://github.com/nordtheme/gnome-terminal) - An arctic, north-bluish clean and elegant GNOME Terminal color theme.
+* [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
+* [odb/shml](https://github.com/odb/shml) - SHell Markup Language | Style Framework for The Terminal
+* [petobens/trueline](https://github.com/petobens/trueline) - Fast and extensible bash powerline prompt with true color and fancy icon support
+* [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
+* [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+* [brujoand/sbp](https://github.com/brujoand/sbp) - Simple Bash Prompt (SBP) is a bash prompt, which strives to be simple. But it isn't. But it looks kind of nice. I think.
+* [minamarkham/yonce](https://github.com/minamarkham/yonce) - 👑 Queen Bey-inspired themes for all your favs.
+* [fikrado/qurxin](https://github.com/fikrado/qurxin) - Termux shell with jarvis wellcome voice and beutiful interface for hackers
+* [woefe/git-prompt.zsh](https://github.com/woefe/git-prompt.zsh) - A fast, customizable, pure-shell, asynchronous Git prompt for Zsh
+* [laughedelic/pisces](https://github.com/laughedelic/pisces) - ♓️ Fish shell plugin that helps you to work with paired symbols in the command line
+* [simnalamburt/shellder](https://github.com/simnalamburt/shellder) - :shell: Featured zsh/fish shell theme
+* [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
+* [htr-tech/termux-shell](https://github.com/htr-tech/termux-shell) - Beautify your Termux App with this Shell 😍 *(archived)*
+* [nordtheme/xfce-terminal](https://github.com/nordtheme/xfce-terminal) - An arctic, north-bluish clean and elegant Xfce Terminal color theme.
+* [edouard-lopez/progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progress bar for `bash`, give it a duration and it will do the rest.
+* [acxz/pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
+* [dylanaraps/promptless](https://github.com/dylanaraps/promptless) - 🚀 A super fast and extremely minimal shell prompt. *(archived)*
+* [saysjonathan/dwm.tmux](https://github.com/saysjonathan/dwm.tmux) - dwm-inspired tiling pane management for tmux
+* [roosta/tmux-fuzzback](https://github.com/roosta/tmux-fuzzback) - Search your tmux scrollback buffer using fuzzy matching
+* [Cod3r-Ak/TermuX-Custom](https://github.com/Cod3r-Ak/TermuX-Custom) - TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX
+* [Mr-Linus/login-shell](https://github.com/Mr-Linus/login-shell) - SSH登陆显示脚本
+* [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
+* [rcmdnk/sentaku](https://github.com/rcmdnk/sentaku) - Utility to make sentaku (selection, 選択(sentaku)) window with shell command.
+* [decors/fish-colored-man](https://github.com/decors/fish-colored-man) - Color-enabled man pages plugin for fish-shell
+* [laughedelic/fish_logo](https://github.com/laughedelic/fish_logo) - 🐠 Fish shell colorful ASCII-art logo
+* [ramnes/context-color](https://github.com/ramnes/context-color) - :rainbow: To each context its own shell color
+* [benmarten/Monokai_Fish_OSX](https://github.com/benmarten/Monokai_Fish_OSX) - Monokai Theme for OS X Terminal & Fish Shell
+* [egorlem/ultima.zsh-theme](https://github.com/egorlem/ultima.zsh-theme) - Minimalist Zsh theme — clean, clear, visually structured.
+* [PatrickF1/colored_man_pages.fish](https://github.com/PatrickF1/colored_man_pages.fish) - Fish shell plugin to colorize man pages
+* [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚(shell) 's 💬 (`echo`) to be 🎨 easily ✨ Support ✅ sh ➕ bash ➕ zsh ➕ ksh ➕ 🐟 One simple command for vibrant text output! 💫
+* [evnp/tmex](https://github.com/evnp/tmex) - Lightweight tmux cmd/layout composer · 1 shell script · 0 dependencies exc. tmux
+* [nordtheme/tilix](https://github.com/nordtheme/tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
+* [charitarthchugh/shell-color-scripts](https://github.com/charitarthchugh/shell-color-scripts) - ASCII art for your terminal! Fork of DistroTube(Derek Taylor)'s color scripts
+* [tahmidrayat/Tbanner](https://github.com/tahmidrayat/Tbanner) - Give A Awesome Look to your Termux App *(archived)*
+* [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Lightweight tmux plugin for customizable floating shells (“shpells”) — fast, scriptable, aesthetic.
+* [nordtheme/konsole](https://github.com/nordtheme/konsole) - An arctic, north-bluish clean and elegant Konsole color scheme.
+* [ryanoasis/devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
+* [nordtheme/termite](https://github.com/nordtheme/termite) - An arctic, north-bluish clean and elegant Termite color theme.
+* [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell.
+* [aluxian/fish-kube-prompt](https://github.com/aluxian/fish-kube-prompt) - ⎈ kubectl context/namespace in your fish shell prompt *(archived)*
+* [yonchu/shell-color-pallet](https://github.com/yonchu/shell-color-pallet) - Show color pallet for zsh/bash on 16 and 256 color terminal
+* [mjrafferty/apollo-zsh-theme](https://github.com/mjrafferty/apollo-zsh-theme) - Heavily customizable, compatible, and fast ZSH theme framework.
 * [Dieterbe/libui-sh](https://github.com/Dieterbe/libui-sh) - a shell library providing useful UI functions
 * [brandonweiss/pure.fish](https://github.com/brandonweiss/pure.fish) - A Pure-inspired prompt for fish shell.
-* [ShellShoccar-jpn/kotoriotoko](https://github.com/ShellShoccar-jpn/kotoriotoko) - KOTORIOTOKO (little bird man) -- Extremely Compatible and Sustainable Twitter Application Written in Shell Script
-* [mkropat/sh-realpath](https://github.com/mkropat/sh-realpath) - A portable, pure shell implementation of realpath
-* [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi & ODROID-C1: A bunch of scripts with menu to make your life easier.
-* [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
-* [filebot/plugins](https://github.com/filebot/plugins) - Plugins and shell scripts for integrating 3rd party tools with FileBot
-* [betweenbrain/ubuntu-web-server-build-script](https://github.com/betweenbrain/ubuntu-web-server-build-script) - A hand-rolled shell script to help you get up and running quickly with an Ubuntu web server. Specifically geared for Ubuntu 10.04 LTS 32-bit. Please note: This is not intended to be a complete and comprehensive solution, but a starting point for your custom server.
-* [arcticicestudio/nord-termite](https://github.com/arcticicestudio/nord-termite) - An arctic, north-bluish clean and elegant Termite color theme.
-* [trevordmiller/shell-scripts](https://github.com/trevordmiller/shell-scripts) - Trevor's shell scripts
-* [milianw/shell-helpers](https://github.com/milianw/shell-helpers) - a bunch of little programs I wrote to make my life on the command line easier and less type-intensitive
-* [kindlefere/KindleEar-Uploader](https://github.com/kindlefere/KindleEar-Uploader) - 适用于 GAE 云端 Shell 的KindleEar上传脚本。
-* [jimeh/zsh-peco-history](https://github.com/jimeh/zsh-peco-history) - Search shell history with peco when pressing ctrl+r.
-* [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
-* [emirozer/nixarmor](https://github.com/emirozer/nixarmor) - nixarmor is a linux hardening automation project
-* [arcticicestudio/nord-tilix](https://github.com/arcticicestudio/nord-tilix) - An arctic, north-bluish clean and elegant Tilix color scheme.
-* [yonchu/shell-color-pallet](https://github.com/yonchu/shell-color-pallet) - Show color pallet for zsh/bash on 16 and 256 color terminal
-* [owent-utils/bash-shell](https://github.com/owent-utils/bash-shell) - OWenT's Utils -- Bash&Shell branch
-* [mengfeng/clean-my-mac](https://github.com/mengfeng/clean-my-mac) - Shell Scripts to clean my mac
-* [l0b0/tilde](https://github.com/l0b0/tilde) - Linux home directory configuration and utilities
-* [YunoHost/install_script](https://github.com/YunoHost/install_script) - YunoHost installation scripts
-* [neurobin/JLIVECD](https://github.com/neurobin/JLIVECD) - Live cd/dvd customization tool
-* [javachen/hadoop-install](https://github.com/javachen/hadoop-install) - Shell scripts to install and deploy a Cloudera Hadoop cluster on CentOS 6
-* [danishprakash/goodreadsh](https://github.com/danishprakash/goodreadsh) - Command line interface for Goodreads
-* [chesty/overlayroot](https://github.com/chesty/overlayroot) - mounts an overlay file system over root
-* [asciimoo/ali](https://github.com/asciimoo/ali) - Smart shell alias replacement
-* [aripollak/rbenv-bundler-ruby-version](https://github.com/aripollak/rbenv-bundler-ruby-version) - rbenv plugin to pick a ruby version from bundler's Gemfile
-* [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenace application for Ubuntu/Debian operating systems and derivatives
-* [sevensins/Wallbase-Downloader](https://github.com/sevensins/Wallbase-Downloader) - Shell script to leech wallpapers from wallbase.cc
-* [runeasymail/easymail](https://github.com/runeasymail/easymail) - Easy way to install a mail server.
-* [PeterDaveHello/ColorEchoForShell](https://github.com/PeterDaveHello/ColorEchoForShell) - Make 🐚 's 📢 to be 🌈 easily ✨ Support ✅ sh, bash, zsh, ksh & 🐟
-* [mempodippy/snodew](https://github.com/mempodippy/snodew) - PHP root (suid) reverse shell
-* [mcsrainbow/shell-scripts](https://github.com/mcsrainbow/shell-scripts) - My Shell Scripts
-* [linickx/rsdns](https://github.com/linickx/rsdns) - rackspace DNS tools
-* [lasandell/RaspberryPi](https://github.com/lasandell/RaspberryPi) - Example shell scripts for interfacing electronics with the GPIO ports of the Raspberry Pi
-* [jm/shin](https://github.com/jm/shin) - A simple package manager for dotfiles and other shell scripts
-* [faif/shell-utils](https://github.com/faif/shell-utils) - Useful functions for POSIX shells (bash, ksh, tcsh, etc.).
 * [el1t/statusline](https://github.com/el1t/statusline) - Responsive powerline-esque zsh theme
-* [samrayleung/dotfiles](https://github.com/samrayleung/dotfiles) - A shell script to install awesome command for *nix platform and set them up
-* [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
-* [fmahnke/shell-semver](https://github.com/fmahnke/shell-semver) - Increment semantic versioning strings in Bash shell scripts.
-* [dokku/plugn](https://github.com/dokku/plugn) - Hook system that lets users extend your application with plugins
-* [ryanpcmcquen/linuxTweaks](https://github.com/ryanpcmcquen/linuxTweaks) - :penguin: A whole host of Linux tricks I have picked up over the years, in plain text. Some of them are even useful.
-* [qbit/dotfiles](https://github.com/qbit/dotfiles) - Dotfile framework for make greater good of dotfiles (Shell)
-* [nwoolls/xgminer-osx](https://github.com/nwoolls/xgminer-osx) - Shell scripts for creating redistributable packages of CGMiner and BFGMiner for Mac OS X
-* [mxdpeep/linux-bash-scripts](https://github.com/mxdpeep/linux-bash-scripts) - A batch of useful Linux shell scripts.
-* [marcan/certbot-external](https://github.com/marcan/certbot-external) - Certbot plugin that uses an external shell script for domain validation
-* [tylucaskelley/setup](https://github.com/tylucaskelley/setup) - Bootstrap your Mac for software development
-* [SixArm/sixarm_mac_setup](https://github.com/SixArm/sixarm_mac_setup) - SixArm.com » Mac » Setup notes for new Mac computer and macOS
-* [jschx/etc](https://github.com/jschx/etc) - Moved to GitLab!
-* [1egoman/biome](https://github.com/1egoman/biome) - :christmas_tree: A script to manage an isolated shell environment for a project.
-* [williamsmj/stowsh](https://github.com/williamsmj/stowsh) - A shell script to install and uninstall dotfiles using symlinks. stow written in bash, in other words.
-* [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
-* [mzpqnxow/gdb-static-cross](https://github.com/mzpqnxow/gdb-static-cross) - Shell scripts, sourceable "activate" scripts and instructions for building a statically linked gdb-7.12 gdbserver using cross-compile toolchains. Includes more than 20 statically linked gdbserver executables for different architectures, byte orders and ABIs
-* [mzeis/MageSpawner](https://github.com/mzeis/MageSpawner) - Shell script for quickly creating Magento test installations.
-* [joseluisq/awesome-bash-commands](https://github.com/joseluisq/awesome-bash-commands) - A curated list of awesome Bash useful commands. Inspired by awesome-shell and bash-handbook.
-* [danfuzz/blur](https://github.com/danfuzz/blur) - Blur shell-based build system
-* [bAndie91/cloudflare-cli](https://github.com/bAndie91/cloudflare-cli) - CLI utility managing CloudFlare services using CloudFlare API
-* [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell.
-* [vijithassar/lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
-* [solarkennedy/sensu-shell-helper](https://github.com/solarkennedy/sensu-shell-helper) - A shell script wrap your programs around to make them send their output to Sensu!
-* [luckylz2git/exfat-synology](https://github.com/luckylz2git/exfat-synology) - Perfect shell scripts to auto mount exfat disk partition on Synology DiskStation NAS (x86 platform), and more post-mount functions are coming soon! Use this at your own risks.
-* [lestrrat/kubesh](https://github.com/lestrrat/kubesh) - Spawn a shell for a particular kubectl context (cluster).
-* [jalendport/switch-php](https://github.com/jalendport/switch-php) - Easily switch between PHP versions on your Mac. Requires Homebrew and works with Laravel Valet. 🔀
-* [dotzero/iTerm-2-Peppermint](https://github.com/dotzero/iTerm-2-Peppermint) - iTerm 2 Peppermint color theme
-* [damphat/kv-bash](https://github.com/damphat/kv-bash) - key/value database written in bash script (permanent variables in shell)
-* [ashqal/PNGCompressForMac](https://github.com/ashqal/PNGCompressForMac) - Simple shell script to compress png file. It will compress all png file include in given directory.
-* [arcticicestudio/nord-xfce-terminal](https://github.com/arcticicestudio/nord-xfce-terminal) - An arctic, north-bluish clean and elegant XFCE Terminal color theme.
-* [MysterionRise/mavenized-jcuda](https://github.com/MysterionRise/mavenized-jcuda) - Mavenized JCuda
-* [kewlbear/fdk-aac-build-script-for-iOS](https://github.com/kewlbear/fdk-aac-build-script-for-iOS) - Shell script to build fdk-aac for use in iOS apps.
-* [jichu4n/fish-command-timer](https://github.com/jichu4n/fish-command-timer) - Fish shell extension for printing execution time for each command.
-* [jgamblin/MacOS-Config](https://github.com/jgamblin/MacOS-Config) - Simple Shell Scripts I Use To Tweak MacOS To My Liking.
-* [bianjp/archlinux-installer](https://github.com/bianjp/archlinux-installer) - Shell scripts that help install and setup Arch Linux
-* [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - ZPM - Zsh Plugin Manager
-* [rosshamilton1/cissec](https://github.com/rosshamilton1/cissec) - Kickstart profiles for CentOS 7 to help meet CIS benchmarks + shell script to audit
-* [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
-* [logoscreative/new-wp-mamp-shell](https://github.com/logoscreative/new-wp-mamp-shell) - Roll a new WordPress installation for MAMP with this quick shell script (allows custom inputs for directory, database name, and WP version)
-* [Kiyotaka233/ASF-Install-Shell](https://github.com/Kiyotaka233/ASF-Install-Shell) - 一个在 Linux 中的自动化安装ArchiSteamFarm的脚本。
-* [JREAM/config-ubuntu](https://github.com/JREAM/config-ubuntu) - Quickly Setup Ubuntu Desktop or Server with all-in-one Bash Scripts.
-* [Josef-Friedrich/Hue-shell](https://github.com/Josef-Friedrich/Hue-shell) - A collection of UNIX shell scripts to control the Hue LED lamps from Philips.
-* [gerep/git-open](https://github.com/gerep/git-open) - Open your github project page from your terminal
-* [fishpkg/fish-git-util](https://github.com/fishpkg/fish-git-util) - Convenient git utility functions for the fish shell
-* [excid3/dotfiles](https://github.com/excid3/dotfiles) - My personal dotfiles for macOS: zsh, MacVim, iterm, and more.
-* [cvmiller/v6brouter](https://github.com/cvmiller/v6brouter) - IPv6 bridge and IPv4 router (NAT) shell script for OpenWRT
-* [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shell.
-* [Charliedean/NetcatUP](https://github.com/Charliedean/NetcatUP) - Upgrade your netcat shell today!
-* [arjun024/systemd-example-startup](https://github.com/arjun024/systemd-example-startup) - example file to tell systemd to start a shell script at boot
-* [zhenruyan/codefont](https://github.com/zhenruyan/codefont) - 60余种常用的等宽字体    愉快的code吧  欢迎issues我  收录更多字体
-* [xilin/ios-build-script](https://github.com/xilin/ios-build-script) - Shell scripts to build ipa
-* [terrancesnyder/tomcat](https://github.com/terrancesnyder/tomcat) - Tomcat Best Practices Shell
-* [solodynamo/go-init](https://github.com/solodynamo/go-init) - The only Golang script you will ever need to get started .... 🏃
-* [reale/bashlets](https://github.com/reale/bashlets) - An experiment in extending the command-line interface.
-* [nidhoggfgg/whatandwhy](https://github.com/nidhoggfgg/whatandwhy) - This is a shell script that installs most of the termux tools with one key.
-* [mogensen/keychain](https://github.com/mogensen/keychain) - Bash script to access the osx keychain, for use in shell scripts.
-* [mhausenblas/kn](https://github.com/mhausenblas/kn) - A collection of shell functions for Kubernetes native dabbling
-* [joelagnel/adeb](https://github.com/joelagnel/adeb) - A debian-based shell environment designed for Android and adb
-* [halinuya/imagesetGenerator](https://github.com/halinuya/imagesetGenerator) - a shell script for generator ImageSet which input need big picture.
-* [duy13/VDVESTA](https://github.com/duy13/VDVESTA) - Welcome to VDVESTA, a shell script auto Custom & Install VESTACP for your CentOS Server Release 7 x86_64. Thanks you for using!
-* [controlz/Mongo-db-shell-backup](https://github.com/controlz/Mongo-db-shell-backup) - Shell Script for backing up all Mongo Databases on a server.  Flexible backup paths and filename.
-* [agross/dotfiles](https://github.com/agross/dotfiles) - My dotfiles.
-* [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
-* [SixArm/gpg-encrypt](https://github.com/SixArm/gpg-encrypt) - Use GPG to encrypt a file using our best settings
-* [shellscriptx/shellbot](https://github.com/shellscriptx/shellbot) - API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
-* [samoshkin/tmux-plugin-sysstat](https://github.com/samoshkin/tmux-plugin-sysstat) - Prints CPU usage, memory & swap, load average, net I/O metrics in Tmux status bar
-* [ryanoasis/devicons-shell](https://github.com/ryanoasis/devicons-shell) - :symbols: adds font icons (glyphs ★♨☢) to filetypes via bash (faux ls with icons)
-* [PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition](https://github.com/PacktPublishing/Linux-Shell-Scripting-Cookbook-Third-Edition) - Linux Shell Scripting Cookbook Third Edition, published by Packt
-* [ideamonk/Rambola](https://github.com/ideamonk/Rambola) - Set of shell scripts to manage persistent ramdisks on os x
-* [clhenrick/shell_scripts](https://github.com/clhenrick/shell_scripts) - Bash shell scripts for batch GeoProcessing using GDAL & OGR2OGR
-* [BeginMan/myshell](https://github.com/BeginMan/myshell) - 写的常用Shell小工具，运维小脚本等
-* [adafruit/Adafruit-Pi-ExternalRoot-Helper](https://github.com/adafruit/Adafruit-Pi-ExternalRoot-Helper) - A shell script to configure a USB drive as root filesystem.
-* [wd5gnr/mhs5200a](https://github.com/wd5gnr/mhs5200a) - Shell script and awk program (and spreadsheet) to allow custom wave settings for MHS-5200A signal generator
-* [thinkerbot/ts](https://github.com/thinkerbot/ts) - A shell test script
-* [SixArm/sixarm_unix_shell_scripts](https://github.com/SixArm/sixarm_unix_shell_scripts) - SixArm.com » Unix » shell scripts for command line programs in sh, bash, etc.
-* [chadoe/luks-triple-unlock](https://github.com/chadoe/luks-triple-unlock) - Set of shell scripts to allow unlocking of full disk encrypted Ubuntu and Debian installs through console, USB-key or SSH.
-* [bilyboy785/seedbox-compose](https://github.com/bilyboy785/seedbox-compose) - A complete script to deploy Seedbox with Docker fully automated !
-* [WuOtto/MacImagesetGenerator](https://github.com/WuOtto/MacImagesetGenerator) - 2个脚本文件，帮助你在Mac上，生成Xcode可使用的APP图标和启动图。
-* [vincentbernat/zshrc](https://github.com/vincentbernat/zshrc) - My .zshrc
-* [twe4ked/dotfiles](https://github.com/twe4ked/dotfiles) - 🏠 General configuration and Vim files managed with fresh
-* [tsaikd/docker-builder](https://github.com/tsaikd/docker-builder) - Build docker image system with shell scripts
-* [sixdimensionalarray/esxidown](https://github.com/sixdimensionalarray/esxidown) - A shell script to shutdown VMware ESXi host servers
-* [ruipfcosta/carthage-workarounds](https://github.com/ruipfcosta/carthage-workarounds) - Shell scripts to make life a little easier when using Carthage.
-* [rugk/borg-cron-helper](https://github.com/rugk/borg-cron-helper) - Helper shell scripts for BorgBackup to automate backups and make your life easier… 😉
-* [quafzi/magento-anonymizer](https://github.com/quafzi/magento-anonymizer) - shell script to anonymize Magento database
-* [mezga0153/offscreen-window-restore](https://github.com/mezga0153/offscreen-window-restore) - A simple shell script that moves off screen windows back
-* [jackharrisonsherlock/common](https://github.com/jackharrisonsherlock/common) - A simple, clean and minimal prompt.
-* [gchaincl/dotenv.sh](https://github.com/gchaincl/dotenv.sh) -  Loads environment variables from `.env` in your shell
-* [dparoli/hrsync](https://github.com/dparoli/hrsync) - rsync backup with a bit of magic, decting moved and renamed files
-* [digitoimistodude/dudestack](https://github.com/digitoimistodude/dudestack) - A toolkit for creating a new professional WordPress project with deployments. Heavily based on roots/bedrock.
-* [bdossantos/nagios-plugins](https://github.com/bdossantos/nagios-plugins) - 🌡️ Various Sensu, Nagios, you name it, monitoring plugins.
-* [andrewharvey/srtm-stylesheets](https://github.com/andrewharvey/srtm-stylesheets) - Shell scripts for working with NASA SRTM DEM data; gdaldem stylesheets for shaded relief maps; Mapnik stylesheets for contours; TileStache configuration for sandwich
-* [travisg/toolchains](https://github.com/travisg/toolchains) - Shell script to build gcc for various architectures
-* [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts) - Shell scripts to create video slideshows using images.
-* [narbehaj/bash-backup](https://github.com/narbehaj/bash-backup) - Simple backup script for GNU/Linux servers
-* [lasyman/lasyman_setup_ss](https://github.com/lasyman/lasyman_setup_ss) - use the shell script to setup shadowsocks on Ubuntu
-* [kud/my](https://github.com/kud/my) - dev environnement.
-* [joarleymoraes/aws_lambda_deploy](https://github.com/joarleymoraes/aws_lambda_deploy) - Automated AWS Lambda Deployment (Python)
-* [FSMaxB/lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
-* [Doriedson/mario-shellscript](https://github.com/Doriedson/mario-shellscript) - Game do Mario Bros em Shell Script
-* [brgmnn/fish-docker-compose](https://github.com/brgmnn/fish-docker-compose) - Fish shell completions for docker-compose
-* [superkojiman/rfishell](https://github.com/superkojiman/rfishell) - Provide a shell-like interface for exploiting Remote File Inclusion vulnerabilities.
-* [sbimochan/smart-commit](https://github.com/sbimochan/smart-commit) - Create commit with current branch name.
-* [ronjouch/marathon](https://github.com/ronjouch/marathon) - minimal run-or-focus launcher for Linux/X
-* [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
-* [qindeli/WorksapceShell](https://github.com/qindeli/WorksapceShell) - 项目基于Workspace的打包签名脚本
-* [progrium/systembits](https://github.com/progrium/systembits) - Simplest profiler ever. Like ohai but just shell scripts.
-* [pixelhandler/vagrant-dev-env](https://github.com/pixelhandler/vagrant-dev-env) - vagrant development environment provisioned with shell scripts on precise64 box
-* [moeenz/vscode-updater](https://github.com/moeenz/vscode-updater) - A simple script to automate downloading, installing and restarting Visual Studio Code.
-* [jamiewilson/predawn-shell](https://github.com/jamiewilson/predawn-shell) - Predawn themes for iTerm, Terminal, and a ZSH prompt
-* [hassio-addons/addon-ide](https://github.com/hassio-addons/addon-ide) - IDE - Secure Shell - Community Hass.io Add-on for Home Assistant
-* [dylanaraps/promptless](https://github.com/dylanaraps/promptless) - 🚀 A super fast and extremely minimal shell prompt.
-* [crazyadmins/useful-scripts](https://github.com/crazyadmins/useful-scripts) - Useful shell scripts for Hadoop/Linux system administrator
-* [caarlos0/shell-ci-build](https://github.com/caarlos0/shell-ci-build) - A submodule to lint your shell projects with shellcheck in travis.ci builds
-* [apfeltee/a2mp3](https://github.com/apfeltee/a2mp3) - convert (nearly) every type of (audio)file to mp3 in a quick, easy, batch-enabled way!
-* [Anachron/wp-themes](https://github.com/Anachron/wp-themes) - A repository of shell-scripts which help to create a full desktop theme based on a single image.
-* [12moons/ec2-tags-env](https://github.com/12moons/ec2-tags-env) - :cloud: Import AWS EC2 tags as environment variables
-* [zeit/install-node](https://github.com/zeit/install-node) - Simple one-liner shell script that installs official Node.js binaries
-* [xr09/cron-last-sunday](https://github.com/xr09/cron-last-sunday) - Run a cron task the first, nth or last weekday of the month
-* [whats-this/owo.sh](https://github.com/whats-this/owo.sh) - Read-only mirror of https://owo.codes/whats-this/owo.sh
-* [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect)
-* [ss18/grep-typos](https://github.com/ss18/grep-typos) - Quickly check your project for typos
-* [SkypLabs/bsfl](https://github.com/SkypLabs/bsfl) - Bash Shell Function Library
-* [samoshkin/docker-letsencrypt-certgen](https://github.com/samoshkin/docker-letsencrypt-certgen) - Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion
-* [ricardobeat/git-commands](https://github.com/ricardobeat/git-commands) - Custom power-user git commands.
-* [paul-nelson-baker/git-openssl-shellscript](https://github.com/paul-nelson-baker/git-openssl-shellscript) - Shellscript to compile git with OpenSSL
-* [nicandris/CM-from-scratch](https://github.com/nicandris/CM-from-scratch) - [DEV] Building CM from scratch (the easy way)! - *nix Shell Script
-* [mjsolidarios/unity-flatify-icons](https://github.com/mjsolidarios/unity-flatify-icons) - Shell script to flatten Ubuntu Unity's launcher icons.
-* [martinburger/bash-common-helpers](https://github.com/martinburger/bash-common-helpers) - Helper functions commonly used when writing shell (for instance, Bash) scripts.
-* [greymd/egzact](https://github.com/greymd/egzact) - Strengthen weak points of the shell
-* [gianu/latest_tweets](https://github.com/gianu/latest_tweets) - Fetch the latest tweets from your shell
-* [emasaka/sh.inatra](https://github.com/emasaka/sh.inatra) - CGI shell script framework looks like sinatra.
-* [cowgill/spamhaus](https://github.com/cowgill/spamhaus) - A shell script that grabs the latest Spamhaus DROP List and adds it to iptables.
-* [amail/deploy.sh](https://github.com/amail/deploy.sh) - Deploy.sh is a universal deployment script that makes it easy for you to deploy your code, files, configurations etc. to multiple servers via ssh. Perfect for the cloud. Written as a shell script (standard bourne shell) and runs on every unix server. No need for remote install. Just run the deploy.sh script on the local machine.
-* [alphabetum/notes](https://github.com/alphabetum/notes) - A git-backed, syncable, searchable command line note-taking tool in a single portable script.
-* [thelinuxchoice/spykey](https://github.com/thelinuxchoice/spykey) - FUD Win32 Keylogger and Reverse Shell (cmd.exe)
-* [thelinuxchoice/keydroid](https://github.com/thelinuxchoice/keydroid) - Android Keylogger + Reverse Shell
-* [Tarrasch/zsh-colors](https://github.com/Tarrasch/zsh-colors) - Imagine a shell where `red ERROR` just works
-* [skissane/mkjail](https://github.com/skissane/mkjail) - Shell script to create a chroot jail on Mac OS X
-* [ptrofimov/github-backup-sh](https://github.com/ptrofimov/github-backup-sh) - Simple shell script to backup all GitHub repos for specified user
-* [kward/log4sh](https://github.com/kward/log4sh) - log4sh is an advanced logging framework for Unix shell scripts.
-* [clvv/undo](https://github.com/clvv/undo) - Undo shell commands.
-* [vincepii/ubuntu-powerline-bash](https://github.com/vincepii/ubuntu-powerline-bash) - A script to quickly setup powerline shell for bash in ubuntu
-* [Tsuk1ko/nhentai-one-key-downloader](https://github.com/Tsuk1ko/nhentai-one-key-downloader) - 一个可以一键下载nhentai本子的纯shell脚本。A pure shell script that can easily download comics from nhentai.
-* [tomsquest/dotfiles](https://github.com/tomsquest/dotfiles) - Config files for zsh, vim and many more. Heavily commented
-* [tj/cipherhub.sh](https://github.com/tj/cipherhub.sh) - substack's cipherhub as a shell script
-* [nicoulaj/broom](https://github.com/nicoulaj/broom) - A disk cleaning utility for developers.
-* [mauserrifle/vagrant-debian-shell](https://github.com/mauserrifle/vagrant-debian-shell) - Vagrant shell configuration files for debian squeeze
-* [grml/grml-debootstrap](https://github.com/grml/grml-debootstrap) - wrapper around debootstrap
-* [florianbeer/hactar](https://github.com/florianbeer/hactar) - :page_with_curl: An incremential daily backup script using rsync
-* [eyedol/tools](https://github.com/eyedol/tools) - Little codes here and there to automate some of my boring daily routines and configurations
-* [elithrar/dotfiles](https://github.com/elithrar/dotfiles) - dotfiles for my Linux (and/or) WSL dev. environments
-* [E-F-A/v3](https://github.com/E-F-A/v3) - E.F.A version 3.x.x.x
-* [eduosi/shell](https://github.com/eduosi/shell) - linux 常用脚本
-* [defagos/sign-ipa](https://github.com/defagos/sign-ipa) - sign-ipa is a shell script with which you can sign an existing ipa using another provisioning profile, without having to build the application again. The Info.plist can be edited at the same time if needed.
-* [a-sync/slackr](https://github.com/a-sync/slackr) - Simple shell command to send or pipe content to slack via webhooks. (To upload snippets or files use: www.github.com/a-sync/slackfu)
-* [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
-* [webdna/serverpilot-scripts](https://github.com/webdna/serverpilot-scripts) - A collection of scripts for setting up various items / running tasks on serverpilot provisioned servers
-* [thelinuxchoice/tweetshell](https://github.com/thelinuxchoice/tweetshell) - Multi-thread Twitter BruteForcer in Shell Script
-* [sodiumjoe/dotfiles](https://github.com/sodiumjoe/dotfiles) - dotfiles
-* [scrathe/tardisIVR](https://github.com/scrathe/tardisIVR) - Project deprecated, see https://github.com/scrathe/plexEncode
-* [goodboy23/shell-script-collection](https://github.com/goodboy23/shell-script-collection) - shell脚本合集，地址：http://www.52wiki.cn/docs/shell/shell-1amsdgmu7q851
-* [dxd132630/Shell](https://github.com/dxd132630/Shell) - Shell scripts/programs for use in Liunx Systems. (CentOS/Redhat variants)
-* [thasmo/portableapps.cygwin](https://github.com/thasmo/portableapps.cygwin) - Portable version of Cygwin, a collection of tools which provide a Linux look and feel environment for Windows.
-* [sspreitzer/docker-shellinabox](https://github.com/sspreitzer/docker-shellinabox) - shellinabox for docker
-* [smileart/omg](https://github.com/smileart/omg) - One More Gear set to follow DRY principle and stop doing things again and again (just a nice name for my dotfiles)
-* [sgruhier/rake_cap_bash_autocomplete](https://github.com/sgruhier/rake_cap_bash_autocomplete) - Autocompletion for rake and cap for bash shell
-* [sds/dot](https://github.com/sds/dot) - Framework for managing multiple shell configurations and dot files.
-* [MacsInSpace/MacAppStoreRedist](https://github.com/MacsInSpace/MacAppStoreRedist) - Launchd and Script to watch the App Store Manifest and hard link downloads from the Mac App Store for redist.
-* [krispayne/CIS-Settings](https://github.com/krispayne/CIS-Settings) - CIS settings bootstrapper for Mac
-* [JNRowe/surfraw](https://github.com/JNRowe/surfraw) - Mirror of the upstream git repository
-* [jamf/icns-Creator](https://github.com/jamf/icns-Creator) - A shell script to create full .icns files
-* [jamesqo/sinister](https://github.com/jamesqo/sinister) - A cross-platform shell script installer.
-* [ithinkihaveacat/dotfiles](https://github.com/ithinkihaveacat/dotfiles) - Shell-related config files and scripts
-* [educabilia/bs](https://github.com/educabilia/bs) - An environment manager for your shell.
-* [connorworley/dotfiles](https://github.com/connorworley/dotfiles) - Dotfiles and shell scripts
-* [bosim/FedoraPrime](https://github.com/bosim/FedoraPrime) - This package provide similar functionality to nvidia-prime for Ubuntu, just for fedora, provide a shell script that will change to NVIDIA GPU and vice versa for Intel GPU
-* [BaReinhard/iOS-Audio-to-ChromeCast](https://github.com/BaReinhard/iOS-Audio-to-ChromeCast) - Audio Streaming from iOS devices to Google Chromecast/Home Audio Devices.
-* [ahackett/Oracle-DBA-Scripts](https://github.com/ahackett/Oracle-DBA-Scripts) - This is a collection of useful Oracle SQL and shell scripts that I frequently use
-* [zjhou/E2P](https://github.com/zjhou/E2P) - Email 2 Post: 监测并解析博客管理员邮件，自动部署博文，更新博客。（针对hexo博客系统）
-* [zeekay/zeesh](https://github.com/zeekay/zeesh) - 🐚 Putting the zee in your shell. A plugin-based framework for Zsh.
-* [windworst/openshit](https://github.com/windworst/openshit) - OpenStack Configure Shell Scipt
-* [wentmac/mysql_backup](https://github.com/wentmac/mysql_backup) - mysql数据库定时增量和全量备份的shell
-* [uriagassi/sash](https://github.com/uriagassi/sash) - Secure AWS Shell
-* [tests-always-included/tomdoc.sh](https://github.com/tests-always-included/tomdoc.sh) - Parse TomDoc'd shell scripts and generate pretty documentation from it
-* [shinriyo/breeze](https://github.com/shinriyo/breeze) - git tool for fish-shell
-* [rutchkiwi/copyzshell](https://github.com/rutchkiwi/copyzshell) - A plugin for oh-my-zsh to copy your shell configuration to another machine over ssh.
-* [pierlauro/playlist2links](https://github.com/pierlauro/playlist2links) - This bash script allows to extract video links from a youtube playlist
-* [mahmalsami/migrate-github-gitlab](https://github.com/mahmalsami/migrate-github-gitlab) - Shell script to migrate ALL your repo from Github to Gitlab in one shot
-* [lavoiesl/bash-templater](https://github.com/lavoiesl/bash-templater) - Very simple templating system that replace {{VAR}} by $VAR environment value, supports defines
-* [hashbang/shell-server](https://github.com/hashbang/shell-server) - #! shell server base images, ready to boot and allow user logins.
-* [chr4/shellrc](https://github.com/chr4/shellrc) - Shell dotfiles, conf.d stype, for multiple shells (bash, zsh)
-* [arcticicestudio/nord-terminator](https://github.com/arcticicestudio/nord-terminator) - An arctic, north-bluish clean and elegant Terminator color theme.
-* [waldyr/sublime-installer](https://github.com/waldyr/sublime-installer) - A Sublime Text Editor Installer made in shell script for the 2.0.1 version
-* [Tscherno/Fritzbox.sh](https://github.com/Tscherno/Fritzbox.sh) - Shell script to control AVM FritzBox(tm) router, getting information, smarthome etc... Use it from Homematic, CCU, whatever!
-* [s0wr0b1ndef/OSCP-note](https://github.com/s0wr0b1ndef/OSCP-note) - list of useful commands, shells and notes related to OSCP
-* [qindeli/NoWorkspaceShell](https://github.com/qindeli/NoWorkspaceShell) - 无WorkSpace的脚本
-* [oryband/dotfiles](https://github.com/oryband/dotfiles) - My working machine setup. Fork at will.
-* [neurobin/oraji](https://github.com/neurobin/oraji) - Oracle java installler script for linux
-* [mmone/marlintool](https://github.com/mmone/marlintool) - A shell script for setting up a standalone Marlin build environment on Raspberry Pi and Linux in general.
-* [mattstauffer/makeItCraft](https://github.com/mattstauffer/makeItCraft) - Shell script to build out Craft install quickly
-* [lmartinking/monkey-tail](https://github.com/lmartinking/monkey-tail) - A swiss army knife of commands and shell hacks, using @ as the prefix
-* [littlebizzy/slickstack](https://github.com/littlebizzy/slickstack) - SlickStack is a free LEMP stack automation script written in Bash designed to enhance and simplify WordPress provisioning, performance, and security.
-* [haxpor/aseprite-macos-buildsh](https://github.com/haxpor/aseprite-macos-buildsh) - Automated script to create latest release (either beta, or release whichever is newer) of Aseprite for macOS
-* [claranet/centos7-ami](https://github.com/claranet/centos7-ami) - Shell script to build CentOS 7 AMI
-* [cdax/setop](https://github.com/cdax/setop) - Set operations in the UNIX shell!
-* [bmc08gt/scripts](https://github.com/bmc08gt/scripts) - Scripts used to improve productivity and workflow
-* [blufro93/inline-onion-pi](https://github.com/blufro93/inline-onion-pi) - Shell script to create an onion-router for your Raspberry Pi from a stock Moebius image
-* [artofrawr/powerline-fonts](https://github.com/artofrawr/powerline-fonts) - Nerd fonts that I use for my shell & editor.
-* [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS & Linux), surfingkeys / tmux / screen / ideavimrc / phoenix
-* [sharat87/pip-app](https://github.com/sharat87/pip-app) - A set of shell functions to make it easy to install small apps and utilities distributed with pip.
-* [sammcj/kernel-ci](https://github.com/sammcj/kernel-ci) - Continuous integration for the Linux Kernel - Built within Docker
-* [PacBSD/abs](https://github.com/PacBSD/abs) - Collection of PKGBUILDS for PacBSD
-* [ousamabenyounes/ShellVhostManager](https://github.com/ousamabenyounes/ShellVhostManager) - Helps you managing LAMP basic needs (virtualHost, Ftp users, Mysql Database)
-* [opencultureconsulting/openrefine-batch](https://github.com/opencultureconsulting/openrefine-batch) - Shell script to run OpenRefine in batch mode (import, transform, export). It orchestrates OpenRefine (server) and a python client that communicates with the OpenRefine API.
-* [johnkeeping/git-integration](https://github.com/johnkeeping/git-integration) - Easily manage integration branches in Git
-* [imwally/scripts](https://github.com/imwally/scripts) - Various shell scripts to make my life easier.
-* [iaindooley/pickdrop](https://github.com/iaindooley/pickdrop) - A unix shell script which allows you to "pick" files one at a time and then drop them in one place
-* [h12w/gosweep](https://github.com/h12w/gosweep) - A shell script to do various checks on Go code.
-* [geidsvig/AnsiblePlaybooks](https://github.com/geidsvig/AnsiblePlaybooks) - Example project containing Ansible inventories, playbooks, plays, templates, and shell scripts.
-* [g763007297/GQResign](https://github.com/g763007297/GQResign) - ipa重签名(resign),只需一个证书的p12和一个mobileprovision文件就可以实现ipa的重签名
-* [fengfu/jtoolkit](https://github.com/fengfu/jtoolkit) - JToolkit是一个Java问题排查的工具集，通过集成各种Linux命令、Shell脚本、Java命令，以及各种第三方好用的工具(如VjTools、Async-profiler)，通过菜单界面和方便快捷的操作来帮助我们快速定位问题
-* [EXALAB/AnLinux-Resources](https://github.com/EXALAB/AnLinux-Resources) - Image and Script for LinuxOnAndroid App
-* [dwb/dogfish](https://github.com/dwb/dogfish) - A really simple migration manager for MySQL and PostgreSQL.
-* [decors/fish-ghq](https://github.com/decors/fish-ghq) - ghq completion and keybinding for fish shell
-* [davesque/s](https://github.com/davesque/s) - a simple shell script manager
-* [darrentu/convert-db-to-csv](https://github.com/darrentu/convert-db-to-csv) - convert-db-to-csv.sh is a shell script that uses SQLite3 to convert a .db file into .csv files. It converts each of the tables in the database into csv files.
-* [cuber/gfwlist2pac-shell](https://github.com/cuber/gfwlist2pac-shell) - Translate the gfwlist in base64 to efficient pac file
-* [client9/shlib](https://github.com/client9/shlib) - portable functions for posix shell environments
-* [antonioribeiro/artisan-anywhere](https://github.com/antonioribeiro/artisan-anywhere) - Execute Artisan from anywhere in your Laravel project tree
-* [xr09/rainbow.sh](https://github.com/xr09/rainbow.sh) - Simple colors for your bash scripts
-* [wuseman/WBRUTER](https://github.com/wuseman/WBRUTER) - wbruter is the first brute force tool that can guarantee anyone to succeed to crack any android device pin code aslong as usb debugging has been enable
-* [theonemule/no-ip](https://github.com/theonemule/no-ip) - A shell script that works as Dynamic Update Client (DUC) for noip.com
-* [strycore/scripts](https://github.com/strycore/scripts) - My collection of useful shell scripts
-* [ruyadorno/installme-osx](https://github.com/ruyadorno/installme-osx) - My personal script to setup a new OSX
-* [midwire/bash.env](https://github.com/midwire/bash.env) - Bash.env is a cascading Bash environment system for those who work on different hardware and OS environments.  Similar to oh-my-zsh but for Bash, and special sauce for those who work 'ssh' on remote machines.
-* [mattiabasone/tuning-primer](https://github.com/mattiabasone/tuning-primer) - MySQL performance tuning primer script (with MariaDB patch)
-* [manolo/shell2junit](https://github.com/manolo/shell2junit) -  utility which facilitates to generate junit reports for batch processes executed in shell scripts
-* [kernelp4nic/moonbox](https://github.com/kernelp4nic/moonbox) - Moonbox - Where your moon rocks live
-* [HoundstoothSTL/wordpress-starter](https://github.com/HoundstoothSTL/wordpress-starter) - A shell script for setting up wordpress core, dev theme, deployment scripts, local vhost and amazon S3 backups
-* [ferd/erl_crashdump_analyzer](https://github.com/ferd/erl_crashdump_analyzer) - shell script to analyze Erlang crash dumps and find some (generally) useful information.
-* [AndreBL/ip6neigh](https://github.com/AndreBL/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
-* [Allar/linux-perforce-installer](https://github.com/Allar/linux-perforce-installer) - A shell script that will automate setting up a perforce server on a linux host.
-* [aliz-ai/google-cloud-sdk-fish-completion](https://github.com/aliz-ai/google-cloud-sdk-fish-completion) - Google Cloud Platform SDK command line utilities shell completion for fish
-* [alexoslabs/HTTPSScan](https://github.com/alexoslabs/HTTPSScan) - Shell script for testing the SSL/TLS Protocols
-* [4679/serverchan-scripts](https://github.com/4679/serverchan-scripts) - 用于Server醬的一些shell脚本
-* [wuseman/WGLFTPD](https://github.com/wuseman/WGLFTPD) - This repo contains automated scripts for install glftpd, configuration files for glftpd and other script and tools for glftpd projects and other stuff that is for the warez scene
-* [springlie/smart_switcher](https://github.com/springlie/smart_switcher) - [TERMINAL ONLY] Auto-detect proxy switcher for http, https, ftp, rsync, git protocols. It supports many tools such as wget, yum, portage, brew ...
-* [snaptortoise/wordpress-quick-install](https://github.com/snaptortoise/wordpress-quick-install) - A shell script for quickly installing the latest version of WordPress + useful plugins into the current directory. A nice way to start any new WP project.
-* [rust-lang/rust-installer](https://github.com/rust-lang/rust-installer) - The Bourne shell installer used by Rust and Cargo
-* [plushu/plushu](https://github.com/plushu/plushu) - Pluggable Shell User
-* [petems/puppet-install-shell](https://github.com/petems/puppet-install-shell) - A shell script to install puppet on multiple distros
-* [MadhavBahlMD/shebang-everything](https://github.com/MadhavBahlMD/shebang-everything) - Your unofficial guidebook to shell scripting, give this repo a ⭐ if  it helped you :)
+
+### Mobile
+
+* [dsixda/Android-Kitchen](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux.
+* [Wooder/ios_17_required_reason_api_scanner](https://github.com/Wooder/ios_17_required_reason_api_scanner) - A simple shell script collection to scan your Xcode Swift project for required reason API usage to ensure privacy compliance and to simplify the creation of privacy manifests.
+* [hoaye/AutoPacking-iOS](https://github.com/hoaye/AutoPacking-iOS) - iOS自动打包脚本 多项选择 一行上传指定位置
+* [mpelteshki/Azule](https://github.com/mpelteshki/Azule) - iOS app-tweak injection CLI with 500+ stars and 10k+ release downloads. *(archived)*
+* [IGPenguin/mobile-toolkit](https://github.com/IGPenguin/mobile-toolkit) - 📱 Terminal tool for Android & iOS device management
+* [joelagnel/adeb](https://github.com/joelagnel/adeb) - A debian-based shell environment designed for Android and adb *(archived)*
+* [liuran001/GJZS](https://github.com/liuran001/GJZS) - 搞机助手·R（原「搞机助手重制版」） *(archived)*
+* [IzzySoft/Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB. Moved to https://codeberg.org/izzy/Adebar -- this is only a mirror now. *(archived)*
+* [crasowas/app_privacy_manifest_fixer](https://github.com/crasowas/app_privacy_manifest_fixer) - This tool is an automation solution based on Shell scripts, designed to analyze and fix the privacy manifest of iOS/macOS apps to ensure compliance with App Store requirements.
+* [crasowas/app_store_required_privacy_manifest_analyser](https://github.com/crasowas/app_store_required_privacy_manifest_analyser) - A shell script used to analyze privacy manifests in the specified directory to ensure that your app complies with the App Store requirements.
+* [matan-h/adb-shell](https://github.com/matan-h/adb-shell) - better `adb shell`
+* [powenn/AltServer-Linux-ShellScript](https://github.com/powenn/AltServer-Linux-ShellScript) - Make easier to use AltServer-Linux *(archived)*
+* [AlexeiCrystal/termux-shizuku-tools](https://github.com/AlexeiCrystal/termux-shizuku-tools) - Shizuku management utilities for Termux
+* [Kardelio/easy-dumpsys](https://github.com/Kardelio/easy-dumpsys) - Script that outputs this adb command: `adb shell dumpsys activity <package>` in a far smaller, easier & user-friendlier way...
+* [T-vK/android-svc](https://github.com/T-vK/android-svc) - Easy to use Android service wrapper
+* [davidramiro/gpay-gms-patch](https://github.com/davidramiro/gpay-gms-patch) - 💳 Shell script to make Google Pay work on rooted Android devices *(archived)*
+* [PaulKinlan/chromium-android-installer](https://github.com/PaulKinlan/chromium-android-installer) - Install Chromium Test Shell on Android
+
+### Applications and End User Tools
+
+* [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+* [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
+* [babun/babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
+* [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+* [todotxt/todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
+* [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
+* [hnarayanan/shpotify](https://github.com/hnarayanan/shpotify) - A command-line interface to Spotify.
+* [bugswriter/notflix](https://github.com/bugswriter/notflix) - Notflix is a shell script to search and stream torrent.
+* [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
+* [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
+* [decipher3114/Revancify](https://github.com/decipher3114/Revancify) - The only revancify *(archived)*
+* [justchokingaround/lobster](https://github.com/justchokingaround/lobster) - mmm lobster
+* [pstadler/ticker.sh](https://github.com/pstadler/ticker.sh) - Real-time stock tickers from the command-line.
+* [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
+* [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm *(archived)*
+* [hollystandring/dwm-bar](https://github.com/hollystandring/dwm-bar) - A modular statusbar for dwm *(archived)*
+* [vmavromatis/gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager) - A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
+* [caioricciuti/dev-cockpit](https://github.com/caioricciuti/dev-cockpit) - Get Under the Hood of Your Apple Silicon Dev cockpit was made for developers who want to see what's happening real-time.
+* [nichobi/sponsorblockcast](https://github.com/nichobi/sponsorblockcast) - A shell script that skips sponsored YouTube content on all local Chromecasts *(archived)*
+* [Roshan-R/termv](https://github.com/Roshan-R/termv) - A terminal iptv player written in bash
+* [tadly/hideIt.sh](https://github.com/tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
+* [huijunchen9260/dmenufm](https://github.com/huijunchen9260/dmenufm) - A simple file manager using dmenu
+* [dylanaraps/shfm](https://github.com/dylanaraps/shfm) - file manager written in posix shell *(archived)*
+* [kyle8998/Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity) - Boost your "productivity" to the max! A fun project made for slackers by slackers.
+* [synacktraa/ani-skip](https://github.com/synacktraa/ani-skip) - A script that offers an automated solution to bypass anime opening and ending sequences, enhancing your viewing experience by eliminating the need for manual intro and outro skipping.
+* [gavinlyonsrepo/cylon](https://github.com/gavinlyonsrepo/cylon) - A Terminal user interface for maintaining an Arch Linux distribution.
+* [EugeneDae/Force-Paste](https://github.com/EugeneDae/Force-Paste) - Paste text even when not allowed (password dialogs etc) in macOS
+* [mcthomas/Apple-Music-CLI-Player](https://github.com/mcthomas/Apple-Music-CLI-Player) - A simple command-line Apple Music controller script which includes a "Now Playing" widget function, a playback function, and a list-out function for your Mac's Music.app library, written in sh.
+* [htr-tech/bash2mp4](https://github.com/htr-tech/bash2mp4) - Video Downloader for Termux . *(archived)*
+* [hachibu/note.sh](https://github.com/hachibu/note.sh) - A simple shell script for managing your notes.
+* [haideralipunjabi/polybar-kdeconnect](https://github.com/haideralipunjabi/polybar-kdeconnect) - KDEConnect module for Polybar
+* [chenxiaolong/Unity-for-Arch](https://github.com/chenxiaolong/Unity-for-Arch) - Porting Ubuntu's Unity Shell to Arch Linux *(archived)*
+* [curtosis-org/phub-cli](https://github.com/curtosis-org/phub-cli) - Terminal-based PornHub browser inspired by ani-cli. Browse categories, search videos, and stream instantly in mpv without opening a browser.
+* [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
+* [rukshn/pomodoro](https://github.com/rukshn/pomodoro) - A simple pomodoro shell script
+* [lucascbeyeler/zmbackup](https://github.com/lucascbeyeler/zmbackup) - A reliable software written in Shell Script to help you in your daily task to backup and restore mails and accounts from Zimbra Open Source Email Platform.
+* [Utappia/uCareSystem](https://github.com/Utappia/uCareSystem) - An all-in-one, one click system maintenance application for Ubuntu/Debian operating systems and derivatives
+* [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager
+* [connermcd/gtd](https://github.com/connermcd/gtd) - A simple shell script for effective time management.
+* [thousandflowers/Raccoon](https://github.com/thousandflowers/Raccoon) - macOS companion toolkit for power users
+* [por-cli/por-cli](https://github.com/por-cli/por-cli) - ani-cli but for adult videos
+* [fengzmg/clean-my-mac](https://github.com/fengzmg/clean-my-mac) - Shell Scripts to clean my mac
+* [dyne/JaroMail](https://github.com/dyne/JaroMail) - Terminal UI email client to download, filter, search and archive messages off-line
+* [chrismdp/p](https://github.com/chrismdp/p) - A simple yet powerful pomodoro tracker in pure Shell
+* [LytixDev/tomatoshell](https://github.com/LytixDev/tomatoshell) - Pomodoro timer in the shell
+* [meribold/muccadoro](https://github.com/meribold/muccadoro) - 🍅 Pomodoro timer using figlet, cowsay, and optionally lolcat 🐮
+* [sjhcockrell/gsd](https://github.com/sjhcockrell/gsd) - WasteNoTime not working? A shell script to keep you distraction-free while you work.
+* [wick3dr0se/fml](https://github.com/wick3dr0se/fml) - :card_index_dividers: A stupid simple, fast TUI file manager written in BASH v4.2+
+* [n-ivkovic/tspreed](https://github.com/n-ivkovic/tspreed) - Terminal RSVP speed reader with Spritz-like functionality written in POSIX-compliant shell
+* [lonecloud/ssh-tools](https://github.com/lonecloud/ssh-tools) - :sob:没找到好用的shell工具:v:自己实现类似Xshell的部分功能
+* [ggustafsson/Tim](https://github.com/ggustafsson/Tim) - ⏰ Countdown timer with several modes written in Zsh shell script. ABANDONED PROJECT! *(archived)*
+* [Xerbo/furaffinity-dl](https://github.com/Xerbo/furaffinity-dl) - Command-line FurAffinity Downloader
+* [ShellShoccar-jpn/kotoriotoko](https://github.com/ShellShoccar-jpn/kotoriotoko) - KOTORIOTOKO (little bird man) -- Extremely Compatible and Sustainable Twitter Application Written in Shell Script
+* [six-ddc/v2ex-shell-client](https://github.com/six-ddc/v2ex-shell-client) - A v2ex command-line client for shell
+* [danishprakash/goodreadsh](https://github.com/danishprakash/goodreadsh) - Command line interface for Goodreads
+* [garrylachman/covid19-cli](https://github.com/garrylachman/covid19-cli) - Corona Virus (Covid 19) BASH Tracking CLI
+* [xcdkz/YT-Feeder](https://github.com/xcdkz/YT-Feeder) - Rofi-Based YouTube RSS Reader
+* [4lgn/word-lookup](https://github.com/4lgn/word-lookup) - Shell script to lookup the definition of currently selected word and send a dunst notification with the definitions
+* [asb/sh-todo](https://github.com/asb/sh-todo) - A minimal todo-list manager written in POSIX shell
+* [mvximenko/urlo](https://github.com/mvximenko/urlo) - URL shortener
 * [Madh93/conky-spotify](https://github.com/Madh93/conky-spotify) - :musical_note: Show current Spotify track in Conky (Cover, title...)
-* [madcoda/dotenv-shell](https://github.com/madcoda/dotenv-shell) - Use Dotenv in everything
-* [hibara/create-ios-all-icons-shellscript](https://github.com/hibara/create-ios-all-icons-shellscript) - Use Shell Script commands in only MacOSX for generating all icons that need to build iOS app.
-* [haikieu/shell-progressbar](https://github.com/haikieu/shell-progressbar) - Make a progress bar GUI on terminal platform (Shell script)
-* [franks42/lein-repls](https://github.com/franks42/lein-repls) - A persistent repl-server as a leiningen task/plugin "lein repls" and a lightweight shell-script client "cljsh".
-* [fishgretel/fasd](https://github.com/fishgretel/fasd) - Plugin for fish-shell to integrate fasd
-* [corpsee/phpell](https://github.com/corpsee/phpell) - [ABANDONED] Vagrant VM with bash(shell) provision for PHP development
-* [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
-* [arunoda/fastai-shell](https://github.com/arunoda/fastai-shell) - A workflow to setup and use fastai on Google Cloud Platfrom
-* [vlevit/transmission-batch-move](https://github.com/vlevit/transmission-batch-move) - Simple shell script to rename all Transmission destination paths at once (by editing resume files)
-* [TrevorS/keyway](https://github.com/TrevorS/keyway) - A simple Bash lock file library.
-* [springlie/cecho](https://github.com/springlie/cecho) - Self-adapting color echo wrapper for shell.
-* [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A shell script that uploads/deletes images to/from IMGUR.
-* [progrhyme/shove](https://github.com/progrhyme/shove) - Prove-like Test Tool for Shell Scripts
-* [nodesocket/cryptr](https://github.com/nodesocket/cryptr) - A simple shell utility for encrypting and decrypting files.
-* [KimDarren/git-faker](https://github.com/KimDarren/git-faker) - :ghost: You can be the best GIT-COMMITTER in the planet.
-* [jgigault/42MapGenerator](https://github.com/jgigault/42MapGenerator) - Generate FdF maps of the real world, the Earth's moon and the planet Venus for the project Fil de Fer
-* [jamestomasino/dotfiles](https://github.com/jamestomasino/dotfiles) - My dotfiles
-* [IsaacSchemm/netbootcd](https://github.com/IsaacSchemm/netbootcd) - The build files for NetbootCD (except the CorePlus ISO)
-* [grantlucas/Logger-TXT](https://github.com/grantlucas/Logger-TXT) - Logger TXT is a small, shell based tool to log activities throughout the day to a simple, portable text file, along with the date/time. Options are available to log a specific entry under a type and project. All entries are stored in log.txt which is automatically created in the folder where logger.sh resides.
-* [emcrisostomo/jwt-cli](https://github.com/emcrisostomo/jwt-cli) - A shell library to decode JWT tokens
-* [DevoOverkill9/shell_lover](https://github.com/DevoOverkill9/shell_lover) - A reverse shell cheat-sheet tool
-* [close2/shell-xmpp-client](https://github.com/close2/shell-xmpp-client) - Xmpp client written in bash / ash (openwrt).  It's only dependency is ncat (or similar) for the actual ssl connection.
-* [bt3gl/Shell-Scripts_and_Dotfiles](https://github.com/bt3gl/Shell-Scripts_and_Dotfiles) - 🐯Some dot files and shell scripts. 🐯
-* [appleboy/Shell-Script](https://github.com/appleboy/Shell-Script) - Shell Script  on FreeBSD or Ubuntu
-* [AlekseyKorzun/php-audit](https://github.com/AlekseyKorzun/php-audit) - phpAudit is a simple shell script that scans PHP files for possible security risks.
-* [yardnsm/dotfiles](https://github.com/yardnsm/dotfiles) - :zap: Welcome to my world.
-* [strawp/web-shells](https://github.com/strawp/web-shells) - Web shells for use in penetration testing
-* [smartupio/aws-vpn-mikrotik](https://github.com/smartupio/aws-vpn-mikrotik) - Shell script to transform a Generic AWS VPN configuration guide to MikroTik specific set up commands that can be copy pasted into a mikrotik console to set up the customer end of the connection.
-* [sheharyarn/dotfiles](https://github.com/sheharyarn/dotfiles) - :package: My Configs and Dotfiles
-* [raimue/ssl-cert-check](https://github.com/raimue/ssl-cert-check) - Check expiry dates of local and remote SSL certificates
-* [mig1984/bashible](https://github.com/mig1984/bashible) - Simple bash DSL framework for writing shell scripts safe and agile.
-* [meetbill/shell_menu](https://github.com/meetbill/shell_menu) - 🛠 统一管理脚本框架(本框架中已含一些运维安全工具脚本)【CentOS】
-* [Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr](https://github.com/Jenking-Zhang/shell_for_ss_ssr_ssrr_kcptun_bbr) - A shell for Shadowsocks-libev/ShadowsocksR/ShadowsocksRR/KCPTUN/BBS-OPENVZ install
-* [hhstore/awesome-script](https://github.com/hhstore/awesome-script) - 常用的 shell 脚本,包括 centos, Ubuntu, Mac osx, 以及 Docker, Python 等常用软件的安装, 配置, 开发环境搭建的脚本.
-* [herrbischoff/dotpr0n](https://github.com/herrbischoff/dotpr0n) - Dotfiles for macOS, FreeBSD, Linux, fish, tmux, custom functions and lots more. Peekaboo!
-* [freedev/macosx-script-boot-shutdown](https://github.com/freedev/macosx-script-boot-shutdown) - This project is useful to execute a shell script during Mac OS X boot or shutdown.
-* [er0/lolfish](https://github.com/er0/lolfish) - the most colorful fish shell prompt
-* [Drapegnik/env](https://github.com/Drapegnik/env) - :wrench: Repo for storing my environment settings, dotfiles and etc.
-* [devilbox/watcherd](https://github.com/devilbox/watcherd) - A shell daemon that will listen for directory changes and execute custom commands for each event.
-* [daenney/rbenv](https://github.com/daenney/rbenv) - Rbenv support plugin for fish-shell
-* [Crabbit/shell](https://github.com/Crabbit/shell) - My shell scripts.
-* [Becavalier/SHDB](https://github.com/Becavalier/SHDB) - SHDB - A simple, lightweight key-value pair db for shell in linux-like systems.
-* [arbabnazar/Automated-LAMP-Installation](https://github.com/arbabnazar/Automated-LAMP-Installation) - This shell script will install the LAMP Stack interactively
-* [alphabetum/hosts](https://github.com/alphabetum/hosts) - A command line tool for managing hosts file entries.
-* [AlanBarber/jbh](https://github.com/AlanBarber/jbh) - (JBH) Jekyll Blog Helper - A shell script to help manage a jekyll weblog site
-* [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
-* [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple Program for customizing the termux font and color theme...
-* [yukinying/chrome-headless-travis-build](https://github.com/yukinying/chrome-headless-travis-build) - Continuously building chrome headless shell and docker image.
-* [youyouYoung/shell](https://github.com/youyouYoung/shell) - 介绍一些有关与Bash Shell的内容。如Linux中的命令、Shell脚本的写法、Shell语言的知识。
-* [vfhky/shell-tools](https://github.com/vfhky/shell-tools) - Useful shell script in linux.
-* [Ventto/lux](https://github.com/Ventto/lux) - POSIX Shell script to easily control brightness on backlight-controllers.
-* [tjluoma/office2011](https://github.com/tjluoma/office2011) - A shell script to (download, if necessary) and install Office:Mac 2011 and any known updates without any user intervention.
-* [squidsolutions/aws-eb-shell](https://github.com/squidsolutions/aws-eb-shell) - Shell scripts for AWS ElasticBeanstalk components configuration, creation and administration
-* [renatosilva/colormake](https://github.com/renatosilva/colormake) - Colorized build output.
-* [PeterDaveHello/Unitial](https://github.com/PeterDaveHello/Unitial) - 🖥  My rc / configs / dotfiles 📂
-* [ohanhi/fish-elm-completions](https://github.com/ohanhi/fish-elm-completions) - Elm related completions for the friendly interactive shell
-* [nmaster/usdanl-sr28-mysql](https://github.com/nmaster/usdanl-sr28-mysql) - A simple shell script to import the USDA National Nutrient Database (Release SR-28) into a MySQL database.
-* [moll/sh-chnode](https://github.com/moll/sh-chnode) - Change between installed Node versions in your current shell.
-* [Microsoft/Build-PowerShell-DSC-for-Linux](https://github.com/Microsoft/Build-PowerShell-DSC-for-Linux) - Build projects required for DSC (Desired State Configuration)
-* [marmelo/streaming-pt](https://github.com/marmelo/streaming-pt) - Live TV and Radio shell scripts from Portugal.
-* [laughedelic/fish_logo](https://github.com/laughedelic/fish_logo) - 🐠Fish shell colorful ASCII-art logo
-* [iam-TJ/git-submodule-move](https://github.com/iam-TJ/git-submodule-move) - Easily move submodules within a git repository (shell script)
-* [heewa/bae](https://github.com/heewa/bae) - Emoji for the BA shell – use emoji as Environment Variables
-* [gitusrs/openssl-ios-build-shell-script](https://github.com/gitusrs/openssl-ios-build-shell-script) - Build openssl with shell script-only support to use on iOS, and bitcode is supported.
-* [dashaub/ARM-RStudio](https://github.com/dashaub/ARM-RStudio) - Compile RStudio for ARM Ubuntu 14.04 on Samsung Chromebook
-* [civisanalytics/iam-role-injector](https://github.com/civisanalytics/iam-role-injector) - Assumes an IAM role via awscli STS call, injecting temporary credentials into shell environment
-* [tony/.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
-* [ftpgrab/ftpgrab](https://github.com/ftpgrab/ftpgrab) - ⚡ Shell script to grab your files from a remote FTP server to your NAS / server / computer
-* [jonnyhsy/imagecrawler](https://github.com/jonnyhsy/imagecrawler) - An image crawler implemented in shell script
-* [arunvelsriram/kube-fzf](https://github.com/arunvelsriram/kube-fzf) - Shell commands using kubectl and fzf for command-line fuzzy searching of Kubernetes Pods.
-* [nidhoggfgg/termux-tools-install](https://github.com/nidhoggfgg/termux-tools-install) - This is a shell script that installs most of the termux tools with one key.
-* [developer-learning/learning-kubernetes](https://github.com/developer-learning/learning-kubernetes) - Learning Kubernetes ServiceMesh Istio
-* [stevenkaras/bashfiles](https://github.com/stevenkaras/bashfiles) - My personal bashfiles - bash prompt, dotfiles, etc
-* [muayyad-alsadi/docker-jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - Jump-box shell for Docker - secure remote ssh into containers with ACL
-* [Jaggle/Gitfool](https://github.com/Jaggle/Gitfool) - Gitfool (or Gitfull) is a shell command for you to fulfill your git commit log.
-* [alphabetum/bindle](https://github.com/alphabetum/bindle) - A configuration management tool for your personal unix-like computer.
-* [yulonghu/codedeploy](https://github.com/yulonghu/codedeploy) - shell代码部署系统
-* [virtualmin/virtualmin-install](https://github.com/virtualmin/virtualmin-install) - Shell script to perform a Virtualmin GPL or Professional installation
-* [stevenbenner/srcds-service](https://github.com/stevenbenner/srcds-service) - :godmode: Run SRCDS as a service on Linux.
-* [mdichirico/public-shell-scripts](https://github.com/mdichirico/public-shell-scripts) - Various shell scripts for use with CentOS specifically
-* [jfcherng/Sublime-ShellScriptImproved](https://github.com/jfcherng/Sublime-ShellScriptImproved) - [Deprecated] A better ShellScript (Bash) syntax highlight for Sublime Text >= 3143
-* [isao/shell](https://github.com/isao/shell) - various scripts and support files for noodling on the command line, esp bbedit, git, etc
-* [jorgebucaran/fish-shell-cookbook](https://github.com/jorgebucaran/fish-shell-cookbook) - Tips and recipes for fish, from shell to plate
-* [falconindy/asp](https://github.com/falconindy/asp) - Arch Build Source Management Tool
-* [jorgebucaran/shark](https://github.com/jorgebucaran/shark) - Sparkline generator for the fish-shell
-* [jorgebucaran/fish-spin](https://github.com/jorgebucaran/fish-spin) - Background job spinner for fish-shell
-* [jorgebucaran/FISH-get](https://github.com/jorgebucaran/FISH-get) - Interactive prompt reader for fish-shell
-* [lixuy/CloudXNS-DDNS-with-BashShell](https://github.com/lixuy/CloudXNS-DDNS-with-BashShell) - The CloudXNS DDNS with BashShell
-* [sorah/gentoo-build](https://github.com/sorah/gentoo-build) - shell scripts that builds systemd based gentoo box for x86_64 platform
-* [shkm/vssh](https://github.com/shkm/vssh) - :zap: Fast `vagrant ssh` in the current directory.
-* [perusio/nginx-spamhaus-drop](https://github.com/perusio/nginx-spamhaus-drop) - A shell script that creates a Nginx configuration for using Spamhaus DROP lists
-* [mk-fg/dracut-crypt-sshd](https://github.com/mk-fg/dracut-crypt-sshd) - dracut initramfs module to start sshd on early boot to enter encryption passphrase from across the internets
-* [lucapette/dotfiles](https://github.com/lucapette/dotfiles) - My configuration files
-* [georgetown-university/druml](https://github.com/georgetown-university/druml) - Drupal multisite management tool
-* [denyskoch/ienv](https://github.com/denyskoch/ienv) - Improved shell environment: sane dotfiles backed by my daily work optimized for solarized theme
-* [agilemation/Belkin-WeMo-Command-Line-Tools](https://github.com/agilemation/Belkin-WeMo-Command-Line-Tools) - Script to control the Belkin WeMo power switch, written entirely in shell and constructed out of commands that every computer should already have
-* [ZephrFish/RandomScripts](https://github.com/ZephrFish/RandomScripts) - Random Shell Scripts and other ideas I have along the way
-* [ueokande/shvm](https://github.com/ueokande/shvm) - A Version Manager for Shells
-* [rockyluke/docker-debian](https://github.com/rockyluke/docker-debian) - :whale: Shell script to create small docker images of Debian.
-* [jvz/psgrep](https://github.com/jvz/psgrep) - A simple little shell script to help with the "ps aux | grep" idiom.
-* [idan/autoenvfish](https://github.com/idan/autoenvfish) - Directory-based environments for the Fish shell
-* [goodevilgenius/dropbox-shell](https://github.com/goodevilgenius/dropbox-shell) - A BASH script to run scripts/programs on a remote machine via Dropbox.
-* [realestate-com-au/bash-my-aws](https://github.com/realestate-com-au/bash-my-aws) - Bash functions for managing AWS resources simply and easily
-* [AdrianDC/android_development_shell_tools](https://github.com/AdrianDC/android_development_shell_tools) - Development Shell Tools - http://adriandc.github.io/android_development_shell_tools
-* [spencerwooo/dotfiles](https://github.com/spencerwooo/dotfiles) - My dotfiles, including PowerShell scripts and `.zshrc`.
-* [jamfit/icns-Creator](https://github.com/jamfit/icns-Creator) - A shell script to create full .icns files
-* [tonyseek/pyenv-up](https://github.com/tonyseek/pyenv-up) - Works with pyenv and virtualenv in a new shell.
-* [tghs/sshfav.sh](https://github.com/tghs/sshfav.sh) - A shell script for connecting to your favourite SSH locations easily.
-* [teracyhq/sphinx-deployment](https://github.com/teracyhq/sphinx-deployment) - automatic setup and deployment for sphinx docs
-* [Seitk/Xcode-Cleanup-Script](https://github.com/Seitk/Xcode-Cleanup-Script) - a shell script to cleanup Xcode cache and tmp files
-* [Madh93/nvidia-led](https://github.com/Madh93/nvidia-led) - :flashlight: Awesome effects for NVIDIA GeForce GTX LEDs
-* [720kb/nginx-docker-container](https://github.com/720kb/nginx-docker-container) - nginx docker container :whale:
-* [nicolargo/openvpnscripts](https://github.com/nicolargo/openvpnscripts) - Shell scripts to control an OpenVPN server
-* [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
-* [spencerwooo/awesome-alias](https://github.com/spencerwooo/awesome-alias) - Some of my favorite aliases for my .zshrc
-* [superkojiman/dirtshell](https://github.com/superkojiman/dirtshell) - Provide a sort of shell-ish interface to make file directory traversal quicker and easier.
-* [rainchen/git-cmd-helpers](https://github.com/rainchen/git-cmd-helpers) - a bundle of shell-aliases and shell-functions for git
-* [posva/task-logger.sh](https://github.com/posva/task-logger.sh) - :art: shell library to log tasks with nice output. Supports zsh and bash
-* [kevinelliott/.dotfiles](https://github.com/kevinelliott/.dotfiles) - My Unix-like dot files for my shells
-* [JadedCtrl/shellTube](https://github.com/JadedCtrl/shellTube) - Full-featured POSIX shell YouTube client.
-* [imwally/starbucksconnect](https://github.com/imwally/starbucksconnect) - Connect to Starbucks WiFi without opening a browser.
-* [DFabric/DPlatform-DockerShip](https://github.com/DFabric/DPlatform-DockerShip) - Effortless container management
-* [angoca/db2-docker](https://github.com/angoca/db2-docker) - Docker image to run DB2 LUW
-* [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-* [blacklabelops/jenkins](https://github.com/blacklabelops/jenkins) - Docker Jenkins Swarm-Ready with HTTPS
-* [fisherman/spin](https://github.com/fisherman/spin) - Background job spinner for fish-shell
-* [zeit/install-node.now.sh](https://github.com/zeit/install-node.now.sh) - Simple one-liner shell script that installs official Node.js binaries
-* [TwiterZX/Xcode-plugins-update](https://github.com/TwiterZX/Xcode-plugins-update) - Shell script that adds current Xcode UUID to plugins
-* [spencerwoo98/awesome-alias](https://github.com/spencerwoo98/awesome-alias) - Some of my favorite aliases for my .zshrc
-* [DrewRWx/assh](https://github.com/DrewRWx/assh) - Send your shell preferences to a shared account for an SSH session.
-* [cal2195/q](https://github.com/cal2195/q) - q - vim like macro registers for your bash and zsh shell!
-* [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
-* [chase-miller/virtualbox-snapshot-create](https://github.com/chase-miller/virtualbox-snapshot-create) - Shell script to create a virtualbox snapshot
-* [brandoconnor/nagios_commander](https://github.com/brandoconnor/nagios_commander) - A simple bash wrapper for the craptastic Nagios API
-* [appleboy/dotfiles](https://github.com/appleboy/dotfiles) - Bootstrap for your terminal on Linux or FreeBSD
-* [magenx/Interactive-Magento-2-Server-Installation](https://github.com/magenx/Interactive-Magento-2-Server-Installation) - Interactive Magento 2 Server Installation - How to Install Magento 2
-* [dsifford/yarn-completion](https://github.com/dsifford/yarn-completion) - Shell autocompletion for Yarn
-* [fisherman/done](https://github.com/fisherman/done) - A fish plugin to automatically receive notifications when long processes finish.
-* [ghaiklor/iterm-fish-fisherman-osx](https://github.com/ghaiklor/iterm-fish-fisherman-osx) - Complete guide and Bash script to install Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisherman + Plugins for development purposes
-* [zeroc-ice/ice-builder-xcode](https://github.com/zeroc-ice/ice-builder-xcode) - Shell script to compile Slice files to C++ or Objective-C in Xcode
-* [deterenkelt/dotfiles](https://github.com/deterenkelt/dotfiles) - for i3 WM, bash, urxvt, Sublime etc.
-* [YKilin/nhentai-one-key-downloader](https://github.com/YKilin/nhentai-one-key-downloader) - 一个可以一键下载nhentai本子的纯shell脚本。A pure shell script that can easily download comics from nhentai.
-* [szepeviktor/wplib](https://github.com/szepeviktor/wplib) - wp-cli wrapper shell scripts to manage multiple sites with sudo
-* [Mte90/My-Scripts](https://github.com/Mte90/My-Scripts) - My collection of my homemade scripts (or not)
-* [miteshashar/nginx_vhosts](https://github.com/miteshashar/nginx_vhosts) - Shell script to add a new vhost on nginx. Modifying the shell script available on http://www.sebdangerfield.me.uk/2012/05/nginx-and-php-fpm-bash-script-for-creating-new-vhosts-under-separate-fpm-pools/  to suit my needs.
-* [JayBrown/minisign-misc](https://github.com/JayBrown/minisign-misc) - macOS workflows and shell scripts to verify and sign files with minisign
-* [inkarkat/todo.txt-cli-ex](https://github.com/inkarkat/todo.txt-cli-ex) - A set of extensions for todo.txt-cli, a shell script for managing your todo.txt file.
-* [GoogleCloudPlatform/solutions-google-compute-engine-cluster-for-grid-engine](https://github.com/GoogleCloudPlatform/solutions-google-compute-engine-cluster-for-grid-engine) -  Grid Engine on Compute Engine provides a shell script to manage a Compute Engine cluster along with instructions on how to install and configure Sun Grid Engine on the Compute Engine cluster
-* [fisherman/fisherman](https://github.com/fisherman/fisherman) - The fish-shell plugin manager.
-* [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Unix shell, GPG-based password manager
-* [tuvistavie/fundle](https://github.com/tuvistavie/fundle) - A minimalist package manager for fish shell
-* [magenx/Magento-Automated-Server-Configuration-from-MagenX](https://github.com/magenx/Magento-Automated-Server-Configuration-from-MagenX) - Magento Interactive Server Configuration - How to Install Magento
-* [fisherman/nvm](https://github.com/fisherman/nvm) - fish-shell nvm wrapper
-* [jsarenik/spf-tools](https://github.com/jsarenik/spf-tools) - Scripts for taming the SPF (Sender Policy Framework) records in DNS in order to fight 10-maximum-DNS-look-ups limit.
-* [fisherman/pyenv](https://github.com/fisherman/pyenv) - Pyenv support plugin for fish-shell
-* [prakashdanish/goodreadsh](https://github.com/prakashdanish/goodreadsh) - :hibiscus: Command line interface for Goodreads
-* [fisherman/rbenv](https://github.com/fisherman/rbenv) - Rbenv support plugin for fish-shell
-* [molovo/lumberjack](https://github.com/molovo/lumberjack) - Lumberjack is a logging interface for shell scripts
-* [hut/lscd](https://github.com/hut/lscd) - ranger-clone in POSIX shell
-* [winder/svgToDxf](https://github.com/winder/svgToDxf) - Shell script that uses inkscape and pstoedit to convert svgToDxf
-* [theskumar/dotfiles](https://github.com/theskumar/dotfiles) - ~/.* with ♥
-* [sund/auto-mysql-backup](https://github.com/sund/auto-mysql-backup) - a wrapper for automysqlbackup
-* [sonicdoe/uberspace-goodies](https://github.com/sonicdoe/uberspace-goodies) - A few useful Uberspace shell scripts.
-* [skyseraph/PlistAutoCreate](https://github.com/skyseraph/PlistAutoCreate) - A shell script for auto create plist and html publish file for iOS app.
-* [shaoshuai0102/properties-parser](https://github.com/shaoshuai0102/properties-parser) - This is a shell script to parse variables from a properties file
-* [joehillen/to-fish](https://github.com/joehillen/to-fish) - Bookmarks for Fish Shell
-* [jnaqsh/ffmpeg_installer](https://github.com/jnaqsh/ffmpeg_installer) - A Linux Shell Script for compiling, installing and uninstalling FFmpeg in CentOS
-* [hashbang/shell-etc](https://github.com/hashbang/shell-etc) - /etc directory from our shell servers, managed via etckeeper
-* [atorman/elfBash](https://github.com/atorman/elfBash) - Sample starter bash shell scripts for event log files
-* [heyuan110/BashShell](https://github.com/heyuan110/BashShell) - XcodeBuild命令行打包
-* [Rajkumrdusad/Tool-X](https://github.com/Rajkumrdusad/Tool-X) - Tool-X is a kali linux hacking Tool installer.
-* [AresS31/wirespy](https://github.com/AresS31/wirespy) - Tool for hacking wireless networks.
-* [faviouz/fix-spotify-icon](https://github.com/faviouz/fix-spotify-icon) - :musical_note: Shell script to fix the Spotify icon in Ubuntu.
-* [wilsonmar/git-utilities](https://github.com/wilsonmar/git-utilities) - :octocat: Shell scripts to work with git repos
-* [rkalis/dotfiles](https://github.com/rkalis/dotfiles) - macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
-* [patrick330602/wslu](https://github.com/patrick330602/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-* [robertoreale/bashlets](https://github.com/robertoreale/bashlets) - An experiment in extending the command-line interface.
-* [tortuvshin/installer](https://github.com/tortuvshin/installer) - Installer is a collection of bash scripts to install apps on ubuntu
-* [TACC/launcher](https://github.com/TACC/launcher) - A simple utility for executing multiple sequential or multi-threaded applications in a single multi-node batch job
-* [rockyluke/docker-ubuntu](https://github.com/rockyluke/docker-ubuntu) - :whale: Shell script to create small docker images of Ubuntu.
-* [robmoggach/webfaction-meteor](https://github.com/robmoggach/webfaction-meteor) - provides wfmtr shell script for deploying M&M stack (Mongo/Node/Meteor) to Webfaction servers
-* [rafaelsteil/jetty-zero-downtime-deploy](https://github.com/rafaelsteil/jetty-zero-downtime-deploy) - An utility shell script to deploy new applications to Jetty with the apparent impression of zero downtime
-* [loopbit/autoenv_fish](https://github.com/loopbit/autoenv_fish) - Directory-based environments for fish shell users
-* [kuno/npm-zsh-completion](https://github.com/kuno/npm-zsh-completion) - npm zsh completon shell script
-* [airhorns/hook](https://github.com/airhorns/hook) - Simple configuration management and plugins for the fish shell.
-* [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-* [hectorm/hBlock](https://github.com/hectorm/hBlock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-* [Alex7Kom/nvm-fish](https://github.com/Alex7Kom/nvm-fish) - Node Version Manager for fish shell - **NO LONGER MAINTAINED, DO NOT USE** - Use https://github.com/edc/bass instead to wrap the original nvm.
-* [tofi86/universalJavaApplicationStub](https://github.com/tofi86/universalJavaApplicationStub) - An alternative Application Launcher (shell script) for Java Apps on Mac OS X that works with both Apple's and Oracle's plist format and Java 6, 7 and 8. Plus it supports drag&drop to the Dock icon.
-* [budRich/i3ass](https://github.com/budRich/i3ass) - A collection of shell scripts I have made to ease the use of i3wm
-* [zfl9/gfwlist2privoxy](https://github.com/zfl9/gfwlist2privoxy) - gfwlist2privoxy shell脚本，自动转换为privoxy的格式
-* [rcmorano/docker-autocommit](https://github.com/rcmorano/docker-autocommit) - Spawns an interactive 'bash' shell on a given docker's image:tag and starts to monitor its '.bash_history' commiting changes to a timestamped 'Dockerfile'.
-* [pilebones/backdoorBash](https://github.com/pilebones/backdoorBash) - Unix remote-shell backdoor develop with Bash, Netcat, OpenSSL (data encryption with AES-128bit)
-* [jmcclare/jm-shell](https://github.com/jmcclare/jm-shell) - A highly informative, customized Bash shell.
-* [irazasyed/zray-installer](https://github.com/irazasyed/zray-installer) - Zend Z-Ray Easy Installer for Laravel Homestead
-* [dmerand/dlm-dot-bin](https://github.com/dmerand/dlm-dot-bin) - A collection of shell scripts that I've written to help me out.
-* [benjick/Minecraft-Autobackup](https://github.com/benjick/Minecraft-Autobackup) - Fork from Justin Smith's script
-* [zeke/ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory
-* [zant95/hBlock](https://github.com/zant95/hBlock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-* [samrayleung/Oh-my-unix](https://github.com/samrayleung/Oh-my-unix) - A shell script to install awesome command for *nix platform and set them up
-* [Zmbackup/zmbackup](https://github.com/Zmbackup/zmbackup) - A reliable Bash shell script developed to help you in your daily task to backup and restore mails and accounts from Zimbra Open Source Email Platform.
-* [AladW/aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
-* [bt3gl/Dotfiles-and-Bash-Examples](https://github.com/bt3gl/Dotfiles-and-Bash-Examples) - Some dot and bash files: bashrc, sublime, and many of my shell scripts.
-* [mikesplain/openvas-docker](https://github.com/mikesplain/openvas-docker) - A Docker container for Openvas
-* [DFabric/DPlatform-ShellCore](https://github.com/DFabric/DPlatform-ShellCore) - Deploy self-hosted apps easily: simple, bloat-free, independent installation
-* [bashlets/bashlets](https://github.com/bashlets/bashlets) - A modular extensible toolbox for Bash.
-* [kutsan/dotfiles](https://github.com/kutsan/dotfiles) - My dotfiles: Experimental, ongoing configuration files and scripts for various Unix-like systems, text-based command-line applications and interfaces.
-* [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
-* [Tadly/hideIt.sh](https://github.com/Tadly/hideIt.sh) - Automagically hide/show a window by its name when the cursor is within a defined region or you mouse over it.
-* [gheift/letsencrypt.sh](https://github.com/gheift/letsencrypt.sh) - a linux shell script to sign certifactes by the letsencrypt CA
-* [lucascbeyeler/zmbackup](https://github.com/lucascbeyeler/zmbackup) - A reliable Bash shell script developed to help you in your daily task to backup and restore mails and accounts from Zimbra Open Source Email Platform.
-* [gregnavis/bash-ctx](https://github.com/gregnavis/bash-ctx) - Context-aware bash
-* [tnm/shql](https://github.com/tnm/shql) - shell sql
-* [denysdovhan/spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme) - :star: :rocket: An “Oh My ZSH!” theme for Astronauts.
-* [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - ZSH port of the FISH shell's history search :tropical_fish:
-* [brianreumere/gandi-automatic-dns](https://github.com/brianreumere/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
-* [cwaffles/ezpptp](https://github.com/cwaffles/ezpptp) - Easy PPTP VPN setup script for Debian based VPS
-* [willemdh/FireMotD](https://github.com/willemdh/FireMotD) - :fire: Fire Framework Linux MoTD Generator :fire:
-* [tylucaskelley/setup.sh](https://github.com/tylucaskelley/setup.sh) - Get your Mac ready for software development
-* [DingGuodong/LinuxBashShellScriptForOps](https://github.com/DingGuodong/LinuxBashShellScriptForOps) - Linux Bash Shell Script and Python Script For Ops and Devops
-* [jekyll/docker](https://github.com/jekyll/docker) - :ship: Docker images and builders for Jekyll.
-* [mmmwhy/ss-panel-and-ss-py-mu](https://github.com/mmmwhy/ss-panel-and-ss-py-mu) - ss-panel 和ss-panel v3 mod魔改版一键脚本
-* [w0ng/dotfiles](https://github.com/w0ng/dotfiles) - Config files for OSX (master) and archlinux (archlinux)
-* [svnpenn/sage](https://github.com/svnpenn/sage) - Cygwin package manager
-* [the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts) - My awesome scripts for Ubuntu Gnome latest LTS.
-* [svnpenn/yacht](https://github.com/svnpenn/yacht) - Home directory
-* [rafritts/BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Shell scripts - namely Bash.
-* [svnpenn/a](https://github.com/svnpenn/a) - It doesn’t stand for anything. It does stand for anything.
-* [shellscriptx/ShellBot](https://github.com/shellscriptx/ShellBot) - API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
-* [ginatrapani/todo.txt-cli](https://github.com/ginatrapani/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
-* [bill-mavromatis/gnome-layout-manager](https://github.com/bill-mavromatis/gnome-layout-manager) - A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.
-* [logotype/useful-unix-stuff](https://github.com/logotype/useful-unix-stuff) - a collection of useful unix commands/scripts/etc.
-* [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - :abcd: Iconic font aggregator, collection, and patcher: 37 patched fonts (71.4k+ variations). Includes popular glyph collections such as Font Awesome & fonts such as Hack
-* [fribmendes/geometry](https://github.com/fribmendes/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
-* [yongye/shell](https://github.com/yongye/shell) - Tetris Game // The Art Of Shell Programming
-* [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used in bash/fish as well.
-* [key-amb/shove](https://github.com/key-amb/shove) - Prove-like Test Tool for Shell Scripts
-* [ttsiodras/utils](https://github.com/ttsiodras/utils) - Short shell/perl/python utils I wrote that I use every day.
-* [chilicuil/shundle](https://github.com/chilicuil/shundle) - shundle is a plugin manager for general purpose shells
-* [trevordmiller/settings](https://github.com/trevordmiller/settings) - Trevor's personal device settings
-* [githubbrowser/Pre-commit-hooks](https://github.com/githubbrowser/Pre-commit-hooks) - A set of useful (and documented!) git pre-commit hooks.
-* [kennethreitz/autoenv](https://github.com/kennethreitz/autoenv) - Directory-based environments.
-* [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm) - Instructions and script to help you create a VirtualBox VM running macOS.
-* [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-* [kalbhor/thirsty](https://github.com/kalbhor/thirsty) - :hourglass: zsh/bash script to remind you to drink water.
-* [MakeNowJust/bashcached](https://github.com/MakeNowJust/bashcached) - memcached built on bash + socat
-* [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
-* [fisherman/shark](https://github.com/fisherman/shark) - Sparkline generator for fish, inspired by @holman's Spark
-* [SeedJobs/micromanage](https://github.com/SeedJobs/micromanage) - A Micro-services Helpers Framework | Easily manage multiple repositories and projects
-* [TS3Tools/TS3UpdateScript](https://github.com/TS3Tools/TS3UpdateScript) - Automate all update processes for your TeamSpeak 3 server instances
-* [tlrobinson/wwwoosh](https://github.com/tlrobinson/wwwoosh) - A simple web server and Sinatra-like microframework written in shell script. Why? WHY NOT?
-* [geraldoramos/pigeon](https://github.com/geraldoramos/pigeon) - Pigeon is a simple 3D printed cloud home surveillance camera project that uses the new Raspberry Pi Zero W
-* [jasonheecs/ubuntu-server-setup](https://github.com/jasonheecs/ubuntu-server-setup) - A setup script for Ubuntu servers
-* [fisherman/fin](https://github.com/fisherman/fin) - Simple plugin manager for fish
-* [Macdeviant/MacAppStoreRedist](https://github.com/Macdeviant/MacAppStoreRedist) - Launchd and Script to watch the App Store Manifest and hard link downloads from the Mac App Store for redist.
-* [Stratus3D/dotfiles](https://github.com/Stratus3D/dotfiles) - My dotfiles
-* [InternetGuru/omgf](https://github.com/InternetGuru/omgf) - Use Git Flow with ease – maintain branches, semantic versioning, releases, and changelog with a single command.
-* [fangwentong/dotfiles](https://github.com/fangwentong/dotfiles) - 配置文件 vim/zsh/git/tmux/subl etc.
-* [gongo/tpdiff](https://github.com/gongo/tpdiff) - Colorize 🎨 different attribute lines at execution result of `terraform plan`.
-* [lakshaykalbhor/thirsty](https://github.com/lakshaykalbhor/thirsty) - :hourglass: zsh/bash script to remind you to drink water.
-* [frmendes/geometry](https://github.com/frmendes/geometry) - geometry is a minimal, fully customizable and composable zsh prompt theme
-* [rpav/ScriptL](https://github.com/rpav/ScriptL) - Shell scripting made Lisp-like!  Or, live-coding remote function calls for the shell.
-* [Angelmmiguel/pm](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell
-* [tjluoma/po.sh](https://github.com/tjluoma/po.sh) - A Zsh shell client for https://pushover.net
-* [tjluoma/pkginstall](https://github.com/tjluoma/pkginstall) - shell script for installing packages via Mac OS X's `installer` program instead of GUI
-* [tjluoma/dropbox-pause-unpause](https://github.com/tjluoma/dropbox-pause-unpause) - A shell script to programmatically "pause" and "unpause" Dropbox on Mac OS X
-* [pbrisbin/scripts](https://github.com/pbrisbin/scripts) - shell scripts
-* [MediaCrush/MediaCrush-cli](https://github.com/MediaCrush/MediaCrush-cli) - A bash script for working with MediaCrush from a shell
-* [dictvm/shellscripts](https://github.com/dictvm/shellscripts) - (personal) shell scripts that may vary in quality. Consider them untested. uberspace-*-scripts are deprecated.
-* [comwt/git-info-bar](https://github.com/comwt/git-info-bar) - Renamed from 'bash-git', git-info-bar is a Git shell plugin endeavoring to provide a fast and pronounced view of various git attributes for your working copy of a repository.
-* [Andrew8xx8/shell-games](https://github.com/Andrew8xx8/shell-games) - Simple games writen in bash. Just for lulz.
-* [zar-nicolas20/GlyphsApp-Package-Install](https://github.com/zar-nicolas20/GlyphsApp-Package-Install) - Bash shell to install most of the Scripts and Pluging of Glyphs App
-* [ohookins/flickr-shell-uploader](https://github.com/ohookins/flickr-shell-uploader) - Extremely simple and naive shell-based Flickr photo uploader
-* [MiteshShah/Scripts](https://github.com/MiteshShah/Scripts) - My Collection Of Shell Scripts
-* [cloudspace-devops/packer-shell-scripts](https://github.com/cloudspace-devops/packer-shell-scripts) - Cloudspace DevOps shell scripts for configuring packer builds.
-* [woutervddn/SpotifyScrapeAndDownload](https://github.com/woutervddn/SpotifyScrapeAndDownload) - this repo contains a perl script that converts a spotify uri to a playlist of tracks and artists; a shell scripts that gives the most likely youtube url for a given query and a shell script that combines the two and downloads all songs from a spotify uri via youtube
-* [sksmatt/Install-WP-from-CLI](https://github.com/sksmatt/Install-WP-from-CLI) - Shell snippet to install the latest version of WordPress from the CLI.
-* [robottrouble/STLRender](https://github.com/robottrouble/STLRender) - Shell script to convert STL files to POVRay rendered images
-* [patrickd-/ooengine](https://github.com/patrickd-/ooengine) - Intuitive pseudo object orientation for bash (Object oriented Shell Script)
-* [MauriceGit/Repeat_History](https://github.com/MauriceGit/Repeat_History) - A small but useful command for a linux shell. It makes the bash history more easily accessible than cmd+r.
-* [MattiSG/DotFiles](https://github.com/MattiSG/DotFiles) - Aliases, functions and shell utilities.
-* [loadsys/CakePHP-Shell-Scripts](https://github.com/loadsys/CakePHP-Shell-Scripts) - Reusable CakePHP project shell scripts.
-* [dermdaly/listdevs](https://github.com/dermdaly/listdevs) - Shell Script to list devices a ipa file has been signed for
-* [xox2/chocomint](https://github.com/xox2/chocomint) - Simple, powerful, flexible, comment-based Testing Framework for your command-line tools or shell scripts on Bash 4.x
-* [stuartervine/xcode-sh](https://github.com/stuartervine/xcode-sh) - A basic shell script to run automated builds for iOS projects.
-* [ryanpcmcquen/config-o-matic](https://github.com/ryanpcmcquen/config-o-matic) - :wine_glass: Configure FreeSlack installs in no time with config-o-matic!
-* [nighto/flac2alac](https://github.com/nighto/flac2alac) - A shell script to convert FLAC (Free Lossless Audio Codec) files to ALAC (Apple Lossless Audio Codec)
-* [maxhebditch/batchgit](https://github.com/maxhebditch/batchgit) - A shell script for maintaining git repositories system wide
-* [lwr/personal](https://github.com/lwr/personal) - My personal configuration / shell tools
-* [kori/shell.d](https://github.com/kori/shell.d) - My shell configuration.
-* [flyhacker/codedeploy](https://github.com/flyhacker/codedeploy) - shell代码部署系统
-* [BTBurke/tarsnap-backup-osx](https://github.com/BTBurke/tarsnap-backup-osx) - A shell script and launchd config file to run daily backups on specified directories to tarsnap
-* [brandon-fryslie/rad-shell](https://github.com/brandon-fryslie/rad-shell) - Ultra fast, feature filled Zsh installation
-* [barrucadu/dotfiles](https://github.com/barrucadu/dotfiles) - My dotfiles and assorted other crap, managed with GNU Stow.
-* [aurora/identicon](https://github.com/aurora/identicon) - Shell script for creating identicons with direct SVG rendering or ImageMagick based rendering
-* [alexwasserman/GeekWeather2](https://github.com/alexwasserman/GeekWeather2) - Shell script to generate weather information using DarkSky.net API
-* [xobs/novena-image](https://github.com/xobs/novena-image) - Shell script to create a Novena image from scratch
-* [wrossmann/add-to-check_mk](https://github.com/wrossmann/add-to-check_mk) - Shell script to add new hosts to Check_MK via command line. [assumes OMD]
-* [voronianski/setup-osx-work-station](https://github.com/voronianski/setup-osx-work-station) - :gift: OS X machine setup shell script
-* [unwiredlabs/adept](https://github.com/unwiredlabs/adept) - Adept is a simple way to run commands & deploy apps on multiple servers using shell & SSH.
-* [timoschlueter/unblock-us-updater](https://github.com/timoschlueter/unblock-us-updater) - Simple Shell and/or Pyhton-Script to automatically send/update your current IP address to unblock-us.com
-* [ssaunier/dotfiles](https://github.com/ssaunier/dotfiles) - Dot files for my macbook setup (shell = zsh)
-* [ShellShoccar-jpn/shellshoccar1](https://github.com/ShellShoccar-jpn/shellshoccar1) - A shopping cart program written with Shellscript
-* [rocky/kshdb](https://github.com/rocky/kshdb) - Korn Shell (93t 2008-10-22 or greater) Debugger
-* [robertzk/hipchat.zsh](https://github.com/robertzk/hipchat.zsh) - A zsh plugin to send hipchat messages through shell
-* [nixsavy/shell-scripts](https://github.com/nixsavy/shell-scripts) - Linux shell scripts
-* [neutronth/speedtest-lite](https://github.com/neutronth/speedtest-lite) - shell script command line Internet bandwidth testing using speedtest.net
-* [nateober/Geektool-Scripts](https://github.com/nateober/Geektool-Scripts) - A collection of GeekTool shell scripts that I like to use on my Macs.
-* [mrrooijen/provisioner](https://github.com/mrrooijen/provisioner) - Provisioner is a collection of shell scripts, structured in a simple/modular way, that'll do the initial software installations and configurations on your remote server. It's very straightforward and easy to extend, when you look at the source code. The goal is to get a server (particularly for ruby web applications) up and running quickly after deploying a fresh server.
-* [makefu/array](https://github.com/makefu/array) - a POSIX-compliant implementation of arrays, once in 17 lines of shell.
-* [luminousmen/reset_migrations](https://github.com/luminousmen/reset_migrations) - :hocho: Clean up Django migrations with just one press
-* [lightquake/sandboxer](https://github.com/lightquake/sandboxer) - Shell script for managing cabal-dev sandboxes
-* [ieure/emacs-nightly](https://github.com/ieure/emacs-nightly) - A shell script to produce a build of Cocoa Emacs from CVS
-* [eug/import](https://github.com/eug/import) - A import system for shell script
-* [dalexj/mix_autocomplete](https://github.com/dalexj/mix_autocomplete) - Shell script to give autocomplete options with mix tasks
-* [caseyfw/nhldl](https://github.com/caseyfw/nhldl) - A shell script for downloading NHL.tv streams.
-* [capotej/kiev](https://github.com/capotej/kiev) - embeddable key/value database for shell scripting
-* [caiguanhao/baidu-maps-coord-utils](https://github.com/caiguanhao/baidu-maps-coord-utils) - Coordinates Utils for Baidu Maps in Shell. 利用BASH转换百度地图坐标
-* [BechtelCIRT/beholder](https://github.com/BechtelCIRT/beholder) - Beholder is a shell script which installs and configures essentials to peer into your network activity.
-* [BashtonLtd/centos7-ami](https://github.com/BashtonLtd/centos7-ami) - Shell script to build CentOS 7 AMI
-* [amineasli/chainsaw](https://github.com/amineasli/chainsaw) - A simple shell script that works in conjunction with iptables to help you fighting DDoS attacks
-* [AdrianDC/android_shell_tools](https://github.com/AdrianDC/android_shell_tools) - Various scripts I made to build Android and modules
-* [ziyaddin/jean](https://github.com/ziyaddin/jean) - Bored from installing tiny shell scripts and .dotfiles manually? Huh! Missing Shell Package Manager For Linux
-* [tuminoid/gitlabci-installer](https://github.com/tuminoid/gitlabci-installer) - OBSOLETE: Easy shell script for installing Gitlab CI and Gitlab CI Runner, with Vagrant or on metal.
-* [tiankonguse/bash-study](https://github.com/tiankonguse/bash-study) - shell学习笔记
-* [team-eureka/flashcast-flasher](https://github.com/team-eureka/flashcast-flasher) - The set of shell scripts which power FlashCast's mod framework
-* [rolandshoemaker/raziel](https://github.com/rolandshoemaker/raziel) - encrypted, self decrypting shell scripts
-* [recess/sandbox](https://github.com/recess/sandbox) - A collection of shell scripts to setup a system for serious PHP development.
-* [pmbuko/shell-building-blocks](https://github.com/pmbuko/shell-building-blocks) - Supporting material for my 2014 PSU MacAdmins session
-* [ning/ngsh](https://github.com/ning/ngsh) - Nagios Shell
-* [Mte90/Script](https://github.com/Mte90/Script) - My scripts
-* [mklement0/shall](https://github.com/mklement0/shall) - A CLI and REPL for invoking shell scripts or commands with multiple POSIX-like shells for portability testing.
-* [masudaK/dotfiles](https://github.com/masudaK/dotfiles) - Scripts serverd for shell and vim. Make env more comfortable.
-* [joh6nn/shrepl](https://github.com/joh6nn/shrepl) - posix shell port of repl
-* [joemiller/hudson_wrapper](https://github.com/joemiller/hudson_wrapper) - Shell script for wrapping External Hudson jobs (eg: cron jobs) and posting their results to Hudson
-* [henriquemoody/github-sh](https://github.com/henriquemoody/github-sh) - [discontinued] Interactive shell for Github.
-* [ekarlso/nim-vm](https://github.com/ekarlso/nim-vm) - Simple shell script to manage installation and alike of multiple Nim-lang versions
-* [dpoirier/runserver](https://github.com/dpoirier/runserver) - Shell script to quickly start a local Django project.
-* [djosephsen/shellbrato](https://github.com/djosephsen/shellbrato) - A proper shell library client for the Librato API
-* [Dinduks/change-execute-loop](https://github.com/Dinduks/change-execute-loop) - A minimal shell script that executes a given command each time a specified file or directory changes
-* [cobyism/ricochet](https://github.com/cobyism/ricochet) - Going beyond just dotfiles, but with Ansible.  o_O
-* [cbeams/shell-scripts](https://github.com/cbeams/shell-scripts) - Useful shell scripts
-* [briandealwis/p2-scripts](https://github.com/briandealwis/p2-scripts) - A set of shell scripts for manipulating and managing p2 repositories
-* [andyrblank/Commercial-Clapboard](https://github.com/andyrblank/Commercial-Clapboard) - This is a post processing BASH / Shell script designed for use with Tvheadend (tvheadend.org) to scan for commercials, transcode to H264 & cut commercials from the H264 file.
-* [0xAether/pipes](https://github.com/0xAether/pipes) - Terminal screensaver for GNU/Linux machines using the bash shell.
-* [vain/gitary](https://github.com/vain/gitary) - A simple diary using Git as its backend
-* [vaeth/push](https://github.com/vaeth/push) - A POSIX shell function to treat a variable like an array, quoting args.
-* [talkingmoose/LyncSetup](https://github.com/talkingmoose/LyncSetup) - Shell script and .plist files to populate user name, email address and server settings for Lync for Mac
-* [stefansundin/heroku-bash-completion](https://github.com/stefansundin/heroku-bash-completion) - :shell: Bash completion for Heroku.
-* [ShellGui/shellgui-old](https://github.com/ShellGui/shellgui-old) - A lightweight Linux System Web Control Panel write with Pure Shell CGI.
-* [okeeblow/aws-identity](https://github.com/okeeblow/aws-identity) - Amazon Web Services identity switching shell script to easily juggle multiple accounts
-* [oh-my-fish/plugin-technicolor](https://github.com/oh-my-fish/plugin-technicolor) - Easy colorisation for Fish shell
-* [Offirmo/offirmo-shell-lib](https://github.com/Offirmo/offirmo-shell-lib) - A collection of useful bash reusable functions for robust and advanced shell scripts. Used to power cvm and simpli.
-* [oanda/oanda-shell](https://github.com/oanda/oanda-shell) - Bash script to access the oanda-api
-* [mitechie/workit](https://github.com/mitechie/workit) - Shell tool to switch between projects
-* [Mikaela/shell-things](https://github.com/Mikaela/shell-things) - Config files which I usually prefer to have everywhere.
-* [koanlogic/makl](https://github.com/koanlogic/makl) - MaKL is a simple and light framework for building multi-platform C/C++ projects, purely based on the Bourne Shell and GNU Make
-* [jzelinskie/dotfiles](https://github.com/jzelinskie/dotfiles) - my hidden config files
-* [joto/zsh-git-prompt](https://github.com/joto/zsh-git-prompt) - Scripts to add information about your current git repository to the shell prompt.
-* [jonathanhle/ansible-babun-bootstrap](https://github.com/jonathanhle/ansible-babun-bootstrap) - Simple shell script to setup Ansible within Babun
-* [jasongrimes/lamp-backup](https://github.com/jasongrimes/lamp-backup) - Bash shell scripts for basic backup management on a LAMP server.
-* [janlelis/gedit-external-tools](https://github.com/janlelis/gedit-external-tools) - A repository for useful and handy snippets for gedit's external tools plugin
-* [Integralist/dotfiles](https://github.com/Integralist/dotfiles) - Bash shell and Vim/NeoVim configuration settings
-* [fumiyas/LTSV.sh](https://github.com/fumiyas/LTSV.sh) - Labeled Tab-Separated Value parser / manipulator for shell
-* [foca/ensure](https://github.com/foca/ensure) - Tiny shell scripts to install things in your mac.
-* [dxj19831029/bash_menu_ui](https://github.com/dxj19831029/bash_menu_ui) - use bash shell to handle a menu selection with up/down key
-* [detailyang/pre-commit-shell](https://github.com/detailyang/pre-commit-shell) - :beers: pre commit wrapper shellcheck
-* [cjlano/tinysh](https://github.com/cjlano/tinysh) - tinysh: minimal shell
-* [chriscool/sharnessify](https://github.com/chriscool/sharnessify) - Shell scripts to add Sharness infrastructure to a project
-* [c4s4/goactivate](https://github.com/c4s4/goactivate) - Script to set PATH, GOPATH and shell prompt for your GO project
-* [bpstahlman/cac-enabled-git-setup](https://github.com/bpstahlman/cac-enabled-git-setup) - Shell script and associated files needed to build a version of Cygwin git capable of using a CAC card for authentication.
-* [0mp/goat](https://github.com/0mp/goat) - A POSIX-compliant shell movement boosting hack for real ninjas.
-* [zhimsel/dotfiles](https://github.com/zhimsel/dotfiles) - My config files
-* [vehk/dmenu-scripts](https://github.com/vehk/dmenu-scripts) - Shell wrappers that use dmenu.
-* [tjluoma/launchd-check-for-dropbox-conflicts](https://github.com/tjluoma/launchd-check-for-dropbox-conflicts) - A shell script and launchd plist for checking for Dropbox conflicted copies
-* [Tauop/ScriptHelper](https://github.com/Tauop/ScriptHelper) - Shell libraries to help writting shell script
-* [szpak/fish-xclip-enhancer](https://github.com/szpak/fish-xclip-enhancer) - Shortcut functions that simplify usage of xclip in Fish Shell
-* [slayer/gitnotify](https://github.com/slayer/gitnotify) - Simple shell script  to send colorized html git diffs
-* [RHSeeger/lishp](https://github.com/RHSeeger/lishp) - A lisp interpreter written in shell script
-* [oxnz/shell-utils](https://github.com/oxnz/shell-utils) - A bunch of {bash,zsh,sh} utils to make life easier :)
-* [odb/shunt](https://github.com/odb/shunt) - Simple Shell Unit Testing Framework
-* [Nike-Inc/cerberus-util-scripts](https://github.com/Nike-Inc/cerberus-util-scripts) - A collection of Packer, Shell and Puppet scripts needed to create the various AMIs needed to create a Cerberus environment.
-* [moderntribe/WordPress-Security-Shell-Script](https://github.com/moderntribe/WordPress-Security-Shell-Script) - Security script used in WordPress installs on a cron.
-* [MJafarMashhadi/Sharif-ID-Reconnector](https://github.com/MJafarMashhadi/Sharif-ID-Reconnector) - A shell script that checks for connectivity to "Sharif ID" every 30 seconds, if it was disconnected tries to reconnect.
-* [mike3run/dotfiles](https://github.com/mike3run/dotfiles) - Current: Neovim, Tmux, FishShell Übersicht. Old but still there: prezto, zsh.
-* [llazzaro/dotfiles](https://github.com/llazzaro/dotfiles) - :wrench: .dotfiles settings files. Uses vim+zsh+tmux+i3+pyenv. supports OSX
-* [LinkFly/lisp-dev-tools](https://github.com/LinkFly/lisp-dev-tools) - Linux shell scripts for automatization download, compilation and configuring lisp development tools
-* [lanzz/bash-supergenpass](https://github.com/lanzz/bash-supergenpass) - Bash shell-script implementation of SuperGenPass
-* [kodie/serverpilot-shell](https://github.com/kodie/serverpilot-shell) - Shell wrapper for the serverpilot.io API https://serverpilot.io/
-* [KeshavA2016/My_Shell_Scripts](https://github.com/KeshavA2016/My_Shell_Scripts) - My_Shell_Scripts
-* [justindriggers/gnome-shell-gestures](https://github.com/justindriggers/gnome-shell-gestures) - OS X-like gestures for GNOME Shell using TouchEgg
-* [jalcine/gitrc](https://github.com/jalcine/gitrc) - A bunch of shell scripts and files dedicated to my use of Git
-* [iugu/bash-git-status](https://github.com/iugu/bash-git-status) - Colored Git Status in your Bash Shell
-* [HoundstoothSTL/bootstrap-starter-build](https://github.com/HoundstoothSTL/bootstrap-starter-build) - Build out a new Bootstrap project Scaffold in milliseconds using a simple shell script.  Also does a system check and install for necessary packages like Node and Twitter Bower.
-* [heshanlk/FFMPEG-install-script-for-shared-host](https://github.com/heshanlk/FFMPEG-install-script-for-shared-host) - The shared host ffmpeg is a software fully written in shell script for configuring a video sharing environment in shared hosting accounts in GNU/Linux servers.
-* [hanumanum/RSS-To-Diaspora](https://github.com/hanumanum/RSS-To-Diaspora) - Shell script for automated posting from rss feeds into Diaspora
-* [gistya/expandr](https://github.com/gistya/expandr) - a cool shell script for git keyword expansion.
-* [FilipDominec/python-meep-install](https://github.com/FilipDominec/python-meep-install) - Robust compilation procedure of latest MEEP and python-meep on Linux
-* [dotcode/multi-shell-repo-prompt](https://github.com/dotcode/multi-shell-repo-prompt) - A shell script to make your prompt pretty and useful. Works with bash & zsh, git & hg.
-* [dmuth/unix-utils](https://github.com/dmuth/unix-utils) - Random shell scripts and whatnot that I'd like to share
-* [dbkvn/CIS_BENCHMARK_OSX](https://github.com/dbkvn/CIS_BENCHMARK_OSX) - Shell scripts to check OS X security using CIS Benchmarks.
-* [dbarobin/tools](https://github.com/dbarobin/tools) - Tools of MySQL, Oracle, Shell, etc. This scripts collected via work.
-* [danielpuglisi/keep-alive](https://github.com/danielpuglisi/keep-alive) - A shell script for keeping heroku apps alive
-* [claudiob/dotfiles](https://github.com/claudiob/dotfiles) - My aliases and shortcuts to type and code faster in the Bash shell environment
-* [charles-l/shmark](https://github.com/charles-l/shmark) - A minimal POSIX shell compliment bookmarking system
-* [cespare/go-localpath](https://github.com/cespare/go-localpath) - Shell script for managing Go projects with vendored dependencies.
-* [cbeier/Server-Backup-Script](https://github.com/cbeier/Server-Backup-Script) - A small shell script for backing up files and MySQL databases to a backup server via FTP.
-* [bruceauyeung/openSUSE-One-Click-Installer](https://github.com/bruceauyeung/openSUSE-One-Click-Installer) - an one-click-installer shell script helping openSUSE new starters ( especially from China ) to install various applications including multimedia applications, flash plugin, rar and 7zip libraries and etc.
-* [benbowler/ffmpeg-sh-for-html5](https://github.com/benbowler/ffmpeg-sh-for-html5) - A shell script that creates multiple qualities and formats of any given video file for use with HTML5 players like JPlayer.
-* [b01t/shellshock](https://github.com/b01t/shellshock) - A spaceshooter game in Bash
-* [atom/language-shellscript](https://github.com/atom/language-shellscript) - ShellScript package for Atom
-* [afunction/ubuntu-rails-app-installer](https://github.com/afunction/ubuntu-rails-app-installer) - A shell script for install rails app instance for production, include bash config, nginx, percona mysql, rvm, unicorn, and deploy user ... etc
-* [abedra/shell-shocked](https://github.com/abedra/shell-shocked) - My configs in a more automagic fashion
-* [abedra/shell-madness](https://github.com/abedra/shell-madness) - all the madness that makes my shell so caraaaazy
-* [vitorbritto/yoda](https://github.com/vitorbritto/yoda) - Yoda is a simple method to collect your links and saves into a file using Shell Script.
-* [singhigh/Speedtest-cli-CN-Auto](https://github.com/singhigh/Speedtest-cli-CN-Auto) - A speedtest shell for connection to China based on speedtest-cli
-* [RhubarbSin/xenserver-admin-scripts](https://github.com/RhubarbSin/xenserver-admin-scripts) - Shell scripts for automating some common XenServer CLI operations
-* [rduplain/poorman](https://github.com/rduplain/poorman) - A process control system written in shell, for development.
-* [populov/yandex-ddns-sh](https://github.com/populov/yandex-ddns-sh) - A dynamic DNS updater shell script for pdd.yandex.ru for Linux and OS X
-* [osoco/aws-tools](https://github.com/osoco/aws-tools) - Shell scripts to ease some AWS administration tasks.
-* [onury/alfred-video-downloader](https://github.com/onury/alfred-video-downloader) - Video Downloader is an Alfred workflow written in Bash/Shell for easily downloading videos (and/or extracting audio) from various websites such as YouTube, Vimeo, DailyMotion and more...
-* [omnidan/asv](https://github.com/omnidan/asv) - :star: Electron / Atom Shell Version Management à la "n" and "m"
-* [oldratlee/useful-shells](https://github.com/oldratlee/useful-shells) - DEPRECATED! 已废弃！Move to https://github.com/oldratlee/useful-scripts
-* [oh-my-fish/theme-fishbone](https://github.com/oh-my-fish/theme-fishbone) - A clean theme for fish shell managed by Oh my fish
-* [mweitzel/firetower](https://github.com/mweitzel/firetower) - run and re-run any shell script on editor save hooks (instead of fs events, like guard)
-* [mgolisch/dnvm-fish](https://github.com/mgolisch/dnvm-fish) - wrapper functions for dnvm/dnx for fish shell
-* [matsubo/matsu-shell-setting](https://github.com/matsubo/matsu-shell-setting) - My shell setting.
-* [matiaskorhonen/shells3](https://github.com/matiaskorhonen/shells3) - A small(ish) shell script to upload files to S3 from the command line
-* [lzap/systemd-shortcuts](https://github.com/lzap/systemd-shortcuts) - Shell shortcuts for systemd with aliases
-* [jmmv/shtk](https://github.com/jmmv/shtk) - Application toolkit for programmers writing POSIX-compliant shell scripts
-* [jimye/OfficeUninstall](https://github.com/jimye/OfficeUninstall) - A shell scirpt to deep uninstall Microsoft Office for Mac 2011/2016
-* [hmage/norm](https://github.com/hmage/norm) - Rootless installer
-* [francs/PostgreSQL-healthcheck-script](https://github.com/francs/PostgreSQL-healthcheck-script) - 提供一个检查 PostgreSQL 数据库健康检查的 shell 脚本。
-* [eddyerburgh/git-init-plus](https://github.com/eddyerburgh/git-init-plus) - Turbo charged git init
-* [dualbus/bashly](https://github.com/dualbus/bashly) - Bashly is a collection of solutions to common problems that arise when writing scripts in the bash shell. You can call it a library. Just keep in mind that reusable bash code is hard, so it might not be that pretty to use.  It's focused on bash versions greater or equal to 4.
-* [dbpercona/mysql_shell_secure](https://github.com/dbpercona/mysql_shell_secure) - Demonstrates the use of MySQL from shell scripts without credentials on the command line
-* [cleverwise/connect2ssh](https://github.com/cleverwise/connect2ssh) - Manage SSH and SSHFS connections via the command line using BASH!
-* [clamiax/scripts](https://github.com/clamiax/scripts) - shell scripts
-* [cheusov/pipestatus](https://github.com/cheusov/pipestatus) - Portable pipestatus for UNIX/POSIX shells
-* [chengguangnan/fish-shell-rvm-integration](https://github.com/chengguangnan/fish-shell-rvm-integration) - Show you how to integrate RVM with Fish
-* [chasinglogic/release.sh](https://github.com/chasinglogic/release.sh) - A shell script for building and releasing go programs on Github
-* [charleslouis/wp_cli_helpers](https://github.com/charleslouis/wp_cli_helpers) - WP-CLI Helpers is a bundle of shell time saver aliases and function for wp-cli (http://wp-cli.org/).
-* [brntbeer/toml-shell-generator](https://github.com/brntbeer/toml-shell-generator) - A shell command to generate TOML readable documents
-* [balevine/jekyll-deploy](https://github.com/balevine/jekyll-deploy) - Shell script for building a local Jekyll site and deploying to GitHub
-* [ariaBennett/lucky.sh](https://github.com/ariaBennett/lucky.sh) - lucky shell script. turns any shell script lucky. the more scripts you put it in, the luckier it gets. also repels internet ghosts.
-* [arapov/wrap-qemukvm](https://github.com/arapov/wrap-qemukvm) - Shell script-wrapper over qemu-kvm command I use for Linux kernel checks.
-* [adilansari/dot_files](https://github.com/adilansari/dot_files) - My .dot_files and custom system configs.
-* [aaronroyer/shy](https://github.com/aaronroyer/shy) - Minimal shell plugin management
-* [zanshin/bin](https://github.com/zanshin/bin) - various shell scripts
-* [ytet5uy4/dotfiles](https://github.com/ytet5uy4/dotfiles) - configuration files on Unix-type operating systems
-* [vpenso/libvirt-shell-functions](https://github.com/vpenso/libvirt-shell-functions) - Bash/Zsh functions used to run clusters of virtual machines on localhost.
-* [TGYK/OSXwp5](https://github.com/TGYK/OSXwp5) - A shell script written for OSX to enable ICS to the Wifi Pineapple Mk 5
-* [textarcana/snippets](https://github.com/textarcana/snippets) - Useful code snippets and shell scripts. The successor to http://snipplr.com/users/noah/
-* [taq/viminstall](https://github.com/taq/viminstall) - Shell script to download the source code and latest patches of Vim, the editor.
-* [t193r/hss](https://github.com/t193r/hss) - Hardening Shell Scripting
-* [syntax-samurai/gitio](https://github.com/syntax-samurai/gitio) - create short / vanity github urls from the terminal
-* [sxthe/bin](https://github.com/sxthe/bin) - scripts and such
-* [smof/openIDM_shell_client](https://github.com/smof/openIDM_shell_client) - A set of Bash wrapper scripts that use curl to access the OpenIDM RESTful interface
-* [sebastien/appenv](https://github.com/sebastien/appenv) - per application & per directory shell environments
-* [oschrenk/dotfiles](https://github.com/oschrenk/dotfiles) - My terminal settings
-* [orthecreedence/runcl](https://github.com/orthecreedence/runcl) - A shell script that provides a common interface for running lisp via the command line
-* [omerucel/vagrant-shell-modules](https://github.com/omerucel/vagrant-shell-modules) - Bu proje, vagrant shell provisioner özelliğini modüler bir şekilde kullanmanıza olanak sağlar. Böylelikle kurulum scriptlerini projeden ayırarak karmaşadan uzak durmuş olursunuz.
-* [olov/node-harmony-wrapper](https://github.com/olov/node-harmony-wrapper) - A node --harmony shell wrapper
-* [oh-my-fish/theme-clearance](https://github.com/oh-my-fish/theme-clearance) - A minimalist fish shell theme for people who use git
-* [objectified/jtrouble](https://github.com/objectified/jtrouble) - Bundle of shell scripts for troubleshooting JEE application servers
-* [nlampi/UnusedImages](https://github.com/nlampi/UnusedImages) - Shell script to search an Xcode project for unused images.
-* [mutuki/Dozens-API-via-Shell-Script](https://github.com/mutuki/Dozens-API-via-Shell-Script) - Accesses to  Dozens API via Shell Script (/bin/bash)
-* [lixiaoyan/powerline-bash](https://github.com/lixiaoyan/powerline-bash) - A powerline-like shell prompt written in pure bash.
-* [libhide/sass-struct](https://github.com/libhide/sass-struct) - A shell script that creates a folder structure for yo' Sass.
-* [leolanese/bash_profile](https://github.com/leolanese/bash_profile) - bash_profile to shared best practices, tricks and keep the same profile across multiple development platforms
-* [konstruktoid/ubuntu-conf](https://github.com/konstruktoid/ubuntu-conf) - Miscellaneous Ubuntu configuration tidbits
-* [jtrupiano/johns-toolbox](https://github.com/jtrupiano/johns-toolbox) - A set of shell scripts I use at varying frequencies.
-* [jgillman/dotfiles](https://github.com/jgillman/dotfiles) - jgillman's special collection of configs
-* [huangbowen521/gtShell](https://github.com/huangbowen521/gtShell) - a shell script for navigation
-* [henrychen95/AWS-AMI-Auto-Backup](https://github.com/henrychen95/AWS-AMI-Auto-Backup) - Shell Script to auto make AMI backup and delete old backups for Amazon Linux.
-* [habedi/SystemC-AccessNoxim](https://github.com/habedi/SystemC-AccessNoxim) - All you need to build and run SystemC and AccessNoxim on your system
-* [guozheng/hadoop-completion](https://github.com/guozheng/hadoop-completion) - hadoop shell commands auto-complete script for Bash Completion
-* [Guolei1130/shell_tools](https://github.com/Guolei1130/shell_tools) - some shell script
-* [GochoMugo/msu](https://github.com/GochoMugo/msu) - A small Shell framework that makes writing bash scripts less sucky
-* [frnmst/gnupot](https://github.com/frnmst/gnupot) - A fully free, highly customizable and very efficient shell wrapper for git and SSH, which imitates Dropbox.
-* [DonutDeflector/adblocker](https://github.com/DonutDeflector/adblocker) - A collection of scripts that use /etc/hosts to block advertising-related, tracking, and malicious domains
-* [DocX/aws-ecs-utils](https://github.com/DocX/aws-ecs-utils) - Connect to shell of containerized application like you were used to before Docker
-* [danyshaanan/.home](https://github.com/danyshaanan/.home) - :house: My OSX home dot files
-* [credativ/pg_backup_ctl](https://github.com/credativ/pg_backup_ctl) - A shell script to manage PostgreSQL archiving and basebackups
-* [cirlabs/vm](https://github.com/cirlabs/vm) - A series of shell scripts to bootstrap a data journalism virtual machine image for VirtualBox
-* [chrissimpkins/scriptacular](https://github.com/chrissimpkins/scriptacular) - Generic, reusable bash shell scripts
-* [chliny/dnspod_sh](https://github.com/chliny/dnspod_sh) - 用shell写的一个更新记录绑定域名的简单脚本
-* [cbdevnet/fugit](https://github.com/cbdevnet/fugit) - _Really_ lightweight git access control
-* [bubbl3gum/mpd_control](https://github.com/bubbl3gum/mpd_control) - shell script for mpd that uses dmenu to add songs, albums, playlist, jump to a song in the current playlist etc.
-* [brancz/desktop-install](https://github.com/brancz/desktop-install) - Shell script I use to install and configure my ubuntu/osx machine.
-* [bradleyflood/vagrant-expressionengine](https://github.com/bradleyflood/vagrant-expressionengine) - A Vagrantfile and install shell script for use on Expression Engine installations.
-* [bocytko/git-backup](https://github.com/bocytko/git-backup) - Simple shell scripts for creating and restoring incremental backups of git repositories using git bundles.
-* [Bilalh/Shell-Tunes](https://github.com/Bilalh/Shell-Tunes) - Control itunes from the command line, over **40** commands inculding play/pause, mute/unmute, playlist and play random album. Also inculdes also scripts for getting data from itunes.
-* [atorman/curlREST](https://github.com/atorman/curlREST) - Bash shell script (Mac OSX tested) for using curl and the REST API to access salesforce data for repetitive administrative tasks.
-* [AntonioPT/minimal-desktop-for-ubuntu](https://github.com/AntonioPT/minimal-desktop-for-ubuntu) - A shell script to build the Ubuntu desktop environment from the ubuntu-minimal install.
-* [andreax79/pizza-mandolino-shell](https://github.com/andreax79/pizza-mandolino-shell) - Practice your Italian with shell
-* [sadsfae/misc-scripts](https://github.com/sadsfae/misc-scripts) - :wrench: Tooling and scripts used for ops automation and utility.
-* [ryanpcmcquen/ryanpc-slackbuilds](https://github.com/ryanpcmcquen/ryanpc-slackbuilds) - :construction: If you build it, Slack will come.
-* [PeterDaveHello/web-minify-helper](https://github.com/PeterDaveHello/web-minify-helper) - Help web developer to make their js & css files minified easily!
-* [metakirby5/scripts](https://github.com/metakirby5/scripts) - :scroll: A collection of scripts I have found or written.
-* [jspahrsummers/shell-scripts](https://github.com/jspahrsummers/shell-scripts) - Miscellaneous useful shell scripts.
-* [jgoday/gnome-shell-extension-wallpapers](https://github.com/jgoday/gnome-shell-extension-wallpapers) - Simple gnome shell extension to set current wallpaper
-* [jakoch/php-hhvm](https://github.com/jakoch/php-hhvm) - php-hhvm + travis-ci = ❤
-* [Gonzih/.fish](https://github.com/Gonzih/.fish) - my fish shell configuration files
-* [bbashy/seedbox](https://github.com/bbashy/seedbox) - ruTorrent - rTorrent - libTorrent - nginx - php-fpm + HTTPS(TLS)
-* [ashumkin/apt-cyg](https://github.com/ashumkin/apt-cyg) - Copy of apt-cyg [http://code.google.com/p/apt-cyg/] SVN repository
-* [crazy-max/ftp-sync](https://github.com/crazy-max/ftp-sync) - A shell script to synchronize files between a remote FTP server and your local server/computer.
-* [wulijun/service-installer](https://github.com/wulijun/service-installer) - setup shell script for Tengine, PHP, MySQL etc
-* [we-sh/42ShellTester](https://github.com/we-sh/42ShellTester) - Integration test suite for Shell implementation
-* [vahe/vSetup](https://github.com/vahe/vSetup) - Debian VPS bare minimum setup shell script
-* [tjluoma/hazel-newvolume](https://github.com/tjluoma/hazel-newvolume) - A shell script to work with Hazel to automatically install apps on OS X
-* [stianeikeland/dotfiles](https://github.com/stianeikeland/dotfiles) - :shell: dotfiles (mainly for os x)
-* [ssimpson89/ffmpeg-installer](https://github.com/ssimpson89/ffmpeg-installer) - A set of shell scripts designed to install the latest version of FFMPEG from source. Designed for cPanel and CentOS based servers
-* [ryanirelan/ee-sandbox-restore](https://github.com/ryanirelan/ee-sandbox-restore) - Shell script to restore EE files and database.
-* [RoumenDamianoff/ipv6tunnel](https://github.com/RoumenDamianoff/ipv6tunnel) - A simple IPv6 tunnel shell script.
-* [Playsoft/container_builder](https://github.com/Playsoft/container_builder) - Simple shell script that helps creating small docker containers.
-* [platform45/let-there-be-light](https://github.com/platform45/let-there-be-light) - Shell script for setting up a new dev environment on OS X
-* [pavoljuhas/smart-change-directory](https://github.com/pavoljuhas/smart-change-directory) - smart change of directory in a Unix shell, IPython and Vim
-* [pantuza/panfiles](https://github.com/pantuza/panfiles) - Configuration files of environment, bash settings and development tools
-* [orvice/lnmp](https://github.com/orvice/lnmp) - A shell to Install Nginx,MariaDB,PHP on Linux.
-* [neagix/idesk](https://github.com/neagix/idesk) - IDesk gives users icons on their desktop. Features include transparency, configurable actions to run shell commands, PNG, SVG and GIF image support, and XFT anti-aliased fonts
-* [meoow/baiduyun-upload-script](https://github.com/meoow/baiduyun-upload-script) - Upload files or direcotries form command line using shell script
-* [mbezjak/napalm](https://github.com/mbezjak/napalm) - Automate installation of archived (zip, gz, bz2, jar) programs that are unsuited or unavailable from a package repository.
-* [martymac/ldapscripts](https://github.com/martymac/ldapscripts) - Simple shell scripts to handle POSIX entries in an LDAP directory
-* [makelinux/lib](https://github.com/makelinux/lib) - Library of Linux shell functions
-* [macmichael01/terminal-config](https://github.com/macmichael01/terminal-config) - Terminal-config is a collection of shell related scripts used to enhance the bash experience
-* [lsim/gratisddns](https://github.com/lsim/gratisddns) - A shell script for issuing an update to the ddns provider gratisdns.dk
-* [lfckop/utils](https://github.com/lfckop/utils) - shell utils
-* [lalbornoz/midipix_build](https://github.com/lalbornoz/midipix_build) - Unified build Bourne shell script for midipix
-* [krkn/sote](https://github.com/krkn/sote) - Shell favorites paths, for faster cd.
-* [jeffbuttars/virtualcandy](https://github.com/jeffbuttars/virtualcandy) - Smarter Shell Integration for Python's Virtualenv
-* [ipfs/install-go-ipfs](https://github.com/ipfs/install-go-ipfs) - install go-ipfs shell script
-* [hyperoslo/github-s3](https://github.com/hyperoslo/github-s3) - Shell scripts that make it really easy to archive and restore repositories between GitHub and AWS S3
-* [gregrobbins/magento-lite-db-dump](https://github.com/gregrobbins/magento-lite-db-dump) - Shell script that dumps a reduced version of the Magento database for use in development.
-* [fschaefer/pushover.sh](https://github.com/fschaefer/pushover.sh) - Shell script to push messages to Android and iOS devices via Pushover (https://pushover.net/)
-* [djit/install-nginx-php-fpm-mongodb](https://github.com/djit/install-nginx-php-fpm-mongodb) - shell scripts to install nginx, php5-fpm and latest mongodb on ubuntu/debian
-* [derwiki/scripts](https://github.com/derwiki/scripts) - Repository of shell scripts that have made my life easier
-* [demiazz/goldfish](https://github.com/demiazz/goldfish) - Configuration framework for Fish Shell inspired by Oh My Zsh and Oh My Fish.
-* [deedy/FacebookFun](https://github.com/deedy/FacebookFun) - A few shell scripts which shows you some fun facts about your Facebook profile.
-* [dantmnf/FlvPatcher](https://github.com/dantmnf/FlvPatcher) - Shell scripts to generate specially patched FLV files to avoid being encoded again by some online video sites.
-* [danigiri/provashell](https://github.com/danigiri/provashell) - Shell Unit Testing for the masses
-* [courtney-miles/gentoo-web-provision](https://github.com/courtney-miles/gentoo-web-provision) - Shell scripts for provisioning a Gentoo box as a web server.
-* [code-attic/ubuntu-dev](https://github.com/code-attic/ubuntu-dev) - Some shell scripts I'm working on to help ease the pain of getting Ubuntu from fresh install to dev ready
-* [cloud8421/dotfiles](https://github.com/cloud8421/dotfiles) - Opinionated shell configuration with support for: ZSH, Fish shell (currently using it), a robust Vim configuration for Ruby, Rails and JS development, plus other CLI tools.
-* [chtombleson/php-lua-install-script](https://github.com/chtombleson/php-lua-install-script) - Shell script to install and compile lua and phplua pecl extension
-* [broodplank/GetJava](https://github.com/broodplank/GetJava) - Unix Shell script that utilizes Dex2Jar and Jad to get Java code from APKs
-* [arthurfurlan/minify-media](https://github.com/arthurfurlan/minify-media) - Shell script to minify media files
-* [40Digits/latpot](https://github.com/40Digits/latpot) - A shell script which turns your OS X laptop into an awesome web development machine.
-* [zambonin/arch-install](https://github.com/zambonin/arch-install) - A simple shell script to automate Arch Linux's convoluted installation.
-* [TronGeek/AutoDeploy-Shell](https://github.com/TronGeek/AutoDeploy-Shell) - 自动部署PHP项目的Shell脚本，可用于Jenkins持续集成。
-* [stuarthicks/dotfiles](https://github.com/stuarthicks/dotfiles) - My personal spellbook of random config.
-* [strugee/dots](https://github.com/strugee/dots) - Rcs, profiles, other dotfiles, I love 'em all
-* [snabbco/shellci](https://github.com/snabbco/shellci) - OpenStack 3rd party CI in 100 lines of shell
-* [sirech/shell](https://github.com/sirech/shell) - Shell Config Files
-* [seanhess/centos](https://github.com/seanhess/centos) - Centos Shell Script Functions
-* [ReidWeb/linuxmotd](https://github.com/ReidWeb/linuxmotd) - Dynamically Generated MOTD for Linux Servers
-* [qjcg/shell-examples](https://github.com/qjcg/shell-examples) - Little Bash shell scripting examples
-* [qindongliang/shell-mysql](https://github.com/qindongliang/shell-mysql) - shell脚本分页导出mysql数据
-* [Natenom/mcontrol](https://github.com/Natenom/mcontrol) - Minecraft/Craftbukkit control/backup/more script
-* [mattmight/project-shell-scripting](https://github.com/mattmight/project-shell-scripting) - A project to familiarize students with shell scripting
-* [martinp/dotfiles](https://github.com/martinp/dotfiles) - My personal dotfiles, including sweet makefile
-* [lowply/dotfiles](https://github.com/lowply/dotfiles) - 🏠
-* [leidentech/ez-shell-tools](https://github.com/leidentech/ez-shell-tools) - This is a collection of shell/php tools for ezpublish command line use.
-* [kintoandar/shell_scripts](https://github.com/kintoandar/shell_scripts) - Several shell scripts organized by function: init script to manage multiple Ghost blog instances + backup to an encrypted tar.gz file using gpg + iptables template + ssh vpn + nagios/nrpe/sensu script for monitoring dmraid, modsecurity, ossec + plugin for IRSSI email on mentions
-* [jorgeatgu/setup](https://github.com/jorgeatgu/setup) - :neckbeard: :floppy_disk: Configuración
-* [jglovier/my-setup](https://github.com/jglovier/my-setup) - :computer: :white_check_mark: Documenting my system setup for reinstalls after a complete crash, etc.
-* [eric-brechemier/digitalocean-shell-api](https://github.com/eric-brechemier/digitalocean-shell-api) - Shell scripts acting as client for the DigitalOcean API
-* [edipox/toggle_term](https://github.com/edipox/toggle_term) -  A simple script to allow you to have a pseudo drop down terminal
-* [cute/JSONPretty](https://github.com/cute/JSONPretty) - JSON pretty print  shell
-* [cndreisbach/dotfiles](https://github.com/cndreisbach/dotfiles) - My dotfiles
-* [bsaunder/ShellScripts](https://github.com/bsaunder/ShellScripts) - Shell Scripts
-* [attactics/PowerShellEmpireDocker](https://github.com/attactics/PowerShellEmpireDocker) - PowerShell Empire docker build
-* [barnybug/docker-fish-completion](https://github.com/barnybug/docker-fish-completion) - docker command completion for the fish shell
-* [lwindolf/polscan](https://github.com/lwindolf/polscan) - Simple zero-setup tool to run policy check shell snippets on Debian servers via SSH
-* [cbeams-archive/shell-scripts](https://github.com/cbeams-archive/shell-scripts) - Useful shell scripts
-* [RigsOfRods/ror-linux-buildscripts](https://github.com/RigsOfRods/ror-linux-buildscripts) - Shell scripts to build Rigs of Rods git on apt based GNU/Linux systems
-* [xssnark/mysql-db-sync](https://github.com/xssnark/mysql-db-sync) - A limited bourne shell script that uses mysql and mysqldump to synchronize databases between servers.
-* [tripleonard/chef-solo-bootstrap](https://github.com/tripleonard/chef-solo-bootstrap) - A shell script to setup chef-solo on Ubuntu
-* [tkalfigo/piavpn](https://github.com/tkalfigo/piavpn) - Shell scripts for managing VPN connections of PIA (Private Internet Access) from the command line
-* [tjluoma/km-diff-dropbox-duplicates](https://github.com/tjluoma/km-diff-dropbox-duplicates) - A Keyboard Maestro macro (and shell script) to compare a Dropbox "Conflicted Copy" file with its original
-* [tekapo/inst-wp-with-wp-cli](https://github.com/tekapo/inst-wp-with-wp-cli) - Shell script to install WordPress with wp-cli.
-* [tart/SimpleParallelDumpRestore](https://github.com/tart/SimpleParallelDumpRestore) - Simple MySQL parallel dump & restore scripts using mysql, mysqldump commands on shell.
-* [syndbg/shell-in-a-nutshell](https://github.com/syndbg/shell-in-a-nutshell) - Basic shell script guide to get you scripting
-* [stevecomrie/mysql-version-control](https://github.com/stevecomrie/mysql-version-control) - A Simple bash shell script to keep a series of migration logs for all changes made to a MySQL database schema
-* [splitbrain/paper-backup](https://github.com/splitbrain/paper-backup) - A bunch of shell scripts for scanning to PDF
-* [spali/docker-shellinabox](https://github.com/spali/docker-shellinabox) - Docker container serving shellinabox a Web based AJAX terminal emulator.
-* [snwh/osx-post-install](https://github.com/snwh/osx-post-install) - A set of post-installation shell scripts for OS X
-* [smtlaissezfaire/shunit2](https://github.com/smtlaissezfaire/shunit2) - shell script Unit testing framework (mirror of svn repository @ http://shunit2.googlecode.com/svn)
-* [shaohaiyang/easyFirewall](https://github.com/shaohaiyang/easyFirewall) - A based iptables and ip rules code by shell script can help company to build smart&useful firewall
-* [rstacruz/shellbundler](https://github.com/rstacruz/shellbundler) - Shell script manager.
-* [primait/docker-enter-completion](https://github.com/primait/docker-enter-completion) - docker-enter command shell completion
-* [pkcpkc/ios-image-scripts](https://github.com/pkcpkc/ios-image-scripts) - Shell scripts to generate all required app icons and launch images for iPad and iPhone apps
-* [ojb500/expect-uci](https://github.com/ojb500/expect-uci) - a shell/expect script to help analyse chess games with uci engines
-* [montanaflynn/vidtogif](https://github.com/montanaflynn/vidtogif) - Shell script for converting videos to gifs
-* [MilesChou/linux-install-sh](https://github.com/MilesChou/linux-install-sh) - Linux install shell scripts
-* [mdoege/AmigaShell](https://github.com/mdoege/AmigaShell) - Makes the Linux virtual console look like the Commodore AmigaOS shell (formerly hosted at http://gnu.ethz.ch/linuks.mine.nu/amiga/  and now hosted at http://www.aiei.ch/linux/amiga/ )
-* [mcnesium/b2g-certificates](https://github.com/mcnesium/b2g-certificates) - A shell script to add root certificates to Firefox OS
-* [martindemello/fsharp-quickstart](https://github.com/martindemello/fsharp-quickstart) - Shell scripts to create F# projects with Forge
-* [major0/shlib](https://github.com/major0/shlib) - A highly portable utility library system for the POSIX Shell language.
-* [JayBrown/Xipper](https://github.com/JayBrown/Xipper) - macOS workflows and shell scripts to create & sign or verify xip archives or trust non-standard certificates
-* [istrategylabs/laptop](https://github.com/istrategylabs/laptop) - A shell script which turns your Mac into an awesome web development machine.
-* [geggo98/docker-ssh-vpn-jump-host](https://github.com/geggo98/docker-ssh-vpn-jump-host) - A secured ssh based VPN in a Docker container. Works only as jump host for port forwarding and SOCKS proxy but provides no shell.
-* [evilaliv3/travis-ci-reverse-shell](https://github.com/evilaliv3/travis-ci-reverse-shell) - travis-ci-reverse-shell
-* [Earnestly/taverner](https://github.com/Earnestly/taverner) - Menu for games (or anything) using dmenu and a bunch of shell scripts, totally the UNIX® Way
-* [cybernova/DNSaxfr](https://github.com/cybernova/DNSaxfr) - Shell script for testing DNS AXFR misconfiguration
-* [chr/nuush](https://github.com/chr/nuush) - Command line feed reader (shell script)
-* [antonio-malcolm/corgi-scripts](https://github.com/antonio-malcolm/corgi-scripts) - Portable, reusable, and POSIX-compliant shell script library with Openbox pipe menus (#pipemenus)
-* [Alfcx/linux-mint-nemo-actions](https://github.com/Alfcx/linux-mint-nemo-actions) - Some useful Nemo Actions and Shell Scripts with zenity GUIs: 1. Sandwich PDF Maker (OCR, Text Layer, searchable pdf, tesseract, scantailor); 2. PDF Page Rotator; 3. PDF Metadata Editor; 4. PDF Document Downsizer; 5. doc(x), odt, txt to pdf Converter; 6. doc(x) to odt Converter
-* [afshinm/git-migrate](https://github.com/afshinm/git-migrate) - A simple shell script to move Git repositories from a server to another
-* [4679/189netdisk](https://github.com/4679/189netdisk) - shell脚本实现的天翼云盘cli客户端 随时可能弃坑
-* [ziyaddin/superb-shell](https://github.com/ziyaddin/superb-shell) - The Shell version of sindresorhus/superb
-* [yousong/build-scripts](https://github.com/yousong/build-scripts) - Shell scripts for quickly trying different (newest) versions (features (bugs)) of open source projects.
-* [yogsototh/YPasswordCLI](https://github.com/yogsototh/YPasswordCLI) - A command line shell script to use the YPassword method
-* [xbot/shell](https://github.com/xbot/shell) - This repo hosts miscellaneous scripts I use in my daily life.
-* [wstrange/Oracle-IAM-Scripts](https://github.com/wstrange/Oracle-IAM-Scripts) - A collection of shell scripts to set up Oracle Linux (or Redhat) for hosting Oracle Identity / Access software
-* [usure/2do.sh](https://github.com/usure/2do.sh) - A todo shell script.
-* [uberhacker/pantheon-backup](https://github.com/uberhacker/pantheon-backup) - Bash shell script to backup all Pantheon sites and environments
-* [thestonefox/docker-databases](https://github.com/thestonefox/docker-databases) - Shell helper for launching common databases in docker containers
-* [the2belo/wxsat-scheduler](https://github.com/the2belo/wxsat-scheduler) - Shell scripts for receiving NOAA weather satellites via Raspberry Pi.
-* [stef/magnus23](https://github.com/stef/magnus23) - shell ircbot based on John-Henry used on telecomix #telekompaketet
-* [spencertipping/fsh](https://github.com/spencertipping/fsh) - Functional shell scripts
-* [simulacre/udp-senderx](https://github.com/simulacre/udp-senderx) - Udpcast's udp-sender with support for sending multiple files as one file without using a shell
-* [scijava/scijava-scripts](https://github.com/scijava/scijava-scripts) - Shell scripts for scientific projects written in Java
-* [sapran/tor-vpn](https://github.com/sapran/tor-vpn) - Shell script that sets up a Tor/VPN server in the cloud.
-* [SandroMachado/xcassetsutils](https://github.com/SandroMachado/xcassetsutils) - Shell Scripts to extract and restore all the images in an Asset Catalog folder (.xcassets)
-* [s0baco/Minecraft-shell](https://github.com/s0baco/Minecraft-shell) - s0baco's Minecraft Server shell script.
-* [rstacruz/fishfiles](https://github.com/rstacruz/fishfiles) - my fish-shell config files
-* [rpasta42/shell_matrix](https://github.com/rpasta42/shell_matrix) - Bash Matrix
-* [rojo2/brauser](https://github.com/rojo2/brauser) - Shell script to generate a html with a directory's content
-* [robinpalat/idiomind](https://github.com/robinpalat/idiomind) -  A small program to learn foreign vocabulary written in shell script
-* [RobertZenz/Bivalvia](https://github.com/RobertZenz/Bivalvia) - This is a collection of (hopefully) useful shell scripts.
-* [rnc/nicks-shell](https://github.com/rnc/nicks-shell) - Shell initialisation scripts
-* [rfyiamcool/shellredis-mq](https://github.com/rfyiamcool/shellredis-mq) - a shell tool of redis pub sub  通过shell来调用redis的接口
-* [raphapr/dotfiles](https://github.com/raphapr/dotfiles) - Manjaro, i3, tmux, vim, fish shell, mopidy
-* [proudcommerce/oxid-installer](https://github.com/proudcommerce/oxid-installer) - shell install script for oxid eshops
-* [politza/ealias](https://github.com/politza/ealias) - Emacs loving aliases for the Bash shell
-* [patricks/osm-garmin](https://github.com/patricks/osm-garmin) - Shell scripts to build openstreetmap maps for garmin devices
-* [ojengwa/laptop.py](https://github.com/ojengwa/laptop.py) - A shell script which turns your OS X laptop into an awesome fullstack web development machine using Python. Inspired by ThoughtBot's laptop for Ruby on Rails
-* [nurd1n/Xoxo](https://github.com/nurd1n/Xoxo) - Auto bash/shell script video play, download, stream, bypass, text to speech
-* [niklasberglund/ipinfo](https://github.com/niklasberglund/ipinfo) - A Bash shell-script wrapping the IP address information API of http://ipinfo.io
-* [nicolargo/myscreencast](https://github.com/nicolargo/myscreencast) - Shell script based on GStreamer to build screencast in H.264/AAC, WebM and Vorbis/Theora format)
-* [muhqu/superspark](https://github.com/muhqu/superspark) - hi-res sparklines for your shell
-* [morishin/locker](https://github.com/morishin/locker) - Shell script to protect a text file by AES encryption
-* [mikegerwitz/shspec](https://github.com/mikegerwitz/shspec) - BDD for shell
-* [markhatton/google-ngrams](https://github.com/markhatton/google-ngrams) - Shell scripts to assist downloading & processing the Google n-grams corpora
-* [manuelkiessling/simplecd](https://github.com/manuelkiessling/simplecd) - Simple Continuous Delivery system running in your bash shell
-* [linuxscout/shellshal](https://github.com/linuxscout/shellshal) - Shell Scripts for Arabic Language
-* [ldrumm/virtualenv-lua](https://github.com/ldrumm/virtualenv-lua) - virtualenv-like functionality for Lua using LuaRocks.  A single shell script.
-* [LB--/travis](https://github.com/LB--/travis) - Shell scripts for travis that update and install software that can actually compile modern C++
-* [l0b0/txt2cloud](https://github.com/l0b0/txt2cloud) - Tag cloud shell script
-* [kashu/Xubuntu_install](https://github.com/kashu/Xubuntu_install) - An installation shell script for Xubuntu 14.04.x amd64
-* [jeetsukumaran/promptitude](https://github.com/jeetsukumaran/promptitude) - A shell prompt with an attitude: enhanced (BASH) shell prompt with VCS (Git) branch and status information.
-* [jcward/BaseAIRAppLinux](https://github.com/jcward/BaseAIRAppLinux) - A minimal AIR app project with Linux shell scripts
-* [jasonrobertfox/dotfiles](https://github.com/jasonrobertfox/dotfiles) - Shell and other configurations
-* [jaalto/project--restricted-shell-rbash](https://github.com/jaalto/project--restricted-shell-rbash) - Create restricted user and initialize rbash shell with user selected commands
-* [hansfilipelo/bashshot](https://github.com/hansfilipelo/bashshot) - Replicates the Solaris sun-auto-snap functionality as shell script. Tested on Debian and Ubuntu GNU/Linux with zfsonlinux.
-* [GordStephen/pdsite](https://github.com/GordStephen/pdsite) - Pandoc-backed static site generator shell script with precompiled binary dependencies
-* [FunkyM/install_name_prefix_tool](https://github.com/FunkyM/install_name_prefix_tool) - Shell script for Mac OS X which changes the library prefix for a series of shared libraries in a folder or a single executable.
-* [fsquillace/pearl](https://github.com/fsquillace/pearl) - DEPRECATED: in favor of https://github.com/pearl-core/pearl - The Linux Shell made easy
-* [flores/smoke](https://github.com/flores/smoke) - an easy no-dependency test harness in shell
-* [fdavidcl/project.sh](https://github.com/fdavidcl/project.sh) -  A simple yet effective way to manage your C++ projects, right from shell.
-* [farhanfaisal/DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server
-* [erlehmann/uii](https://github.com/erlehmann/uii) - uii is a collection of shell scripts for the minimal irc client ii
-* [ericsahit/SparkDeployTools](https://github.com/ericsahit/SparkDeployTools) - Linux shell for Auto-deploy spark to multi nodes.
-* [encukou/bin](https://github.com/encukou/bin) - My personal scripts & shell shortcuts
-* [ellerbrock/bash-framework](https://github.com/ellerbrock/bash-framework) - :black_medium_square: write faster shell scripts with a modern look and feel (alpha version) :sparkles: :dizzy:
-* [elcio/mdb2mysql](https://github.com/elcio/mdb2mysql) - Shell script that uses mdbtools to generate a mysql script from a mdb file
-* [dstrctrng/cue](https://github.com/dstrctrng/cue) - shell prompt (bash)
-* [DQNEO/rsolo](https://github.com/DQNEO/rsolo) - rsolo is a simple shell-script which runs chef-solo on remote hosts.
-* [davispuh/SystemBootstrap](https://github.com/davispuh/SystemBootstrap) - Shell files to automatically install Operating System with preconfigured settings.
-* [darconeous/shattings](https://github.com/darconeous/shattings) - Shared (shell) Settings
-* [cscheid/rplot](https://github.com/cscheid/rplot) - a script to get ggplots from the shell in iterm2
-* [cowens/Dynamic-Brew](https://github.com/cowens/Dynamic-Brew) - A shell script to setup Perl, Ruby, and Python in a user's home directory on OS X
-* [ByScripts/fish-config](https://github.com/ByScripts/fish-config) - Fish Shell configuration files
-* [BOBdotEXE/RetroPie-Simple-Backup-Script](https://github.com/BOBdotEXE/RetroPie-Simple-Backup-Script) - A simple shell script to backup all your RetroPie save files Locally, and to the cloud!
-* [BillWang139967/shell_menu](https://github.com/BillWang139967/shell_menu) - 统一管理脚本，可一键生成执行菜单
-* [bicccio/pomosh](https://github.com/bicccio/pomosh) - A simple shell script for time managemet, based on the Pomodoro Technique
-* [bhargavms/AndroidIconResizer](https://github.com/bhargavms/AndroidIconResizer) - A linux bash shell script project for resizing image files to your required DIP/DP values.
-* [benzBrake/Shell_Collections](https://github.com/benzBrake/Shell_Collections) - Userful shell script collections
-* [bceverly/openbsd-ports-db](https://github.com/bceverly/openbsd-ports-db) - Some sketchy shell scripts to create a sqlite3 database containing all of the ports (by processor) in OpenBSD along with their dependencies.  The goal is to start with the ones that most ports depend on that aren't on some of the older processors, fix them and get more ports available to revitilize the older architectures.
-* [aus/prowl](https://github.com/aus/prowl) - Shell scripts to send push notifications to Prowl and Pushover
-* [andschwa/shell](https://github.com/andschwa/shell) - My Bash / Readline configurations
-* [andersonaguiar/wordpress-install](https://github.com/andersonaguiar/wordpress-install) - A shell script to install the latest version of Wordpress
-* [ambimax/magento-patch](https://github.com/ambimax/magento-patch) - Simple shell script that checks for missing patches and updates magento installation. Use at own risk!
-* [amail/Magento-Installation-Script](https://github.com/amail/Magento-Installation-Script) - Shell script that simplifies the Magento installation process and configuration.
-* [akquinet/nexus_cleaner](https://github.com/akquinet/nexus_cleaner) - shell scripts to clean your release repositories in your nexus
-* [aboettger/ShellScripts](https://github.com/aboettger/ShellScripts) - Some useful shell scripts for me
-* [abhishekkr/raguel](https://github.com/abhishekkr/raguel) - raguel - the shell archangel
-* [abgoyal/ShellToolsApplet](https://github.com/abgoyal/ShellToolsApplet) - ShellTools is an applet for the Cinnamon Desktop that makes it trivial to add shell commands as a panel popup menu
-* [73696e65/bash-web-server](https://github.com/73696e65/bash-web-server) - very simple http daemon written for Bourne-Again SHell
-* [0rax/narwhal](https://github.com/0rax/narwhal) - A simple docker wrapper (docker, docker-machine & docker-compose) for fish-shell.
-* [yulshub/yaws](https://github.com/yulshub/yaws) - AWS Shell console interactive
-* [yaffare/systemd-shell-wrapper](https://github.com/yaffare/systemd-shell-wrapper) - Simple shell wrapper script around the systemd ctls, cloning rc.d output
-* [vorachet/bash-cli-template](https://github.com/vorachet/bash-cli-template) - Bash shell script template for readability CLI
-* [tarakanbg/railsinstaller](https://github.com/tarakanbg/railsinstaller) - Basic shell script to install ruby and rails on Ubuntu systems
-* [steshaw/shelly](https://github.com/steshaw/shelly) - My dotfiles
-* [srcshelton/stdlib.sh](https://github.com/srcshelton/stdlib.sh) - Standard functions library for bash shell
-* [shapeshed/bin](https://github.com/shapeshed/bin) - Assorted shell scripts
-* [shaohaiyang/easyStack](https://github.com/shaohaiyang/easyStack) - A mini&smart shell script can rapid starting OpenStack program.
-* [rlex/shellscripts](https://github.com/rlex/shellscripts) - Various server stuff. Configs, scripts, etc.
-* [rip-projects/masdeel](https://github.com/rip-projects/masdeel) - Mass Downloader Shell Script
-* [rightson/shell-dev-env](https://github.com/rightson/shell-dev-env) - Configuration files for bash, vim, and screen. Wrappers for cscope, svn and kermit.
-* [rgaiacs/swc-shell-split-window](https://github.com/rgaiacs/swc-shell-split-window) - Script to split the shell using tmux
-* [rcmdnk/shell-explorer](https://github.com/rcmdnk/shell-explorer) - File explorer made with shell script。
-* [phette23/fishrc](https://github.com/phette23/fishrc) - Fish shell customizations
-* [ousamabenyounes/ShellVCSCommit](https://github.com/ousamabenyounes/ShellVCSCommit) - Launches some usefull commands (phpunit, php-cs-fixer, svn update) before committing your SVN changes
-* [nick8325/combinatory-logic-in-shell-script](https://github.com/nick8325/combinatory-logic-in-shell-script) - I was feeling evil one night :)
-* [ndbroadbent/rails_shell](https://github.com/ndbroadbent/rails_shell) - Aliases, functions and tab completions for Rails development.
-* [marzocchi/dotfiles-zsh](https://github.com/marzocchi/dotfiles-zsh) - My Z shell setup.
-* [mangege/discourse_shell](https://github.com/mangege/discourse_shell) - 不使用 Docker 部署 Discourse
-* [lharding/lsh-bin](https://github.com/lharding/lsh-bin) - Shell utilities toolkit
-* [Lanchon/Flashize](https://github.com/Lanchon/Flashize) - Turn Shell Scripts Into Flashable Android Recovery Zips
-* [keen99/shell-functions](https://github.com/keen99/shell-functions) - useful functions - primarily bash specific, usually cross-platform...  PRs and contributions welcome.
-* [katzueno/concrete5-install-shell-scripts](https://github.com/katzueno/concrete5-install-shell-scripts) - Install concrete5 environment onto Cloud9 Platform
-* [karolistamutis/mysql_scripts](https://github.com/karolistamutis/mysql_scripts) - Backup and restore shell scripts, mainly for cron use.
-* [Jverma/GATK-pipeline](https://github.com/Jverma/GATK-pipeline) - A shell script which implements GATK pipeline for variant calling.
-* [June-Wang/github4shell](https://github.com/June-Wang/github4shell) - shell for install.nagios-plugins,htop.lftp,mawk,mysql,openssh,rsync,python.
-* [johnny2678/wupws](https://github.com/johnny2678/wupws) - Shell script that replicates Weather Underground PWS to pwsweather.com
-* [jfarmer/procrast](https://github.com/jfarmer/procrast) - A little shell script to add anti-procrastination features to /etc/hosts
-* [jdutta/bashautoc](https://github.com/jdutta/bashautoc) - Bash shell autocomplete extensions
-* [Jchase2/simple-pass-manager](https://github.com/Jchase2/simple-pass-manager) - Simpe shell password manager.
-* [Jazzo/Git-Deploy-by-FTP](https://github.com/Jazzo/Git-Deploy-by-FTP) - A simple shell script to deploy a project on Git repo by FTP (using CURL)
-* [jacobamey/Shell-Scripts](https://github.com/jacobamey/Shell-Scripts) - My Shell Scripts.
-* [irsdl/BurpRunnerShells](https://github.com/irsdl/BurpRunnerShells) - This makes it easier to open and run the latest version of Burp Suite via terminal or command line
-* [ir193/tiny_linux](https://github.com/ir193/tiny_linux) - A tiny linux with simple shell and full network support. Homework for Advanced Operating System
-* [farmercode/one_shell_install_lnmp](https://github.com/farmercode/one_shell_install_lnmp) - 一键安装php，目前针对默认安装的是php7
-* [deviantony/bsfl](https://github.com/deviantony/bsfl) - Fork from the SVN project BSFL which stands for Bash Shell Function Library by Louwrentius.
-* [dbough/syslog-generator](https://github.com/dbough/syslog-generator) - A small shell script that generates syslog messages.
-* [dafrito/Shell-Unit-Test](https://github.com/dafrito/Shell-Unit-Test) - Simple test runner for shell scripts
-* [cvrebert/bashrc](https://github.com/cvrebert/bashrc) - Basic shell customizations
-* [chris-marsh/fastIPvanish](https://github.com/chris-marsh/fastIPvanish) - Shell script to ping IPVanish VPN servers and select the fastest responding.
-* [cchaudier/shellfactory](https://github.com/cchaudier/shellfactory) - Bibliothèque de fonctions pour scripts bash.
-* [CalebFenton/MyShellConfigs](https://github.com/CalebFenton/MyShellConfigs) - My *nix shell configuration files
-* [beewoolie/shellinabox](https://github.com/beewoolie/shellinabox) - Shell in a Box console in a Browser
-* [bamos/shell-scripts](https://github.com/bamos/shell-scripts) - Miscellaneous short shell scripts.
-* [ashwini0529/power-shell](https://github.com/ashwini0529/power-shell) - A collection of utility shell scripts to make a developer's job easy
-* [angusty/aliyun-install-lanmp-shell](https://github.com/angusty/aliyun-install-lanmp-shell) - 阿里云安装lamp或lnmp环境的shell
-* [zambonin/ArchInstall](https://github.com/zambonin/ArchInstall) - A simple shell script to automate Arch Linux's convoluted installation.
-* [jdp/hardbound](https://github.com/jdp/hardbound) - A static blog generator written in shell script
-* [fuadsaud/J.A.R.V.I.S](https://github.com/fuadsaud/J.A.R.V.I.S) - Acid-humoured set of shell scripts, dotfiles, configurations and tweaks.
-* [von/bash-utils](https://github.com/von/bash-utils) - Collection of random Bash shell utilities.
-* [vaab/git-hooks](https://github.com/vaab/git-hooks) - Git hooks shell management framework.
-* [tjluoma/bugreporthelper](https://github.com/tjluoma/bugreporthelper) - Shell script and Keyboard Maestro macro to quickly insert system information into bug reports
-* [stuartpb/meta.sh](https://github.com/stuartpb/meta.sh) - A curl-able repository of shell scripts.
-* [schmengler/simple-magento-boilerplate](https://github.com/schmengler/simple-magento-boilerplate) - Simple Vagrantbox with shell script provisioning and Magento boilerplate as described here:
-* [mgedmin/dotfiles](https://github.com/mgedmin/dotfiles) - My personal Linux shell settings
-* [hzwjm/iNot-eclient](https://github.com/hzwjm/iNot-eclient) - 广东天翼校园shell脚本
-* [grantlucas/sh-prowl](https://github.com/grantlucas/sh-prowl) - Simple Prowl interaction through Shell
-* [GNU-Pony/bash.d](https://github.com/GNU-Pony/bash.d) - Subscripts for GNU Bash shells
+* [dagon666/napi](https://github.com/dagon666/napi) - Napi Projekt Client and Subotage subtitle format converter both written in bash *(archived)*
+* [alexanderepstein/Sandman-Lite](https://github.com/alexanderepstein/Sandman-Lite) - A Lightweight Script Built With Late Night Developers In Mind
+* [ryanuber/slide.sh](https://github.com/ryanuber/slide.sh) - Create simple, text-based slide decks in your shell
+* [illusori/bash-itunes](https://github.com/illusori/bash-itunes) - Shell script to control iTunes from the command-line.
+* [talwat/pokeget](https://github.com/talwat/pokeget) - Outdated shell script version of pokeget. *(archived)*
+
+## Graphics and Media
+
+### Game Development
+
+* [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+* [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+* [DadsMmoLab/dads-mmo-lab](https://github.com/DadsMmoLab/dads-mmo-lab) - Offline MMO private servers on Steam Deck. Free guides, Docker scripts & shell installers for classic MMOs. No subscription. No internet. Forever. Visibility: ✅ Public
+* [MinecraftServerControl/mscs](https://github.com/MinecraftServerControl/mscs) - Powerful command-line control for UNIX and Linux powered Minecraft servers
+* [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon) - An educational dungeon crawler in the shell
+* [Upload-Academy/azerothcore-shell](https://github.com/Upload-Academy/azerothcore-shell) - ACBS is focused on making it easier to deploy AzerothCore and therefore private World of Warcraft 3.3.5a servers.
+* [KhanhNguyen9872/Ninja_Server_Termux](https://github.com/KhanhNguyen9872/Ninja_Server_Termux) - Run Ninja School Server on Termux Android without Root
+* [lordofwizard/mcserver](https://github.com/lordofwizard/mcserver) - Free Minecraft Server hosting Shell Scripts, Works on Google Cloud Shell. Flawlessly
+* [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
+* [NATroutter/egg-hytale](https://github.com/NATroutter/egg-hytale) - This egg automates the installation and startup of Hytale servers, including file downloads, environment setup, and configurable launch options. It supports both Pelican Panel and Pterodactyl Panel with dedicated egg files.
+* [wick3dr0se/snake](https://github.com/wick3dr0se/snake) - :snake: A super minimal TUI snake game written in pure BASH v5.1+
+* [p-mng/proton-ge-custom-updater](https://github.com/p-mng/proton-ge-custom-updater) - Simple updater for custom Proton distributions. *(archived)*
+* [bolknote/shellgames](https://github.com/bolknote/shellgames) - Some bash games
+* [ValeriyKr/sfb](https://github.com/ValeriyKr/sfb) - Flappy Bird clone, written in sed
+* [abs0/wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
+* [Doriedson/mario-shellscript](https://github.com/Doriedson/mario-shellscript) - Game do Mario Bros em Shell Script
+
+### Image and Video
+
+* [agarciadom/ipwebcam-gst](https://github.com/agarciadom/ipwebcam-gst) - Simple shell script for using IP Webcam as a V4L2 webcam / sound source
+* [tanersener/ffmpeg-video-slideshow-scripts](https://github.com/tanersener/ffmpeg-video-slideshow-scripts) - Shell scripts to create video slideshows using images and videos
+* [NapoleonWils0n/ffmpeg-scripts](https://github.com/NapoleonWils0n/ffmpeg-scripts) - [MOVED] FFmpeg shell scripts. Please see the new Rust port: https://github.com/NapoleonWils0n/ffmpeg-rust-scripts
+* [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
+* [jenslys/autovod](https://github.com/jenslys/autovod) - Automatically upload Twitch.tv / Kick.com streams in realtime to Youtube or a Rclone supported provider
+* [fangfufu/Converting-Arbitrary-Data-To-Video](https://github.com/fangfufu/Converting-Arbitrary-Data-To-Video) - Two shell scripts for converting arbitrary files into video format.
+* [luminousmen/Kgif](https://github.com/luminousmen/Kgif) - :neckbeard: Tool for creating gif file from capturing active window.
+* [gliyao/SketchToXcode](https://github.com/gliyao/SketchToXcode) - Exporting assets(App icon and icons) from sketch to your Xcode Images.xcassets via shell script.
+* [WuOtto/MacImagesetGenerator](https://github.com/WuOtto/MacImagesetGenerator) - 2个脚本文件，帮助你在Mac上，生成Xcode可使用的APP图标和启动图。
+* [charlyie/resmushit-cli](https://github.com/charlyie/resmushit-cli) - CLI client for reSmush.it : the Free Image Optimization API. Image optimizer shell script.
+* [emarref/webicon](https://github.com/emarref/webicon) - Generate favicon and touch icons via a shell script
+* [jonhoo/streamsh](https://github.com/jonhoo/streamsh) - Download online video streams using shell
+
+## Security
+
+### Cryptography
+
+* [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+* [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
+* [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
+* [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository
+* [dyne/tomb](https://github.com/dyne/tomb) - the Crypto Undertaker
+* [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
+* [getfatday/keytool-importkeypair](https://github.com/getfatday/keytool-importkeypair) - A shell script to import key/certificate pairs into an existing Java keystore
+* [plyint/encpass.sh](https://github.com/plyint/encpass.sh) - Lightweight solution for using encrypted passwords in shell scripts
+* [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
+* [homebysix/jss-filevault-reissue](https://github.com/homebysix/jss-filevault-reissue) - A framework for re-escrowing missing or invalid FileVault keys with Jamf Pro. *(archived)*
+* [waj/shell-secrets](https://github.com/waj/shell-secrets) - Encrypted environment variables
+* [nodesocket/cryptr](https://github.com/nodesocket/cryptr) - A simple shell utility for encrypting and decrypting files using scrypt.
+* [admonstrator/glinet-adguard-updater](https://github.com/admonstrator/glinet-adguard-updater) - Enables and automates ACME (Let’s Encrypt-compatible) certificate issuance and renewal on GL.iNet (OpenWrt-based) routers via a simple shell script.
+* [4bitfocus/asc-key-to-qr-code](https://github.com/4bitfocus/asc-key-to-qr-code) - Shell scripts to convert between ascii armor PGP keys and QR codes for paper backup
+* [hannob/tlshelpers](https://github.com/hannob/tlshelpers) - A collection of scripts that help handling X.509 certificate and TLS issues
+* [SySS-Research/clone-cert](https://github.com/SySS-Research/clone-cert) - Simple shell script to "clone" X.509 certificates
+* [abemassry/wsend-gpg](https://github.com/abemassry/wsend-gpg) - Encrypted end to end file transfer
+* [nyarly/simplekey](https://github.com/nyarly/simplekey) - Compatible shell scripts to make GnuPG more accessible and easier to use.
+* [gheift/ght-acme.sh](https://github.com/gheift/ght-acme.sh) - a linux shell script to sign certifactes by the letsencrypt CA
+* [mogensen/keychain](https://github.com/mogensen/keychain) - Bash script to access the osx keychain, for use in shell scripts.
+* [samoshkin/docker-letsencrypt-certgen](https://github.com/samoshkin/docker-letsencrypt-certgen) - Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion
+
+### Security Tools
+
+* [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+* [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
+* [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+* [esc0rtd3w/wifi-hacker](https://github.com/esc0rtd3w/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+* [dana-at-cp/backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) - backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only.
+* [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. *(archived)*
+* [ffffffff0x/f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具 | Red/Blue team environment automation deployment tool
+* [cytopia/pwncat](https://github.com/cytopia/pwncat) - pwncat - netcat on steroids with Firewall, IDS/IPS evasion, bind and reverse shell, self-injecting shell and port forwarding magic - and its fully scriptable with Python (PSE)
+* [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
+* [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
+* [tclahr/uac](https://github.com/tclahr/uac) - UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.
+* [pwnesia/ssb](https://github.com/pwnesia/ssb) - Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server
+* [TermuxHackz/wifi-hacker](https://github.com/TermuxHackz/wifi-hacker) - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools. Supports All Securities (WEP, WPS, WPA, WPA2)
+* [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution.
+* [wireghoul/htshells](https://github.com/wireghoul/htshells) - Self contained htaccess shells and attacks
+* [ovh/debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 12/13 hardening
+* [robotshell/magicRecon](https://github.com/robotshell/magicRecon) - MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in directories and with various formats.
+* [arget13/DDexec](https://github.com/arget13/DDexec) - A technique to run binaries filelessly and stealthily on Linux by "overwriting" the shell's process with another.
+* [Aegrah/PANIX](https://github.com/Aegrah/PANIX) - Customizable Linux Persistence Tool for Security Research and Detection Engineering.
+* [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
+* [screetsec/Vegile](https://github.com/screetsec/Vegile) - This tool will setting up your backdoor/rootkits when backdoor already setup it will be hidden your spesisifc process,unlimited your session in metasploit and transparent. Even when it killed, it will re-run again. There always be a procces which while run another process,So we can assume that this procces is unstopable like a Ghost in The Shell
+* [x1mdev/ReconPi](https://github.com/x1mdev/ReconPi) - ReconPi - A lightweight recon tool that performs extensive scanning with the latest tools.
+* [enomothem/Whoamifuck](https://github.com/enomothem/Whoamifuck) - 用于Linux应急响应，快速排查异常用户登录情况和入侵信息排查，准确定位溯源时间线，高效辅助还原攻击链。
+* [cloudsec/brootkit](https://github.com/cloudsec/brootkit) - Lightweight rootkit implemented by bash shell scripts v0.10
+* [F4dl0/keydroid](https://github.com/F4dl0/keydroid) - Android Keylogger + Reverse Shell
+* [friendly-bits/geoip-shell](https://github.com/friendly-bits/geoip-shell) - User-friendly and versatile geoblocker for Linux
+* [clu3bot/owt](https://github.com/clu3bot/owt) - Update Version 3.1 added free SMS messaging.
+* [4ndr34z/shells](https://github.com/4ndr34z/shells) - Script for generating revshells
+* [denny0223/scrabble](https://github.com/denny0223/scrabble) - Simple tool to recover .git folder from remote server
+* [xiaoyunjie/Shell_Script](https://github.com/xiaoyunjie/Shell_Script) - Linux系统的安全，通过脚本对Linux系统进行一键检测和一键加固
+* [MatheuZSecurity/D3m0n1z3dShell](https://github.com/MatheuZSecurity/D3m0n1z3dShell) - Demonized Shell is an Advanced Tool for persistence in linux.
+* [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter) - Pack/Encrypt/Obfuscate ELF + SHELL scripts
+* [sundowndev/covermyass](https://github.com/sundowndev/covermyass) - Post-exploitation tool to cover your tracks on a compromised machine (beta)
+* [sowmiksudo/GenVirus](https://github.com/sowmiksudo/GenVirus) - A shell based script to demonstrate how antivirus and virus work.
+* [Mr-xn/subdomain_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+* [jorexdeveloper/termux-nethunter](https://github.com/jorexdeveloper/termux-nethunter) - Install Kali NetHunter Rootless on Android.
+* [utsanjan/Android-Pin-Bruteforce](https://github.com/utsanjan/Android-Pin-Bruteforce) - Turn your Kali NetHunter phone into a brute-force PIN cracker for screen locked Android devices
+* [sun977/Linuxgun](https://github.com/sun977/Linuxgun) - Linux 安全应急响应检查脚本。早期版本叫 linuxcheck（更新到 v5.0 版本后不再更新），在旧版本基础上功能模块化就有了新版本叫 linuxGun，全工具使用 shell 编写，不依靠外部环境，尽量不使用第三方条件，希望在极端条件下能出一份力。
+* [SafeBreach-Labs/pwndsh](https://github.com/SafeBreach-Labs/pwndsh) - Post-exploitation framework (and an interactive shell) developed in Bash shell scripting
+* [JoshuaMart/AutoRecon](https://github.com/JoshuaMart/AutoRecon) - Simple shell script for automated domain recognition with some tools *(archived)*
+* [redcode-labs/Revssl](https://github.com/redcode-labs/Revssl) - A script that automates generation of OpenSSL reverse shells
+* [davideolgiati/PartyLoud](https://github.com/davideolgiati/PartyLoud) - A simple tool to generate fake web browsing and mitigate tracking
+* [PeterMosmans/security-scripts](https://github.com/PeterMosmans/security-scripts) - A collection of security related Python and Bash shell scripts. Analyze hosts on generic security vulnerabilities. Wrapper around popular tools like nmap (portscanner), nikto (webscanner) and testssl.sh (SSL/TLS scanner)
+* [tokyoneon/Armor](https://github.com/tokyoneon/Armor) - Armor is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
+* [gaenserich/hostsblock](https://github.com/gaenserich/hostsblock) - an ad- and malware-blocking script for Linux
+* [SleepTheGod/iPhone-SSH-Backdoor](https://github.com/SleepTheGod/iPhone-SSH-Backdoor) - This is a shell script that creates an SSH backdoor on an iPhone. By Taylor Christian Newsome.
+* [Cyb0r9/winspy](https://github.com/Cyb0r9/winspy) - WinSpy a Windows reverse shell Backdoor creator with an Automatic IP Poisener
+* [njhartwell/pw3nage](https://github.com/njhartwell/pw3nage) - If you get pw3ned, might want to fix your shell
+* [bing0o/bash_scripting](https://github.com/bing0o/bash_scripting) - bash scripting thing!
+* [krishealty/ducky-virus](https://github.com/krishealty/ducky-virus) - Android shell virus that will reset, brick and corrupt the Android device with a link, also contains Antivirus and now supports Android 10+
+* [safebuffer/PE-Linux](https://github.com/safebuffer/PE-Linux) - Linux Privilege Escalation Tool
+* [utsanjan/Tsunami-Bomber](https://github.com/utsanjan/Tsunami-Bomber) - A simple yet powerful OTP SMS and Call flooding script for Linux-based terminals using Bash Scripting, with unlimited sending capability.
+* [SpiderLabs/jboss-autopwn](https://github.com/SpiderLabs/jboss-autopwn) - A JBoss script for obtaining remote shell access *(archived)*
+* [shiblisec/Rekon](https://github.com/shiblisec/Rekon) - The project contains multiple shell scripts for automating the tasks during recon.
+* [NullArray/MIDA-Multitool](https://github.com/NullArray/MIDA-Multitool) - Bash script purposed for system enumeration, vulnerability identification and privilege escalation.
+* [gwen001/keyhacks.sh](https://github.com/gwen001/keyhacks.sh) - Automation of tokens/api keys testing.
+* [kh4sh3i/smartrecon](https://github.com/kh4sh3i/smartrecon) - smartrecon is a powerful shell script to automate the recon and finding common vulnerabilities for bug hunter
+* [tokyoneon/Arcane](https://github.com/tokyoneon/Arcane) - Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories.
+* [cornerpirate/socat-shell](https://github.com/cornerpirate/socat-shell) - Socat can be used to establish a reverse shell with bash tab completion and full shell functionality
+* [rpranshu/EternalView](https://github.com/rpranshu/EternalView) - EternalView is an all in one basic information gathering and vulnerability assessment tool
+* [thecyberneh/scriptkiddi3](https://github.com/thecyberneh/scriptkiddi3) - Streamline your recon and vulnerability detection process with SCRIPTKIDDI3, A recon and initial vulnerability detection tool built using shell script and open source tools.
 * [Gh005t/Android-BruteForce](https://github.com/Gh005t/Android-BruteForce) - Its is a simple shell script that brute force Android Lock screen (When USB DEBUGGING is enable) its uses ADB tools FOR BruteForce
-* [fuhaha/OpenStack_Install_shell_using_virtualbox](https://github.com/fuhaha/OpenStack_Install_shell_using_virtualbox) - Install shell script for OpenStack Kilo
-* [broodplank/GitConflictResolver](https://github.com/broodplank/GitConflictResolver) - Shell script that automatically fixes git merging conflicts the easy way.
-* [b4b4r07/bashmark](https://github.com/b4b4r07/bashmark) - Directory bookmarks for the shell
-* [toromoti/chocomint](https://github.com/toromoti/chocomint) - Simple, powerful, flexible, comment-based Testing Framework for your command-line tools or shell scripts on Bash 4.x
-* [kfujiwara/dnsseczonetool](https://github.com/kfujiwara/dnsseczonetool) - DNSSEC zone signing helper shell script
-* [xdnny/os-x-nearby-wifi-scanner](https://github.com/xdnny/os-x-nearby-wifi-scanner) - OS X based shell script for gathering information about nearby wireless access points.
-* [shrayasr/MUL](https://github.com/shrayasr/MUL) - Track your favourite mangas from the shell!
-* [rahul9712/WWDC-2014](https://github.com/rahul9712/WWDC-2014) - Shell script to download WWDC 2014 Videos
-* [NewpTone/SAIO](https://github.com/NewpTone/SAIO) - It's used for setup and configure Swift All In One with shell script
-* [ktneely/forensics](https://github.com/ktneely/forensics) - shell script to create an image and perform initial examination on a drive
-* [johnsca/devhelpers](https://github.com/johnsca/devhelpers) - A collection of bash shell helpers to wrap common git and QA tasks
-* [jldec/tomd](https://github.com/jldec/tomd) - Shell script for upgrading textile posts to markdown.
-* [Duncaen/fish-django-completions](https://github.com/Duncaen/fish-django-completions) - Generate completions for Django and the fish shell.
-* [csusi/lfs](https://github.com/csusi/lfs) - Linux From Shell - Shell scripts to build Linux From Scratch (version 7.8)
-* [Char1sma/Shell_Collections](https://github.com/Char1sma/Shell_Collections) - Userful shell script collections
-* [bengarrett/btsynctool](https://github.com/bengarrett/btsynctool) - A shell script to interact with the BitTorrent Sync daemon.
-* [anubhavchaturvedi/ConnectifyLinux](https://github.com/anubhavchaturvedi/ConnectifyLinux) - Shell Script to simulate the behavior similar to Connectify for Windows/Mac
-* [atz3ro/BashScriptTestingLibrary](https://github.com/atz3ro/BashScriptTestingLibrary) - A unit testing framework for Shell scripts - namely Bash.
-* [SonicHedgehog/uberspace-goodies](https://github.com/SonicHedgehog/uberspace-goodies) - A few useful Uberspace shell scripts.
-* [gwk/gloss](https://github.com/gwk/gloss) - Shell/environment/editor configurations and command-line utilities.
-* [ZuraGuerra/theme-red-snapper](https://github.com/ZuraGuerra/theme-red-snapper) - Fish shell theme with a kawaii ASCII fish.
-* [wendlers/install-propeller-toolchain](https://github.com/wendlers/install-propeller-toolchain) - Simple shell script to install Parallax-Propeller toolchain, including the BST tools and the Propeller GCC.
-* [wbreeze/album](https://github.com/wbreeze/album) - shell script to generate photo gallery static web pages, thumbnail and preview images
-* [threatgrid/declarative.bash](https://github.com/threatgrid/declarative.bash) - A simple framework for writing declarative shell scripts
-* [tests-always-included/mr-fusion](https://github.com/tests-always-included/mr-fusion) - Automatically merge your git branches with this configurable shell script
-* [tatsuya6502/bhyve-scripts](https://github.com/tatsuya6502/bhyve-scripts) - A collection of shell scripts to run bhyve VMs on my FreeBSD 11.x desktop machine
-* [swoodford/osx](https://github.com/swoodford/osx) - A collection of shell scripts meant to be run in OS X for automating various tasks
-* [Richard-W/cmake-configure-wrapper](https://github.com/Richard-W/cmake-configure-wrapper) - A simple shell-script that imitates the behaviour of the autotools configure script.
-* [RayViljoen/Mac-PHP-Update](https://github.com/RayViljoen/Mac-PHP-Update) - Shell script to update Mac OS X’s bundled PHP to latest 5.4*
-* [perusio/drupal-db](https://github.com/perusio/drupal-db) - A set of shell scripts for working with databases in Drupal
-* [nwinant/misc-scripts](https://github.com/nwinant/misc-scripts) - A small collection of random shell scripts I've found useful
-* [meain/temper](https://github.com/meain/temper) - A small utility to show presentation in a shell
-* [macaubas/vbox-snapshot-restore](https://github.com/macaubas/vbox-snapshot-restore) - Shell script created to control virtualbox in order to restore snapshots.
-* [klehigh/cif2bro-helpers](https://github.com/klehigh/cif2bro-helpers) - a couple shell scripts to help with getting CIF bits into Bro
-* [irnnr/typo3clone](https://github.com/irnnr/typo3clone) - A shell script to clone TYPO3 and configure the clone for contributions through review.typo3.org
-* [illwieckz/pimi](https://github.com/illwieckz/pimi) - A shell script to install popular IdTech mods
-* [enkiv2/clisynth](https://github.com/enkiv2/clisynth) - A set of shell functions for simplifying music composition with sox
-* [chluehr/roundsman](https://github.com/chluehr/roundsman) - Shell scripts for setting up and/or managing Ubuntu servers
-* [TheWookie/git-openssl-shellscript](https://github.com/TheWookie/git-openssl-shellscript) - Shellscript to compile git with OpenSSL
-* [tobibo/AndroidMonkey](https://github.com/tobibo/AndroidMonkey) - Simple shell script which triggers the monkey to run on a android app. Uses a seed to reproduce random events injected after a crash, so rerunning the script after a crash will reproduce the same events.
-* [tecking/wp-cli.setup.sh](https://github.com/tecking/wp-cli.setup.sh) - A shell script to install WP-CLI into common hosting servers.
-* [pwittchen/fix-skype-icon](https://github.com/pwittchen/fix-skype-icon) - :telephone: shell script to fix the Skype icon in Ubuntu
-* [phatblat/XcodeBuildScripts](https://github.com/phatblat/XcodeBuildScripts) - A collection of miscellaneous shell scripts that I use across the various iOS app projects I work on.
-* [nvie/scripts](https://github.com/nvie/scripts) - A collection of simple and small but useful UNIX shell scripts.
-* [nItroFreeZer/php5_backward_incompatible_changes](https://github.com/nItroFreeZer/php5_backward_incompatible_changes) - This shell script could be used to parse DocumentRoots for functions and ini directives problematic with PHP 5 / 7.
-* [MedicineYeh/mmode](https://github.com/MedicineYeh/mmode) - A shell tool to configure/use ccache and distcc in an easy way
-* [mattsears/dotfiles](https://github.com/mattsears/dotfiles) - config files for the shell, ssh, ruby, rails, irb, git and more
-* [marsenis/grader](https://github.com/marsenis/grader) - An automated shell script that compiles and runs a program on a set of test cases provided by the user.
-* [malamaker/UC-Davis-AR-Sandbox-Configuration-Menu](https://github.com/malamaker/UC-Davis-AR-Sandbox-Configuration-Menu) - Shell script and desktop icon that simplifies the startup and configuration of the UC Davis AR Sandbox Project.
-* [lixiantai/GDOU-esurfing-client](https://github.com/lixiantai/GDOU-esurfing-client) - 广东海洋大学电信天翼客户端（Python版+shell版），运行环境OpenWrt
-* [jusbour/Raspberry-Pi-Wordpress-Installation](https://github.com/jusbour/Raspberry-Pi-Wordpress-Installation) - A custom shell script designed for Raspberry Pi to install Wordpress along with a LAMP stack.  It uses Port 80 by default.
-* [jmchilton/proteomics-wine-env](https://github.com/jmchilton/proteomics-wine-env) - The project lets you package up a Wine environment into a single shell script for distribution to other Linux instances or users.
-* [unlp-so/shell-scripts](https://github.com/unlp-so/shell-scripts) - Scripts de ejemplo para la explicación de práctica 3: Shell scripting
-* [sequenceiq/docker-ambari-shell](https://github.com/sequenceiq/docker-ambari-shell) - docker image to run ambari-shell
-* [ikirker/ShellStore](https://github.com/ikirker/ShellStore) - A sort-of-object-store written in bash & command-line-tools
-* [farrellit/shell-assume-aws-role](https://github.com/farrellit/shell-assume-aws-role) - Assume an AWS IAM Role given the AWS profile ( ~/.aws/credentials ), Role ARN, and current MFA Token
-* [ellisonleao/shellfun](https://github.com/ellisonleao/shellfun) - funny shell command aliases to use in your environment
-* [drj11/shell](https://github.com/drj11/shell) - shell tutorial
-* [dotcode/multi-shell-git-prompt](https://github.com/dotcode/multi-shell-git-prompt) - A shell script to make your prompt pretty. Works with bash and zsh, with git.
-* [ShellGui/shellgui](https://github.com/ShellGui/shellgui) - A lightweight Linux System Web Control Panel write with Pure Shell CGI.
-* [redhatlinux10/openSUSE-One-Click-Installer](https://github.com/redhatlinux10/openSUSE-One-Click-Installer) - an one-click-installer shell script helping openSUSE new starters ( especially from China ) to install various applications including multimedia applications, flash plugin, rar and 7zip libraries and etc.
-* [spl/ghc-ver](https://github.com/spl/ghc-ver) - GHC version selection shell script for Mac OS X
-* [Hentioe/shells](https://github.com/Hentioe/shells) - Linux development environment automated configurations.
-* [ggVGc/fzf_browser](https://github.com/ggVGc/fzf_browser) - Shell browser built on fzf
-* [wimmuskee/shell-oaiharvester](https://github.com/wimmuskee/shell-oaiharvester) - OAI-PMH harvester in shell.
-* [weynhamz/shell-toolkit](https://github.com/weynhamz/shell-toolkit) - Some bash scripts I wrote to make life easier.
-* [undpaul/shellwrapper](https://github.com/undpaul/shellwrapper) - A bash script to call multiple shell scripts in a directory.
-* [rubyconsumer/bash-shell-scripting-utilities](https://github.com/rubyconsumer/bash-shell-scripting-utilities) - Bash Shell Scripting Utilities
-* [pirogoeth/shellIRC](https://github.com/pirogoeth/shellIRC) - modular IRC bot and relaybot written in bash
-* [moul/docker-shellinabox](https://github.com/moul/docker-shellinabox) - :whale: run a web shell with Shellinabox in Docker
-* [malyw/fish-shell-the-missing-config](https://github.com/malyw/fish-shell-the-missing-config) - The Missing Config to start using Fish Shell without pain
-* [kljensen/shell-interval-training-timer](https://github.com/kljensen/shell-interval-training-timer) - shell-interval-workout-timer
-* [kisscool/shell-dancer](https://github.com/kisscool/shell-dancer) - A very experimental web framework in POSIX shell inspired by Sinatra
-* [DrHyde/shellscripts](https://github.com/DrHyde/shellscripts) - Random shell stuff
-* [bmejias/alfresco-shell-tools](https://github.com/bmejias/alfresco-shell-tools) - Command line tools to admin Alfresco. Cloned from alfresco-shell-tools originally written by Lothar Maerkle
-* [BenoitHiller/shellby](https://github.com/BenoitHiller/shellby) - Bash IRC bot
-* [AndrewRadev/dot-shell](https://github.com/AndrewRadev/dot-shell) - My zsh configuration
-* [akatrevorjay/dotfiles-shell](https://github.com/akatrevorjay/dotfiles-shell) - Opinionated Garbage -- Shell dotfiles for Zsh/Bash4 with per OS/shell hooks
-* [lukas2511/letsencrypt.sh](https://github.com/lukas2511/letsencrypt.sh) - letsencrypt/acme client implemented as a shell-script
-* [smof/openAM_shell_REST_client](https://github.com/smof/openAM_shell_REST_client) - A set of Bash wrapper scripts that use curl to access the OpenAM RESTful interface
-* [mynameistony/scripts](https://github.com/mynameistony/scripts) - Various shell scripts
-* [joaocunha/OSeXy](https://github.com/joaocunha/OSeXy) - A shell script your OS X will be glad to call its first [WIP].
-* [chenxiaolong/Unity-for-Fedora](https://github.com/chenxiaolong/Unity-for-Fedora) - Porting Ubuntu's Unity Shell to Fedora
-* [znz/dot-shell](https://github.com/znz/dot-shell) - .bashrc and .zshrc
-* [yesodweb/scripts](https://github.com/yesodweb/scripts) - common shell scripts for installing Yesod projects.
-* [tripflex/scripts](https://github.com/tripflex/scripts) - Collection of Bash, Shell, and Expect scripts for Linux.
-* [Tragidy/shell-scripts](https://github.com/Tragidy/shell-scripts) - Linux Server Scripts
-* [tmonjalo/choose](https://github.com/tmonjalo/choose) - shell menu
-* [tarleb/shell-talk](https://github.com/tarleb/shell-talk) - Presentations from the commandline
-* [squidsolutions/aws-redshift-shell](https://github.com/squidsolutions/aws-redshift-shell) - Shell scripts for AWS Redshift clusters configuration, creation and administration
-* [sangrealest/shell](https://github.com/sangrealest/shell) - shell scripts
-* [renanmpimentel/vhost-apache-shell](https://github.com/renanmpimentel/vhost-apache-shell) - Criando vhost no apache em debian/ubuntu
-* [rauluranga/powerbook](https://github.com/rauluranga/powerbook) - shell script for setting up a macbook for development
-* [raphamorim/shell-script-frontend](https://github.com/raphamorim/shell-script-frontend) - [WIP] Replace grunt / gulp tasks using Shell Script
-* [rafamoreira/vagrant-shell-provisioner](https://github.com/rafamoreira/vagrant-shell-provisioner) - A collection of scripts to provision Vagrant with shell
-* [perryflynn/parallels-shell-extensions](https://github.com/perryflynn/parallels-shell-extensions) - Make the ssh jail of parallels cloud server usable
-* [NoNoNo/shellscripts-arte_download](https://github.com/NoNoNo/shellscripts-arte_download) - Download a video from arte+7
-* [nima/site](https://github.com/nima/site) - Modular shell-scripting framework - 99% native bash, 1% phat!
-* [neillturner/omnibus-ansible](https://github.com/neillturner/omnibus-ansible) - Install latest Ansible via pip + dependencies via a shell script
-* [mushroomgithub/Linux-shell-study](https://github.com/mushroomgithub/Linux-shell-study) - 学习Linux shell 脚本编程时写的一些脚本代码
-* [mochi/miscscripts](https://github.com/mochi/miscscripts) - miscellaneous shell scripts
-* [katgironpe/unix-shell-scripts-for-developers](https://github.com/katgironpe/unix-shell-scripts-for-developers) - Mac OS X/Unix Shell Scripts for Developers
-* [inacho/Bash-Shell-Utils](https://github.com/inacho/Bash-Shell-Utils) - My useful functions and alias to use in bash
-* [gyyan/gitDiff-GUI-Shell](https://github.com/gyyan/gitDiff-GUI-Shell) - shell for call the gui diff
-* [chmouel/nautilus-shell-script-rackspace-cloud-files](https://github.com/chmouel/nautilus-shell-script-rackspace-cloud-files) - Upload Files from nautilus to Rackspace Cloud Files
-* [chatainsim/Box.net-Shell-API](https://github.com/chatainsim/Box.net-Shell-API) - Box.net Shell API
-* [cburyta/vagrant-provision-shell](https://github.com/cburyta/vagrant-provision-shell) - Create a list of shell scripts used to provision vagrant
-* [caseyscarborough/gitlab-install](https://github.com/caseyscarborough/gitlab-install) - A collection of shell scripts for automated installation of GitLab.
-* [argordmel/VirtualHost](https://github.com/argordmel/VirtualHost) - Script en shell para crear virtual host en apache2
-* [a1exsh/pwm](https://github.com/a1exsh/pwm) - Dead Simple Password Manager (shell-based)
-* [mlafeldt/tomdoc.sh](https://github.com/mlafeldt/tomdoc.sh) - Parse TomDoc'd shell scripts and generate pretty documentation from it
-* [perusio/php-fpm-relaunch](https://github.com/perusio/php-fpm-relaunch) - A shell script to run as CGI in thttpd that (re)launches php-fpm on an Nginx 502
-* [EvandroLG/setup-lib-js](https://github.com/EvandroLG/setup-lib-js) - shell script to create files and directories common to any lib I write in js
-* [eonil/libgit2-make-ios](https://github.com/eonil/libgit2-make-ios) - This is a set of shell script that makes universal static library binary of `libgit2` for iOS
-* [vxdiv/vagrantLAMP](https://github.com/vxdiv/vagrantLAMP) - Simple Vagrant  and shell provision
-* [stockrt/locknload](https://github.com/stockrt/locknload) - Lockfile shell command wrapper
-* [sio2boss/av](https://github.com/sio2boss/av) - make your own domain specific shell
-* [saschpe/amarok2clementine](https://github.com/saschpe/amarok2clementine) - Shell script to import Amarok's rating, score and playcount into Clementine
-* [salgo/chef-server-bootstrap](https://github.com/salgo/chef-server-bootstrap) - Shell script to bootstrap a chef server using chef-solo for maintainability
-* [neil-smithline-shellscripts/auto-git-push](https://github.com/neil-smithline-shellscripts/auto-git-push) - A simple shell script that is designed to use crontab(8) to push a repo.
-* [muhqu/bash-complete](https://github.com/muhqu/bash-complete) - Shell script to retrive BASH completions
-* [litongbupt/infobright_load_tool](https://github.com/litongbupt/infobright_load_tool) - 往infobright数据load数据的开源shell脚本
-* [KonradIT/gowifi](https://github.com/KonradIT/gowifi) - Command line shell gopro wifi controller
-* [jmwenda/geonode-backup](https://github.com/jmwenda/geonode-backup) - Shell Scripts to backup a GeoNode Instance
-* [icasimpan/shcf](https://github.com/icasimpan/shcf) - simplified shell coding framework
-* [gonnot/codjo-install-workstation](https://github.com/gonnot/codjo-install-workstation) - Todo and shell script for building codjo in a macosx environment
-* [derektamsen/folder-o-tricks](https://github.com/derektamsen/folder-o-tricks) - Random Shell One Liners
-* [mlafeldt/sharness](https://github.com/mlafeldt/sharness) - Shell library to test your Unix tools like Git does
-* [marcan/letsencrypt-external](https://github.com/marcan/letsencrypt-external) - Let's Encrypt plugin that uses an external shell script for domain validation
-* [meskyanichi/provisioner](https://github.com/meskyanichi/provisioner) - Provisioner is a collection of shell scripts, structured in a simple/modular way, that'll do the initial software installations and configurations on your remote server. It's very straightforward and easy to extend, when you look at the source code. The goal is to get a server (particularly for ruby web applications) up and running quickly after deploying a fresh server.
-* [bahmutov/git-branches](https://github.com/bahmutov/git-branches) - Bash shell to show current branches and their descriptions using only default Git features
-* [paltas/FedoraPrime](https://github.com/paltas/FedoraPrime) - This package provide similar functionality to nvidia-prime for Ubuntu, just for fedora, provide a shell script that will change to NVIDIA GPU and vice versa for Intel GPU
-* [KeshavA2015/My_Shell_Scripts](https://github.com/KeshavA2015/My_Shell_Scripts) - My_Shell_Scripts
-* [flower-pot/desktop-install](https://github.com/flower-pot/desktop-install) - Shell script I use to install and configure my ubuntu/osx machine.
-* [pearl-core/pearl](https://github.com/pearl-core/pearl) - Only in the best Shells you will find a Pearl: The package manager for dotfiles, plugins, programs and any form of source code accessible via git
-* [xieyunzi/dotfiles](https://github.com/xieyunzi/dotfiles) - shell, git, vim, tmux .etc dotfiles, managed via gnu stow
-* [stevo81989/ffmpeg-installer](https://github.com/stevo81989/ffmpeg-installer) - A set of shell scripts designed to install the latest version of FFMPEG from source. Designed for cPanel and CentOS based servers
-* [xternal7/punishell](https://github.com/xternal7/punishell) - A shell that mildly punishes you for your mistakes.
-* [xiaohanyu/moviebarcode](https://github.com/xiaohanyu/moviebarcode) - A simple shell script to convert a movie to a moviebarcode(http://moviebarcode.tumblr.com/)
-* [worxco/simplesql](https://github.com/worxco/simplesql) - A Bash Shell script to aid in using mysql at command line. Includes some Drupal features
-* [vgarg/gohawk](https://github.com/vgarg/gohawk) - A shell script that can may be combined with fswatch to automatically build a golang program
-* [trenc/roll_password](https://github.com/trenc/roll_password) - This is a shell script, which rolls a random passphrase based of a diceware wordlist.
-* [tmaone/sword-fish](https://github.com/tmaone/sword-fish) - A shell toolkit written in fish
-* [tjluoma/onnetworkchange](https://github.com/tjluoma/onnetworkchange) - A shell script and launchd plist to trigger actions whenever a Mac's network connection changes
-* [tjluoma/ftpd](https://github.com/tjluoma/ftpd) - Shell script to enable or disable ftpd on Mac OS X 10.7 or 10.8
-* [tjluoma/crashplan-load-unload](https://github.com/tjluoma/crashplan-load-unload) - Shell scripts to load or unload CrashPlan on Mac OS X
-* [syranez/shell-json](https://github.com/syranez/shell-json) - A JSON-to-directory mapper.
-* [skratchdot/Git-Diff-Build-Script](https://github.com/skratchdot/Git-Diff-Build-Script) - A shell script to create "deploy" and "restore" folders based off of a git diff of 2 branches.
-* [shamunda/Plumi-Install-Script-for-CentOS6.x-x64](https://github.com/shamunda/Plumi-Install-Script-for-CentOS6.x-x64) - Shell scripts to aid with the installation of the Plumi video server on CentOS v6.x 64bit systems only.
-* [ryuichiueda/ShellGeiData](https://github.com/ryuichiueda/ShellGeiData) - Files for practice of shellgei
-* [phy1729/znapdragon](https://github.com/phy1729/znapdragon) - znapdragon is a fast and portable shell script to make and rotate ZFS snapshots.
-* [omgmog/install-gapps-over-adb-tcp](https://github.com/omgmog/install-gapps-over-adb-tcp) - A shell script to automatically install the Google Apps via adb over TCP on the Mele A2000.
-* [neurobin/JSiteCopier](https://github.com/neurobin/JSiteCopier) - Shell script to copy an entire website
-* [netmute/deploy.sh](https://github.com/netmute/deploy.sh) - Simple shell script that uploads stuff to your server.
-* [nealjc/parallel-bash](https://github.com/nealjc/parallel-bash) - Execute jobs in parallel from bash shell
-* [mirwasi/GetUVa](https://github.com/mirwasi/GetUVa) - Shell scripts to help you to download all the pdf and html problemsets of UVa.
-* [mimming/safe-nerf-time](https://github.com/mimming/safe-nerf-time) - SMS your AT&T phone the last line of a shell command (e.g. build status)
-* [mgoeppner/organize](https://github.com/mgoeppner/organize) - a simple shell script to organize a user's home directory
-* [mangosango/Simple-WebM](https://github.com/mangosango/Simple-WebM) - A very simple shell script for mac that converts videos to webm clips.
-* [lewismc/bash-httpd](https://github.com/lewismc/bash-httpd) - bash-httpd is a web server written in bash, the GNU bourne shell replacement.
-* [keeeto/Vasp-PV](https://github.com/keeeto/Vasp-PV) - A shell script for calculating many interesting materials' parameters for photovoltaic applications, includng Band gap, polarisation
-* [jsermeno/easycert_openssl](https://github.com/jsermeno/easycert_openssl) - Shell script to produce your own certificate authority
-* [joelnn/crater](https://github.com/joelnn/crater) - Simple shell exec wrapper for installing Lua and LuaRocks
-* [javierjulio/laptop](https://github.com/javierjulio/laptop) - A shell script for installing all tools for my development environment (and general laptop use).
-* [jason-fries/drugsatfda-db](https://github.com/jason-fries/drugsatfda-db) - A shell script for creating a SQL database from weekly Drugs@FDA snapshot data.
-* [jarv/shell-script-for-a-custom-drupal-install](https://github.com/jarv/shell-script-for-a-custom-drupal-install) - Automating Drupal 7 Installs Using Drush and Install Profiles
-* [inonomori/iconBanana](https://github.com/inonomori/iconBanana) - A shell script that generates app icon for iOS
-* [imsky/scripts](https://github.com/imsky/scripts) - Useful shell scripts
-* [hoaphumanoid/scripts](https://github.com/hoaphumanoid/scripts) - A collection of useful shell scripts
-* [highjack/shellcoding](https://github.com/highjack/shellcoding) - Files I created whilst trying to build shellcode
-* [henriqueleng/shite](https://github.com/henriqueleng/shite) - posix shell, simple static site generator. http://henriqueleng.github.io
-* [gjskha/bsbs](https://github.com/gjskha/bsbs) - A Bayesian spam filter written in the bash shell.
-* [genesem/xcfg](https://github.com/genesem/xcfg) - Simple shell scripts to manage nginx under debian/ubuntu platforms.
-* [farahei14/proxmox-vmbackup](https://github.com/farahei14/proxmox-vmbackup) - Simple shell script to backup Proxmox 3.0 virtual machine (type: qemu)
-* [eckemp/existdbScripts](https://github.com/eckemp/existdbScripts) - Various shell and ansible scripts to help automate and monitor eXist-db instances
-* [dphiffer/downloading-is-never-stealing](https://github.com/dphiffer/downloading-is-never-stealing) - A convenient set of hyperlinks and shell scripts for reading and archiving Aaron Swartz's online writings
-* [delphian/vagrant-drupal-8](https://github.com/delphian/vagrant-drupal-8) - Drupal 8 vagrant configured VirtualBox. Installable from the shell via a single command line.
-* [datagutt/OUYA-scripts](https://github.com/datagutt/OUYA-scripts) - Some useful shell scripts that making developing and using your OUYA easier.
-* [crzrcn/git-superinit](https://github.com/crzrcn/git-superinit) - My intro to shell scripting.
-* [capeterson/ZSH-Config](https://github.com/capeterson/ZSH-Config) - My Z shell config and other misc dotfiles
-* [aptira/openstack-training-labs](https://github.com/aptira/openstack-training-labs) - Some Shell scripts to automate a few Virtual Box related things to ease the process of OpenStack Training Labs
-* [Tagar/rman](https://github.com/Tagar/rman) - Shell script to run scheduled Oracle RMAN backup scripts for various usage scenarios
-* [SidneyS/cordova-autocrosswalk](https://github.com/SidneyS/cordova-autocrosswalk) - Shell / Bash script to auto-convert Cordova 3.6 projects to Cordova Crosswalk.
-* [SamTebbs33/mkvim](https://github.com/SamTebbs33/mkvim) - A small and simple shell script that creates a new vim profile
-* [OpenGDSMobile/Linker](https://github.com/OpenGDSMobile/Linker) - OpenGDSMobile Linker Shell Script
-* [Obihoernchen/generateThumbs](https://github.com/Obihoernchen/generateThumbs) - Small shell  script which will generate thumbnails of videofiles for you.
-* [KostyaKow/shell_matrix](https://github.com/KostyaKow/shell_matrix) - Bash Matrix
-* [DrLongGhost/reload](https://github.com/DrLongGhost/reload) - Shell script for refreshing browsers or running tests when files in a monitored directory change
-* [superhj1987/mac_useful_things](https://github.com/superhj1987/mac_useful_things) - some useful mac things:scripts shells doc shortcut key
-* [collegeplus/s3-shell-backups](https://github.com/collegeplus/s3-shell-backups) - Shell scripts to backup files and databases to Amazon S3
+* [Ethical-Hacking-Zone/shellphish](https://github.com/Ethical-Hacking-Zone/shellphish) - An Official Re-Upload Of The ShellPhish Tool In Github
+* [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
+* [ThePorgs/Exegol-images](https://github.com/ThePorgs/Exegol-images) - Docker images of the Exegol project
+* [mr-rizwan-syed/chomtesh](https://github.com/mr-rizwan-syed/chomtesh) - CHOMTE.SH is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers.
+* [Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) - A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched models
+* [devploit/put2win](https://github.com/devploit/put2win) - Script to automate PUT HTTP method exploitation to get shell
+* [cipher387/grep_for_osint](https://github.com/cipher387/grep_for_osint) - GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).
+* [pratiktri/server_init_harden](https://github.com/pratiktri/server_init_harden) - POSIX shell script automating Linux/FreeBSD server security hardening.
+* [S12cybersecurity/GhostShell](https://github.com/S12cybersecurity/GhostShell) - Interactive shell to execute commands anonymously using Proxychains and Tor
+* [jlrodriguezf/WhatsPwn](https://github.com/jlrodriguezf/WhatsPwn) - Linux tool used to extract sensitive data, inject backdoor or drop remote shells on android devices.
+* [zerobyte-id-bak/Bashter](https://github.com/zerobyte-id-bak/Bashter) - Web Crawler, Scanner, and Analyzer Framework (Shell-Script based)
+* [BLACK-SCORP10/Email-Vulnerability-Checker](https://github.com/BLACK-SCORP10/Email-Vulnerability-Checker) - Find Email Spoofing Vulnerablity of domains
+* [Machou/Cloudflare-Block](https://github.com/Machou/Cloudflare-Block) - Bash script that automatically activates Cloudflare's "I'm Under Attack!" mode if the server detects an attack.
+* [audibleblink/gorsh](https://github.com/audibleblink/gorsh) - A toy CTF Golang Reverse Shell w/ a Tmux-driven psuedo-C2 Interface
+* [bdamele/unix-privesc-check](https://github.com/bdamele/unix-privesc-check) - Shell script that runs on UNIX systems (tested on Solaris 9, HPUX 11, various Linux distributions, FreeBSD 6.2). It detects misconfigurations that could allow local unprivileged user to escalate to other users (e.g. root) or to access local apps (e.g. databases). This is a collaborative rework of version 1.0
+* [stablestud/adsorber](https://github.com/stablestud/adsorber) - Ad-blocker for Linux systems purely built on POSIX-compliant shell scripts.
+* [tobykurien/NSA_b_gone](https://github.com/tobykurien/NSA_b_gone) - A Linux shell script to improve your privacy online *(archived)*
+* [adityashrm21/RaspberryPi-Packet-Sniffer](https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer) - An HTTP and HTTPS sniffing tool created using a Raspberry Pi
+* [Mehran/tweetshell](https://github.com/Mehran/tweetshell) - Multi-thread Twitter BruteForcer in Shell Script
+* [al0ne/MacCheck](https://github.com/al0ne/MacCheck) - 一个Mac下信息搜集小脚本 主要用于信息搜集/应急响应/检测挖矿进程/异常进程/异常启动项
+* [mempodippy/snodew](https://github.com/mempodippy/snodew) - PHP root (suid) reverse shell
+* [djjoa/genshell](https://github.com/djjoa/genshell) - Genshell: The atomatic copy-and-paste oneline reverse shell generator. Just add args!
+* [emirozer/nixarmor](https://github.com/emirozer/nixarmor) - nixarmor is a linux hardening automation project
+* [trick77/nftables-blacklist](https://github.com/trick77/nftables-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
+
+## Testing and Quality
+
+### Testing
+
+* [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+* [kward/shunit2](https://github.com/kward/shunit2) - shUnit2 is a xUnit based unit test framework for Bourne based shell scripts.
+* [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
+* [bach-sh/bach](https://github.com/bach-sh/bach) - Unit testing framework for developing cross-platform Bash unit tests
+* [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
+* [bmizerany/roundup](https://github.com/bmizerany/roundup) - eliminate bugs and weeds from shell scripts
+* [felipec/sharness](https://github.com/felipec/sharness) - Shell library to test your tools like Git does
+* [rylnd/shpec](https://github.com/rylnd/shpec) - Test your shell scripts!
+* [codecov/codecov-bash](https://github.com/codecov/codecov-bash) - Global coverage report uploader for Codecov *(archived)*
+* [rafritts/bunit](https://github.com/rafritts/bunit) - A unit testing framework for Shell scripts - namely Bash.
+* [exceedhl/toft](https://github.com/exceedhl/toft) - toft is a library currently supporting testing infrastructure code such as chef, shell scripts with cucumber and lxc on linux machine
+* [torokmark/assert.sh](https://github.com/torokmark/assert.sh) - :exclamation: Assertion lib for shell script users
+* [jasonkarns/bats-mock](https://github.com/jasonkarns/bats-mock) - Mocking/stubbing library for BATS (Bash Automated Testing System)
+* [zstenger93/42_minishell_tester](https://github.com/zstenger93/42_minishell_tester) - It's like cutting an onion. Will make you cry. 1000+ tests to dance on your nerves.
+* [capitalone/bash_shell_mock](https://github.com/capitalone/bash_shell_mock) - A shell script mocking utility/framework for the BASH shell *(archived)*
+
+## Utilities
+
+### Command Line Tools
+
+* [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+* [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
+* [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model *(archived)*
+* [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
+* [paulirish/git-open](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser.
+* [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
+* [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
+* [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
+* [huyng/bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment.
+* [mchav/with](https://github.com/mchav/with) - Command prefixing for continuous workflow using a single tool.
+* [adtac/climate](https://github.com/adtac/climate) - The swiss-army knife of utility tools for Linux.
+* [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
+* [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
+* [holzschu/a-Shell-commands](https://github.com/holzschu/a-Shell-commands) - shell commands, pre-compiled to webAssembly, ready to use in a-Shell
+* [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
+* [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate) - A collection of Bash scripts for creating safe and useful command line programs.
+* [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) - Git aliases plugin for the Fish shell (similar to oh-my-zsh git)
+* [mfaerevaag/wd](https://github.com/mfaerevaag/wd) - :rocket: Jump to custom directories in zsh
+* [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
+* [fteem/git-semantic-commits](https://github.com/fteem/git-semantic-commits) - Tiny semantic commit messages for Git.
+* [Ventto/mons](https://github.com/Ventto/mons) - POSIX Shell script to quickly manage monitors on X
+* [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
+* [marzocchi/zsh-notify](https://github.com/marzocchi/zsh-notify) - Desktop notifications for long-running commands in zsh.
+* [jcsalterego/historian](https://github.com/jcsalterego/historian) - Command-line utility for managing shell history in a SQLite database.
+* [sudofox/shell-mommy](https://github.com/sudofox/shell-mommy) - Mommy is here for you on the command line ~ ❤️
+* [docopt/docopts](https://github.com/docopt/docopts) - Shell interpreter for docopt, the command-line interface description language.
+* [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
+* [fwdekker/mommy](https://github.com/fwdekker/mommy) - mommy's here to support you, in any shell, on any system~ ❤️
+* [EivindArvesen/prm](https://github.com/EivindArvesen/prm) - A minimal project manager for the terminal.
+* [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
+* [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
+* [Akianonymus/gdrive-downloader](https://github.com/Akianonymus/gdrive-downloader) - Download a gdrive folder or file easily, shell ftw.
+* [bntzio/wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove the node_modules folder of non-active projects
+* [jemishavasoya/dev-cleaner](https://github.com/jemishavasoya/dev-cleaner) - One-click CLI utility to safely clear 50GB+ of developer cache bloat. Cleans Xcode DerivedData, Flutter build caches, Android Gradle, npm/node_modules, and IDE temp files on macOS, Linux, and Windows.
+* [kward/shflags](https://github.com/kward/shflags) - shFlags is a port of the Google gflags library for Unix shell.
+* [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
+* [andrep/git-svn-clone-externals](https://github.com/andrep/git-svn-clone-externals) - Simple shell script to import svn:externals into a local git-svn repository
+* [yankeexe/git-worktree-switcher](https://github.com/yankeexe/git-worktree-switcher) - Switch between git worktrees with speed. :zap:
+* [jgamblin/MacOS-Maid](https://github.com/jgamblin/MacOS-Maid) - macOS cleanup and security auditing tool for developers
+* [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
+* [bfontaine/rfc](https://github.com/bfontaine/rfc) - :page_facing_up: Read RFCs from the command-line
+* [bill-auger/git-branch-status](https://github.com/bill-auger/git-branch-status) - A shell script that prints out pretty git branch sync status reports
+* [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
+* [fabacab/git-archive-all.sh](https://github.com/fabacab/git-archive-all.sh) - A bash shell script wrapper for git-archive that archives a git superproject and its submodules, if it has any.
+* [g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion) - Complete your pnpm command fastly.
+* [teracow/googliser](https://github.com/teracow/googliser) - a fast BASH multiple-image downloader
+* [brunelli/gnome-shell-extension-installer](https://github.com/brunelli/gnome-shell-extension-installer) - A bash script to search and install extensions from extensions.gnome.org *(archived)*
+* [jnwatts/pushover.sh](https://github.com/jnwatts/pushover.sh) - Shell script wrapper around curl for sending messages through PushOver
+* [Anvil/bash-argsparse](https://github.com/Anvil/bash-argsparse) - An high level argument parsing library for bash
+* [shannonmoeller/up](https://github.com/shannonmoeller/up) - Quickly navigate to a parent directory via tab-completion.
+* [nhoffman/argparse-bash](https://github.com/nhoffman/argparse-bash) - Use python's argparse module in shell scripts
+* [xwmx/hosts](https://github.com/xwmx/hosts) - A command line hosts file editor in one portable script.
+* [barnybug-archive/docker-fish-completion](https://github.com/barnybug-archive/docker-fish-completion) - ARCHIVED: docker command completion for the fish shell *(archived)*
+* [Vladimir-csp/xdg-terminal-exec](https://github.com/Vladimir-csp/xdg-terminal-exec) - Proposal for XDG Default Terminal Execution Specification and shell-based reference implementation.
+* [qdaxb/wtool](https://github.com/qdaxb/wtool) - shell toolkit
+* [rupa/j](https://github.com/rupa/j) - semi clone of autojump (http://github.com/joelthelion/autojump) in shell/awk
+* [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
+* [dysosmus/ansible-completion](https://github.com/dysosmus/ansible-completion) - Basic bash completion for Ansible
+* [KnpLabs/symfony2-autocomplete](https://github.com/KnpLabs/symfony2-autocomplete) - A very simple script to autocomplete Symfony2 commands in a bash shell. *(archived)*
+* [justinmayer/tackle](https://github.com/justinmayer/tackle) - Collection of fish shell functions, modules, plugins, and themes
+* [zmalltalker/fish-nuggets](https://github.com/zmalltalker/fish-nuggets) - Completions, code snippets helping you to get even more out of the amazing Fish shell
+* [0rax/fish-bd](https://github.com/0rax/fish-bd) - Quickly go back to a parent directory up in your current working directory tree. Don't write 'cd ../../..' redundantly, use bd instead.
+* [gmarik/gist.sh](https://github.com/gmarik/gist.sh) - Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com *(archived)*
+* [arzzen/calc.plugin.zsh](https://github.com/arzzen/calc.plugin.zsh) - zsh calculator - with support for basic math
+* [sjl/z-fish](https://github.com/sjl/z-fish) - A fork of http://github.com/rupa/z to port it to the Fish shell.
+* [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
+* [jichu4n/fish-command-timer](https://github.com/jichu4n/fish-command-timer) - Fish shell extension for printing execution time for each command.
+* [jimeh/zsh-peco-history](https://github.com/jimeh/zsh-peco-history) - Search shell history with peco when pressing ctrl+r.
+* [beauwilliams/awesome-fzf](https://github.com/beauwilliams/awesome-fzf) - A community repo of fzf scripts and awesome functions 😍
+* [alphapapa/bucket](https://github.com/alphapapa/bucket) - A bucket for your shell (like a set of registers, or a clipboard manager)
+* [emmanuel-ferdman/gh-gonest](https://github.com/emmanuel-ferdman/gh-gonest) - :octocat: GitHub CLI extension that automatically detects and removes ghost notifications from banned/deleted repos
+* [decors/fish-ghq](https://github.com/decors/fish-ghq) - ghq completion and keybinding for fish shell
+* [techwizrd/fishmarks](https://github.com/techwizrd/fishmarks) - Save and jump to frequently used directories in Fish shell with fast, script-friendly named bookmarks.
+* [joehillen/to-fish](https://github.com/joehillen/to-fish) - Bookmarks for Fish Shell
+* [Fakerr/goto](https://github.com/Fakerr/goto) - Navigate long command lines using a minimalistic char-based decision tree.
+* [sakshamsharma/zpyi](https://github.com/sakshamsharma/zpyi) - The power of python in your Zsh - Unobtrusive and easy python scripting in shell
+* [Multirious/zsh-helix-mode](https://github.com/Multirious/zsh-helix-mode) - Helix keybinding for Z Shell
+* [lgathy/google-cloud-sdk-fish-completion](https://github.com/lgathy/google-cloud-sdk-fish-completion) - Google Cloud Platform SDK command line utilities shell completion for fish
+* [zpm-zsh/ls](https://github.com/zpm-zsh/ls) - Zsh plugin for ls
+* [crclark96/ginh](https://github.com/crclark96/ginh) - ginh is not a histogram: visually evaluate your shell usage patterns
+* [spencertipping/cd](https://github.com/spencertipping/cd) - A better "cd" for bash
+* [wilsonmar/git-utilities](https://github.com/wilsonmar/git-utilities) - :octocat: Shell scripts to work with git repos
+* [vincetse/shellutils](https://github.com/vincetse/shellutils) - A collection of command line utilities
+* [TunaCuma/zsh-vi-man](https://github.com/TunaCuma/zsh-vi-man) - Zsh vi-mode plugin for instant man-page help — press Shift-K to open a command’s man page with the option under your cursor auto-searched. 🔍
+* [alebcay/pushblast](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits.
+* [sbimochan/smart-commit](https://github.com/sbimochan/smart-commit) - Commit with current branch name.
+* [GArik/bash-completion](https://github.com/GArik/bash-completion) - programmable completion for the bash shell
+* [arzzen/pert](https://github.com/arzzen/pert) - A simple command line (bash/shell) utility to estimate tasks using PERT [Program Evaluation and Review Technique]
+* [abemassry/wsend](https://github.com/abemassry/wsend) - wsend: The opposite of wget
+* [brgmnn/fish-docker-compose](https://github.com/brgmnn/fish-docker-compose) - Fish shell completions for docker-compose
+* [icyphox/repl](https://github.com/icyphox/repl) - :shell: an instant REPL for any command
+* [shinriyo/breeze](https://github.com/shinriyo/breeze) - git tool for fish-shell
+* [asciimoo/ali](https://github.com/asciimoo/ali) - Smart shell alias replacement
+* [Bilalh/shellmarks](https://github.com/Bilalh/shellmarks) - Directory bookmarks for the shell
+* [ankitvad/goto](https://github.com/ankitvad/goto) - Linux Shell 'cd' replacement tool. cd on steroids, with fuzzy file finder and a directory bookmark saver.
+
+### Text Processing
+
+* [ekalinin/github-markdown-toc](https://github.com/ekalinin/github-markdown-toc) - Easy TOC creation for GitHub README.md
+* [jstrieb/paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
+* [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
+* [jirutka/esh](https://github.com/jirutka/esh) - Simple templating engine based on shell.
+* [fmahnke/shell-semver](https://github.com/fmahnke/shell-semver) - Increment semantic versioning strings in Bash shell scripts.
+* [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
+* [vijithassar/lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
+* [rcrowley/mustache.sh](https://github.com/rcrowley/mustache.sh) - Mustache in POSIX shell *(archived)*
+
+### Files and Operating System
+
+* [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL) *(archived)*
+* [binpash/try](https://github.com/binpash/try) - Inspect, control, and manipulate a command's effects before modifying your live system.
+* [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux *(archived)*
+* [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
+* [billw2/rpi-clone](https://github.com/billw2/rpi-clone) - A shell script to clone a booted disk.
+* [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
+* [fsquillace/junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs, without root privileges, on top of any other Linux distro.
+* [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh. *(archived)*
+* [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
+* [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
+* [cswl/tsu](https://github.com/cswl/tsu) - Gain root shell on Termux.
+* [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
+* [cfgnunes/nautilus-scripts](https://github.com/cfgnunes/nautilus-scripts) - A set of actions for extending the functionality of the GNOME Files (Nautilus), Nemo, Caja, Dolphin, Thunar and PCManFM-Qt file managers.
+* [hctilg/root-termux](https://github.com/hctilg/root-termux) - install pseudo-root(sudo) in the termux
+* [hertg/egpu-switcher](https://github.com/hertg/egpu-switcher) - 🖥🐧 Setup script for eGPUs in Linux (X.Org)
+* [JElchison/format-udf](https://github.com/JElchison/format-udf) - Bash script to format a block device (hard drive or Flash drive) in UDF. The output is a drive that can be used for reading/writing across multiple operating system families: Windows, macOS, and Linux. This script should be capable of running in macOS or in Linux.
+* [Staubgeborener/Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup) - Klipper-Backup is a script for manual or automated Klipper GitHub backups. It's lightweight, pragmatic and comfortable.
+* [mngshm/rxfetch](https://github.com/mngshm/rxfetch) - A custom system info fetching tool
+* [eepykate/fet.sh](https://github.com/eepykate/fet.sh) - 🐢 a fetch written in posix shell without any external commands (sponsored by https://git.io/kiwmi)
+* [dominiksalvet/asus-fan-control](https://github.com/dominiksalvet/asus-fan-control) - Fan control for ASUS devices running Linux
+* [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
+* [chrismytton/shoreman](https://github.com/chrismytton/shoreman) - :shell: foreman in shell
+* [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
+* [Sepero/temp-throttle](https://github.com/Sepero/temp-throttle) - A shell script for throttling system CPU frequency based on a desired maximum temperature
+* [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfetch) - A super tiny system information fetch script written in BASH
+* [agnostic-apollo/sudo](https://github.com/agnostic-apollo/sudo) - A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument with superuser (root) context in termux
+* [chesty/overlayroot](https://github.com/chesty/overlayroot) - mounts an overlay file system over root
+* [White-Raven/PowerEdge-shutup](https://github.com/White-Raven/PowerEdge-shutup) - shell ballgag for Dell servers, tested working with G11 and G12, G13 and G14 too but with conditions**.
 * [cfg2html/cfg2html](https://github.com/cfg2html/cfg2html) - cfg2html is a UNIX shell script similar to supportinfo, getsysinfo or get_config, except that it creates a HTML (and plain ASCII) system documentation for HP-UX, SCO-UNIX, AIX, Sun OS and Linux systems. Plug-ins for SAP, Oracle, Informix, Serviceguard, Fiber Channel/SAN, TIP/ix, OpenText (IXOS/LEA), SN Mass Storage like MAS, EMC, EVA, XPs, Network Node Manager and DataProtector etc. are included. The first versions of cfg2html were written for HP-UX. Meanwhile the cfg2html HP-UX stream was ported to all major *NIX platforms and small embedded systems.
-* [thelazyenginerd/shellutils](https://github.com/thelazyenginerd/shellutils) - A collection of command line utilities
-* [ianbrunelli/gnome-shell-extension-installer](https://github.com/ianbrunelli/gnome-shell-extension-installer) - A bash script to search and install extensions from extensions.gnome.org
-* [Sammitch/add-to-check_mk](https://github.com/Sammitch/add-to-check_mk) - Shell script to add new hosts to Check_MK via command line. [assumes OMD]
-* [krieger-od/imgs2video](https://github.com/krieger-od/imgs2video) - Transcode series of images to video, with presentation timestamp control. A set of shell scripts on top of FFmpeg (originally C app based on libavcodec, libavformat from ffmpeg)
-* [SnabbCo/shellci](https://github.com/SnabbCo/shellci) - OpenStack 3rd party CI in 100 lines of shell
-* [Hiradur/rigsofrods-linuxscripts](https://github.com/Hiradur/rigsofrods-linuxscripts) - Shell scripts to build Rigs of Rods on apt based systems
-* [tangramor/deploy_rails](https://github.com/tangramor/deploy_rails) - Use Shell script to update ruby on rails applications on remote servers through git, and execute bundle install, rake db:migration, asset precompile and restart unicorn...
-* [revanthpobala/Ubuntu-Dualboot-installer-Modified.sh](https://github.com/revanthpobala/Ubuntu-Dualboot-installer-Modified.sh) - This is a modified version of the shell script for ubuntu installer for Nexus 4. It works only for Nexus 4 and the code is improved for ffluid execution.
-* [piqus/rocketeer](https://github.com/piqus/rocketeer) - Rocketeer is a shell script for Ubuntu Linux autoinstall some useful stuff.
-* [petervanderdoes/shFlags](https://github.com/petervanderdoes/shFlags) - Shell Flags (shFlags) is a library written to greatly simplify the handling of command-line flags.
-* [moefuerst/newsfetch.sh](https://github.com/moefuerst/newsfetch.sh) - Simple shell script that fetches Calibre .recipes from a specified dir, turns them into Kindle-newspapers via ebook-convert  and sends them to your kindle e-mail adress with calibre-smtp. NOTE: has now evolved to
-* [klondi/kinitram](https://github.com/klondi/kinitram) - kinitram is a simple yet powerful initram system providing amongst other things an early boot shell for system recovery
-* [hvd/Simple-Text-Parser](https://github.com/hvd/Simple-Text-Parser) - Search For instances of specific keywords in another large index. eg you have 10 Phone nos one below the other, you have another file with a million records with the Phone nos and other information..... The specific Phone no's with other information will be extracted from the larger file using the Phone no as the key.Illustrates the Power of Shell scripts, awk and grep.
-* [geekrelief/fcsh-scripts](https://github.com/geekrelief/fcsh-scripts) - Scripts to startup the Flex Compiler Shell as a background process built on top of vim / fcsh scripts by Mike Rowe http://www.vim.org/scripts/script.php?script_id=1793
-* [bretweinraub/postgres_installer](https://github.com/bretweinraub/postgres_installer) - shell scripts automatically builds and installs postgres from source; for use when installing multiple versions on the same machine
-* [bazbt3/ayadn_shell](https://github.com/bazbt3/ayadn_shell) - A Linux menu for AYADN - the App.net CLI.
-* [Willscrlt/bash-yn](https://github.com/Willscrlt/bash-yn) - A simple Bash shell script for Linux that waits for a yes or no response from the user with an optional timeout, optional custom prompt, and/or optional default value. Repeats until valid input is received. Returns either 0 (for a no response) or 1 (for a yes).
-* [WildDogTeam/liveshell](https://github.com/WildDogTeam/liveshell) - 使用野狗开发一个远程调用shell脚本的工具。运维工程师的利器。
-* [Shew/Shewstring](https://github.com/Shew/Shewstring) - Shewstring is a collection of Bourne Shell functions and scripts for building installers of secure and anonymous FreeBSD distros.
-* [Ruxton/shell_config](https://github.com/Ruxton/shell_config) - Config files and dotfiles and things for POSIX shells (mostly bash)
-* [Pekkarin/Piratec](https://github.com/Pekkarin/Piratec) - Search & download .torrent-files from Piratebay by command line. Plain shell script, uses only lynx and wget among GNU core utils.
-* [Eonil/libgit2-make-ios](https://github.com/Eonil/libgit2-make-ios) - This is a set of shell script that makes universal static library binary of `libgit2` for iOS
-* [zeroem/clojure-sh](https://github.com/zeroem/clojure-sh) - Clojure-ism for your favorite shell
-* [wangyan/pureftpd](https://github.com/wangyan/pureftpd) - Pureftpd Auto Install Shell Script
-* [viniciusffj/shell-recorder](https://github.com/viniciusffj/shell-recorder) - A shell commands recorder
-* [viggyprabhu/Lord-of-the-shell](https://github.com/viggyprabhu/Lord-of-the-shell) - A game to learn shell commands
-* [unlp-so/ep3-shell-scripting](https://github.com/unlp-so/ep3-shell-scripting) - Scripts de ejemplo para la explicación de práctica 3: Shell scripting
-* [uarun/dotfiles](https://github.com/uarun/dotfiles) - Customized Vim, Git and Shell preferences
-* [tobyjaffey/staticblog](https://github.com/tobyjaffey/staticblog) - A simple static blog generator in shell script
-* [teknotus/bashelf](https://github.com/teknotus/bashelf) - An assembler written in bash shell
-* [t57root/oh-my-lovely-shell](https://github.com/t57root/oh-my-lovely-shell) - Scriptz for  pentesting & ops
-* [stick/dotfiles](https://github.com/stick/dotfiles) - shell configuration files
-* [spencertipping/lock](https://github.com/spencertipping/lock) - A mutex for shell commands
-* [sm/sm-shells](https://github.com/sm/sm-shells) - BDSM Shells Extensions Set
-* [simme/dotfiles](https://github.com/simme/dotfiles) - My shell setup 'n stuff
-* [scraperwiki/urchin1](https://github.com/scraperwiki/urchin1) - A skeleton for shell tests
-* [schrotthaufen/shell-scripts](https://github.com/schrotthaufen/shell-scripts) - Random misc. shellscripts
-* [sas05/automate-mysql-database-backup](https://github.com/sas05/automate-mysql-database-backup) - Take backup of the application content is very important, So you can recover your application’s database and content if system crashes. Lets begin with simple backup shell scripts and mail the backup to your email address.
-* [samadli/Bacys](https://github.com/samadli/Bacys) - Backup System for Linux servers on Bash Shell
-* [ryuichiueda/ShellOfficeTools](https://github.com/ryuichiueda/ShellOfficeTools) - Hacking tools for Office XML files
-* [rubyruy/ninjapack](https://github.com/rubyruy/ninjapack) - Ruy’s Ninja-Pack of Cool Shell Tools For Attractive People
-* [rs77/Coda-Shell-Script](https://github.com/rs77/Coda-Shell-Script) - Open files in Coda (or launch Coda) from the command line
-* [raphaelcohn/vcloud-shell](https://github.com/raphaelcohn/vcloud-shell) - vCloud interactive shell and API scripting language
-* [pranavns/Bash_Applications](https://github.com/pranavns/Bash_Applications) - applications written in shell scripts
-* [pettersonfaria/whereThereIsAShellThereIsAWay](https://github.com/pettersonfaria/whereThereIsAShellThereIsAWay) - Shell !
-* [percioandrade/vdns](https://github.com/percioandrade/vdns) - Shell Script
-* [nagisa/gnome-shell-theme-min](https://github.com/nagisa/gnome-shell-theme-min) - A GNOME-Shell theme without bells or whistles
-* [mutuki/Shellscriptter](https://github.com/mutuki/Shellscriptter) - Access twitter APIs via command line scripts with OAuth.
-* [mukulu/shell-scripts](https://github.com/mukulu/shell-scripts) - Day To Day Useful Shell scripts
-* [mpoullet/shell_examples](https://github.com/mpoullet/shell_examples) - Some useful shell script samples
-* [moee/shellprovisioner](https://github.com/moee/shellprovisioner) - A zero dependency shell provisioner for bash
-* [mekanix/fish](https://github.com/mekanix/fish) - My config of fish shell
-* [mattbryson/oh-my-zsh-plugins](https://github.com/mattbryson/oh-my-zsh-plugins) - Plugins for the oh-my-zsh shell.
-* [mank319/gscmsh](https://github.com/mank319/gscmsh) - GetSimple CMS Shell
-* [linuxdeepin-packages/deepin-theme-gnome-shell](https://github.com/linuxdeepin-packages/deepin-theme-gnome-shell) - Default gnome-shell theme for Linux Deepin
-* [lijiaocn/LinuxShell](https://github.com/lijiaocn/LinuxShell) - Linux Shell Scipts
-* [krushia/libaccident-sh](https://github.com/krushia/libaccident-sh) - Library of functions for POSIXy shell scripts
-* [ketema/shellscripts_N_oneliners](https://github.com/ketema/shellscripts_N_oneliners) - Collection of NIX based shell scripts and one-liners that I have used at some point in time and always find a need for again
-* [jqb/shell-tools](https://github.com/jqb/shell-tools) - My newest and the oldest shell tools
-* [joseph8th/shkeleton](https://github.com/joseph8th/shkeleton) - CLI shell scripting for lazy people
-* [jondkinney/HipTunesShell](https://github.com/jondkinney/HipTunesShell) - A shell script that I call through Alfred or via hotkey or via the cmd line to put the currently playing track | artist - album into our HipChat room
-* [joelpurra/shell-keystroke-animator](https://github.com/joelpurra/shell-keystroke-animator) - Simulate stroking keyboard keys into another application/window while taking screenshots to create a `.gif` animation.
-* [jamesss/CATENotes](https://github.com/jamesss/CATENotes) - Shell script to download all notes from CATE.
-* [irrequietus/shellapi](https://github.com/irrequietus/shellapi) - A twisted, unconventional and highly experimental GNU bash driven build framework
-* [ingojaeckel/ScriptFu](https://github.com/ingojaeckel/ScriptFu) - collection of useful shell scripts
-* [hxw/dotfiles](https://github.com/hxw/dotfiles) - shell and editor configuration files
-* [hugomaiavieira/refactoring-scripts](https://github.com/hugomaiavieira/refactoring-scripts) - Shell scripts for refactoring
-* [hackedd/FishFunctions](https://github.com/hackedd/FishFunctions) - My functions for the fish shell
-* [gnewlinux/scripts](https://github.com/gnewlinux/scripts) - Shell Scripts
-* [fmoliveira/lsb-release-upstream](https://github.com/fmoliveira/lsb-release-upstream) - Manually detecting upstream Linux distros for shell scripting.
-* [firdavsich/firewall](https://github.com/firdavsich/firewall) - firewall shell scripts
-* [dterei/shell-settings](https://github.com/dterei/shell-settings) - UNIX Shell Settings (e.g bashrc...)
-* [debona/ShellBox](https://github.com/debona/ShellBox) - ShellBox organizes your ninja's shellscripts in commands libraries.
-* [dacaiguoguo/iOS_Shell](https://github.com/dacaiguoguo/iOS_Shell) - iOS_Shell
-* [crowdlab/rc](https://github.com/crowdlab/rc) - shell config files
-* [cleankod/mq-provisioning](https://github.com/cleankod/mq-provisioning) - Some shell scripts for provisioning Websphere MQ.
-* [chrisb86/ssh-ds](https://github.com/chrisb86/ssh-ds) - A small shell script that tunnels the AFP port of your disk station (and propably every other NAS with AFP and SSH services running) over ssh to your client computer.
-* [caiqinzhou/HadoopKit](https://github.com/caiqinzhou/HadoopKit) - Hadoop Tool Kit(ie.: all in one shell for setup hadoop cluster)
-* [bmiegemolle/airvantage-api-shell](https://github.com/bmiegemolle/airvantage-api-shell) - Shell script to interact with AirVantage M2M Cloud API in command-line.
-* [astanin/gnome-shellex-hotot](https://github.com/astanin/gnome-shellex-hotot) - Gnome Shell extension for Hotot microblogging client
-* [ask/ask-profile](https://github.com/ask/ask-profile) - My personal shell profile
-* [archeando/shell-extensions-zodiac](https://github.com/archeando/shell-extensions-zodiac) - gnome-shell extensions to move panel items
-* [amadorpahim/ShellScript](https://github.com/amadorpahim/ShellScript) - Scripts diversos desenvolvidos em algum momento de pressa durante a atividade de sysadmin.
-* [Tangent128/hermit](https://github.com/Tangent128/hermit) - shell profile "package manager"
-* [StephenHamilton/shellby](https://github.com/StephenHamilton/shellby) - Shell IRC bot
-* [NeonMan/shellUnit](https://github.com/NeonMan/shellUnit) - A unit-test framework for bash and sh.
-* [Athas/mimir](https://github.com/Athas/mimir) - An extensible IRC bot written in shell script
-* [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-* [progrium/dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
-* [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
-* [creationix/nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
-* [sstephenson/rbenv](https://github.com/sstephenson/rbenv) - Groom your app’s Ruby environment
-* [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-* [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
+* [cytopia/thunar-custom-actions](https://github.com/cytopia/thunar-custom-actions) - Custom actions for Thunar (or Nautilus) File manager
+* [sp1thas/dropboxignore](https://github.com/sp1thas/dropboxignore) - [MIRROR OF https://codeberg.org/sp1thas/dropboxignore] It's all about the missing .dropboxignore file.
+* [busterc/xcv](https://github.com/busterc/xcv) - :scissors: Cut, Copy and Paste files with Bash
+* [luckylz2git/exfat-synology](https://github.com/luckylz2git/exfat-synology) - Perfect shell scripts to auto mount exfat disk partition on Synology DiskStation NAS (x86 platform), and more post-mount functions are coming soon! Use this at your own risks.
+* [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
+* [zdk/rm-safely](https://github.com/zdk/rm-safely) - 'rm' safely – a safety net for rm
+* [mkropat/sh-realpath](https://github.com/mkropat/sh-realpath) - A portable, pure shell implementation of realpath
+* [toniblyx/alfresco-backup-and-recovery-tool](https://github.com/toniblyx/alfresco-backup-and-recovery-tool) - Alfresco BART is a tool written in shell script on top of Duplicity to do Alfresco backups and restore from a local file system, FTP, SCP or Amazon S3.
+* [muhasturk/ukupgrade](https://github.com/muhasturk/ukupgrade) - Upgrade latest kernel automatically for Ubuntu and derivatives such as Linux Mint. :runner: *(archived)*
+* [skissane/mkjail](https://github.com/skissane/mkjail) - Shell script to create a chroot jail on Mac OS X
+* [freedev/macosx-script-boot-shutdown](https://github.com/freedev/macosx-script-boot-shutdown) - This project is useful to execute a shell script during Mac OS X boot or shutdown.
+* [narbehaj/bash-backup](https://github.com/narbehaj/bash-backup) - Simple backup script for GNU/Linux servers
+* [pothi/backup-wordpress](https://github.com/pothi/backup-wordpress) - Shell scripts to take remote (and local) backups of WordPress (database and files) to S3 compatible cloud storages via server cron.
+* [tripflex/inodes](https://github.com/tripflex/inodes) - Bash/Shell script to count inode usage
+* [leongrdic/wsl-alias](https://github.com/leongrdic/wsl-alias) - create aliases for Linux commands in Windows command line (for WSL)
+* [Ardakilic/backmeup](https://github.com/Ardakilic/backmeup) - BackMeUp: An automated MySQL / MariaDB databases and files backup solution on *nix Machines using Amazon S3, WebDAV (ownCloud / NextCloud etc.), Google Drive and Dropbox. *(archived)*
+* [pontikis/bash-cloud-backup](https://github.com/pontikis/bash-cloud-backup) - bash-cloud-backup is a set of bash scripts, which can be used to automate local and cloud backup in Linux/Unix machines.
+* [rugk/borg-cron-helper](https://github.com/rugk/borg-cron-helper) - Helper shell scripts for BorgBackup to automate backups and make your life easier… 😉
+* [bggo/Zmbkpose](https://github.com/bggo/Zmbkpose) - The zmbkpose tool is a shell script that does hot backup and hot restore of ZCS Opensource accounts, GPL(OPENSOURCE). It can run from any host in the net, which means that it can be set on a backup server already existent.
+* [wombat94/EFIClone](https://github.com/wombat94/EFIClone) - macOS Shell Scripts to clone the EFI partition automatically from either Carbon Copy Cloner or SuperDuper! when run on a Hackintosh
+* [bradleymackey/turbo-boost-disable](https://github.com/bradleymackey/turbo-boost-disable) - Shell wrappers and instructions for disabling Intel Turbo Boost on macOS *(archived)*
+* [pronoiac/tarsnap-cron](https://github.com/pronoiac/tarsnap-cron) - Cron scripts (bash/shell) for tarsnap backup, including scheduled deletion of old backups.
+* [adafruit/Adafruit-Pi-ExternalRoot-Helper](https://github.com/adafruit/Adafruit-Pi-ExternalRoot-Helper) - A shell script to configure a USB drive as root filesystem.
+* [Fleshgrinder/nginx-sysvinit-script](https://github.com/Fleshgrinder/nginx-sysvinit-script) - Linux Standard Base compliant SysVinit script for nginx.
+* [dparoli/hrsync](https://github.com/dparoli/hrsync) - rsync backup with a bit of magic, decting moved and renamed files
+
+### Automation and Scripting
+
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+* [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 * [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-* [rupa/z](https://github.com/rupa/z) - z is the new j, yo
-* [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
-* [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
+* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+* [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
+* [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+* [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+* [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+* [oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
+* [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
+* [paulirish/dotfiles](https://github.com/paulirish/dotfiles) - paul's fish, bash, git, etc config files. good stuff.
+* [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
+* [kejilion/sh](https://github.com/kejilion/sh) - KEJILION.SH 一款全功能的Linux管理脚本！An all-in-one Linux management script!
+* [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
+* [driesvints/dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles.
+* [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+* [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
+* [xero/dotfiles](https://github.com/xero/dotfiles) - rice 🍚 custom linux config files. as seen on r/unixporn #noricenolife neovim cultist. dotfiles are perpetual wip
+* [mathiasbynens/evil.sh](https://github.com/mathiasbynens/evil.sh) - :speak_no_evil: Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
+* [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
+* [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
+* [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
+* [tony/tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
+* [aqzt/kjyw](https://github.com/aqzt/kjyw) - 快捷运维，代号kjyw，项目基于shell、python，运维脚本工具库，收集各类运维常用工具脚本，实现快速安装nginx、mysql、php、redis、nagios、运维经常使用的脚本等等...
+* [alrra/dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS dotfiles
+* [Installomator/Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs
+* [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux & BSD
+* [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
+* [kuoruan/shell-scripts](https://github.com/kuoruan/shell-scripts) - Linux Shell Scripts
+* [gf3/dotfiles](https://github.com/gf3/dotfiles) - Configurations for the tools I use every day
+* [freekmurze/dotfiles](https://github.com/freekmurze/dotfiles) - My personal dotfiles
+* [jmcerrejon/PiKISS](https://github.com/jmcerrejon/PiKISS) - PiKISS for Raspberry Pi: A bunch of scripts with menu to make your life easier.
+* [ianthehenry/sd](https://github.com/ianthehenry/sd) - a cozy nest for your scripts
+* [bestswifter/macbootstrap](https://github.com/bestswifter/macbootstrap) - A bootstrap script for new Mac
+* [spencerwooo/dotfiles-archive](https://github.com/spencerwooo/dotfiles-archive) - Dotfiles for all :D *(archived)*
+* [snwh/ubuntu-post-install](https://github.com/snwh/ubuntu-post-install) - A set of post-installation shell scripts for Ubuntu *(archived)*
+* [caarlos0/dotfiles.zsh](https://github.com/caarlos0/dotfiles.zsh) - Config files for ZSH, Java, Ruby, Go, Editors, Terminals and more. *(archived)*
+* [geerlingguy/dotfiles](https://github.com/geerlingguy/dotfiles) - My configuration. Minimalist, but helps save a few thousand keystrokes a day.
+* [monlor/Monlor-Tools](https://github.com/monlor/Monlor-Tools) - 小米路由器Shell工具箱，本人自用，主要参考了小米的Misstar Tools制作，仅学习之用！Telegram群组：https://t.me/joinchat/FMraA0lwzH9fzEW1wXdCFA *(archived)*
+* [hamvocke/dotfiles](https://github.com/hamvocke/dotfiles) - A collection of my personal dotfiles
+* [mdo/config](https://github.com/mdo/config) - Personal checklist for setting up a new Mac's dev environment.
+* [changs/slimzsh](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH
+* [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source packages/apps/utilities: github/brew/apt/flatpak/appimage/cargo/npm/… ④ Hundreds of cross-os commands: macos/linux/windows, x86/arm.
+* [mig1984/bashible](https://github.com/mig1984/bashible) - Simple bash DSL framework for writing shell scripts safe and agile.
+* [h4ck3r0/Termux-os](https://github.com/h4ck3r0/Termux-os) - An easy-to-use Termux theme installer featuring Zsh/bash/fish shell setup and customization.
+* [szepeviktor/debian-server-tools](https://github.com/szepeviktor/debian-server-tools) - Tools and living docs 🧬 for Debian-based servers and Web Applications
+* [sapegin/dotfiles](https://github.com/sapegin/dotfiles) - My macOS environment: zsh, Git, Visual Studio Code, etc.
+* [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
+* [wukongdaily/tvhelper](https://github.com/wukongdaily/tvhelper) - 盒子助手OpenWrt版,本质是一套集成了ADB的shell脚本。其主要作用是帮助安卓原生盒子,解决一些水土不服的小问题。
+* [denysdovhan/dotfiles](https://github.com/denysdovhan/dotfiles) - My lovely dots ~/.💖
+* [mstinaff/PMS_Updater](https://github.com/mstinaff/PMS_Updater) - Shell script for updating the Plex Media Server inside the FreeNAS Plex plugin
+* [netkiller/shell](https://github.com/netkiller/shell) - Infrastructure Management Shell - Linux
+* [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
+* [centos-bz/ezhttp](https://github.com/centos-bz/ezhttp) - The bash shell script stack for installation of Nginx OpenResty Tengine lua_nginx_module nginx_concat_module nginx_upload_module ngx_substitutions_filter_module Apache-2.2 Apache-2.4 MySQL-5.1 MySQL-5.5 MySQL-5.6 MySQL-5.7 PHP-5.2 PHP-5.3 PHP-5.4 PHP-5.5 PHP-5.6 ZendOptimizer ZendGuardLoader Xcache Eaccelerator Imagemagick IonCube Memcache Memcached Redis Mongo Xdebug Mssql Memcached PureFtpd PhpMyAdmin Redis Mongodb PhpRedisAdmin MemAdmin RockMongo Jdk7 Jdk8 Tomcat7 Tomcat8 *(archived)*
+* [VPSDance/vkit](https://github.com/VPSDance/vkit) - VKit - Tools and Scripts for Linux VPS
+* [colbycheeze/dotfiles](https://github.com/colbycheeze/dotfiles) - Setup and install scripts for a new machine + dotfiles for various apps. Linux, Mac, and Mac (Amazon specific) branches are included.
+* [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
+* [ghaiklor/iterm-fish-fisher-osx](https://github.com/ghaiklor/iterm-fish-fisher-osx) - Semi-automatic installer for Command Line Tools + Homebrew + iTerm2 + Fish Shell + Fisher + Plugins/Themes *(archived)*
+* [djeada/Bash-Scripts](https://github.com/djeada/Bash-Scripts) - 100+ Bash scripts for automating routine tasks and streamlining your workflow.
+* [heavybullets8/heavy_script](https://github.com/heavybullets8/heavy_script) - Bash script for managing Truenas SCALE applications, automatically update applications, backup applications datasets, open a shell for containers. *(archived)*
+* [black7375/BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠
+* [rgomezcasas/dotfiles](https://github.com/rgomezcasas/dotfiles) - :penguin: Simple, fast, productivity-increaser dotfiles
+* [nystudio107/craft-scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage database backups, asset backups, file permissions, asset syncing, cache clearing, and database syncing between Craft CMS environments
+* [kasparsd/php-7-debian](https://github.com/kasparsd/php-7-debian) - Install PHP 7 on Debian/Ubuntu
+* [Spearfoot/FreeNAS-scripts](https://github.com/Spearfoot/FreeNAS-scripts) - Handy shell scripts for use on FreeNAS servers
+* [erichs/composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw
+* [petrockblog/OwncloudPie](https://github.com/petrockblog/OwncloudPie) - Shell script for installing Owncloud on the Raspberry Pi
+* [Baiyuetribe/baiyue_onekey](https://github.com/Baiyuetribe/baiyue_onekey) - 佰阅部落一键脚本合集工具箱，集合25+优质开源项目，一步到位，全程中文交互提示，不懂代码也可以轻松搭建很多程序
+* [XIU2/Shell](https://github.com/XIU2/Shell) - 🐧 自用的一些乱七八糟 Linux 脚本~
+* [CikeyQi/unidbg-fetch-qsign-shell](https://github.com/CikeyQi/unidbg-fetch-qsign-shell) - Linux一键快速部署Qsign服务 *(archived)*
+* [18F/laptop](https://github.com/18F/laptop) - DEPRECATED: A shell script which turns your Mac into an awesome web development machine. *(archived)*
+* [sheharyarn/mongo-sync](https://github.com/sheharyarn/mongo-sync) - Sync Remote and Local MongoDB Databases :fire:
+* [sund/auto-gitlab-backup](https://github.com/sund/auto-gitlab-backup) - A simple script to backup your Gitlab data. This script will copy the backup archives of your gitlab installation via rsync, or scp. Also, you can copy backups to Backblaze’s B2 Cloud Storage service.
+* [vitorgalvao/tiny-scripts](https://github.com/vitorgalvao/tiny-scripts) - Collection of small scripts *(archived)*
+* [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles *(archived)*
+* [RayViljoen/Raspberry-PI-SD-Installer-OS-X](https://github.com/RayViljoen/Raspberry-PI-SD-Installer-OS-X) - Shell Script for creating Raspberry PI SD card on OS X.
+* [eryajf/magic-of-sysuse-scripts](https://github.com/eryajf/magic-of-sysuse-scripts) - 🪄 运维外挂小工具
+* [MikeMcQuaid/dotfiles](https://github.com/MikeMcQuaid/dotfiles) - 💻 My dot files shared between machines.
+* [geekcomputers/Shell](https://github.com/geekcomputers/Shell) - Some of the handy shell scripts I have created/acquired
+* [meain/dotfiles](https://github.com/meain/dotfiles) - If there is a shell, there is a way!
+* [jotyGill/ezsh](https://github.com/jotyGill/ezsh) - quickly setup shell environment by installing zsh, oh-my-zsh with power-level-10k zsh-completions zsh-autosuggestions zsh-syntax-highlighting history-substring-search and more
+* [renemarc/dotfiles](https://github.com/renemarc/dotfiles) - ~/. Cross-platform, cross-shell configuration files. ⚙️💻
+* [rwxrob/dot](https://github.com/rwxrob/dot) - The big ugly, enter at your own peril (cleanup branch has latest)
+* [miohtama/ztanesh](https://github.com/miohtama/ztanesh) - Improve your UNIX command line experience and productivity with ztanesh project: the tools will make your shell more powerful and easier to use.
+* [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
+* [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config
+* [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
+* [hbthen3rd/dotfiles-archived](https://github.com/hbthen3rd/dotfiles-archived) - [macOS] custom settings/theming for wm, bar, term, shell, editor, browser, etc. *(archived)*
+* [Ljohn001/ljohn_ops](https://github.com/Ljohn001/ljohn_ops) - Linux运维工作中常用的shell脚本
+* [nikole-dunixi/git-openssl-shellscript](https://github.com/nikole-dunixi/git-openssl-shellscript) - Shellscript to compile git with OpenSSL
+* [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
+* [rachpt/AutoSeed](https://github.com/rachpt/AutoSeed) - 全自动发种姬 [流程图 https://www.processon.com/view/link/5c088855e4b0ca4b40c93a49 ]
+* [aceofkittens/Auto-PWE](https://github.com/aceofkittens/Auto-PWE) - Script en Bash que te permite convertir una distribución de Linux en un entorno de trabajo profesional de manera automática. *(archived)*
+* [zxui/shell](https://github.com/zxui/shell) - :maple_leaf: Centos运维常用工具
+* [gabebw/dotfiles](https://github.com/gabebw/dotfiles) - :tulip: maybe *this* will make me a better programmer
+* [ninrod/dotfiles](https://github.com/ninrod/dotfiles) - :octocat: Ninrod's sharpened dotfiles for emacs, vim, zsh, tmux. Since '15.
+* [MarioCatuogno/Clean-macOS](https://github.com/MarioCatuogno/Clean-macOS) - 💻 A script to set up a clean macOS environment.
+* [hiAndrewQuinn/shell-bling-ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
+* [ungleich/cdist](https://github.com/ungleich/cdist) - usable configuration management
+* [caarlos0/dotfiles](https://github.com/caarlos0/dotfiles) - 🏠 $HOME/.config
+* [xuxiaodong/tmuxen](https://github.com/xuxiaodong/tmuxen) - tmux environment made easy.
+* [oldmanpushcart/shell](https://github.com/oldmanpushcart/shell) - 我在unix/linux下积累的常用工具
+* [mattly/bork](https://github.com/mattly/bork) - the Bash-Operated Reconciling Kludge *(archived)*
+* [unixorn/tumult.plugin.zsh](https://github.com/unixorn/tumult.plugin.zsh) - Tumult is a collection of macOS-specific functions and scripts for your shell environment. It is packaged as a ZSH plugin, but can be used with other shells as well.
+* [rusty-bits/OC-tool](https://github.com/rusty-bits/OC-tool) - POSIX shell script that builds an OpenCore EFI folder from an OpenCore config.plist *(archived)*
+* [SixArm/zsh-config](https://github.com/SixArm/zsh-config) - zsh configuration
+* [IsaacSchemm/MultiCD](https://github.com/IsaacSchemm/MultiCD) - A shell script package for creating combination disks from Linux ISOs.
+* [sheerun/dotfiles](https://github.com/sheerun/dotfiles) - Dotfiles meet chocolate and unicorns
+* [nickexyz/ntfy-shellscripts](https://github.com/nickexyz/ntfy-shellscripts) - A few scripts for the amazing ntfy project: (https://github.com/binwiederhier/ntfy)
+* [AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles) - My personal dotfiles, about neovim, zsh shell, tmux...
+* [grrnikos/pma](https://github.com/grrnikos/pma) - Simple shell script that installs phpMyAdmin on a Laravel Homestead box.
+* [matthewmccullough/dotfiles](https://github.com/matthewmccullough/dotfiles) - My shell configuration
+* [solidsnack/arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
+* [NyarchLinux/Nyarcher](https://github.com/NyarchLinux/Nyarcher) - Nyarcher is a Shell script to install Nyarch Linux customizations on many Linux Distributions
+* [zhwj184/shell-work](https://github.com/zhwj184/shell-work) - shell常用分析命令和脚本
+* [sharkdp/trigger](https://github.com/sharkdp/trigger) - Run a user-defined command on file changes
+* [jiangxianli/SSHAutoLogin](https://github.com/jiangxianli/SSHAutoLogin) - 一个使用expect免输入密码自动登录ssh的shell脚本，方便好用,适用Mac、Linux
+* [OneCDOnly/create-autorun](https://github.com/OneCDOnly/create-autorun) - Create an autorun environment on your QNAP NAS
+* [theshteves/commit-bot](https://github.com/theshteves/commit-bot) - Automatically generates GitHub activity
+* [4lgn/dotfiles](https://github.com/4lgn/dotfiles) - 🔧 .files - different setups separated in branches
+* [cyphunk/humanism.sh](https://github.com/cyphunk/humanism.sh) - subjective but sensible defaults for shell use. Ubuntu, OSX, FreeBSD tested.
+* [kolbasa/git-repo-watcher](https://github.com/kolbasa/git-repo-watcher) - A simple bash script to watch a git repository and pull upstream changes if needed.
+* [shubhampathak/autosetup](https://github.com/shubhampathak/autosetup) - Auto setup is a bash script compatible with Debian based distributions to install and setup necessary programs.
+* [wentmac/mysql_backup](https://github.com/wentmac/mysql_backup) - mysql数据库定时增量和全量备份的shell
+* [logseq/git-auto](https://github.com/logseq/git-auto) - A Simple Shell Script To Do Git Commit And Push Automatically *(archived)*
+* [jetsonhacks/bootFromExternalStorage](https://github.com/jetsonhacks/bootFromExternalStorage) - Shell scripts to setup a NVIDIA Jetson AGX Xavier, Xavier NX, AGX Orin, or Orin Nano Developer Kit to boot from external storage.
+* [mm2270/JamfProScripts](https://github.com/mm2270/JamfProScripts) - A collection of shell scripts created for use in Jamf Pro and elsewhere
+* [narze/dotfiles](https://github.com/narze/dotfiles) - macOS / Linux / Codespaces compatible dotfiles with 1-line setup script. Tested on Apple Silicon Macs. Supports both zsh and fish. Managed with Chezmoi
+* [kdeldycke/dotfiles](https://github.com/kdeldycke/dotfiles) - 🍎 macOS dotfiles for Python developers.
+* [myplaceonline/posixcube](https://github.com/myplaceonline/posixcube) - posixcube.sh is a POSIX compliant, shell script-based server automation framework.
+* [BrodieRobertson/scripts](https://github.com/BrodieRobertson/scripts) - Messing around with shell scripting because it seems like fun, maybe you'll find something useful
+* [Diolinux/Linux-Mint-19.x-PosInstall](https://github.com/Diolinux/Linux-Mint-19.x-PosInstall) - Shell Script de pós instalação do Linux Mint 19.x para utilização pessoal.
+* [miguelgfierro/scripts](https://github.com/miguelgfierro/scripts) - A collection of useful shell scripts for Linux, Windows & Mac
+* [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) - 一个Shell脚本工具箱
+* [pathikrit/mac-setup-script](https://github.com/pathikrit/mac-setup-script) - script to setup my mac
+* [bkuhlmann/dotfiles](https://github.com/bkuhlmann/dotfiles) - Shell scripts for applying default settings to UNIX-based operating systems.
+* [pijarr/pijarr](https://github.com/pijarr/pijarr) - A shell script to automate the installation and configuration of Jackett, Sonarr, Radarr, Lidarr, Readarr, Prowlarr, and Bazarr on Debian based distros.
+* [sloria/dotfiles](https://github.com/sloria/dotfiles) - sloria's dotfiles as Ansible roles
+* [goodboy23/shell-script-collection](https://github.com/goodboy23/shell-script-collection) - shell小框架，地址：http://www.linkops.cn/363.htm
+* [loftuxab/alfresco-ubuntu-install](https://github.com/loftuxab/alfresco-ubuntu-install) - Alfresco script based install for Ubuntu
+* [Stratus3D/dotfiles](https://github.com/Stratus3D/dotfiles) - My dotfiles
+* [rafaelstz/simplesh](https://github.com/rafaelstz/simplesh) - :penguin: Quick installation for Ubuntu terminal.
+* [psamim/dotfiles](https://github.com/psamim/dotfiles) - My dotfiles
+* [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful shell scripts for Linux and macOS
+* [schnatterer/termux-scripts](https://github.com/schnatterer/termux-scripts) - Collection of shell scripts to automate everything on your android phone using termux app. Including incremental encrypted app backup to the cloud
+* [sentora/sentora-installers](https://github.com/sentora/sentora-installers) - Provides a central place to store, version and distribute the Sentora installer and upgrade scripts from.
+* [illvart/termux-alpine](https://github.com/illvart/termux-alpine) - Bash script to install Alpine Linux in Termux
+* [cybergenii/termux-nvim](https://github.com/cybergenii/termux-nvim) - Automated setup script for a mobile-first dev environment on Android. Installs and configures Neovim, LSP support, Oh My Zsh, Git, Node, Python, and mobile-optimized shell aliases — all inside Termux with one command.
+* [mediabots/Linux-to-Windows-with-QEMU](https://github.com/mediabots/Linux-to-Windows-with-QEMU) - One Script for Auto installation of Windows Server into a Linux Server. Script would install Windows Server 2012 R2 evaluation copy (180 days free trial). A power shell script to enable Remote Desktop + Firefox installer attached into the CD-ROM.
+* [cherts/linux-scripts](https://github.com/cherts/linux-scripts) - Useful bash/shell scripts for Linux/Unix administrators
+* [pablogila/WakeMyPotato](https://github.com/pablogila/WakeMyPotato) - Restart a Linux server made of a potato laptop after power outages
+* [katernet/darkmode](https://github.com/katernet/darkmode) - Set macOS dark mode and Alfred dark theme at sunset *(archived)*
+* [sky22333/shell](https://github.com/sky22333/shell) - 各种自用脚本合集
+* [adityastomar67/zsh-conf](https://github.com/adityastomar67/zsh-conf) - A highly optimised, feature rich zsh config with almost under ~20ms load times.
+* [tahmidrayat/ubuntu](https://github.com/tahmidrayat/ubuntu) - Install ubuntu in Termux Without Rooted Device *(archived)*
+* [aspiers/shell-env](https://github.com/aspiers/shell-env) - Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities
+* [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
+* [jgamblin/quickinstall](https://github.com/jgamblin/quickinstall) - A Shell Script To Take Care Of Ubuntu Basics
+* [blueimp/shell-scripts](https://github.com/blueimp/shell-scripts) - A collection of (mostly POSIX compatible) shell scripts.
+* [edheltzel/dotfiles](https://github.com/edheltzel/dotfiles) - My setup for 🐠 Fish shell on  macOS - v3
+* [OzzyCzech/dotfiles](https://github.com/OzzyCzech/dotfiles) - This is a collection of my personal dotfiles for configuring macOS.
+* [Piotr1215/dotfiles](https://github.com/Piotr1215/dotfiles) - Pop_OS! dotfiles with install script
+* [virtualmin/virtualmin-install](https://github.com/virtualmin/virtualmin-install) - Shell script to perform a Virtualmin GPL or Professional installation
+* [LucasLarson/dotfiles](https://github.com/LucasLarson/dotfiles) - This is where the ♥️ is at.
+* [darth-hp/yeelight-shell-scripts](https://github.com/darth-hp/yeelight-shell-scripts) - Control Xiaomi Mi Yeelight (RGB) with bash scripts *(archived)*
+* [sheharyarn/dotfiles](https://github.com/sheharyarn/dotfiles) - :package: My Configs and Dotfiles
+* [snwh/fedora-post-install](https://github.com/snwh/fedora-post-install) - A set of post-installation shell scripts for Fedora *(archived)*
+* [mritd/shell_scripts](https://github.com/mritd/shell_scripts) - 常用的一些 shell 脚本
+* [boudywho/easy-spicetify-linux](https://github.com/boudywho/easy-spicetify-linux) - A shell script that automatically installs and setups Spicetify for you
+* [afsh4ck/kalipwm](https://github.com/afsh4ck/kalipwm) - Despliega un entorno de hacking profesional para Kali Linux ejecutando solo un script.
+* [danielsaidi/SwiftPackageScripts](https://github.com/danielsaidi/SwiftPackageScripts) - A collection of Swift Package-related scripts.
+* [IcaliaLabs/kaishi](https://github.com/IcaliaLabs/kaishi) - A shell script to convert any Mac OS X or Linux computer into a real development machine
+* [ssh0/dot](https://github.com/ssh0/dot) - Simplest dotfiles manager written in shellscript :shell:
+* [wolandark/BASH_Scripts_For_Everyone](https://github.com/wolandark/BASH_Scripts_For_Everyone) - A collection of BASH scripts that might benefit all *nix users
+* [StanAngeloff/vagrant-shell-scripts](https://github.com/StanAngeloff/vagrant-shell-scripts) - A collection of scripts to ease Vagrant box provisioning using the shell. *(archived)*
+* [adaerr/reMarkableScripts](https://github.com/adaerr/reMarkableScripts) - shell scripts to interact with the tablet from reMarkable.com
+* [Manas140/sh](https://github.com/Manas140/sh) - Collection Of My Sh Scripts.
+* [basefoundry/base](https://github.com/basefoundry/base) - A local, GitHub-centric operating contract that makes a collection of independent repositories behave like one understandable, verifiably ready workspace for humans and coding agents.
+* [gonstoll/dotfiles](https://github.com/gonstoll/dotfiles) - Configurations for my development environment
+* [alexmyczko/autoexec.bat](https://github.com/alexmyczko/autoexec.bat) - .dotfiles for linux and macOS
+* [janosgyerik/shellscripts](https://github.com/janosgyerik/shellscripts) - Convenient shell scripts for everyday use, written in Bash, Perl, awk, Python
+* [jrodal98/watch-scripts](https://github.com/jrodal98/watch-scripts) - Execute shell commands on your Linux computer from your smartwatch!
+* [helderberto/dotfiles](https://github.com/helderberto/dotfiles) - ⚙️ Setup a macOS environment quickly and easily!
+* [07031218/normal-shell](https://github.com/07031218/normal-shell) - 个人常使用的一些脚本集合
+* [owent/bash-shell](https://github.com/owent/bash-shell) - OWenT's Utils -- Bash&Shell branch
+* [rsp/scripts](https://github.com/rsp/scripts) - Random shell scripts for different tasks
+* [MoOx/setup](https://github.com/MoOx/setup) - My setup... dotfiles, aliases, functions, preferences, apps. Everything.
+* [alswl/.oOo.](https://github.com/alswl/.oOo.) - dot files configuration (macOS & Linux), surfingkeys / tmux / screen / ideavimrc / phoenix / etc.
+* [Bhupesh-V/dotman](https://github.com/Bhupesh-V/dotman) - dotman is a simple, elegant & easy to use dotfiles manager 🖖🏽
+* [rafi/.config](https://github.com/rafi/.config) - Rafi's workstations (Archlinux, osx) ~/.config.
+* [vincentbernat/zshrc](https://github.com/vincentbernat/zshrc) - My .zshrc
+* [bookfere/KindleEar-Uploader](https://github.com/bookfere/KindleEar-Uploader) - 适用于 GAE 云端 Shell 的 KindleEar上传脚本。 *(archived)*
+* [GideonWolfe/dots](https://github.com/GideonWolfe/dots) - 🌀 my linux configuration
+* [kevinSuttle/dotfiles](https://github.com/kevinSuttle/dotfiles) - My humble list of ~/.dotfiles: an opinionated attempt for a cross-shell setup.
+* [af44n/warm_gnome_rice](https://github.com/af44n/warm_gnome_rice) - a warm rice for gnome shell
+* [andmpel/macos-all-in-one-update-script](https://github.com/andmpel/macos-all-in-one-update-script) - Mac update shell script (Appstore, macOS, Homebrew, cargo, and others)
+* [daily-scripts/shell-scripts](https://github.com/daily-scripts/shell-scripts) - my-scripts
+* [nicolinuxfr/macOS-post-installation](https://github.com/nicolinuxfr/macOS-post-installation) - Script d'installation et de configuration d'un Mac
+* [rickfarmer/android-vm](https://github.com/rickfarmer/android-vm) - Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts.
+* [shellscriptx/shellbot](https://github.com/shellscriptx/shellbot) - API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
+* [dwmkerr/dotfiles](https://github.com/dwmkerr/dotfiles) - My personal setup. Vim, Tmux, Shells, etc.
+* [giswqs/manjaro-linux](https://github.com/giswqs/manjaro-linux) - Shell scripts for setting up Manjaro Linux for Python programming and deep learning
+* [Ioulan/dootsfile](https://github.com/Ioulan/dootsfile) - 🏠 - Personal Dotfiles (Managed by GNU Stow) *(archived)*
+* [rutchkiwi/copyzshell](https://github.com/rutchkiwi/copyzshell) - A plugin for oh-my-zsh to copy your shell configuration to another machine over ssh.
+* [mikepqr/stowsh](https://github.com/mikepqr/stowsh) - A shell script to install and uninstall dotfiles using symlinks with almost no dependencies *(archived)*
+* [sobolevn/wakatime-zsh-plugin](https://github.com/sobolevn/wakatime-zsh-plugin) - 🕒Track how much time you have spent in your terminal!
+* [filebot/plugins](https://github.com/filebot/plugins) - Plugins and shell scripts for integrating 3rd party tools with FileBot
+* [Jader/GreenBox](https://github.com/Jader/GreenBox) - :game_die: 娱乐项目，使用 Crontab 定时提交 Commits。点亮绿格子；对就是绿
+* [eyedol/tools](https://github.com/eyedol/tools) - Little codes here and there to automate some of my boring daily routines and configurations
+* [fehawen/dotfiles](https://github.com/fehawen/dotfiles) - A better $HOME.
+* [jgamblin/MacOS-Config](https://github.com/jgamblin/MacOS-Config) - Simple Shell Scripts I Use To Tweak MacOS To My Liking.
+* [fnando/dotfiles](https://github.com/fnando/dotfiles) - My dotfiles
+* [robb/dotfiles](https://github.com/robb/dotfiles) - Dotfiles to make computing personal.
+* [kvz/ochtra](https://github.com/kvz/ochtra) - One Commit Hook To Rule All
+* [slim-bean/loki-shell](https://github.com/slim-bean/loki-shell) - How to use Loki to store and centralize your shell history from anywhere and search it using ctrl-r and fzf
+* [jeekkd/iRedMail-scripts](https://github.com/jeekkd/iRedMail-scripts) - Scripts for the administration of iRedMail without iRedAdmin *(archived)*
+* [mattstauffer/syncCraft](https://github.com/mattstauffer/syncCraft) - Simple shell script to sync Craft DB & assets down locally
+* [dawsbot/swim](https://github.com/dawsbot/swim) - 🏊‍♀️ Switch between multiple vimrc files
+* [YunoHost/install_script](https://github.com/YunoHost/install_script) - YunoHost installation scripts
+* [lnmpkvemail/lnmp](https://github.com/lnmpkvemail/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
+* [AdrianDC/advanced_development_shell_tools](https://github.com/AdrianDC/advanced_development_shell_tools) - Advanced Development Shell Tools - http://adriandc.github.io/advanced_development_shell_tools *(archived)*
+* [alicfeng/AShell](https://github.com/alicfeng/AShell) - 开发者常用脚本shell
+* [limboinf/myshell](https://github.com/limboinf/myshell) - 写的常用Shell小工具，运维小脚本等
+* [tsk-tsk/tsk-tsk](https://github.com/tsk-tsk/tsk-tsk) - TSK - The Scripting Kit
+* [ajmalsiddiqui/dotfiles](https://github.com/ajmalsiddiqui/dotfiles) - My Book of Arcane Magic. :')
+* [sudar/wp-plugin-in-github](https://github.com/sudar/wp-plugin-in-github) - Collection of shell scripts that I am using to manage and deploy WordPress Plugins from github into svn
+* [Drapegnik/env](https://github.com/Drapegnik/env) - :wrench: Repo for storing my environment settings, dotfiles and etc.
+* [fagiani/shellstack](https://github.com/fagiani/shellstack) - ShellStack is a collection of bash scripts to install apps on ubuntu linux *(archived)*
+* [Integralist/Shell-Scripts](https://github.com/Integralist/Shell-Scripts) - Collection of custom utility shell scripts
+* [l0b0/tilde](https://github.com/l0b0/tilde) - Linux home directory configuration and utilities *(archived)*
+* [clburlison/scripts](https://github.com/clburlison/scripts) - 💡 A collection of random scripts.
+* [kickstarter/laptop](https://github.com/kickstarter/laptop) - A shell script which turns your OS X laptop into an awesome web development machine
+* [santoshbaggam/stacker](https://github.com/santoshbaggam/stacker) - Hassle-free server setup for Developers
+* [mhauri/generate-modman](https://github.com/mhauri/generate-modman) - Shell script to generate modman files for Magento Extensions
+* [sebastiandg7/my-linux-setup](https://github.com/sebastiandg7/my-linux-setup) - Common shell configs, aliases, apps & more.
+* [easonjim/centos-shell](https://github.com/easonjim/centos-shell) - CentOS常用Shell
+* [agross/dotfiles](https://github.com/agross/dotfiles) - My config files.
+* [soffes/dotfiles](https://github.com/soffes/dotfiles) - ~soffes
+* [bianjp/archlinux-installer](https://github.com/bianjp/archlinux-installer) - Shell scripts that help install and setup Arch Linux
+* [hbthen3rd/dotfiles](https://github.com/hbthen3rd/dotfiles) - HB's personal dotfiles -- used on my macOS, Arch Linux, and Fedora Workstation systems
+
+### General Purpose Libraries
+
+* [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
+* [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included.
+* [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+* [natelandau/shell-scripting-templates](https://github.com/natelandau/shell-scripting-templates) - Shell scripting utility functions and a bash script boilerplate template
+* [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
+* [razzius/fish-functions](https://github.com/razzius/fish-functions) - Useful fish functions
+* [qzb/is.sh](https://github.com/qzb/is.sh) - Human readable conditions for bash 👌
+* [SkypLabs/bsfl](https://github.com/SkypLabs/bsfl) - Bash Shell Function Library
+* [wschlich/bashinator](https://github.com/wschlich/bashinator) - Bashinator: Bash Shell Script Framework
+* [ash-shell/ash](https://github.com/ash-shell/ash) - :shell: A Modular Bash Framework
+* [gavinlyonsrepo/bashmultitool](https://github.com/gavinlyonsrepo/bashmultitool) - A library for bash shell scripting containing useful helper functions.
+* [faif/shell-utils](https://github.com/faif/shell-utils) - Useful functions for POSIX shells (bash, ksh, tcsh, etc.).
+* [dokku/plugn](https://github.com/dokku/plugn) - Hook system that lets users extend your application with plugins
+* [realeroberto/bashlets](https://github.com/realeroberto/bashlets) - An experiment in extending the command-line interface.
+* [wklken/bash-utils](https://github.com/wklken/bash-utils) - utils for shell
+* [martinburger/bash-common-helpers](https://github.com/martinburger/bash-common-helpers) - Helper functions commonly used when writing shell (for instance, Bash) scripts.
+* [flaupretre/sysfunc](https://github.com/flaupretre/sysfunc) - A sysadmin-oriented shell library
+
+## Systems and Hardware
+
+### Operating Systems and Kernels
+
+* [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
+* [verygenericname/SSHRD_Script](https://github.com/verygenericname/SSHRD_Script) - Shell script that creates a ssh ramdisk
+* [zszszszsz/.config](https://github.com/zszszszsz/.config) - # # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_ath25 is not set CONFIG_TARGET_ar71xx=y # CONFIG_TARGET_ath79 is not set # CONFIG_TARGET_bcm27xx is not set # CONFIG_TARGET_bcm53xx is not set # CONFIG_TARGET_brcm47xx is not set # CONFIG_TARGET_brcm63xx is not set # CONFIG_TARGET_cns3xxx is not set # CONFIG_TARGET_octeon is not set # CONFIG_TARGET_gemini is not set # CONFIG_TARGET_mpc85xx is not set # CONFIG_TARGET_imx6 is not set # CONFIG_TARGET_mxs is not set # CONFIG_TARGET_ixp4xx is not set # CONFIG_TARGET_lantiq is not set # CONFIG_TARGET_malta is not set # CONFIG_TARGET_pistachio is not set # CONFIG_TARGET_mvebu is not set # CONFIG_TARGET_kirkwood is not set # CONFIG_TARGET_mediatek is not set # CONFIG_TARGET_ramips is not set # CONFIG_TARGET_at91 is not set # CONFIG_TARGET_rb532 is not set # CONFIG_TARGET_tegra is not set # CONFIG_TARGET_layerscape is not set # CONFIG_TARGET_octeontx is not set # CONFIG_TARGET_oxnas is not set # CONFIG_TARGET_armvirt is not set # CONFIG_TARGET_ipq40xx is not set # CONFIG_TARGET_ipq806x is not set # CONFIG_TARGET_ipq807x is not set # CONFIG_TARGET_samsung is not set # CONFIG_TARGET_arc770 is not set # CONFIG_TARGET_archs38 is not set # CONFIG_TARGET_ar7 is not set # CONFIG_TARGET_omap is not set # CONFIG_TARGET_uml is not set # CONFIG_TARGET_zynq is not set # CONFIG_TARGET_x86 is not set CONFIG_TARGET_ar71xx_generic=y # CONFIG_TARGET_ar71xx_tiny is not set # CONFIG_TARGET_ar71xx_nand is not set # CONFIG_TARGET_ar71xx_mikrotik is not set # CONFIG_TARGET_MULTI_PROFILE is not set # CONFIG_TARGET_ar71xx_generic_Default is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_carambola2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_lima is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALFAAP120C is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ap121f is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ap91-5g is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALFAAP96 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_HORNETUB is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_HORNETUBx2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALFANX is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_n5q is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_r36a is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_TUBE2H16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_TUBE2H8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_fritz4020 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_fritz300e is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_fritz450e is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_sc1750 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_sc300m is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_sc450 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_c-55 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALL0258N is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALL0305 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ALL0315N is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_antminer-s1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_antminer-s3 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_antrouter-r1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_arduino-yun is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP121_16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP121_8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP132 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP135 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP136_010 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP136_020 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP96 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DB120 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_PB42 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_PB44 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_BXU2000N2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZR450HP2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZR600DHP is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZRHPAG300H is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZRHPG300NH is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZRHPG300NH2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WZRHPG450H is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e316n-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e320n-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e355ac-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e355ac-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e375ac is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e380ac-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e380ac-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e385ac is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e520n is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cf-e530n is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WP543_16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WP543_8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WPE72_16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WPE72_8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wpj342 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wpj344 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wpj531 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wpj558 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wpj563 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dap-1330-a1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dap-2695-a1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DGL5500A1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DHP1565A1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DIR505A1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DIR825B1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DIR825C1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DIR835A1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dir-869-a1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dragino2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_el-m150 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_el-mini is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ew-balin is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ew-dorin is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ew-dorin-router is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_EAP300V2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ens202ext is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_EPG5000 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ESR1750 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ESR900 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-inet-6408A-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-inet-6416A-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-domino is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-ar150 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-ar300 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-ar300m is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-ar750 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-ar750s is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-mifi is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_gl-usb150 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_SGRW500N85BV2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_minibox-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_oolite-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_oolite-v5.2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_oolite-v5.2-dev is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_lan-turtle is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_packet-squirrel is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wifi-pineapple-nano is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_hiwifi-hc6361 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP147_010 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WRT160NL is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WRT400N is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mr12 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mr16 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mc-mac1200r is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mc-mw4530r is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_smart-300 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WNDAP360 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndr3700 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndr3700v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndr3800 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndr3800ch is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndrmac is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wndrmacv2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_WNR2200 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_koala is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_omy-g1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_omy-x1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_onion-omega is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_som9331 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_A60 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MR1750 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MR600 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MR900 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_OM2P is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_OM5PAC is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_OM5P is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe505n is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_r602n is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ts-d084 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_pqi-air-pen is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_k2t is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MZKW04NU is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MZKW300NH is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cap324 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cr3000 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cr5000 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_DLRTDEV01 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_qihoo-c301 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP143_16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP143_8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_AP152_16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e1700ac-v2-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e1700ac-v2-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e558-v2-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e558-v2-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e600g-v2-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e600g-v2-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e600gac-v2-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e600gac-v2-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e750a-v4-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e750a-v4-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e750g-v8-16M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_e750g-v8-8M is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ap531b0 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wam250 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_CAP4200AG is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_EAP7660D is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wlr8100 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_bsb is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c25-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c5-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c58-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c59-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c59-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c60-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c60-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c7-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c7-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c7-v2-il is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr7500-v3 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c7-v4 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_archer-c7-v5 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe210-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe210-220-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe510-520-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_eap120-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_re355-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_re450-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-mr6400-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr3227-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr3500-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr3600-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr4300-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr4300-v1-il is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr4310-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr4900-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr5800-v1 is not set CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr6500-v2=y # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr6500-v6 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wdr8500-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wpa8630-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr1043n-v5 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr1043nd-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr1043nd-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr1043nd-v3 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr1043nd-v4 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr2041n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr2041n-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr2543-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr710n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr710n-v2.1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr810n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr810n-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr842n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr842n-v2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr842n-v3 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr880n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr881n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr902ac-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr941n-v7 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tl-wr942n-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wbs210-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wbs510-v1 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_TEW673GRU is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_TEW732BR is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_TEW823DRU is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_tellstick-znet-lite is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_rut900 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-air-gateway is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-air-gateway-pro is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-airrouter is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-bullet-m is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-ls-sr71 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-lbe-m5 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-loco-m-xw is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-nano-m-xw is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-nano-m is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_rw2458n is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-rocket-m-ti is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-rocket-m-xw is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-rocket-m is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-rs is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-rspro is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-uap-pro is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifi is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifiac-lite is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifiac-mesh is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifiac-pro is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifi-outdoor is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubnt-unifi-outdoor-plus is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ubdev01 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_wrtnode2q is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dr342 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dr531 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_weio is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mynet-n600 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_mynet-n750 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_MYNETREXT is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ap90q is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe830 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_cpe870 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_sr3200 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_t830 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_xd3200 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ZCN1523H28 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_ZCN1523H516 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_NBG6616 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dLAN_Hotspot is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dLAN_pro_1200_ac is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_dLAN_pro_500_wp is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_rme-eg200 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_JA76PF is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_JA76PF2 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_JWAP003 is not set # CONFIG_TARGET_ar71xx_generic_DEVICE_jwap230 is not set CONFIG_HAS_SUBTARGETS=y CONFIG_HAS_DEVICES=y CONFIG_TARGET_BOARD="ar71xx" CONFIG_TARGET_SUBTARGET="generic" CONFIG_TARGET_PROFILE="DEVICE_tl-wdr6500-v2" CONFIG_TARGET_ARCH_PACKAGES="mips_24kc" CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc" CONFIG_CPU_TYPE="24kc" CONFIG_LINUX_4_9=y CONFIG_DEFAULT_ath10k-firmware-qca988x=y CONFIG_DEFAULT_base-files=y CONFIG_DEFAULT_block-mount=y CONFIG_DEFAULT_busybox=y CONFIG_DEFAULT_ca-certificates=y CONFIG_DEFAULT_coremark=y CONFIG_DEFAULT_ddns-scripts_aliyun=y CONFIG_DEFAULT_ddns-scripts_dnspod=y CONFIG_DEFAULT_default-settings=y CONFIG_DEFAULT_dnsmasq-full=y CONFIG_DEFAULT_dropbear=y CONFIG_DEFAULT_firewall=y CONFIG_DEFAULT_fstools=y CONFIG_DEFAULT_iptables=y CONFIG_DEFAULT_kmod-ath10k=y CONFIG_DEFAULT_kmod-ath9k=y CONFIG_DEFAULT_kmod-gpio-button-hotplug=y CONFIG_DEFAULT_kmod-ipt-offload=y CONFIG_DEFAULT_kmod-ipt-raw=y CONFIG_DEFAULT_kmod-nf-nathelper=y CONFIG_DEFAULT_kmod-nf-nathelper-extra=y CONFIG_DEFAULT_kmod-tcp-bbr=y CONFIG_DEFAULT_kmod-usb-core=y CONFIG_DEFAULT_kmod-usb-ledtrig-usbport=y CONFIG_DEFAULT_kmod-usb2=y CONFIG_DEFAULT_libc=y CONFIG_DEFAULT_libgcc=y CONFIG_DEFAULT_libustream-openssl=y CONFIG_DEFAULT_logd=y CONFIG_DEFAULT_luci=y CONFIG_DEFAULT_luci-app-accesscontrol=y CONFIG_DEFAULT_luci-app-adbyby-plus=y CONFIG_DEFAULT_luci-app-arpbind=y CONFIG_DEFAULT_luci-app-autoreboot=y CONFIG_DEFAULT_luci-app-cpufreq=y CONFIG_DEFAULT_luci-app-ddns=y CONFIG_DEFAULT_luci-app-filetransfer=y CONFIG_DEFAULT_luci-app-flowoffload=y CONFIG_DEFAULT_luci-app-nlbwmon=y CONFIG_DEFAULT_luci-app-ramfree=y CONFIG_DEFAULT_luci-app-sfe=y CONFIG_DEFAULT_luci-app-ssr-plus=y CONFIG_DEFAULT_luci-app-unblockmusic=y CONFIG_DEFAULT_luci-app-upnp=y CONFIG_DEFAULT_luci-app-vlmcsd=y CONFIG_DEFAULT_luci-app-vsftpd=y CONFIG_DEFAULT_luci-app-wol=y CONFIG_DEFAULT_mtd=y CONFIG_DEFAULT_netifd=y CONFIG_DEFAULT_opkg=y CONFIG_DEFAULT_ppp=y CONFIG_DEFAULT_ppp-mod-pppoe=y CONFIG_DEFAULT_swconfig=y CONFIG_DEFAULT_uboot-envtools=y CONFIG_DEFAULT_uci=y CONFIG_DEFAULT_uclient-fetch=y CONFIG_DEFAULT_urandom-seed=y CONFIG_DEFAULT_urngd=y CONFIG_DEFAULT_wget=y CONFIG_DEFAULT_wpad-openssl=y CONFIG_AUDIO_SUPPORT=y CONFIG_GPIO_SUPPORT=y CONFIG_PCI_SUPPORT=y CONFIG_USB_SUPPORT=y CONFIG_USB_GADGET_SUPPORT=y CONFIG_BIG_ENDIAN=y CONFIG_USES_SQUASHFS=y CONFIG_SMALL_FLASH=y CONFIG_HAS_MIPS16=y CONFIG_mips=y CONFIG_ARCH="mips" # # Target Images # # CONFIG_TARGET_ROOTFS_INITRAMFS is not set CONFIG_EXTERNAL_CPIO="" # # Root filesystem archives # # CONFIG_TARGET_ROOTFS_CPIOGZ is not set # CONFIG_TARGET_ROOTFS_TARGZ is not set # # Root filesystem images # # CONFIG_TARGET_ROOTFS_EXT4FS is not set CONFIG_TARGET_ROOTFS_SQUASHFS=y CONFIG_TARGET_SQUASHFS_BLOCK_SIZE=1024 CONFIG_TARGET_UBIFS_FREE_SPACE_FIXUP=y CONFIG_TARGET_UBIFS_JOURNAL_SIZE="" # # Image Options # # # Global build settings # # CONFIG_JSON_ADD_IMAGE_INFO is not set # CONFIG_ALL_NONSHARED is not set # CONFIG_ALL_KMODS is not set # CONFIG_ALL is not set # CONFIG_BUILDBOT is not set # CONFIG_SIGNED_PACKAGES is not set # CONFIG_SIGNATURE_CHECK is not set # # General build options # # CONFIG_DISPLAY_SUPPORT is not set CONFIG_BUILD_PATENTED=y # CONFIG_BUILD_NLS is not set CONFIG_SHADOW_PASSWORDS=y # CONFIG_CLEAN_IPKG is not set # CONFIG_INCLUDE_CONFIG is not set # CONFIG_COLLECT_KERNEL_DEBUG is not set # # Kernel build options # CONFIG_KERNEL_BUILD_USER="" CONFIG_KERNEL_BUILD_DOMAIN="" CONFIG_KERNEL_PRINTK=y CONFIG_KERNEL_CRASHLOG=y # CONFIG_KERNEL_SWAP is not set CONFIG_KERNEL_DEBUG_FS=y CONFIG_KERNEL_MIPS_FPU_EMULATOR=y # CONFIG_KERNEL_PERF_EVENTS is not set # CONFIG_KERNEL_PROFILING is not set # CONFIG_KERNEL_TASKSTATS is not set # CONFIG_KERNEL_KALLSYMS is not set # CONFIG_KERNEL_FTRACE is not set # CONFIG_KERNEL_DEBUG_KERNEL is not set # CONFIG_KERNEL_DEBUG_INFO is not set # CONFIG_KERNEL_DYNAMIC_DEBUG is not set # CONFIG_KERNEL_KPROBES is not set # CONFIG_KERNEL_AIO is not set # CONFIG_KERNEL_FHANDLE is not set # CONFIG_KERNEL_FANOTIFY is not set # CONFIG_KERNEL_BLK_DEV_BSG is not set CONFIG_KERNEL_MAGIC_SYSRQ=y # CONFIG_KERNEL_DEBUG_PINCTRL is not set # CONFIG_KERNEL_DEBUG_GPIO is not set # CONFIG_KERNEL_ELF_CORE is not set # CONFIG_KERNEL_PROVE_LOCKING is not set CONFIG_KERNEL_PRINTK_TIME=y # CONFIG_KERNEL_SLABINFO is not set # CONFIG_KERNEL_PROC_PAGE_MONITOR is not set # CONFIG_KERNEL_KEXEC is not set # CONFIG_USE_RFKILL is not set # CONFIG_USE_SPARSE is not set # CONFIG_KERNEL_DEVTMPFS is not set CONFIG_KERNEL_KEYS=y # CONFIG_KERNEL_PERSISTENT_KEYRINGS is not set # CONFIG_KERNEL_BIG_KEYS is not set # CONFIG_KERNEL_ENCRYPTED_KEYS is not set CONFIG_KERNEL_CGROUPS=y # CONFIG_KERNEL_CGROUP_DEBUG is not set CONFIG_KERNEL_FREEZER=y CONFIG_KERNEL_CGROUP_FREEZER=y CONFIG_KERNEL_CGROUP_DEVICE=y CONFIG_KERNEL_CGROUP_PIDS=y CONFIG_KERNEL_CPUSETS=y # CONFIG_KERNEL_PROC_PID_CPUSET is not set CONFIG_KERNEL_CGROUP_CPUACCT=y # CONFIG_KERNEL_RESOURCE_COUNTERS is not set CONFIG_KERNEL_MM_OWNER=y CONFIG_KERNEL_MEMCG=y # CONFIG_KERNEL_MEMCG_SWAP is not set # CONFIG_KERNEL_MEMCG_KMEM is not set # CONFIG_KERNEL_CGROUP_PERF is not set CONFIG_KERNEL_CGROUP_SCHED=y # CONFIG_KERNEL_FAIR_GROUP_SCHED is not set # CONFIG_KERNEL_RT_GROUP_SCHED is not set CONFIG_KERNEL_BLK_CGROUP=y # CONFIG_KERNEL_CFQ_GROUP_IOSCHED is not set # CONFIG_KERNEL_BLK_DEV_THROTTLING is not set # CONFIG_KERNEL_DEBUG_BLK_CGROUP is not set CONFIG_KERNEL_NET_CLS_CGROUP=y CONFIG_KERNEL_NETPRIO_CGROUP=y CONFIG_KERNEL_NAMESPACES=y CONFIG_KERNEL_UTS_NS=y CONFIG_KERNEL_IPC_NS=y CONFIG_KERNEL_USER_NS=y CONFIG_KERNEL_PID_NS=y CONFIG_KERNEL_NET_NS=y CONFIG_KERNEL_DEVPTS_MULTIPLE_INSTANCES=y CONFIG_KERNEL_POSIX_MQUEUE=y # CONFIG_KERNEL_SECCOMP_FILTER is not set # CONFIG_KERNEL_SECCOMP is not set CONFIG_KERNEL_IP_MROUTE=y CONFIG_KERNEL_IPV6=y CONFIG_KERNEL_IPV6_MULTIPLE_TABLES=y CONFIG_KERNEL_IPV6_SUBTREES=y CONFIG_KERNEL_IPV6_MROUTE=y # CONFIG_KERNEL_IPV6_PIMSM_V2 is not set # CONFIG_KERNEL_IP_PNP is not set # # Filesystem ACL and attr support options # # CONFIG_USE_FS_ACL_ATTR is not set # CONFIG_KERNEL_FS_POSIX_ACL is not set # CONFIG_KERNEL_BTRFS_FS_POSIX_ACL is not set # CONFIG_KERNEL_EXT4_FS_POSIX_ACL is not set # CONFIG_KERNEL_F2FS_FS_POSIX_ACL is not set # CONFIG_KERNEL_JFFS2_FS_POSIX_ACL is not set # CONFIG_KERNEL_TMPFS_POSIX_ACL is not set # CONFIG_KERNEL_CIFS_ACL is not set # CONFIG_KERNEL_HFS_FS_POSIX_ACL is not set # CONFIG_KERNEL_HFSPLUG_FS_POSIX_ACL is not set # CONFIG_KERNEL_NFS_ACL_SUPPORT is not set # CONFIG_KERNEL_NFS_V3_ACL_SUPPORT is not set # CONFIG_KERNEL_NFSD_V2_ACL_SUPPORT is not set # CONFIG_KERNEL_NFSD_V3_ACL_SUPPORT is not set # CONFIG_KERNEL_REISER_FS_POSIX_ACL is not set # CONFIG_KERNEL_XFS_POSIX_ACL is not set # CONFIG_KERNEL_JFS_POSIX_ACL is not set # CONFIG_KERNEL_DEVMEM is not set # CONFIG_KERNEL_DEVKMEM is not set CONFIG_KERNEL_SQUASHFS_FRAGMENT_CACHE_SIZE=2 # CONFIG_KERNEL_CC_OPTIMIZE_FOR_PERFORMANCE is not set CONFIG_KERNEL_CC_OPTIMIZE_FOR_SIZE=y # # Package build options # # CONFIG_DEBUG is not set CONFIG_IPV6=y # # Stripping options # # CONFIG_NO_STRIP is not set # CONFIG_USE_STRIP is not set CONFIG_USE_SSTRIP=y # CONFIG_STRIP_KERNEL_EXPORTS is not set # CONFIG_USE_MKLIBS is not set CONFIG_USE_UCLIBCXX=y # CONFIG_USE_LIBCXX is not set # CONFIG_USE_LIBSTDCXX is not set # # Hardening build options # CONFIG_PKG_CHECK_FORMAT_SECURITY=y CONFIG_PKG_ASLR_PIE_NONE=y # CONFIG_PKG_ASLR_PIE_REGULAR is not set # CONFIG_PKG_ASLR_PIE_ALL is not set # CONFIG_PKG_CC_STACKPROTECTOR_NONE is not set CONFIG_PKG_CC_STACKPROTECTOR_REGULAR=y # CONFIG_KERNEL_CC_STACKPROTECTOR_NONE is not set CONFIG_KERNEL_CC_STACKPROTECTOR_REGULAR=y # CONFIG_KERNEL_CC_STACKPROTECTOR_STRONG is not set CONFIG_KERNEL_STACKPROTECTOR=y # CONFIG_KERNEL_STACKPROTECTOR_STRONG is not set # CONFIG_PKG_FORTIFY_SOURCE_NONE is not set CONFIG_PKG_FORTIFY_SOURCE_1=y # CONFIG_PKG_FORTIFY_SOURCE_2 is not set # CONFIG_PKG_RELRO_NONE is not set # CONFIG_PKG_RELRO_PARTIAL is not set CONFIG_PKG_RELRO_FULL=y # CONFIG_DEVEL is not set # CONFIG_BROKEN is not set CONFIG_BINARY_FOLDER="" CONFIG_DOWNLOAD_FOLDER="" CONFIG_LOCALMIRROR="" CONFIG_AUTOREBUILD=y # CONFIG_AUTOREMOVE is not set CONFIG_BUILD_SUFFIX="" CONFIG_TARGET_ROOTFS_DIR="" # CONFIG_CCACHE is not set CONFIG_EXTERNAL_KERNEL_TREE="" CONFIG_KERNEL_GIT_CLONE_URI="" CONFIG_EXTRA_OPTIMIZATION="-fno-caller-saves -fno-plt" CONFIG_TARGET_OPTIMIZATION="-Os -pipe -mno-branch-likely -mips32r2 -mtune=24kc" CONFIG_SOFT_FLOAT=y CONFIG_USE_MIPS16=y # CONFIG_EXTRA_TARGET_ARCH is not set CONFIG_EXTRA_BINUTILS_CONFIG_OPTIONS="" CONFIG_EXTRA_GCC_CONFIG_OPTIONS="" # CONFIG_GCC_DEFAULT_PIE is not set # CONFIG_GCC_DEFAULT_SSP is not set # CONFIG_SJLJ_EXCEPTIONS is not set # CONFIG_INSTALL_GFORTRAN is not set CONFIG_GDB=y CONFIG_USE_MUSL=y CONFIG_SSP_SUPPORT=y CONFIG_BINUTILS_VERSION_2_31_1=y CONFIG_BINUTILS_VERSION="2.31.1" # CONFIG_GCC_USE_EMBEDDED_PATH_REMAP is not set CONFIG_GCC_VERSION="7.5.0" CONFIG_LIBC="musl" CONFIG_TARGET_SUFFIX="musl" # CONFIG_IB is not set # CONFIG_SDK is not set # CONFIG_MAKE_TOOLCHAIN is not set # CONFIG_IMAGEOPT is not set # CONFIG_PREINITOPT is not set CONFIG_TARGET_PREINIT_SUPPRESS_STDERR=y # CONFIG_TARGET_PREINIT_DISABLE_FAILSAFE is not set CONFIG_TARGET_PREINIT_TIMEOUT=2 # CONFIG_TARGET_PREINIT_SHOW_NETMSG is not set # CONFIG_TARGET_PREINIT_SUPPRESS_FAILSAFE_NETMSG is not set CONFIG_TARGET_PREINIT_IFNAME="" CONFIG_TARGET_PREINIT_IP="192.168.1.1" CONFIG_TARGET_PREINIT_NETMASK="255.255.255.0" CONFIG_TARGET_PREINIT_BROADCAST="192.168.1.255" # CONFIG_INITOPT is not set CONFIG_TARGET_INIT_PATH="/usr/sbin:/usr/bin:/sbin:/bin" CONFIG_TARGET_INIT_ENV="" CONFIG_TARGET_INIT_CMD="/sbin/init" CONFIG_TARGET_INIT_SUPPRESS_STDERR=y # CONFIG_VERSIONOPT is not set CONFIG_PER_FEED_REPO=y CONFIG_FEED_packages=y CONFIG_FEED_luci=y CONFIG_FEED_routing=y # # Base system # # CONFIG_PACKAGE_attendedsysupgrade-common is not set # CONFIG_PACKAGE_auc is not set CONFIG_PACKAGE_base-files=y CONFIG_PACKAGE_block-mount=y # CONFIG_PACKAGE_blockd is not set # CONFIG_PACKAGE_bridge is not set CONFIG_PACKAGE_busybox=y # CONFIG_BUSYBOX_CUSTOM is not set CONFIG_BUSYBOX_DEFAULT_HAVE_DOT_CONFIG=y # CONFIG_BUSYBOX_DEFAULT_DESKTOP is not set # CONFIG_BUSYBOX_DEFAULT_EXTRA_COMPAT is not set # CONFIG_BUSYBOX_DEFAULT_FEDORA_COMPAT is not set CONFIG_BUSYBOX_DEFAULT_INCLUDE_SUSv2=y CONFIG_BUSYBOX_DEFAULT_LONG_OPTS=y CONFIG_BUSYBOX_DEFAULT_SHOW_USAGE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VERBOSE_USAGE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_COMPRESS_USAGE=y CONFIG_BUSYBOX_DEFAULT_LFS=y # CONFIG_BUSYBOX_DEFAULT_PAM is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_DEVPTS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_UTMP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WTMP is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_PIDFILE=y CONFIG_BUSYBOX_DEFAULT_PID_FILE_PATH="/var/run" # CONFIG_BUSYBOX_DEFAULT_BUSYBOX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SHOW_SCRIPT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSTALLER is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_NO_USR is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SUID=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SUID_CONFIG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SUID_CONFIG_QUIET is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_PREFER_APPLETS=y CONFIG_BUSYBOX_DEFAULT_BUSYBOX_EXEC_PATH="/proc/self/exe" # CONFIG_BUSYBOX_DEFAULT_SELINUX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CLEAN_UP is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SYSLOG=y CONFIG_BUSYBOX_DEFAULT_PLATFORM_LINUX=y # CONFIG_BUSYBOX_DEFAULT_STATIC is not set # CONFIG_BUSYBOX_DEFAULT_PIE is not set # CONFIG_BUSYBOX_DEFAULT_NOMMU is not set # CONFIG_BUSYBOX_DEFAULT_BUILD_LIBBUSYBOX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LIBBUSYBOX_STATIC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INDIVIDUAL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SHARED_BUSYBOX is not set CONFIG_BUSYBOX_DEFAULT_CROSS_COMPILER_PREFIX="" CONFIG_BUSYBOX_DEFAULT_SYSROOT="" CONFIG_BUSYBOX_DEFAULT_EXTRA_CFLAGS="" CONFIG_BUSYBOX_DEFAULT_EXTRA_LDFLAGS="" CONFIG_BUSYBOX_DEFAULT_EXTRA_LDLIBS="" # CONFIG_BUSYBOX_DEFAULT_USE_PORTABLE_CODE is not set # CONFIG_BUSYBOX_DEFAULT_STACK_OPTIMIZATION_386 is not set CONFIG_BUSYBOX_DEFAULT_INSTALL_APPLET_SYMLINKS=y # CONFIG_BUSYBOX_DEFAULT_INSTALL_APPLET_HARDLINKS is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_APPLET_SCRIPT_WRAPPERS is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_APPLET_DONT is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_SH_APPLET_SYMLINK is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_SH_APPLET_HARDLINK is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL_SH_APPLET_SCRIPT_WRAPPER is not set CONFIG_BUSYBOX_DEFAULT_PREFIX="./_install" # CONFIG_BUSYBOX_DEFAULT_DEBUG is not set # CONFIG_BUSYBOX_DEFAULT_DEBUG_PESSIMIZE is not set # CONFIG_BUSYBOX_DEFAULT_DEBUG_SANITIZE is not set # CONFIG_BUSYBOX_DEFAULT_UNIT_TEST is not set # CONFIG_BUSYBOX_DEFAULT_WERROR is not set CONFIG_BUSYBOX_DEFAULT_NO_DEBUG_LIB=y # CONFIG_BUSYBOX_DEFAULT_DMALLOC is not set # CONFIG_BUSYBOX_DEFAULT_EFENCE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_USE_BSS_TAIL is not set # CONFIG_BUSYBOX_DEFAULT_FLOAT_DURATION is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RTMINMAX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RTMINMAX_USE_LIBC_DEFINITIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BUFFERS_USE_MALLOC is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_BUFFERS_GO_ON_STACK=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_BUFFERS_GO_IN_BSS is not set CONFIG_BUSYBOX_DEFAULT_PASSWORD_MINLEN=6 CONFIG_BUSYBOX_DEFAULT_MD5_SMALL=1 CONFIG_BUSYBOX_DEFAULT_SHA3_SMALL=1 CONFIG_BUSYBOX_DEFAULT_FEATURE_FAST_TOP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_ETC_NETWORKS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_ETC_SERVICES is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING=y CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_MAX_LEN=512 # CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_VI is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_HISTORY=256 # CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_SAVEHISTORY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_SAVE_ON_EXIT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_REVERSE_SEARCH is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TAB_COMPLETION=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_USERNAME_COMPLETION is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_FANCY_PROMPT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_WINCH is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_EDITING_ASK_TERMINAL is not set # CONFIG_BUSYBOX_DEFAULT_LOCALE_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_USING_LOCALE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHECK_UNICODE_IN_ENV is not set CONFIG_BUSYBOX_DEFAULT_SUBST_WCHAR=0 CONFIG_BUSYBOX_DEFAULT_LAST_SUPPORTED_WCHAR=0 # CONFIG_BUSYBOX_DEFAULT_UNICODE_COMBINING_WCHARS is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_WIDE_WCHARS is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_BIDI_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_NEUTRAL_TABLE is not set # CONFIG_BUSYBOX_DEFAULT_UNICODE_PRESERVE_BROKEN is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_NON_POSIX_CP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_VERBOSE_CP_MESSAGE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_USE_SENDFILE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_COPYBUF_KB=4 # CONFIG_BUSYBOX_DEFAULT_FEATURE_SKIP_ROOTFS is not set # CONFIG_BUSYBOX_DEFAULT_MONOTONIC_SYSCALL is not set CONFIG_BUSYBOX_DEFAULT_IOCTL_HEX2STR_ERROR=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_HWIB is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SEAMLESS_XZ is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SEAMLESS_LZMA is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SEAMLESS_BZ2 is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SEAMLESS_GZ=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SEAMLESS_Z is not set # CONFIG_BUSYBOX_DEFAULT_AR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_AR_LONG_FILENAMES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_AR_CREATE is not set # CONFIG_BUSYBOX_DEFAULT_UNCOMPRESS is not set CONFIG_BUSYBOX_DEFAULT_GUNZIP=y CONFIG_BUSYBOX_DEFAULT_ZCAT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_GUNZIP_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_BUNZIP2=y CONFIG_BUSYBOX_DEFAULT_BZCAT=y # CONFIG_BUSYBOX_DEFAULT_UNLZMA is not set # CONFIG_BUSYBOX_DEFAULT_LZCAT is not set # CONFIG_BUSYBOX_DEFAULT_LZMA is not set # CONFIG_BUSYBOX_DEFAULT_UNXZ is not set # CONFIG_BUSYBOX_DEFAULT_XZCAT is not set # CONFIG_BUSYBOX_DEFAULT_XZ is not set # CONFIG_BUSYBOX_DEFAULT_BZIP2 is not set CONFIG_BUSYBOX_DEFAULT_BZIP2_SMALL=0 CONFIG_BUSYBOX_DEFAULT_FEATURE_BZIP2_DECOMPRESS=y # CONFIG_BUSYBOX_DEFAULT_CPIO is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CPIO_O is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CPIO_P is not set # CONFIG_BUSYBOX_DEFAULT_DPKG is not set # CONFIG_BUSYBOX_DEFAULT_DPKG_DEB is not set CONFIG_BUSYBOX_DEFAULT_GZIP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_GZIP_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_GZIP_FAST=0 # CONFIG_BUSYBOX_DEFAULT_FEATURE_GZIP_LEVELS is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_GZIP_DECOMPRESS=y # CONFIG_BUSYBOX_DEFAULT_LZOP is not set # CONFIG_BUSYBOX_DEFAULT_UNLZOP is not set # CONFIG_BUSYBOX_DEFAULT_LZOPCAT is not set # CONFIG_BUSYBOX_DEFAULT_LZOP_COMPR_HIGH is not set # CONFIG_BUSYBOX_DEFAULT_RPM is not set # CONFIG_BUSYBOX_DEFAULT_RPM2CPIO is not set CONFIG_BUSYBOX_DEFAULT_TAR=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_CREATE=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_AUTODETECT is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_FROM=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_OLDGNU_COMPATIBILITY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_OLDSUN_COMPATIBILITY is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_GNU_EXTENSIONS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_TO_COMMAND is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_UNAME_GNAME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_NOPRESERVE_TIME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TAR_SELINUX is not set # CONFIG_BUSYBOX_DEFAULT_UNZIP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UNZIP_CDF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UNZIP_BZIP2 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UNZIP_LZMA is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UNZIP_XZ is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LZMA_FAST is not set CONFIG_BUSYBOX_DEFAULT_BASENAME=y CONFIG_BUSYBOX_DEFAULT_CAT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_CATN is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CATV is not set CONFIG_BUSYBOX_DEFAULT_CHGRP=y CONFIG_BUSYBOX_DEFAULT_CHMOD=y CONFIG_BUSYBOX_DEFAULT_CHOWN=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHOWN_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_CHROOT=y # CONFIG_BUSYBOX_DEFAULT_CKSUM is not set # CONFIG_BUSYBOX_DEFAULT_COMM is not set CONFIG_BUSYBOX_DEFAULT_CP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_CP_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CP_REFLINK is not set CONFIG_BUSYBOX_DEFAULT_CUT=y CONFIG_BUSYBOX_DEFAULT_DATE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_DATE_ISOFMT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_DATE_NANO is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DATE_COMPAT is not set CONFIG_BUSYBOX_DEFAULT_DD=y CONFIG_BUSYBOX_DEFAULT_FEATURE_DD_SIGNAL_HANDLING=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_DD_THIRD_STATUS_LINE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_DD_IBS_OBS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_DD_STATUS is not set CONFIG_BUSYBOX_DEFAULT_DF=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_DF_FANCY is not set CONFIG_BUSYBOX_DEFAULT_DIRNAME=y # CONFIG_BUSYBOX_DEFAULT_DOS2UNIX is not set # CONFIG_BUSYBOX_DEFAULT_UNIX2DOS is not set CONFIG_BUSYBOX_DEFAULT_DU=y CONFIG_BUSYBOX_DEFAULT_FEATURE_DU_DEFAULT_BLOCKSIZE_1K=y CONFIG_BUSYBOX_DEFAULT_ECHO=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FANCY_ECHO=y CONFIG_BUSYBOX_DEFAULT_ENV=y # CONFIG_BUSYBOX_DEFAULT_EXPAND is not set # CONFIG_BUSYBOX_DEFAULT_UNEXPAND is not set CONFIG_BUSYBOX_DEFAULT_EXPR=y CONFIG_BUSYBOX_DEFAULT_EXPR_MATH_SUPPORT_64=y # CONFIG_BUSYBOX_DEFAULT_FACTOR is not set CONFIG_BUSYBOX_DEFAULT_FALSE=y # CONFIG_BUSYBOX_DEFAULT_FOLD is not set CONFIG_BUSYBOX_DEFAULT_FSYNC=y CONFIG_BUSYBOX_DEFAULT_HEAD=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FANCY_HEAD=y # CONFIG_BUSYBOX_DEFAULT_HOSTID is not set CONFIG_BUSYBOX_DEFAULT_ID=y # CONFIG_BUSYBOX_DEFAULT_GROUPS is not set # CONFIG_BUSYBOX_DEFAULT_INSTALL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSTALL_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_LINK is not set CONFIG_BUSYBOX_DEFAULT_LN=y # CONFIG_BUSYBOX_DEFAULT_LOGNAME is not set CONFIG_BUSYBOX_DEFAULT_LS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_FILETYPES=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_FOLLOWLINKS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_RECURSIVE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_WIDTH=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_SORTFILES=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_TIMESTAMPS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_USERNAME=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_COLOR=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LS_COLOR_IS_DEFAULT=y CONFIG_BUSYBOX_DEFAULT_MD5SUM=y # CONFIG_BUSYBOX_DEFAULT_SHA1SUM is not set CONFIG_BUSYBOX_DEFAULT_SHA256SUM=y # CONFIG_BUSYBOX_DEFAULT_SHA512SUM is not set # CONFIG_BUSYBOX_DEFAULT_SHA3SUM is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_MD5_SHA1_SUM_CHECK=y CONFIG_BUSYBOX_DEFAULT_MKDIR=y CONFIG_BUSYBOX_DEFAULT_MKFIFO=y CONFIG_BUSYBOX_DEFAULT_MKNOD=y CONFIG_BUSYBOX_DEFAULT_MKTEMP=y CONFIG_BUSYBOX_DEFAULT_MV=y CONFIG_BUSYBOX_DEFAULT_NICE=y # CONFIG_BUSYBOX_DEFAULT_NL is not set # CONFIG_BUSYBOX_DEFAULT_NOHUP is not set # CONFIG_BUSYBOX_DEFAULT_NPROC is not set # CONFIG_BUSYBOX_DEFAULT_OD is not set # CONFIG_BUSYBOX_DEFAULT_PASTE is not set # CONFIG_BUSYBOX_DEFAULT_PRINTENV is not set CONFIG_BUSYBOX_DEFAULT_PRINTF=y CONFIG_BUSYBOX_DEFAULT_PWD=y CONFIG_BUSYBOX_DEFAULT_READLINK=y CONFIG_BUSYBOX_DEFAULT_FEATURE_READLINK_FOLLOW=y # CONFIG_BUSYBOX_DEFAULT_REALPATH is not set CONFIG_BUSYBOX_DEFAULT_RM=y CONFIG_BUSYBOX_DEFAULT_RMDIR=y CONFIG_BUSYBOX_DEFAULT_SEQ=y # CONFIG_BUSYBOX_DEFAULT_SHRED is not set # CONFIG_BUSYBOX_DEFAULT_SHUF is not set CONFIG_BUSYBOX_DEFAULT_SLEEP=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FANCY_SLEEP=y CONFIG_BUSYBOX_DEFAULT_SORT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SORT_BIG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SORT_OPTIMIZE_MEMORY is not set # CONFIG_BUSYBOX_DEFAULT_SPLIT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SPLIT_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_STAT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_STAT_FORMAT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_STAT_FILESYSTEM is not set # CONFIG_BUSYBOX_DEFAULT_STTY is not set # CONFIG_BUSYBOX_DEFAULT_SUM is not set CONFIG_BUSYBOX_DEFAULT_SYNC=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SYNC_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_TAC is not set CONFIG_BUSYBOX_DEFAULT_TAIL=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FANCY_TAIL=y CONFIG_BUSYBOX_DEFAULT_TEE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_TEE_USE_BLOCK_IO=y CONFIG_BUSYBOX_DEFAULT_TEST=y CONFIG_BUSYBOX_DEFAULT_TEST1=y CONFIG_BUSYBOX_DEFAULT_TEST2=y CONFIG_BUSYBOX_DEFAULT_FEATURE_TEST_64=y # CONFIG_BUSYBOX_DEFAULT_TIMEOUT is not set CONFIG_BUSYBOX_DEFAULT_TOUCH=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOUCH_NODEREF is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TOUCH_SUSV3=y CONFIG_BUSYBOX_DEFAULT_TR=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TR_CLASSES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TR_EQUIV is not set CONFIG_BUSYBOX_DEFAULT_TRUE=y # CONFIG_BUSYBOX_DEFAULT_TRUNCATE is not set # CONFIG_BUSYBOX_DEFAULT_TTY is not set CONFIG_BUSYBOX_DEFAULT_UNAME=y CONFIG_BUSYBOX_DEFAULT_UNAME_OSNAME="GNU/Linux" # CONFIG_BUSYBOX_DEFAULT_BB_ARCH is not set CONFIG_BUSYBOX_DEFAULT_UNIQ=y # CONFIG_BUSYBOX_DEFAULT_UNLINK is not set # CONFIG_BUSYBOX_DEFAULT_USLEEP is not set # CONFIG_BUSYBOX_DEFAULT_UUDECODE is not set # CONFIG_BUSYBOX_DEFAULT_BASE64 is not set # CONFIG_BUSYBOX_DEFAULT_UUENCODE is not set CONFIG_BUSYBOX_DEFAULT_WC=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_WC_LARGE is not set # CONFIG_BUSYBOX_DEFAULT_WHO is not set # CONFIG_BUSYBOX_DEFAULT_W is not set # CONFIG_BUSYBOX_DEFAULT_USERS is not set # CONFIG_BUSYBOX_DEFAULT_WHOAMI is not set CONFIG_BUSYBOX_DEFAULT_YES=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_VERBOSE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_PRESERVE_HARDLINKS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_HUMAN_READABLE=y # CONFIG_BUSYBOX_DEFAULT_CHVT is not set CONFIG_BUSYBOX_DEFAULT_CLEAR=y # CONFIG_BUSYBOX_DEFAULT_DEALLOCVT is not set # CONFIG_BUSYBOX_DEFAULT_DUMPKMAP is not set # CONFIG_BUSYBOX_DEFAULT_FGCONSOLE is not set # CONFIG_BUSYBOX_DEFAULT_KBD_MODE is not set # CONFIG_BUSYBOX_DEFAULT_LOADFONT is not set # CONFIG_BUSYBOX_DEFAULT_SETFONT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETFONT_TEXTUAL_MAP is not set CONFIG_BUSYBOX_DEFAULT_DEFAULT_SETFONT_DIR="" # CONFIG_BUSYBOX_DEFAULT_FEATURE_LOADFONT_PSF2 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LOADFONT_RAW is not set # CONFIG_BUSYBOX_DEFAULT_LOADKMAP is not set # CONFIG_BUSYBOX_DEFAULT_OPENVT is not set CONFIG_BUSYBOX_DEFAULT_RESET=y # CONFIG_BUSYBOX_DEFAULT_RESIZE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RESIZE_PRINT is not set # CONFIG_BUSYBOX_DEFAULT_SETCONSOLE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETCONSOLE_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_SETKEYCODES is not set # CONFIG_BUSYBOX_DEFAULT_SETLOGCONS is not set # CONFIG_BUSYBOX_DEFAULT_SHOWKEY is not set # CONFIG_BUSYBOX_DEFAULT_PIPE_PROGRESS is not set # CONFIG_BUSYBOX_DEFAULT_RUN_PARTS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RUN_PARTS_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RUN_PARTS_FANCY is not set CONFIG_BUSYBOX_DEFAULT_START_STOP_DAEMON=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_START_STOP_DAEMON_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_START_STOP_DAEMON_FANCY is not set CONFIG_BUSYBOX_DEFAULT_WHICH=y # CONFIG_BUSYBOX_DEFAULT_MINIPS is not set # CONFIG_BUSYBOX_DEFAULT_NUKE is not set # CONFIG_BUSYBOX_DEFAULT_RESUME is not set # CONFIG_BUSYBOX_DEFAULT_RUN_INIT is not set CONFIG_BUSYBOX_DEFAULT_AWK=y CONFIG_BUSYBOX_DEFAULT_FEATURE_AWK_LIBM=y CONFIG_BUSYBOX_DEFAULT_FEATURE_AWK_GNU_EXTENSIONS=y CONFIG_BUSYBOX_DEFAULT_CMP=y # CONFIG_BUSYBOX_DEFAULT_DIFF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DIFF_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DIFF_DIR is not set # CONFIG_BUSYBOX_DEFAULT_ED is not set # CONFIG_BUSYBOX_DEFAULT_PATCH is not set CONFIG_BUSYBOX_DEFAULT_SED=y CONFIG_BUSYBOX_DEFAULT_VI=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_MAX_LEN=1024 # CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_8BIT is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_COLON=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_YANKMARK=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_SEARCH=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_REGEX_SEARCH is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_USE_SIGNALS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_DOT_CMD=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_READONLY=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_SETOPTS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_SET=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_WIN_RESIZE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_ASK_TERMINAL=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_UNDO is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_UNDO_QUEUE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_VI_UNDO_QUEUE_MAX=0 CONFIG_BUSYBOX_DEFAULT_FEATURE_ALLOW_EXEC=y CONFIG_BUSYBOX_DEFAULT_FIND=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_PRINT0=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_MTIME=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_MMIN is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_PERM=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_TYPE=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_EXECUTABLE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_XDEV=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_MAXDEPTH=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_NEWER=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_INUM is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_EXEC=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_EXEC_PLUS is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_USER=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_GROUP=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_NOT=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_DEPTH=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_PAREN=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_SIZE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_PRUNE=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_QUIT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_DELETE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_PATH=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_REGEX=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_CONTEXT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FIND_LINKS is not set CONFIG_BUSYBOX_DEFAULT_GREP=y CONFIG_BUSYBOX_DEFAULT_EGREP=y CONFIG_BUSYBOX_DEFAULT_FGREP=y CONFIG_BUSYBOX_DEFAULT_FEATURE_GREP_CONTEXT=y CONFIG_BUSYBOX_DEFAULT_XARGS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_CONFIRMATION=y CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_QUOTES=y CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_TERMOPT=y CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_ZERO_TERM=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_REPL_STR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_PARALLEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_XARGS_SUPPORT_ARGS_FILE is not set # CONFIG_BUSYBOX_DEFAULT_BOOTCHARTD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BOOTCHARTD_BLOATED_HEADER is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BOOTCHARTD_CONFIG_FILE is not set CONFIG_BUSYBOX_DEFAULT_HALT=y CONFIG_BUSYBOX_DEFAULT_POWEROFF=y CONFIG_BUSYBOX_DEFAULT_REBOOT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_WAIT_FOR_INIT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CALL_TELINIT is not set CONFIG_BUSYBOX_DEFAULT_TELINIT_PATH="" # CONFIG_BUSYBOX_DEFAULT_INIT is not set # CONFIG_BUSYBOX_DEFAULT_LINUXRC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_USE_INITTAB is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_KILL_REMOVED is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_KILL_DELAY=0 # CONFIG_BUSYBOX_DEFAULT_FEATURE_INIT_SCTTY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INIT_SYSLOG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INIT_QUIET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INIT_COREDUMPS is not set CONFIG_BUSYBOX_DEFAULT_INIT_TERMINAL_TYPE="" # CONFIG_BUSYBOX_DEFAULT_FEATURE_INIT_MODIFY_CMDLINE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SHADOWPASSWDS=y # CONFIG_BUSYBOX_DEFAULT_USE_BB_PWD_GRP is not set # CONFIG_BUSYBOX_DEFAULT_USE_BB_SHADOW is not set # CONFIG_BUSYBOX_DEFAULT_USE_BB_CRYPT is not set # CONFIG_BUSYBOX_DEFAULT_USE_BB_CRYPT_SHA is not set # CONFIG_BUSYBOX_DEFAULT_ADD_SHELL is not set # CONFIG_BUSYBOX_DEFAULT_REMOVE_SHELL is not set # CONFIG_BUSYBOX_DEFAULT_ADDGROUP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_ADDUSER_TO_GROUP is not set # CONFIG_BUSYBOX_DEFAULT_ADDUSER is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHECK_NAMES is not set CONFIG_BUSYBOX_DEFAULT_LAST_ID=0 CONFIG_BUSYBOX_DEFAULT_FIRST_SYSTEM_ID=0 CONFIG_BUSYBOX_DEFAULT_LAST_SYSTEM_ID=0 # CONFIG_BUSYBOX_DEFAULT_CHPASSWD is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_DEFAULT_PASSWD_ALGO="md5" # CONFIG_BUSYBOX_DEFAULT_CRYPTPW is not set # CONFIG_BUSYBOX_DEFAULT_MKPASSWD is not set # CONFIG_BUSYBOX_DEFAULT_DELUSER is not set # CONFIG_BUSYBOX_DEFAULT_DELGROUP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DEL_USER_FROM_GROUP is not set # CONFIG_BUSYBOX_DEFAULT_GETTY is not set CONFIG_BUSYBOX_DEFAULT_LOGIN=y CONFIG_BUSYBOX_DEFAULT_LOGIN_SESSION_AS_CHILD=y # CONFIG_BUSYBOX_DEFAULT_LOGIN_SCRIPTS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_NOLOGIN is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SECURETTY is not set CONFIG_BUSYBOX_DEFAULT_PASSWD=y CONFIG_BUSYBOX_DEFAULT_FEATURE_PASSWD_WEAK_CHECK=y # CONFIG_BUSYBOX_DEFAULT_SU is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SU_SYSLOG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SU_CHECKS_SHELLS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SU_BLANK_PW_NEEDS_SECURE_TTY is not set # CONFIG_BUSYBOX_DEFAULT_SULOGIN is not set # CONFIG_BUSYBOX_DEFAULT_VLOCK is not set # CONFIG_BUSYBOX_DEFAULT_CHATTR is not set # CONFIG_BUSYBOX_DEFAULT_FSCK is not set # CONFIG_BUSYBOX_DEFAULT_LSATTR is not set # CONFIG_BUSYBOX_DEFAULT_TUNE2FS is not set # CONFIG_BUSYBOX_DEFAULT_MODPROBE_SMALL is not set # CONFIG_BUSYBOX_DEFAULT_DEPMOD is not set # CONFIG_BUSYBOX_DEFAULT_INSMOD is not set # CONFIG_BUSYBOX_DEFAULT_LSMOD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LSMOD_PRETTY_2_6_OUTPUT is not set # CONFIG_BUSYBOX_DEFAULT_MODINFO is not set # CONFIG_BUSYBOX_DEFAULT_MODPROBE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MODPROBE_BLACKLIST is not set # CONFIG_BUSYBOX_DEFAULT_RMMOD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CMDLINE_MODULE_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MODPROBE_SMALL_CHECK_ALREADY_LOADED is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_2_4_MODULES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_VERSION_CHECKING is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_KSYMOOPS_SYMBOLS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_LOADINKMEM is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_LOAD_MAP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_LOAD_MAP_FULL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHECK_TAINTED_MODULE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INSMOD_TRY_MMAP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MODUTILS_ALIAS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MODUTILS_SYMBOLS is not set CONFIG_BUSYBOX_DEFAULT_DEFAULT_MODULES_DIR="" CONFIG_BUSYBOX_DEFAULT_DEFAULT_DEPMOD_FILE="" # CONFIG_BUSYBOX_DEFAULT_ACPID is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_ACPID_COMPAT is not set # CONFIG_BUSYBOX_DEFAULT_BLKDISCARD is not set # CONFIG_BUSYBOX_DEFAULT_BLKID is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BLKID_TYPE is not set # CONFIG_BUSYBOX_DEFAULT_BLOCKDEV is not set # CONFIG_BUSYBOX_DEFAULT_CAL is not set # CONFIG_BUSYBOX_DEFAULT_CHRT is not set CONFIG_BUSYBOX_DEFAULT_DMESG=y CONFIG_BUSYBOX_DEFAULT_FEATURE_DMESG_PRETTY=y # CONFIG_BUSYBOX_DEFAULT_EJECT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_EJECT_SCSI is not set # CONFIG_BUSYBOX_DEFAULT_FALLOCATE is not set # CONFIG_BUSYBOX_DEFAULT_FATATTR is not set # CONFIG_BUSYBOX_DEFAULT_FBSET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FBSET_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FBSET_READMODE is not set # CONFIG_BUSYBOX_DEFAULT_FDFORMAT is not set # CONFIG_BUSYBOX_DEFAULT_FDISK is not set # CONFIG_BUSYBOX_DEFAULT_FDISK_SUPPORT_LARGE_DISKS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FDISK_WRITABLE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_AIX_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SGI_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SUN_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_OSF_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_GPT_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FDISK_ADVANCED is not set # CONFIG_BUSYBOX_DEFAULT_FINDFS is not set CONFIG_BUSYBOX_DEFAULT_FLOCK=y # CONFIG_BUSYBOX_DEFAULT_FDFLUSH is not set # CONFIG_BUSYBOX_DEFAULT_FREERAMDISK is not set # CONFIG_BUSYBOX_DEFAULT_FSCK_MINIX is not set # CONFIG_BUSYBOX_DEFAULT_FSFREEZE is not set # CONFIG_BUSYBOX_DEFAULT_FSTRIM is not set # CONFIG_BUSYBOX_DEFAULT_GETOPT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_GETOPT_LONG is not set CONFIG_BUSYBOX_DEFAULT_HEXDUMP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_HEXDUMP_REVERSE is not set # CONFIG_BUSYBOX_DEFAULT_HD is not set # CONFIG_BUSYBOX_DEFAULT_XXD is not set CONFIG_BUSYBOX_DEFAULT_HWCLOCK=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_HWCLOCK_ADJTIME_FHS is not set # CONFIG_BUSYBOX_DEFAULT_IONICE is not set # CONFIG_BUSYBOX_DEFAULT_IPCRM is not set # CONFIG_BUSYBOX_DEFAULT_IPCS is not set # CONFIG_BUSYBOX_DEFAULT_LAST is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LAST_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_LOSETUP is not set # CONFIG_BUSYBOX_DEFAULT_LSPCI is not set # CONFIG_BUSYBOX_DEFAULT_LSUSB is not set # CONFIG_BUSYBOX_DEFAULT_MDEV is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MDEV_CONF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MDEV_RENAME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MDEV_RENAME_REGEXP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MDEV_EXEC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MDEV_LOAD_FIRMWARE is not set # CONFIG_BUSYBOX_DEFAULT_MESG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MESG_ENABLE_ONLY_GROUP is not set # CONFIG_BUSYBOX_DEFAULT_MKE2FS is not set # CONFIG_BUSYBOX_DEFAULT_MKFS_EXT2 is not set # CONFIG_BUSYBOX_DEFAULT_MKFS_MINIX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MINIX2 is not set # CONFIG_BUSYBOX_DEFAULT_MKFS_REISER is not set # CONFIG_BUSYBOX_DEFAULT_MKDOSFS is not set # CONFIG_BUSYBOX_DEFAULT_MKFS_VFAT is not set CONFIG_BUSYBOX_DEFAULT_MKSWAP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_MKSWAP_UUID is not set # CONFIG_BUSYBOX_DEFAULT_MORE is not set CONFIG_BUSYBOX_DEFAULT_MOUNT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_FAKE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_VERBOSE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_HELPERS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_LABEL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_NFS is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_CIFS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_FLAGS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_FSTAB=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_OTHERTAB is not set # CONFIG_BUSYBOX_DEFAULT_MOUNTPOINT is not set # CONFIG_BUSYBOX_DEFAULT_NOLOGIN is not set # CONFIG_BUSYBOX_DEFAULT_NOLOGIN_DEPENDENCIES is not set # CONFIG_BUSYBOX_DEFAULT_NSENTER is not set CONFIG_BUSYBOX_DEFAULT_PIVOT_ROOT=y # CONFIG_BUSYBOX_DEFAULT_RDATE is not set # CONFIG_BUSYBOX_DEFAULT_RDEV is not set # CONFIG_BUSYBOX_DEFAULT_READPROFILE is not set # CONFIG_BUSYBOX_DEFAULT_RENICE is not set # CONFIG_BUSYBOX_DEFAULT_REV is not set # CONFIG_BUSYBOX_DEFAULT_RTCWAKE is not set # CONFIG_BUSYBOX_DEFAULT_SCRIPT is not set # CONFIG_BUSYBOX_DEFAULT_SCRIPTREPLAY is not set # CONFIG_BUSYBOX_DEFAULT_SETARCH is not set # CONFIG_BUSYBOX_DEFAULT_LINUX32 is not set # CONFIG_BUSYBOX_DEFAULT_LINUX64 is not set # CONFIG_BUSYBOX_DEFAULT_SETPRIV is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETPRIV_DUMP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETPRIV_CAPABILITIES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETPRIV_CAPABILITY_NAMES is not set # CONFIG_BUSYBOX_DEFAULT_SETSID is not set # CONFIG_BUSYBOX_DEFAULT_SWAPON is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SWAPON_DISCARD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SWAPON_PRI is not set # CONFIG_BUSYBOX_DEFAULT_SWAPOFF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SWAPONOFF_LABEL is not set CONFIG_BUSYBOX_DEFAULT_SWITCH_ROOT=y # CONFIG_BUSYBOX_DEFAULT_TASKSET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TASKSET_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_UEVENT is not set CONFIG_BUSYBOX_DEFAULT_UMOUNT=y CONFIG_BUSYBOX_DEFAULT_FEATURE_UMOUNT_ALL=y # CONFIG_BUSYBOX_DEFAULT_UNSHARE is not set # CONFIG_BUSYBOX_DEFAULT_WALL is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_LOOP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_MOUNT_LOOP_CREATE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MTAB_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_VOLUMEID is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_BCACHE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_BTRFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_CRAMFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_EXFAT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_EXT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_F2FS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_FAT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_HFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_ISO9660 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_JFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_LFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_LINUXRAID is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_LINUXSWAP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_LUKS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_MINIX is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_NILFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_NTFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_OCFS2 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_REISERFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_ROMFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_SQUASHFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_SYSV is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_UBIFS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_UDF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_VOLUMEID_XFS is not set # CONFIG_BUSYBOX_DEFAULT_ADJTIMEX is not set # CONFIG_BUSYBOX_DEFAULT_BBCONFIG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_COMPRESS_BBCONFIG is not set # CONFIG_BUSYBOX_DEFAULT_BC is not set # CONFIG_BUSYBOX_DEFAULT_DC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DC_BIG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DC_LIBM is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BC_INTERACTIVE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_BC_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_BEEP is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_BEEP_FREQ=0 CONFIG_BUSYBOX_DEFAULT_FEATURE_BEEP_LENGTH_MS=0 # CONFIG_BUSYBOX_DEFAULT_CHAT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_NOFAIL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_TTY_HIFI is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_IMPLICIT_CR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_SWALLOW_OPTS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_SEND_ESCAPES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_VAR_ABORT_LEN is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CHAT_CLR_ABORT is not set # CONFIG_BUSYBOX_DEFAULT_CONSPY is not set CONFIG_BUSYBOX_DEFAULT_CROND=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_CROND_D is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CROND_CALL_SENDMAIL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_CROND_SPECIAL_TIMES is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_CROND_DIR="/etc" CONFIG_BUSYBOX_DEFAULT_CRONTAB=y # CONFIG_BUSYBOX_DEFAULT_DEVFSD is not set # CONFIG_BUSYBOX_DEFAULT_DEVFSD_MODLOAD is not set # CONFIG_BUSYBOX_DEFAULT_DEVFSD_FG_NP is not set # CONFIG_BUSYBOX_DEFAULT_DEVFSD_VERBOSE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_DEVFS is not set # CONFIG_BUSYBOX_DEFAULT_DEVMEM is not set # CONFIG_BUSYBOX_DEFAULT_FBSPLASH is not set # CONFIG_BUSYBOX_DEFAULT_FLASH_ERASEALL is not set # CONFIG_BUSYBOX_DEFAULT_FLASH_LOCK is not set # CONFIG_BUSYBOX_DEFAULT_FLASH_UNLOCK is not set # CONFIG_BUSYBOX_DEFAULT_FLASHCP is not set # CONFIG_BUSYBOX_DEFAULT_HDPARM is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_GET_IDENTITY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_HDIO_SCAN_HWIF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_HDIO_UNREGISTER_HWIF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_HDIO_DRIVE_RESET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_HDIO_TRISTATE_HWIF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HDPARM_HDIO_GETSET_DMA is not set # CONFIG_BUSYBOX_DEFAULT_HEXEDIT is not set # CONFIG_BUSYBOX_DEFAULT_I2CGET is not set # CONFIG_BUSYBOX_DEFAULT_I2CSET is not set # CONFIG_BUSYBOX_DEFAULT_I2CDUMP is not set # CONFIG_BUSYBOX_DEFAULT_I2CDETECT is not set # CONFIG_BUSYBOX_DEFAULT_INOTIFYD is not set CONFIG_BUSYBOX_DEFAULT_LESS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_MAXLINES=9999999 # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_BRACKETS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_FLAGS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_TRUNCATE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_MARKS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_REGEXP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_WINCH is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_ASK_TERMINAL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_DASHCMD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_LINENUMS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_RAW is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LESS_ENV is not set CONFIG_BUSYBOX_DEFAULT_LOCK=y # CONFIG_BUSYBOX_DEFAULT_LSSCSI is not set # CONFIG_BUSYBOX_DEFAULT_MAKEDEVS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MAKEDEVS_LEAF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_MAKEDEVS_TABLE is not set # CONFIG_BUSYBOX_DEFAULT_MAN is not set # CONFIG_BUSYBOX_DEFAULT_MICROCOM is not set # CONFIG_BUSYBOX_DEFAULT_MT is not set # CONFIG_BUSYBOX_DEFAULT_NANDWRITE is not set # CONFIG_BUSYBOX_DEFAULT_NANDDUMP is not set # CONFIG_BUSYBOX_DEFAULT_PARTPROBE is not set # CONFIG_BUSYBOX_DEFAULT_RAIDAUTORUN is not set # CONFIG_BUSYBOX_DEFAULT_READAHEAD is not set # CONFIG_BUSYBOX_DEFAULT_RFKILL is not set # CONFIG_BUSYBOX_DEFAULT_RUNLEVEL is not set # CONFIG_BUSYBOX_DEFAULT_RX is not set # CONFIG_BUSYBOX_DEFAULT_SETFATTR is not set # CONFIG_BUSYBOX_DEFAULT_SETSERIAL is not set CONFIG_BUSYBOX_DEFAULT_STRINGS=y CONFIG_BUSYBOX_DEFAULT_TIME=y # CONFIG_BUSYBOX_DEFAULT_TTYSIZE is not set # CONFIG_BUSYBOX_DEFAULT_UBIATTACH is not set # CONFIG_BUSYBOX_DEFAULT_UBIDETACH is not set # CONFIG_BUSYBOX_DEFAULT_UBIMKVOL is not set # CONFIG_BUSYBOX_DEFAULT_UBIRMVOL is not set # CONFIG_BUSYBOX_DEFAULT_UBIRSVOL is not set # CONFIG_BUSYBOX_DEFAULT_UBIUPDATEVOL is not set # CONFIG_BUSYBOX_DEFAULT_UBIRENAME is not set # CONFIG_BUSYBOX_DEFAULT_VOLNAME is not set # CONFIG_BUSYBOX_DEFAULT_WATCHDOG is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_IPV6=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_UNIX_LOCAL is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_PREFER_IPV4_ADDRESS=y CONFIG_BUSYBOX_DEFAULT_VERBOSE_RESOLUTION_ERRORS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TLS_SHA1 is not set # CONFIG_BUSYBOX_DEFAULT_ARP is not set # CONFIG_BUSYBOX_DEFAULT_ARPING is not set CONFIG_BUSYBOX_DEFAULT_BRCTL=y CONFIG_BUSYBOX_DEFAULT_FEATURE_BRCTL_FANCY=y CONFIG_BUSYBOX_DEFAULT_FEATURE_BRCTL_SHOW=y # CONFIG_BUSYBOX_DEFAULT_DNSD is not set # CONFIG_BUSYBOX_DEFAULT_ETHER_WAKE is not set # CONFIG_BUSYBOX_DEFAULT_FTPD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FTPD_WRITE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FTPD_ACCEPT_BROKEN_LIST is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FTPD_AUTHENTICATION is not set # CONFIG_BUSYBOX_DEFAULT_FTPGET is not set # CONFIG_BUSYBOX_DEFAULT_FTPPUT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_FTPGETPUT_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_HOSTNAME is not set # CONFIG_BUSYBOX_DEFAULT_DNSDOMAINNAME is not set # CONFIG_BUSYBOX_DEFAULT_HTTPD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_RANGES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_SETUID is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_BASIC_AUTH is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_AUTH_MD5 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_CGI is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_CONFIG_WITH_SCRIPT_INTERPR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_SET_REMOTE_PORT_TO_ENV is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_ENCODE_URL_STR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_ERROR_PAGES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_PROXY is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_HTTPD_GZIP is not set CONFIG_BUSYBOX_DEFAULT_IFCONFIG=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IFCONFIG_STATUS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFCONFIG_SLIP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFCONFIG_MEMSTART_IOADDR_IRQ is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_IFCONFIG_HW=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IFCONFIG_BROADCAST_PLUS=y # CONFIG_BUSYBOX_DEFAULT_IFENSLAVE is not set # CONFIG_BUSYBOX_DEFAULT_IFPLUGD is not set # CONFIG_BUSYBOX_DEFAULT_IFUP is not set # CONFIG_BUSYBOX_DEFAULT_IFDOWN is not set CONFIG_BUSYBOX_DEFAULT_IFUPDOWN_IFSTATE_PATH="" # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFUPDOWN_IP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFUPDOWN_IPV4 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFUPDOWN_IPV6 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFUPDOWN_MAPPING is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IFUPDOWN_EXTERNAL_DHCP is not set # CONFIG_BUSYBOX_DEFAULT_INETD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_SUPPORT_BUILTIN_ECHO is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_SUPPORT_BUILTIN_DISCARD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_SUPPORT_BUILTIN_TIME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_SUPPORT_BUILTIN_DAYTIME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_SUPPORT_BUILTIN_CHARGEN is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_INETD_RPC is not set CONFIG_BUSYBOX_DEFAULT_IP=y # CONFIG_BUSYBOX_DEFAULT_IPADDR is not set # CONFIG_BUSYBOX_DEFAULT_IPLINK is not set # CONFIG_BUSYBOX_DEFAULT_IPROUTE is not set # CONFIG_BUSYBOX_DEFAULT_IPTUNNEL is not set # CONFIG_BUSYBOX_DEFAULT_IPRULE is not set # CONFIG_BUSYBOX_DEFAULT_IPNEIGH is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_ADDRESS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_LINK=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_ROUTE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_ROUTE_DIR="/etc/iproute2" # CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_TUNNEL is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_RULE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_NEIGH=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_IP_RARE_PROTOCOLS is not set # CONFIG_BUSYBOX_DEFAULT_IPCALC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IPCALC_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_IPCALC_FANCY is not set # CONFIG_BUSYBOX_DEFAULT_FAKEIDENTD is not set # CONFIG_BUSYBOX_DEFAULT_NAMEIF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_NAMEIF_EXTENDED is not set # CONFIG_BUSYBOX_DEFAULT_NBDCLIENT is not set CONFIG_BUSYBOX_DEFAULT_NC=y # CONFIG_BUSYBOX_DEFAULT_NETCAT is not set # CONFIG_BUSYBOX_DEFAULT_NC_SERVER is not set # CONFIG_BUSYBOX_DEFAULT_NC_EXTRA is not set # CONFIG_BUSYBOX_DEFAULT_NC_110_COMPAT is not set CONFIG_BUSYBOX_DEFAULT_NETMSG=y CONFIG_BUSYBOX_DEFAULT_NETSTAT=y CONFIG_BUSYBOX_DEFAULT_FEATURE_NETSTAT_WIDE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_NETSTAT_PRG=y # CONFIG_BUSYBOX_DEFAULT_NSLOOKUP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_NSLOOKUP_BIG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_NSLOOKUP_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_NSLOOKUP_OPENWRT=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_NSLOOKUP_OPENWRT_LONG_OPTIONS is not set CONFIG_BUSYBOX_DEFAULT_NTPD=y CONFIG_BUSYBOX_DEFAULT_FEATURE_NTPD_SERVER=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_NTPD_CONF is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_NTP_AUTH is not set CONFIG_BUSYBOX_DEFAULT_PING=y CONFIG_BUSYBOX_DEFAULT_PING6=y CONFIG_BUSYBOX_DEFAULT_FEATURE_FANCY_PING=y # CONFIG_BUSYBOX_DEFAULT_PSCAN is not set CONFIG_BUSYBOX_DEFAULT_ROUTE=y # CONFIG_BUSYBOX_DEFAULT_SLATTACH is not set # CONFIG_BUSYBOX_DEFAULT_SSL_CLIENT is not set # CONFIG_BUSYBOX_DEFAULT_TC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TC_INGRESS is not set # CONFIG_BUSYBOX_DEFAULT_TCPSVD is not set # CONFIG_BUSYBOX_DEFAULT_UDPSVD is not set # CONFIG_BUSYBOX_DEFAULT_TELNET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TELNET_TTYPE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TELNET_AUTOLOGIN is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TELNET_WIDTH is not set # CONFIG_BUSYBOX_DEFAULT_TELNETD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TELNETD_STANDALONE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TELNETD_INETD_WAIT is not set # CONFIG_BUSYBOX_DEFAULT_TFTP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TFTP_PROGRESS_BAR is not set # CONFIG_BUSYBOX_DEFAULT_TFTPD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TFTP_GET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TFTP_PUT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TFTP_BLOCKSIZE is not set # CONFIG_BUSYBOX_DEFAULT_TFTP_DEBUG is not set # CONFIG_BUSYBOX_DEFAULT_TLS is not set CONFIG_BUSYBOX_DEFAULT_TRACEROUTE=y CONFIG_BUSYBOX_DEFAULT_TRACEROUTE6=y CONFIG_BUSYBOX_DEFAULT_FEATURE_TRACEROUTE_VERBOSE=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TRACEROUTE_USE_ICMP is not set # CONFIG_BUSYBOX_DEFAULT_TUNCTL is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TUNCTL_UG is not set # CONFIG_BUSYBOX_DEFAULT_VCONFIG is not set # CONFIG_BUSYBOX_DEFAULT_WGET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_LONG_OPTIONS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_STATUSBAR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_AUTHENTICATION is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_TIMEOUT is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_HTTPS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_WGET_OPENSSL is not set # CONFIG_BUSYBOX_DEFAULT_WHOIS is not set # CONFIG_BUSYBOX_DEFAULT_ZCIP is not set # CONFIG_BUSYBOX_DEFAULT_UDHCPD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPD_BASE_IP_ON_MAC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPD_WRITE_LEASES_EARLY is not set CONFIG_BUSYBOX_DEFAULT_DHCPD_LEASES_FILE="" # CONFIG_BUSYBOX_DEFAULT_DUMPLEASES is not set # CONFIG_BUSYBOX_DEFAULT_DHCPRELAY is not set CONFIG_BUSYBOX_DEFAULT_UDHCPC=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC_ARPING is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC_SANITIZEOPT is not set CONFIG_BUSYBOX_DEFAULT_UDHCPC_DEFAULT_SCRIPT="/usr/share/udhcpc/default.script" # CONFIG_BUSYBOX_DEFAULT_UDHCPC6 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC6_RFC3646 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC6_RFC4704 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC6_RFC4833 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCPC6_RFC5970 is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCP_PORT is not set CONFIG_BUSYBOX_DEFAULT_UDHCP_DEBUG=0 CONFIG_BUSYBOX_DEFAULT_UDHCPC_SLACK_FOR_BUGGY_SERVERS=80 CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCP_RFC3397=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_UDHCP_8021Q is not set CONFIG_BUSYBOX_DEFAULT_IFUPDOWN_UDHCPC_CMD_OPTIONS="" # CONFIG_BUSYBOX_DEFAULT_LPD is not set # CONFIG_BUSYBOX_DEFAULT_LPR is not set # CONFIG_BUSYBOX_DEFAULT_LPQ is not set # CONFIG_BUSYBOX_DEFAULT_MAKEMIME is not set # CONFIG_BUSYBOX_DEFAULT_POPMAILDIR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_POPMAILDIR_DELIVERY is not set # CONFIG_BUSYBOX_DEFAULT_REFORMIME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_REFORMIME_COMPAT is not set # CONFIG_BUSYBOX_DEFAULT_SENDMAIL is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_MIME_CHARSET="" CONFIG_BUSYBOX_DEFAULT_FREE=y # CONFIG_BUSYBOX_DEFAULT_FUSER is not set # CONFIG_BUSYBOX_DEFAULT_IOSTAT is not set CONFIG_BUSYBOX_DEFAULT_KILL=y CONFIG_BUSYBOX_DEFAULT_KILLALL=y # CONFIG_BUSYBOX_DEFAULT_KILLALL5 is not set # CONFIG_BUSYBOX_DEFAULT_LSOF is not set # CONFIG_BUSYBOX_DEFAULT_MPSTAT is not set # CONFIG_BUSYBOX_DEFAULT_NMETER is not set CONFIG_BUSYBOX_DEFAULT_PGREP=y # CONFIG_BUSYBOX_DEFAULT_PKILL is not set CONFIG_BUSYBOX_DEFAULT_PIDOF=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_PIDOF_SINGLE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_PIDOF_OMIT is not set # CONFIG_BUSYBOX_DEFAULT_PMAP is not set # CONFIG_BUSYBOX_DEFAULT_POWERTOP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_POWERTOP_INTERACTIVE is not set CONFIG_BUSYBOX_DEFAULT_PS=y CONFIG_BUSYBOX_DEFAULT_FEATURE_PS_WIDE=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_PS_LONG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_PS_TIME is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_PS_UNUSUAL_SYSTEMS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_PS_ADDITIONAL_COLUMNS is not set # CONFIG_BUSYBOX_DEFAULT_PSTREE is not set # CONFIG_BUSYBOX_DEFAULT_PWDX is not set # CONFIG_BUSYBOX_DEFAULT_SMEMCAP is not set CONFIG_BUSYBOX_DEFAULT_BB_SYSCTL=y CONFIG_BUSYBOX_DEFAULT_TOP=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_INTERACTIVE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_CPU_USAGE_PERCENTAGE=y CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_CPU_GLOBAL_PERCENTS=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_SMP_CPU is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_DECIMALS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOP_SMP_PROCESS is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_TOPMEM is not set CONFIG_BUSYBOX_DEFAULT_UPTIME=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_UPTIME_UTMP_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_WATCH is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SHOW_THREADS is not set # CONFIG_BUSYBOX_DEFAULT_CHPST is not set # CONFIG_BUSYBOX_DEFAULT_SETUIDGID is not set # CONFIG_BUSYBOX_DEFAULT_ENVUIDGID is not set # CONFIG_BUSYBOX_DEFAULT_ENVDIR is not set # CONFIG_BUSYBOX_DEFAULT_SOFTLIMIT is not set # CONFIG_BUSYBOX_DEFAULT_RUNSV is not set # CONFIG_BUSYBOX_DEFAULT_RUNSVDIR is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_RUNSVDIR_LOG is not set # CONFIG_BUSYBOX_DEFAULT_SV is not set CONFIG_BUSYBOX_DEFAULT_SV_DEFAULT_SERVICE_DIR="" # CONFIG_BUSYBOX_DEFAULT_SVC is not set # CONFIG_BUSYBOX_DEFAULT_SVOK is not set # CONFIG_BUSYBOX_DEFAULT_SVLOGD is not set # CONFIG_BUSYBOX_DEFAULT_CHCON is not set # CONFIG_BUSYBOX_DEFAULT_GETENFORCE is not set # CONFIG_BUSYBOX_DEFAULT_GETSEBOOL is not set # CONFIG_BUSYBOX_DEFAULT_LOAD_POLICY is not set # CONFIG_BUSYBOX_DEFAULT_MATCHPATHCON is not set # CONFIG_BUSYBOX_DEFAULT_RUNCON is not set # CONFIG_BUSYBOX_DEFAULT_SELINUXENABLED is not set # CONFIG_BUSYBOX_DEFAULT_SESTATUS is not set # CONFIG_BUSYBOX_DEFAULT_SETENFORCE is not set # CONFIG_BUSYBOX_DEFAULT_SETFILES is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SETFILES_CHECK_OPTION is not set # CONFIG_BUSYBOX_DEFAULT_RESTORECON is not set # CONFIG_BUSYBOX_DEFAULT_SETSEBOOL is not set CONFIG_BUSYBOX_DEFAULT_SH_IS_ASH=y # CONFIG_BUSYBOX_DEFAULT_SH_IS_HUSH is not set # CONFIG_BUSYBOX_DEFAULT_SH_IS_NONE is not set # CONFIG_BUSYBOX_DEFAULT_BASH_IS_ASH is not set # CONFIG_BUSYBOX_DEFAULT_BASH_IS_HUSH is not set CONFIG_BUSYBOX_DEFAULT_BASH_IS_NONE=y CONFIG_BUSYBOX_DEFAULT_ASH=y # CONFIG_BUSYBOX_DEFAULT_ASH_OPTIMIZE_FOR_SIZE is not set CONFIG_BUSYBOX_DEFAULT_ASH_INTERNAL_GLOB=y CONFIG_BUSYBOX_DEFAULT_ASH_BASH_COMPAT=y # CONFIG_BUSYBOX_DEFAULT_ASH_BASH_SOURCE_CURDIR is not set # CONFIG_BUSYBOX_DEFAULT_ASH_BASH_NOT_FOUND_HOOK is not set CONFIG_BUSYBOX_DEFAULT_ASH_JOB_CONTROL=y CONFIG_BUSYBOX_DEFAULT_ASH_ALIAS=y # CONFIG_BUSYBOX_DEFAULT_ASH_RANDOM_SUPPORT is not set CONFIG_BUSYBOX_DEFAULT_ASH_EXPAND_PRMT=y # CONFIG_BUSYBOX_DEFAULT_ASH_IDLE_TIMEOUT is not set # CONFIG_BUSYBOX_DEFAULT_ASH_MAIL is not set CONFIG_BUSYBOX_DEFAULT_ASH_ECHO=y CONFIG_BUSYBOX_DEFAULT_ASH_PRINTF=y CONFIG_BUSYBOX_DEFAULT_ASH_TEST=y # CONFIG_BUSYBOX_DEFAULT_ASH_HELP is not set CONFIG_BUSYBOX_DEFAULT_ASH_GETOPTS=y CONFIG_BUSYBOX_DEFAULT_ASH_CMDCMD=y # CONFIG_BUSYBOX_DEFAULT_CTTYHACK is not set # CONFIG_BUSYBOX_DEFAULT_HUSH is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_BASH_COMPAT is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_BRACE_EXPANSION is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_LINENO_VAR is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_BASH_SOURCE_CURDIR is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_INTERACTIVE is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_SAVEHISTORY is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_JOB is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_TICK is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_IF is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_LOOPS is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_CASE is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_FUNCTIONS is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_LOCAL is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_RANDOM_SUPPORT is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_MODE_X is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_ECHO is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_PRINTF is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_TEST is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_HELP is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_EXPORT is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_EXPORT_N is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_READONLY is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_KILL is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_WAIT is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_COMMAND is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_TRAP is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_TYPE is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_TIMES is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_READ is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_SET is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_UNSET is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_ULIMIT is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_UMASK is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_GETOPTS is not set # CONFIG_BUSYBOX_DEFAULT_HUSH_MEMLEAK is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_MATH=y CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_MATH_64=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_EXTRA_QUIET is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_STANDALONE is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_NOFORK=y # CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_READ_FRAC is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_HISTFILESIZE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SH_EMBEDDED_SCRIPTS is not set # CONFIG_BUSYBOX_DEFAULT_KLOGD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_KLOGD_KLOGCTL is not set CONFIG_BUSYBOX_DEFAULT_LOGGER=y # CONFIG_BUSYBOX_DEFAULT_LOGREAD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_LOGREAD_REDUCED_LOCKING is not set # CONFIG_BUSYBOX_DEFAULT_SYSLOGD is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_ROTATE_LOGFILE is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_REMOTE_LOG is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SYSLOGD_DUP is not set # CONFIG_BUSYBOX_DEFAULT_FEATURE_SYSLOGD_CFG is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_SYSLOGD_READ_BUFFER_SIZE=0 # CONFIG_BUSYBOX_DEFAULT_FEATURE_IPC_SYSLOG is not set CONFIG_BUSYBOX_DEFAULT_FEATURE_IPC_SYSLOG_BUFFER_SIZE=0 # CONFIG_BUSYBOX_DEFAULT_FEATURE_KMSG_SYSLOG is not set # CONFIG_PACKAGE_ca-bundle is not set CONFIG_PACKAGE_ca-certificates=y # CONFIG_PACKAGE_dnsmasq is not set # CONFIG_PACKAGE_dnsmasq-dhcpv6 is not set CONFIG_PACKAGE_dnsmasq-full=y CONFIG_PACKAGE_dnsmasq_full_dhcp=y # CONFIG_PACKAGE_dnsmasq_full_dhcpv6 is not set # CONFIG_PACKAGE_dnsmasq_full_dnssec is not set # CONFIG_PACKAGE_dnsmasq_full_auth is not set CONFIG_PACKAGE_dnsmasq_full_ipset=y # CONFIG_PACKAGE_dnsmasq_full_conntrack is not set # CONFIG_PACKAGE_dnsmasq_full_noid is not set # CONFIG_PACKAGE_dnsmasq_full_broken_rtc is not set CONFIG_PACKAGE_dropbear=y # # Configuration # CONFIG_DROPBEAR_CURVE25519=y # CONFIG_DROPBEAR_ECC is not set # CONFIG_DROPBEAR_ZLIB is not set CONFIG_DROPBEAR_DBCLIENT=y # CONFIG_PACKAGE_ead is not set CONFIG_PACKAGE_firewall=y CONFIG_PACKAGE_fstools=y # CONFIG_FSTOOLS_OVL_MOUNT_FULL_ACCESS_TIME is not set # CONFIG_FSTOOLS_OVL_MOUNT_COMPRESS_ZLIB is not set CONFIG_PACKAGE_fwtool=y CONFIG_PACKAGE_getrandom=y CONFIG_PACKAGE_jsonfilter=y # CONFIG_PACKAGE_libatomic is not set CONFIG_PACKAGE_libc=y CONFIG_PACKAGE_libgcc=y # CONFIG_PACKAGE_libgomp is not set CONFIG_PACKAGE_libpthread=y CONFIG_PACKAGE_librt=y # CONFIG_PACKAGE_libstdcpp is not set CONFIG_PACKAGE_logd=y CONFIG_PACKAGE_mtd=y CONFIG_PACKAGE_netifd=y # CONFIG_PACKAGE_nft-qos is not set # CONFIG_PACKAGE_nvram is not set # CONFIG_PACKAGE_om-watchdog is not set # CONFIG_PACKAGE_openwrt-keyring is not set CONFIG_PACKAGE_opkg=y CONFIG_PACKAGE_procd=y # # Configuration # # CONFIG_PROCD_SHOW_BOOT is not set # CONFIG_PROCD_ZRAM_TMPFS is not set # CONFIG_PACKAGE_procd-ujail is not set # CONFIG_PACKAGE_qos-scripts is not set # CONFIG_PACKAGE_resolveip is not set CONFIG_PACKAGE_rpcd=y # CONFIG_PACKAGE_rpcd-mod-file is not set # CONFIG_PACKAGE_rpcd-mod-iwinfo is not set # CONFIG_PACKAGE_rpcd-mod-rpcsys is not set # CONFIG_PACKAGE_snapshot-tool is not set # CONFIG_PACKAGE_sqm-scripts is not set # CONFIG_PACKAGE_sqm-scripts-extra is not set CONFIG_PACKAGE_swconfig=y CONFIG_PACKAGE_ubox=y CONFIG_PACKAGE_ubus=y CONFIG_PACKAGE_ubusd=y # CONFIG_PACKAGE_ucert is not set # CONFIG_PACKAGE_ucert-full is not set CONFIG_PACKAGE_uci=y CONFIG_PACKAGE_urandom-seed=y CONFIG_PACKAGE_urngd=y # CONFIG_PACKAGE_usign is not set # CONFIG_PACKAGE_wireless-tools is not set # CONFIG_PACKAGE_zram-swap is not set # # Administration # # # openwisp # # CONFIG_PACKAGE_openwisp-config-cyassl is not set # CONFIG_PACKAGE_openwisp-config-mbedtls is not set # CONFIG_PACKAGE_openwisp-config-nossl is not set # CONFIG_PACKAGE_openwisp-config-openssl is not set # # zabbix # # CONFIG_PACKAGE_zabbix-agentd is not set # CONFIG_PACKAGE_zabbix-extra-mac80211 is not set # CONFIG_PACKAGE_zabbix-extra-network is not set # CONFIG_PACKAGE_zabbix-extra-wifi is not set # CONFIG_PACKAGE_zabbix-get is not set # CONFIG_PACKAGE_zabbix-proxy is not set # CONFIG_PACKAGE_zabbix-sender is not set # CONFIG_PACKAGE_zabbix-server is not set # CONFIG_PACKAGE_htop is not set # CONFIG_PACKAGE_ipmitool is not set # CONFIG_PACKAGE_monit is not set # CONFIG_PACKAGE_monit-nossl is not set # CONFIG_PACKAGE_muninlite is not set # CONFIG_PACKAGE_netdata is not set # CONFIG_PACKAGE_sudo is not set # CONFIG_PACKAGE_syslog-ng is not set # # Boot Loaders # # # Development # # # Libraries # # CONFIG_PACKAGE_libncurses-dev is not set # CONFIG_PACKAGE_libxml2-dev is not set # CONFIG_PACKAGE_zlib-dev is not set # CONFIG_PACKAGE_ar is not set # CONFIG_PACKAGE_autoconf is not set # CONFIG_PACKAGE_automake is not set # CONFIG_PACKAGE_binutils is not set # CONFIG_PACKAGE_diffutils is not set # CONFIG_PACKAGE_gcc is not set # CONFIG_PACKAGE_gdb is not set # CONFIG_PACKAGE_gdbserver is not set # CONFIG_PACKAGE_libtool-bin is not set # CONFIG_PACKAGE_lpc21isp is not set # CONFIG_PACKAGE_lttng-tools is not set # CONFIG_PACKAGE_m4 is not set # CONFIG_PACKAGE_make is not set # CONFIG_PACKAGE_meson is not set # CONFIG_PACKAGE_meson-src is not set # CONFIG_PACKAGE_ninja is not set # CONFIG_PACKAGE_objdump is not set # CONFIG_PACKAGE_patch is not set # CONFIG_PACKAGE_pkg-config is not set # CONFIG_PACKAGE_trace-cmd is not set # CONFIG_PACKAGE_trace-cmd-extra is not set # CONFIG_PACKAGE_valgrind is not set # # Extra packages # # CONFIG_PACKAGE_automount is not set # CONFIG_PACKAGE_autosamba is not set # CONFIG_PACKAGE_ipv6helper is not set # CONFIG_PACKAGE_k3wifi is not set # CONFIG_PACKAGE_wireguard-tools is not set # # Firmware # # # ath10k IPQ4019 Boarddata # # CONFIG_PACKAGE_aircard-pcmcia-firmware is not set # CONFIG_PACKAGE_amdgpu-firmware is not set # CONFIG_PACKAGE_ar3k-firmware is not set # CONFIG_PACKAGE_ath10k-firmware-qca4019 is not set # CONFIG_PACKAGE_ath10k-firmware-qca4019-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca4019-ct-htt is not set # CONFIG_PACKAGE_ath10k-firmware-qca6174 is not set # CONFIG_PACKAGE_ath10k-firmware-qca9887 is not set # CONFIG_PACKAGE_ath10k-firmware-qca9887-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca9887-ct-htt is not set # CONFIG_PACKAGE_ath10k-firmware-qca9888 is not set # CONFIG_PACKAGE_ath10k-firmware-qca9888-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca9888-ct-htt is not set CONFIG_PACKAGE_ath10k-firmware-qca988x=y # CONFIG_PACKAGE_ath10k-firmware-qca988x-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca988x-ct-htt is not set # CONFIG_PACKAGE_ath10k-firmware-qca9984 is not set # CONFIG_PACKAGE_ath10k-firmware-qca9984-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca9984-ct-htt is not set # CONFIG_PACKAGE_ath10k-firmware-qca99x0 is not set # CONFIG_PACKAGE_ath10k-firmware-qca99x0-ct is not set # CONFIG_PACKAGE_ath10k-firmware-qca99x0-ct-htt is not set # CONFIG_PACKAGE_ath6k-firmware is not set # CONFIG_PACKAGE_ath9k-htc-firmware is not set # CONFIG_PACKAGE_b43legacy-firmware is not set # CONFIG_PACKAGE_bnx2-firmware is not set # CONFIG_PACKAGE_bnx2x-firmware is not set # CONFIG_PACKAGE_brcmfmac-firmware-4329-sdio is not set # CONFIG_PACKAGE_brcmfmac-firmware-43362-sdio is not set # CONFIG_PACKAGE_brcmfmac-firmware-43430-sdio is not set # CONFIG_PACKAGE_brcmfmac-firmware-43430-sdio-rpi-3b is not set # CONFIG_PACKAGE_brcmfmac-firmware-43430-sdio-rpi-zero-w is not set # CONFIG_PACKAGE_brcmfmac-firmware-43430a0-sdio is not set # CONFIG_PACKAGE_brcmfmac-firmware-43455-sdio is not set # CONFIG_PACKAGE_brcmfmac-firmware-43455-sdio-rpi-3b-plus is not set # CONFIG_PACKAGE_brcmfmac-firmware-43455-sdio-rpi-4b is not set # CONFIG_PACKAGE_brcmfmac-firmware-43602a1-pcie is not set # CONFIG_PACKAGE_brcmfmac-firmware-4366b1-pcie is not set # CONFIG_PACKAGE_brcmfmac-firmware-4366c0-pcie is not set # CONFIG_PACKAGE_brcmfmac-firmware-usb is not set # CONFIG_PACKAGE_brcmsmac-firmware is not set # CONFIG_PACKAGE_carl9170-firmware is not set # CONFIG_PACKAGE_cypress-firmware-43012-sdio is not set # CONFIG_PACKAGE_cypress-firmware-43340-sdio is not set # CONFIG_PACKAGE_cypress-firmware-43362-sdio is not set # CONFIG_PACKAGE_cypress-firmware-4339-sdio is not set # CONFIG_PACKAGE_cypress-firmware-43430-sdio is not set # CONFIG_PACKAGE_cypress-firmware-43455-sdio is not set # CONFIG_PACKAGE_cypress-firmware-4354-sdio is not set # CONFIG_PACKAGE_cypress-firmware-4356-pcie is not set # CONFIG_PACKAGE_cypress-firmware-4356-sdio is not set # CONFIG_PACKAGE_cypress-firmware-43570-pcie is not set # CONFIG_PACKAGE_cypress-firmware-4359-pcie is not set # CONFIG_PACKAGE_cypress-firmware-4359-sdio is not set # CONFIG_PACKAGE_cypress-firmware-4373-sdio is not set # CONFIG_PACKAGE_cypress-firmware-4373-usb is not set # CONFIG_PACKAGE_cypress-firmware-89459-pcie is not set # CONFIG_PACKAGE_e100-firmware is not set # CONFIG_PACKAGE_edgeport-firmware is not set # CONFIG_PACKAGE_ibt-firmware is not set # CONFIG_PACKAGE_iwl3945-firmware is not set # CONFIG_PACKAGE_iwl4965-firmware is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl100 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl1000 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl105 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl135 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl2000 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl2030 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl3160 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl3168 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl5000 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl5150 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl6000g2 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl6000g2a is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl6000g2b is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl6050 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl7260 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl7265 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl7265d is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl8260c is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl8265 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl9000 is not set # CONFIG_PACKAGE_iwlwifi-firmware-iwl9260 is not set # CONFIG_PACKAGE_libertas-sdio-firmware is not set # CONFIG_PACKAGE_libertas-spi-firmware is not set # CONFIG_PACKAGE_libertas-usb-firmware is not set # CONFIG_PACKAGE_mt7601u-firmware is not set # CONFIG_PACKAGE_mt7622bt-firmware is not set # CONFIG_PACKAGE_mwifiex-pcie-firmware is not set # CONFIG_PACKAGE_mwifiex-sdio-firmware is not set # CONFIG_PACKAGE_mwl8k-firmware is not set # CONFIG_PACKAGE_p54-pci-firmware is not set # CONFIG_PACKAGE_p54-spi-firmware is not set # CONFIG_PACKAGE_p54-usb-firmware is not set # CONFIG_PACKAGE_prism54-firmware is not set # CONFIG_PACKAGE_r8169-firmware is not set # CONFIG_PACKAGE_radeon-firmware is not set # CONFIG_PACKAGE_rs9113-firmware is not set # CONFIG_PACKAGE_rt2800-pci-firmware is not set # CONFIG_PACKAGE_rt2800-usb-firmware is not set # CONFIG_PACKAGE_rt61-pci-firmware is not set # CONFIG_PACKAGE_rt73-usb-firmware is not set # CONFIG_PACKAGE_rtl8188eu-firmware is not set # CONFIG_PACKAGE_rtl8192ce-firmware is not set # CONFIG_PACKAGE_rtl8192cu-firmware is not set # CONFIG_PACKAGE_rtl8192de-firmware is not set # CONFIG_PACKAGE_rtl8192eu-firmware is not set # CONFIG_PACKAGE_rtl8192se-firmware is not set # CONFIG_PACKAGE_rtl8192su-firmware is not set # CONFIG_PACKAGE_rtl8723au-firmware is not set # CONFIG_PACKAGE_rtl8723bs-firmware is not set # CONFIG_PACKAGE_rtl8723bu-firmware is not set # CONFIG_PACKAGE_rtl8821ae-firmware is not set # CONFIG_PACKAGE_rtl8822be-firmware is not set # CONFIG_PACKAGE_rtl8822ce-firmware is not set # CONFIG_PACKAGE_ti-3410-firmware is not set # CONFIG_PACKAGE_ti-5052-firmware is not set CONFIG_PACKAGE_wireless-regdb=y # CONFIG_PACKAGE_wl12xx-firmware is not set # CONFIG_PACKAGE_wl18xx-firmware is not set # # Fonts # # # DejaVu # # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuMathTeXGyre is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSans is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSans-Bold is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSans-BoldOblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSans-ExtraLight is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSans-Oblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansCondensed is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansCondensed-Bold is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansCondensed-BoldOblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansCondensed-Oblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansMono is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansMono-Bold is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansMono-BoldOblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSansMono-Oblique is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerif is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerif-Bold is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerif-BoldItalic is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerif-Italic is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerifCondensed is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerifCondensed-Bold is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerifCondensed-BoldItalic is not set # CONFIG_PACKAGE_dejavu-fonts-ttf-DejaVuSerifCondensed-Italic is not set # # Kernel modules # # # Block Devices # # CONFIG_PACKAGE_kmod-aoe is not set # CONFIG_PACKAGE_kmod-ata-core is not set # CONFIG_PACKAGE_kmod-block2mtd is not set # CONFIG_PACKAGE_kmod-dm is not set # CONFIG_PACKAGE_kmod-dm-raid is not set # CONFIG_PACKAGE_kmod-loop is not set # CONFIG_PACKAGE_kmod-md-mod is not set # CONFIG_PACKAGE_kmod-nbd is not set # CONFIG_PACKAGE_kmod-scsi-cdrom is not set # CONFIG_PACKAGE_kmod-scsi-core is not set # CONFIG_PACKAGE_kmod-scsi-generic is not set # CONFIG_PACKAGE_kmod-scsi-tape is not set # # CAN Support # # CONFIG_PACKAGE_kmod-can is not set # # Cryptographic API modules # CONFIG_PACKAGE_kmod-crypto-aead=y CONFIG_PACKAGE_kmod-crypto-arc4=y CONFIG_PACKAGE_kmod-crypto-authenc=y # CONFIG_PACKAGE_kmod-crypto-cbc is not set # CONFIG_PACKAGE_kmod-crypto-ccm is not set # CONFIG_PACKAGE_kmod-crypto-cmac is not set CONFIG_PACKAGE_kmod-crypto-crc32c=y # CONFIG_PACKAGE_kmod-crypto-ctr is not set # CONFIG_PACKAGE_kmod-crypto-cts is not set # CONFIG_PACKAGE_kmod-crypto-deflate is not set # CONFIG_PACKAGE_kmod-crypto-des is not set CONFIG_PACKAGE_kmod-crypto-ecb=y # CONFIG_PACKAGE_kmod-crypto-ecdh is not set # CONFIG_PACKAGE_kmod-crypto-echainiv is not set # CONFIG_PACKAGE_kmod-crypto-fcrypt is not set # CONFIG_PACKAGE_kmod-crypto-gcm is not set # CONFIG_PACKAGE_kmod-crypto-gf128 is not set # CONFIG_PACKAGE_kmod-crypto-ghash is not set CONFIG_PACKAGE_kmod-crypto-hash=y # CONFIG_PACKAGE_kmod-crypto-hmac is not set # CONFIG_PACKAGE_kmod-crypto-hw-ccp is not set # CONFIG_PACKAGE_kmod-crypto-hw-geode is not set # CONFIG_PACKAGE_kmod-crypto-hw-hifn-795x is not set # CONFIG_PACKAGE_kmod-crypto-hw-padlock is not set # CONFIG_PACKAGE_kmod-crypto-hw-talitos is not set CONFIG_PACKAGE_kmod-crypto-manager=y # CONFIG_PACKAGE_kmod-crypto-md4 is not set # CONFIG_PACKAGE_kmod-crypto-md5 is not set # CONFIG_PACKAGE_kmod-crypto-michael-mic is not set # CONFIG_PACKAGE_kmod-crypto-misc is not set CONFIG_PACKAGE_kmod-crypto-null=y # CONFIG_PACKAGE_kmod-crypto-pcbc is not set CONFIG_PACKAGE_kmod-crypto-pcompress=y # CONFIG_PACKAGE_kmod-crypto-rmd160 is not set # CONFIG_PACKAGE_kmod-crypto-rng is not set # CONFIG_PACKAGE_kmod-crypto-seqiv is not set CONFIG_PACKAGE_kmod-crypto-sha1=y # CONFIG_PACKAGE_kmod-crypto-sha256 is not set # CONFIG_PACKAGE_kmod-crypto-sha512 is not set # CONFIG_PACKAGE_kmod-crypto-test is not set # CONFIG_PACKAGE_kmod-crypto-user is not set # CONFIG_PACKAGE_kmod-crypto-wq is not set # CONFIG_PACKAGE_kmod-crypto-xcbc is not set # CONFIG_PACKAGE_kmod-crypto-xts is not set CONFIG_PACKAGE_kmod-cryptodev=y # # Filesystems # # CONFIG_PACKAGE_kmod-fs-afs is not set # CONFIG_PACKAGE_kmod-fs-antfs is not set # CONFIG_PACKAGE_kmod-fs-autofs4 is not set # CONFIG_PACKAGE_kmod-fs-btrfs is not set # CONFIG_PACKAGE_kmod-fs-cifs is not set # CONFIG_PACKAGE_kmod-fs-configfs is not set # CONFIG_PACKAGE_kmod-fs-cramfs is not set # CONFIG_PACKAGE_kmod-fs-exfat is not set # CONFIG_PACKAGE_kmod-fs-exportfs is not set # CONFIG_PACKAGE_kmod-fs-ext4 is not set # CONFIG_PACKAGE_kmod-fs-f2fs is not set # CONFIG_PACKAGE_kmod-fs-fscache is not set # CONFIG_PACKAGE_kmod-fs-hfs is not set # CONFIG_PACKAGE_kmod-fs-hfsplus is not set # CONFIG_PACKAGE_kmod-fs-isofs is not set # CONFIG_PACKAGE_kmod-fs-jfs is not set # CONFIG_PACKAGE_kmod-fs-ksmbd is not set # CONFIG_PACKAGE_kmod-fs-minix is not set # CONFIG_PACKAGE_kmod-fs-msdos is not set # CONFIG_PACKAGE_kmod-fs-nfs is not set # CONFIG_PACKAGE_kmod-fs-nfs-common is not set # CONFIG_PACKAGE_kmod-fs-nfs-common-rpcsec is not set # CONFIG_PACKAGE_kmod-fs-nfs-v3 is not set # CONFIG_PACKAGE_kmod-fs-nfs-v4 is not set # CONFIG_PACKAGE_kmod-fs-nfsd is not set # CONFIG_PACKAGE_kmod-fs-ntfs is not set # CONFIG_PACKAGE_kmod-fs-reiserfs is not set # CONFIG_PACKAGE_kmod-fs-squashfs is not set # CONFIG_PACKAGE_kmod-fs-udf is not set # CONFIG_PACKAGE_kmod-fs-vfat is not set # CONFIG_PACKAGE_kmod-fs-xfs is not set # CONFIG_PACKAGE_kmod-fuse is not set # # FireWire support # # CONFIG_PACKAGE_kmod-firewire is not set # # Hardware Monitoring Support # CONFIG_PACKAGE_kmod-hwmon-core=y # CONFIG_PACKAGE_kmod-hwmon-adcxx is not set # CONFIG_PACKAGE_kmod-hwmon-ads1015 is not set # CONFIG_PACKAGE_kmod-hwmon-adt7410 is not set # CONFIG_PACKAGE_kmod-hwmon-adt7475 is not set # CONFIG_PACKAGE_kmod-hwmon-gpiofan is not set # CONFIG_PACKAGE_kmod-hwmon-ina209 is not set # CONFIG_PACKAGE_kmod-hwmon-ina2xx is not set # CONFIG_PACKAGE_kmod-hwmon-it87 is not set # CONFIG_PACKAGE_kmod-hwmon-lm63 is not set # CONFIG_PACKAGE_kmod-hwmon-lm75 is not set # CONFIG_PACKAGE_kmod-hwmon-lm77 is not set # CONFIG_PACKAGE_kmod-hwmon-lm85 is not set # CONFIG_PACKAGE_kmod-hwmon-lm90 is not set # CONFIG_PACKAGE_kmod-hwmon-lm92 is not set # CONFIG_PACKAGE_kmod-hwmon-lm95241 is not set # CONFIG_PACKAGE_kmod-hwmon-ltc4151 is not set # CONFIG_PACKAGE_kmod-hwmon-mcp3021 is not set # CONFIG_PACKAGE_kmod-hwmon-pwmfan is not set # CONFIG_PACKAGE_kmod-hwmon-sch5627 is not set # CONFIG_PACKAGE_kmod-hwmon-sht21 is not set # CONFIG_PACKAGE_kmod-hwmon-tmp102 is not set # CONFIG_PACKAGE_kmod-hwmon-tmp103 is not set # CONFIG_PACKAGE_kmod-hwmon-tmp421 is not set # CONFIG_PACKAGE_kmod-hwmon-vid is not set # CONFIG_PACKAGE_kmod-hwmon-w83793 is not set # CONFIG_PACKAGE_kmod-pmbus-core is not set # CONFIG_PACKAGE_kmod-pmbus-zl6100 is not set # # I2C support # # CONFIG_PACKAGE_kmod-i2c-core is not set # CONFIG_PACKAGE_kmod-i2c-gpio-custom is not set # # Industrial I/O Modules # # CONFIG_PACKAGE_kmod-iio-ad799x is not set # CONFIG_PACKAGE_kmod-iio-am2315 is not set # CONFIG_PACKAGE_kmod-iio-bh1750 is not set # CONFIG_PACKAGE_kmod-iio-bme680 is not set # CONFIG_PACKAGE_kmod-iio-bme680-i2c is not set # CONFIG_PACKAGE_kmod-iio-bme680-spi is not set # CONFIG_PACKAGE_kmod-iio-bmp280 is not set # CONFIG_PACKAGE_kmod-iio-bmp280-i2c is not set # CONFIG_PACKAGE_kmod-iio-bmp280-spi is not set # CONFIG_PACKAGE_kmod-iio-ccs811 is not set # CONFIG_PACKAGE_kmod-iio-core is not set # CONFIG_PACKAGE_kmod-iio-fxos8700 is not set # CONFIG_PACKAGE_kmod-iio-fxos8700-i2c is not set # CONFIG_PACKAGE_kmod-iio-fxos8700-spi is not set # CONFIG_PACKAGE_kmod-iio-hmc5843 is not set # CONFIG_PACKAGE_kmod-iio-htu21 is not set # CONFIG_PACKAGE_kmod-iio-kfifo-buf is not set # CONFIG_PACKAGE_kmod-iio-si7020 is not set # CONFIG_PACKAGE_kmod-iio-sps30 is not set # CONFIG_PACKAGE_kmod-iio-st_accel is not set # CONFIG_PACKAGE_kmod-iio-st_sensors-i2c is not set # CONFIG_PACKAGE_kmod-iio-st_sensors-spi is not set # CONFIG_PACKAGE_kmod-iio-tsl4531 is not set # CONFIG_PACKAGE_kmod-industrialio-triggered-buffer is not set # # Input modules # # CONFIG_PACKAGE_kmod-hid is not set # CONFIG_PACKAGE_kmod-hid-generic is not set # CONFIG_PACKAGE_kmod-input-core is not set # CONFIG_PACKAGE_kmod-input-evdev is not set # CONFIG_PACKAGE_kmod-input-gpio-encoder is not set # CONFIG_PACKAGE_kmod-input-gpio-keys is not set # CONFIG_PACKAGE_kmod-input-gpio-keys-polled is not set # CONFIG_PACKAGE_kmod-input-joydev is not set # CONFIG_PACKAGE_kmod-input-matrixkmap is not set # CONFIG_PACKAGE_kmod-input-polldev is not set # CONFIG_PACKAGE_kmod-input-touchscreen-ads7846 is not set # CONFIG_PACKAGE_kmod-input-uinput is not set # # LED modules # # CONFIG_PACKAGE_kmod-leds-gpio is not set # CONFIG_PACKAGE_kmod-leds-nu801 is not set # CONFIG_PACKAGE_kmod-leds-pca963x is not set # CONFIG_PACKAGE_kmod-leds-rb750 is not set # CONFIG_PACKAGE_kmod-leds-wndr3700-usb is not set # CONFIG_PACKAGE_kmod-ledtrig-default-on is not set # CONFIG_PACKAGE_kmod-ledtrig-gpio is not set # CONFIG_PACKAGE_kmod-ledtrig-heartbeat is not set # CONFIG_PACKAGE_kmod-ledtrig-netdev is not set # CONFIG_PACKAGE_kmod-ledtrig-oneshot is not set # CONFIG_PACKAGE_kmod-ledtrig-timer is not set # CONFIG_PACKAGE_kmod-ledtrig-transient is not set # # Libraries # # CONFIG_PACKAGE_kmod-lib-cordic is not set CONFIG_PACKAGE_kmod-lib-crc-ccitt=y # CONFIG_PACKAGE_kmod-lib-crc-itu-t is not set # CONFIG_PACKAGE_kmod-lib-crc16 is not set CONFIG_PACKAGE_kmod-lib-crc32c=y # CONFIG_PACKAGE_kmod-lib-crc7 is not set # CONFIG_PACKAGE_kmod-lib-crc8 is not set CONFIG_PACKAGE_kmod-lib-textsearch=y # # Native Language Support # CONFIG_PACKAGE_kmod-nls-base=y # CONFIG_PACKAGE_kmod-nls-cp1250 is not set # CONFIG_PACKAGE_kmod-nls-cp1251 is not set # CONFIG_PACKAGE_kmod-nls-cp437 is not set # CONFIG_PACKAGE_kmod-nls-cp775 is not set # CONFIG_PACKAGE_kmod-nls-cp850 is not set # CONFIG_PACKAGE_kmod-nls-cp852 is not set # CONFIG_PACKAGE_kmod-nls-cp862 is not set # CONFIG_PACKAGE_kmod-nls-cp864 is not set # CONFIG_PACKAGE_kmod-nls-cp866 is not set # CONFIG_PACKAGE_kmod-nls-cp932 is not set # CONFIG_PACKAGE_kmod-nls-cp936 is not set # CONFIG_PACKAGE_kmod-nls-cp950 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-1 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-13 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-15 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-2 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-6 is not set # CONFIG_PACKAGE_kmod-nls-iso8859-8 is not set # CONFIG_PACKAGE_kmod-nls-koi8r is not set # CONFIG_PACKAGE_kmod-nls-utf8 is not set # # Netfilter Extensions # # CONFIG_PACKAGE_kmod-arptables is not set # CONFIG_PACKAGE_kmod-br-netfilter is not set # CONFIG_PACKAGE_kmod-ebtables is not set # CONFIG_PACKAGE_kmod-ebtables-ipv4 is not set # CONFIG_PACKAGE_kmod-ebtables-ipv6 is not set # CONFIG_PACKAGE_kmod-ebtables-watchers is not set # CONFIG_PACKAGE_kmod-ip6tables is not set # CONFIG_PACKAGE_kmod-ip6tables-extra is not set # CONFIG_PACKAGE_kmod-ipt-account is not set # CONFIG_PACKAGE_kmod-ipt-chaos is not set # CONFIG_PACKAGE_kmod-ipt-checksum is not set # CONFIG_PACKAGE_kmod-ipt-cluster is not set # CONFIG_PACKAGE_kmod-ipt-clusterip is not set # CONFIG_PACKAGE_kmod-ipt-compat-xtables is not set # CONFIG_PACKAGE_kmod-ipt-condition is not set CONFIG_PACKAGE_kmod-ipt-conntrack=y # CONFIG_PACKAGE_kmod-ipt-conntrack-extra is not set # CONFIG_PACKAGE_kmod-ipt-conntrack-label is not set CONFIG_PACKAGE_kmod-ipt-core=y # CONFIG_PACKAGE_kmod-ipt-debug is not set # CONFIG_PACKAGE_kmod-ipt-delude is not set # CONFIG_PACKAGE_kmod-ipt-dhcpmac is not set # CONFIG_PACKAGE_kmod-ipt-dnetmap is not set # CONFIG_PACKAGE_kmod-ipt-extra is not set # CONFIG_PACKAGE_kmod-ipt-filter is not set CONFIG_PACKAGE_kmod-ipt-fullconenat=y # CONFIG_PACKAGE_kmod-ipt-fuzzy is not set # CONFIG_PACKAGE_kmod-ipt-geoip is not set # CONFIG_PACKAGE_kmod-ipt-hashlimit is not set # CONFIG_PACKAGE_kmod-ipt-iface is not set # CONFIG_PACKAGE_kmod-ipt-ipmark is not set # CONFIG_PACKAGE_kmod-ipt-ipopt is not set # CONFIG_PACKAGE_kmod-ipt-ipp2p is not set # CONFIG_PACKAGE_kmod-ipt-iprange is not set # CONFIG_PACKAGE_kmod-ipt-ipsec is not set CONFIG_PACKAGE_kmod-ipt-ipset=y # CONFIG_PACKAGE_kmod-ipt-ipv4options is not set # CONFIG_PACKAGE_kmod-ipt-led is not set # CONFIG_PACKAGE_kmod-ipt-length2 is not set # CONFIG_PACKAGE_kmod-ipt-logmark is not set # CONFIG_PACKAGE_kmod-ipt-lscan is not set # CONFIG_PACKAGE_kmod-ipt-lua is not set CONFIG_PACKAGE_kmod-ipt-nat=y # CONFIG_PACKAGE_kmod-ipt-nat-extra is not set # CONFIG_PACKAGE_kmod-ipt-nat6 is not set # CONFIG_PACKAGE_kmod-ipt-nathelper-rtsp is not set # CONFIG_PACKAGE_kmod-ipt-nflog is not set # CONFIG_PACKAGE_kmod-ipt-nfqueue is not set # CONFIG_PACKAGE_kmod-ipt-physdev is not set # CONFIG_PACKAGE_kmod-ipt-psd is not set # CONFIG_PACKAGE_kmod-ipt-quota2 is not set CONFIG_PACKAGE_kmod-ipt-raw=y # CONFIG_PACKAGE_kmod-ipt-raw6 is not set # CONFIG_PACKAGE_kmod-ipt-rpfilter is not set # CONFIG_PACKAGE_kmod-ipt-sysrq is not set # CONFIG_PACKAGE_kmod-ipt-tarpit is not set # CONFIG_PACKAGE_kmod-ipt-tee is not set # CONFIG_PACKAGE_kmod-ipt-tproxy is not set # CONFIG_PACKAGE_kmod-ipt-u32 is not set # CONFIG_PACKAGE_kmod-ipt-ulog is not set CONFIG_PACKAGE_kmod-nf-conntrack=y CONFIG_PACKAGE_kmod-nf-conntrack-netlink=y CONFIG_PACKAGE_kmod-nf-conntrack6=y CONFIG_PACKAGE_kmod-nf-ipt=y # CONFIG_PACKAGE_kmod-nf-ipt6 is not set # CONFIG_PACKAGE_kmod-nf-ipvs is not set CONFIG_PACKAGE_kmod-nf-nat=y # CONFIG_PACKAGE_kmod-nf-nat6 is not set CONFIG_PACKAGE_kmod-nf-nathelper=y CONFIG_PACKAGE_kmod-nf-nathelper-extra=y CONFIG_PACKAGE_kmod-nf-reject=y # CONFIG_PACKAGE_kmod-nf-reject6 is not set CONFIG_PACKAGE_kmod-nfnetlink=y # CONFIG_PACKAGE_kmod-nfnetlink-log is not set # CONFIG_PACKAGE_kmod-nfnetlink-queue is not set # CONFIG_PACKAGE_kmod-nft-arp is not set # CONFIG_PACKAGE_kmod-nft-bridge is not set # CONFIG_PACKAGE_kmod-nft-core is not set # CONFIG_PACKAGE_kmod-nft-fib is not set # CONFIG_PACKAGE_kmod-nft-nat is not set # CONFIG_PACKAGE_kmod-nft-nat6 is not set # CONFIG_PACKAGE_kmod-nft-netdev is not set # # Network Devices # # CONFIG_PACKAGE_kmod-3c59x is not set # CONFIG_PACKAGE_kmod-8139cp is not set # CONFIG_PACKAGE_kmod-8139too is not set # CONFIG_PACKAGE_kmod-alx is not set # CONFIG_PACKAGE_kmod-atl1 is not set # CONFIG_PACKAGE_kmod-atl1c is not set # CONFIG_PACKAGE_kmod-atl1e is not set # CONFIG_PACKAGE_kmod-atl2 is not set # CONFIG_PACKAGE_kmod-b44 is not set # CONFIG_PACKAGE_kmod-be2net is not set # CONFIG_PACKAGE_kmod-bnx2 is not set # CONFIG_PACKAGE_kmod-bnx2x is not set # CONFIG_PACKAGE_kmod-dm9000 is not set # CONFIG_PACKAGE_kmod-dummy is not set # CONFIG_PACKAGE_kmod-e100 is not set # CONFIG_PACKAGE_kmod-e1000 is not set # CONFIG_PACKAGE_kmod-et131x is not set # CONFIG_PACKAGE_kmod-ethoc is not set # CONFIG_PACKAGE_kmod-forcedeth is not set # CONFIG_PACKAGE_kmod-gigaset is not set # CONFIG_PACKAGE_kmod-hfcmulti is not set # CONFIG_PACKAGE_kmod-hfcpci is not set # CONFIG_PACKAGE_kmod-i40e is not set # CONFIG_PACKAGE_kmod-i40evf is not set # CONFIG_PACKAGE_kmod-ifb is not set # CONFIG_PACKAGE_kmod-igb is not set # CONFIG_PACKAGE_kmod-ixgbe is not set # CONFIG_PACKAGE_kmod-ixgbevf is not set # CONFIG_PACKAGE_kmod-libphy is not set CONFIG_PACKAGE_kmod-macvlan=y # CONFIG_PACKAGE_kmod-mdio-gpio is not set # CONFIG_PACKAGE_kmod-mii is not set # CONFIG_PACKAGE_kmod-mlx4-core is not set # CONFIG_PACKAGE_kmod-mlx5-core is not set # CONFIG_PACKAGE_kmod-natsemi is not set # CONFIG_PACKAGE_kmod-ne2k-pci is not set # CONFIG_PACKAGE_kmod-niu is not set # CONFIG_PACKAGE_kmod-of-mdio is not set # CONFIG_PACKAGE_kmod-pcnet32 is not set # CONFIG_PACKAGE_kmod-phy-broadcom is not set # CONFIG_PACKAGE_kmod-phy-realtek is not set # CONFIG_PACKAGE_kmod-r6040 is not set # CONFIG_PACKAGE_kmod-r8125 is not set # CONFIG_PACKAGE_kmod-r8168 is not set # CONFIG_PACKAGE_kmod-r8169 is not set # CONFIG_PACKAGE_kmod-sfc is not set # CONFIG_PACKAGE_kmod-siit is not set # CONFIG_PACKAGE_kmod-sis190 is not set # CONFIG_PACKAGE_kmod-sis900 is not set # CONFIG_PACKAGE_kmod-skge is not set # CONFIG_PACKAGE_kmod-sky2 is not set # CONFIG_PACKAGE_kmod-solos-pci is not set # CONFIG_PACKAGE_kmod-spi-ks8995 is not set # CONFIG_PACKAGE_kmod-swconfig is not set # CONFIG_PACKAGE_kmod-switch-ip17xx is not set # CONFIG_PACKAGE_kmod-switch-mvsw61xx is not set # CONFIG_PACKAGE_kmod-switch-rtl8306 is not set # CONFIG_PACKAGE_kmod-switch-rtl8366-smi is not set # CONFIG_PACKAGE_kmod-switch-rtl8366rb is not set # CONFIG_PACKAGE_kmod-switch-rtl8366s is not set # CONFIG_PACKAGE_kmod-switch-rtl8367b is not set # CONFIG_PACKAGE_kmod-tg3 is not set # CONFIG_PACKAGE_kmod-tulip is not set # CONFIG_PACKAGE_kmod-via-rhine is not set # CONFIG_PACKAGE_kmod-via-velocity is not set # CONFIG_PACKAGE_kmod-vmxnet3 is not set # # Network Support # # CONFIG_PACKAGE_kmod-atm is not set # CONFIG_PACKAGE_kmod-ax25 is not set # CONFIG_PACKAGE_kmod-batman-adv is not set # CONFIG_PACKAGE_kmod-bonding is not set # CONFIG_PACKAGE_kmod-bpf-test is not set # CONFIG_PACKAGE_kmod-capi is not set # CONFIG_PACKAGE_kmod-dnsresolver is not set CONFIG_PACKAGE_kmod-fast-classifier=y # CONFIG_PACKAGE_kmod-fou is not set # CONFIG_PACKAGE_kmod-fou6 is not set # CONFIG_PACKAGE_kmod-geneve is not set # CONFIG_PACKAGE_kmod-gre is not set # CONFIG_PACKAGE_kmod-gre6 is not set # CONFIG_PACKAGE_kmod-ip6-tunnel is not set # CONFIG_PACKAGE_kmod-ipip is not set # CONFIG_PACKAGE_kmod-ipsec is not set # CONFIG_PACKAGE_kmod-iptunnel6 is not set # CONFIG_PACKAGE_kmod-isdn4linux is not set # CONFIG_PACKAGE_kmod-jool is not set # CONFIG_PACKAGE_kmod-l2tp is not set # CONFIG_PACKAGE_kmod-l2tp-eth is not set # CONFIG_PACKAGE_kmod-l2tp-ip is not set # CONFIG_PACKAGE_kmod-macremapper is not set # CONFIG_PACKAGE_kmod-macsec is not set # CONFIG_PACKAGE_kmod-misdn is not set # CONFIG_PACKAGE_kmod-mpls is not set # CONFIG_PACKAGE_kmod-nat46 is not set # CONFIG_PACKAGE_kmod-netem is not set # CONFIG_PACKAGE_kmod-nlmon is not set # CONFIG_PACKAGE_kmod-nsh is not set # CONFIG_PACKAGE_kmod-openvswitch is not set # CONFIG_PACKAGE_kmod-openvswitch-geneve is not set # CONFIG_PACKAGE_kmod-openvswitch-gre is not set # CONFIG_PACKAGE_kmod-openvswitch-vxlan is not set # CONFIG_PACKAGE_kmod-pktgen is not set CONFIG_PACKAGE_kmod-ppp=y CONFIG_PACKAGE_kmod-mppe=y # CONFIG_PACKAGE_kmod-ppp-synctty is not set # CONFIG_PACKAGE_kmod-pppoa is not set CONFIG_PACKAGE_kmod-pppoe=y # CONFIG_PACKAGE_kmod-pppol2tp is not set CONFIG_PACKAGE_kmod-pppox=y # CONFIG_PACKAGE_kmod-pptp is not set CONFIG_PACKAGE_kmod-sched=y # CONFIG_PACKAGE_kmod-sched-act-vlan is not set # CONFIG_PACKAGE_kmod-sched-bpf is not set # CONFIG_PACKAGE_kmod-sched-cake is not set # CONFIG_PACKAGE_kmod-sched-connmark is not set CONFIG_PACKAGE_kmod-sched-core=y # CONFIG_PACKAGE_kmod-sched-ctinfo is not set # CONFIG_PACKAGE_kmod-sched-flower is not set # CONFIG_PACKAGE_kmod-sched-ipset is not set # CONFIG_PACKAGE_kmod-sched-mqprio is not set # CONFIG_PACKAGE_kmod-sctp is not set CONFIG_PACKAGE_kmod-shortcut-fe=y # CONFIG_PACKAGE_kmod-shortcut-fe-cm is not set # CONFIG_PACKAGE_kmod-sit is not set CONFIG_PACKAGE_kmod-slhc=y # CONFIG_PACKAGE_kmod-slip is not set CONFIG_PACKAGE_kmod-tcp-bbr=y # CONFIG_PACKAGE_kmod-trelay is not set # CONFIG_PACKAGE_kmod-tun is not set # CONFIG_PACKAGE_kmod-veth is not set # CONFIG_PACKAGE_kmod-vxlan is not set # CONFIG_PACKAGE_kmod-wireguard is not set # # Other modules # # CONFIG_PACKAGE_kmod-6lowpan is not set # CONFIG_PACKAGE_kmod-ath3k is not set # CONFIG_PACKAGE_kmod-bcma is not set # CONFIG_PACKAGE_kmod-bluetooth is not set # CONFIG_PACKAGE_kmod-bluetooth_6lowpan is not set # CONFIG_PACKAGE_kmod-bmp085 is not set # CONFIG_PACKAGE_kmod-bmp085-i2c is not set # CONFIG_PACKAGE_kmod-bmp085-spi is not set # CONFIG_PACKAGE_kmod-btmrvl is not set # CONFIG_PACKAGE_kmod-button-hotplug is not set # CONFIG_PACKAGE_kmod-echo is not set # CONFIG_PACKAGE_kmod-eeprom-93cx6 is not set # CONFIG_PACKAGE_kmod-eeprom-at24 is not set # CONFIG_PACKAGE_kmod-eeprom-at25 is not set # CONFIG_PACKAGE_kmod-gpio-beeper is not set CONFIG_PACKAGE_kmod-gpio-button-hotplug=y # CONFIG_PACKAGE_kmod-gpio-dev is not set # CONFIG_PACKAGE_kmod-gpio-mcp23s08 is not set # CONFIG_PACKAGE_kmod-gpio-nxp-74hc164 is not set # CONFIG_PACKAGE_kmod-gpio-pca953x is not set # CONFIG_PACKAGE_kmod-gpio-pcf857x is not set # CONFIG_PACKAGE_kmod-ikconfig is not set # CONFIG_PACKAGE_kmod-it87-wdt is not set # CONFIG_PACKAGE_kmod-itco-wdt is not set # CONFIG_PACKAGE_kmod-lp is not set # CONFIG_PACKAGE_kmod-mmc is not set # CONFIG_PACKAGE_kmod-mtd-rw is not set # CONFIG_PACKAGE_kmod-mtdoops is not set # CONFIG_PACKAGE_kmod-mtdram is not set # CONFIG_PACKAGE_kmod-mtdtests is not set # CONFIG_PACKAGE_kmod-parport-pc is not set # CONFIG_PACKAGE_kmod-ppdev is not set # CONFIG_PACKAGE_kmod-pps is not set # CONFIG_PACKAGE_kmod-pps-gpio is not set # CONFIG_PACKAGE_kmod-pps-ldisc is not set # CONFIG_PACKAGE_kmod-ptp is not set # CONFIG_PACKAGE_kmod-random-core is not set # CONFIG_PACKAGE_kmod-random-tpm is not set # CONFIG_PACKAGE_kmod-rtc-ds1307 is not set # CONFIG_PACKAGE_kmod-rtc-ds1374 is not set # CONFIG_PACKAGE_kmod-rtc-ds1672 is not set # CONFIG_PACKAGE_kmod-rtc-em3027 is not set # CONFIG_PACKAGE_kmod-rtc-isl1208 is not set # CONFIG_PACKAGE_kmod-rtc-pcf2123 is not set # CONFIG_PACKAGE_kmod-rtc-pcf2127 is not set # CONFIG_PACKAGE_kmod-rtc-pcf8563 is not set # CONFIG_PACKAGE_kmod-rtc-pt7c4338 is not set # CONFIG_PACKAGE_kmod-rtc-rs5c372a is not set # CONFIG_PACKAGE_kmod-rtc-rx8025 is not set # CONFIG_PACKAGE_kmod-sdhci is not set # CONFIG_PACKAGE_kmod-serial-8250 is not set # CONFIG_PACKAGE_kmod-serial-8250-exar is not set # CONFIG_PACKAGE_kmod-softdog is not set # CONFIG_PACKAGE_kmod-ssb is not set CONFIG_PACKAGE_kmod-thermal=y # CONFIG_PACKAGE_kmod-tpm is not set # CONFIG_PACKAGE_kmod-tpm-i2c-atmel is not set # CONFIG_PACKAGE_kmod-tpm-i2c-infineon is not set # CONFIG_PACKAGE_kmod-w83627hf-wdt is not set # CONFIG_PACKAGE_kmod-wifidog-ng is not set # CONFIG_PACKAGE_kmod-zram is not set # # PCMCIA support # # # SPI Support # # CONFIG_PACKAGE_kmod-mmc-spi is not set # CONFIG_PACKAGE_kmod-spi-bitbang is not set # CONFIG_PACKAGE_kmod-spi-dev is not set # CONFIG_PACKAGE_kmod-spi-gpio is not set # CONFIG_PACKAGE_kmod-spi-gpio-custom is not set # CONFIG_PACKAGE_kmod-spi-vsc7385 is not set # # Sound Support # # CONFIG_PACKAGE_kmod-sound-core is not set # # USB Support # # CONFIG_PACKAGE_kmod-chaoskey is not set # CONFIG_PACKAGE_kmod-usb-acm is not set # CONFIG_PACKAGE_kmod-usb-atm is not set # CONFIG_PACKAGE_kmod-usb-chipidea is not set # CONFIG_PACKAGE_kmod-usb-chipidea2 is not set # CONFIG_PACKAGE_kmod-usb-cm109 is not set CONFIG_PACKAGE_kmod-usb-core=y # CONFIG_PACKAGE_kmod-usb-dwc2 is not set # CONFIG_PACKAGE_kmod-usb-dwc3 is not set CONFIG_PACKAGE_kmod-usb-ehci=y # CONFIG_PACKAGE_kmod-usb-gadget-cdc-composite is not set # CONFIG_PACKAGE_kmod-usb-gadget-ehci-debug is not set # CONFIG_PACKAGE_kmod-usb-gadget-eth is not set # CONFIG_PACKAGE_kmod-usb-gadget-hid is not set # CONFIG_PACKAGE_kmod-usb-gadget-mass-storage is not set # CONFIG_PACKAGE_kmod-usb-gadget-serial is not set # CONFIG_PACKAGE_kmod-usb-hid is not set CONFIG_PACKAGE_kmod-usb-ledtrig-usbport=y # CONFIG_PACKAGE_kmod-usb-net is not set # CONFIG_PACKAGE_kmod-usb-net2280 is not set # CONFIG_PACKAGE_kmod-usb-ohci is not set # CONFIG_PACKAGE_kmod-usb-ohci-pci is not set # CONFIG_PACKAGE_kmod-usb-printer is not set # CONFIG_PACKAGE_kmod-usb-serial is not set # CONFIG_PACKAGE_kmod-usb-storage is not set # CONFIG_PACKAGE_kmod-usb-storage-extras is not set # CONFIG_PACKAGE_kmod-usb-storage-uas is not set # CONFIG_PACKAGE_kmod-usb-uhci is not set # CONFIG_PACKAGE_kmod-usb-wdm is not set # CONFIG_PACKAGE_kmod-usb-yealink is not set CONFIG_PACKAGE_kmod-usb2=y # CONFIG_PACKAGE_kmod-usb2-pci is not set # CONFIG_PACKAGE_kmod-usb3 is not set # CONFIG_PACKAGE_kmod-usbip is not set # CONFIG_PACKAGE_kmod-usbip-client is not set # CONFIG_PACKAGE_kmod-usbip-server is not set # CONFIG_PACKAGE_kmod-usbmon is not set # # Video Support # # CONFIG_PACKAGE_kmod-video-core is not set # # Virtualization # # # Voice over IP # # # W1 support # # CONFIG_PACKAGE_kmod-w1 is not set # # WPAN 802.15.4 Support # # CONFIG_PACKAGE_kmod-at86rf230 is not set # CONFIG_PACKAGE_kmod-atusb is not set # CONFIG_PACKAGE_kmod-cc2520 is not set # CONFIG_PACKAGE_kmod-fakelb is not set # CONFIG_PACKAGE_kmod-ieee802154 is not set # CONFIG_PACKAGE_kmod-ieee802154_6lowpan is not set # CONFIG_PACKAGE_kmod-mac802154 is not set # CONFIG_PACKAGE_kmod-mrf24j40 is not set # # Wireless Drivers # # CONFIG_PACKAGE_kmod-adm8211 is not set CONFIG_PACKAGE_kmod-ath=y CONFIG_ATH_USER_REGD=y # CONFIG_PACKAGE_ATH_DEBUG is not set CONFIG_PACKAGE_ATH_DFS=y # CONFIG_PACKAGE_ATH_DYNACK is not set CONFIG_PACKAGE_kmod-ath10k=y CONFIG_ATH10K_LEDS=y CONFIG_ATH10K_THERMAL=y # CONFIG_PACKAGE_kmod-ath10k-ct is not set # CONFIG_PACKAGE_kmod-ath10k-ct-smallbuffers is not set # CONFIG_PACKAGE_kmod-ath5k is not set # CONFIG_PACKAGE_kmod-ath6kl-sdio is not set # CONFIG_PACKAGE_kmod-ath6kl-usb is not set CONFIG_PACKAGE_kmod-ath9k=y # CONFIG_ATH9K_SUPPORT_PCOEM is not set # CONFIG_ATH9K_TX99 is not set CONFIG_ATH9K_UBNTHSR=y CONFIG_PACKAGE_kmod-ath9k-common=y # CONFIG_PACKAGE_kmod-ath9k-htc is not set # CONFIG_PACKAGE_kmod-b43 is not set # CONFIG_PACKAGE_kmod-b43legacy is not set # CONFIG_PACKAGE_kmod-brcmfmac is not set # CONFIG_PACKAGE_kmod-brcmsmac is not set # CONFIG_PACKAGE_kmod-brcmutil is not set # CONFIG_PACKAGE_kmod-carl9170 is not set CONFIG_PACKAGE_kmod-cfg80211=y # CONFIG_PACKAGE_kmod-hermes is not set # CONFIG_PACKAGE_kmod-hermes-pci is not set # CONFIG_PACKAGE_kmod-hermes-plx is not set # CONFIG_PACKAGE_kmod-iwl-legacy is not set # CONFIG_PACKAGE_kmod-iwl3945 is not set # CONFIG_PACKAGE_kmod-iwl4965 is not set # CONFIG_PACKAGE_kmod-iwlwifi is not set # CONFIG_PACKAGE_kmod-lib80211 is not set # CONFIG_PACKAGE_kmod-libertas-sdio is not set # CONFIG_PACKAGE_kmod-libertas-spi is not set # CONFIG_PACKAGE_kmod-libertas-usb is not set CONFIG_PACKAGE_kmod-mac80211=y CONFIG_PACKAGE_MAC80211_DEBUGFS=y # CONFIG_PACKAGE_MAC80211_TRACING is not set CONFIG_PACKAGE_MAC80211_MESH=y # CONFIG_PACKAGE_kmod-mac80211-hwsim is not set # CONFIG_PACKAGE_kmod-mt76 is not set # CONFIG_PACKAGE_kmod-mt7601u is not set # CONFIG_PACKAGE_kmod-mt7603 is not set # CONFIG_PACKAGE_kmod-mt7615e is not set # CONFIG_PACKAGE_kmod-mt76x0e is not set # CONFIG_PACKAGE_kmod-mt76x0u is not set # CONFIG_PACKAGE_kmod-mt76x2 is not set # CONFIG_PACKAGE_kmod-mt76x2u is not set # CONFIG_PACKAGE_kmod-mt_wifi is not set # CONFIG_PACKAGE_kmod-mwifiex-pcie is not set # CONFIG_PACKAGE_kmod-mwifiex-sdio is not set # CONFIG_PACKAGE_kmod-mwl8k is not set # CONFIG_PACKAGE_kmod-net-prism54 is not set # CONFIG_PACKAGE_kmod-net-rtl8192su is not set # CONFIG_PACKAGE_kmod-owl-loader is not set # CONFIG_PACKAGE_kmod-p54-common is not set # CONFIG_PACKAGE_kmod-p54-pci is not set # CONFIG_PACKAGE_kmod-p54-usb is not set # CONFIG_PACKAGE_kmod-rsi91x is not set # CONFIG_PACKAGE_kmod-rsi91x-sdio is not set # CONFIG_PACKAGE_kmod-rsi91x-usb is not set # CONFIG_PACKAGE_kmod-rt2400-pci is not set # CONFIG_PACKAGE_kmod-rt2500-pci is not set # CONFIG_PACKAGE_kmod-rt2500-usb is not set # CONFIG_PACKAGE_kmod-rt2800-pci is not set # CONFIG_PACKAGE_kmod-rt2800-usb is not set # CONFIG_PACKAGE_kmod-rt2x00-lib is not set # CONFIG_PACKAGE_kmod-rt61-pci is not set # CONFIG_PACKAGE_kmod-rt73-usb is not set # CONFIG_PACKAGE_kmod-rtl8180 is not set # CONFIG_PACKAGE_kmod-rtl8187 is not set # CONFIG_PACKAGE_kmod-rtl8192ce is not set # CONFIG_PACKAGE_kmod-rtl8192cu is not set # CONFIG_PACKAGE_kmod-rtl8192de is not set # CONFIG_PACKAGE_kmod-rtl8192se is not set # CONFIG_PACKAGE_kmod-rtl8821ae is not set # CONFIG_PACKAGE_kmod-rtl8xxxu is not set # CONFIG_PACKAGE_kmod-wl12xx is not set # CONFIG_PACKAGE_kmod-wl18xx is not set # CONFIG_PACKAGE_kmod-wlcore is not set # CONFIG_PACKAGE_kmod-zd1211rw is not set # CONFIG_PACKAGE_wifi-l1profile is not set # # Languages # # # Erlang # # CONFIG_PACKAGE_erlang is not set # CONFIG_PACKAGE_erlang-asn1 is not set # CONFIG_PACKAGE_erlang-compiler is not set # CONFIG_PACKAGE_erlang-crypto is not set # CONFIG_PACKAGE_erlang-hipe is not set # CONFIG_PACKAGE_erlang-inets is not set # CONFIG_PACKAGE_erlang-mnesia is not set # CONFIG_PACKAGE_erlang-runtime-tools is not set # CONFIG_PACKAGE_erlang-snmp is not set # CONFIG_PACKAGE_erlang-ssh is not set # CONFIG_PACKAGE_erlang-ssl is not set # CONFIG_PACKAGE_erlang-syntax-tools is not set # # Go # # CONFIG_PACKAGE_golang is not set # CONFIG_PACKAGE_golang-doc is not set # CONFIG_PACKAGE_golang-github-nextdns-nextdns-dev is not set # CONFIG_PACKAGE_golang-src is not set # # Java # # CONFIG_PACKAGE_jamvm is not set # # Lua # # CONFIG_PACKAGE_dkjson is not set # CONFIG_PACKAGE_json4lua is not set # CONFIG_PACKAGE_ldbus is not set CONFIG_PACKAGE_libiwinfo-lua=y # CONFIG_PACKAGE_lpeg is not set # CONFIG_PACKAGE_lsqlite3 is not set CONFIG_PACKAGE_lua=y # CONFIG_PACKAGE_lua-bencode is not set # CONFIG_PACKAGE_lua-cjson is not set # CONFIG_PACKAGE_lua-copas is not set # CONFIG_PACKAGE_lua-coxpcall is not set # CONFIG_PACKAGE_lua-examples is not set # CONFIG_PACKAGE_lua-lzlib is not set # CONFIG_PACKAGE_lua-md5 is not set # CONFIG_PACKAGE_lua-mobdebug is not set # CONFIG_PACKAGE_lua-mosquitto is not set # CONFIG_PACKAGE_lua-openssl is not set # CONFIG_PACKAGE_lua-penlight is not set # CONFIG_PACKAGE_lua-rings is not set # CONFIG_PACKAGE_lua-rs232 is not set # CONFIG_PACKAGE_lua-sha2 is not set # CONFIG_PACKAGE_lua-wsapi-base is not set # CONFIG_PACKAGE_lua-wsapi-xavante is not set # CONFIG_PACKAGE_lua-xavante is not set # CONFIG_PACKAGE_luabitop is not set # CONFIG_PACKAGE_luac is not set # CONFIG_PACKAGE_luaexpat is not set # CONFIG_PACKAGE_luafilesystem is not set # CONFIG_PACKAGE_luajit is not set # CONFIG_PACKAGE_lualanes is not set # CONFIG_PACKAGE_luaposix is not set # CONFIG_PACKAGE_luarocks is not set # CONFIG_PACKAGE_luasec is not set # CONFIG_PACKAGE_luasoap is not set # CONFIG_PACKAGE_luasocket is not set # CONFIG_PACKAGE_luasql-mysql is not set # CONFIG_PACKAGE_luasql-pgsql is not set # CONFIG_PACKAGE_luasql-sqlite3 is not set CONFIG_PACKAGE_luci-lib-fs=y # CONFIG_PACKAGE_luv is not set # CONFIG_PACKAGE_lzmq is not set # CONFIG_PACKAGE_uuid is not set # # Node.js # # CONFIG_PACKAGE_node is not set # CONFIG_PACKAGE_node-arduino-firmata is not set # CONFIG_PACKAGE_node-cylon is not set # CONFIG_PACKAGE_node-cylon-firmata is not set # CONFIG_PACKAGE_node-cylon-gpio is not set # CONFIG_PACKAGE_node-cylon-i2c is not set # CONFIG_PACKAGE_node-hid is not set # CONFIG_PACKAGE_node-homebridge is not set # CONFIG_PACKAGE_node-javascript-obfuscator is not set # CONFIG_PACKAGE_node-npm is not set # CONFIG_PACKAGE_node-serialport is not set # CONFIG_PACKAGE_node-serialport-bindings is not set # # PHP # # CONFIG_PACKAGE_php7 is not set # # Perl # # CONFIG_PACKAGE_perl is not set # # Python # # CONFIG_PACKAGE_gunicorn is not set # CONFIG_PACKAGE_gunicorn3 is not set # CONFIG_PACKAGE_micropython is not set # CONFIG_PACKAGE_micropython-lib is not set # CONFIG_PACKAGE_python is not set # CONFIG_PACKAGE_python-astral is not set # CONFIG_PACKAGE_python-astral-src is not set # CONFIG_PACKAGE_python-attrs is not set # CONFIG_PACKAGE_python-attrs-src is not set # CONFIG_PACKAGE_python-automat is not set # CONFIG_PACKAGE_python-automat-src is not set # CONFIG_PACKAGE_python-awscli is not set # CONFIG_PACKAGE_python-awscli-src is not set # CONFIG_PACKAGE_python-base is not set # CONFIG_PACKAGE_python-base-src is not set # CONFIG_PACKAGE_python-bcrypt is not set # CONFIG_PACKAGE_python-bcrypt-src is not set # CONFIG_PACKAGE_python-botocore is not set # CONFIG_PACKAGE_python-botocore-src is not set # CONFIG_PACKAGE_python-certifi is not set # CONFIG_PACKAGE_python-certifi-src is not set # CONFIG_PACKAGE_python-cffi is not set # CONFIG_PACKAGE_python-cffi-src is not set # CONFIG_PACKAGE_python-chardet is not set # CONFIG_PACKAGE_python-chardet-src is not set # CONFIG_PACKAGE_python-codecs is not set # CONFIG_PACKAGE_python-codecs-src is not set # CONFIG_PACKAGE_python-colorama is not set # CONFIG_PACKAGE_python-colorama-src is not set # CONFIG_PACKAGE_python-compiler is not set # CONFIG_PACKAGE_python-compiler-src is not set # CONFIG_PACKAGE_python-constantly is not set # CONFIG_PACKAGE_python-constantly-src is not set # CONFIG_PACKAGE_python-crcmod is not set # CONFIG_PACKAGE_python-crypto is not set # CONFIG_PACKAGE_python-crypto-src is not set # CONFIG_PACKAGE_python-cryptodome is not set # CONFIG_PACKAGE_python-cryptodome-src is not set # CONFIG_PACKAGE_python-cryptodomex is not set # CONFIG_PACKAGE_python-cryptodomex-src is not set # CONFIG_PACKAGE_python-cryptography is not set # CONFIG_PACKAGE_python-cryptography-src is not set # CONFIG_PACKAGE_python-ctypes is not set # CONFIG_PACKAGE_python-ctypes-src is not set # CONFIG_PACKAGE_python-curl is not set # CONFIG_PACKAGE_python-curl-src is not set # CONFIG_PACKAGE_python-dateutil is not set # CONFIG_PACKAGE_python-dateutil-src is not set # CONFIG_PACKAGE_python-db is not set # CONFIG_PACKAGE_python-db-src is not set # CONFIG_PACKAGE_python-decimal is not set # CONFIG_PACKAGE_python-decimal-src is not set # CONFIG_PACKAGE_python-defusedxml is not set # CONFIG_PACKAGE_python-defusedxml-src is not set # CONFIG_PACKAGE_python-dev is not set # CONFIG_PACKAGE_python-dev-src is not set # CONFIG_PACKAGE_python-distutils is not set # CONFIG_PACKAGE_python-distutils-src is not set # CONFIG_PACKAGE_python-django1 is not set # CONFIG_PACKAGE_python-django1-common is not set # CONFIG_PACKAGE_python-django1-src is not set # CONFIG_PACKAGE_python-dns is not set # CONFIG_PACKAGE_python-dns-src is not set # CONFIG_PACKAGE_python-docutils is not set # CONFIG_PACKAGE_python-docutils-src is not set # CONFIG_PACKAGE_python-dpkt is not set # CONFIG_PACKAGE_python-egenix-mx-base is not set # CONFIG_PACKAGE_python-egenix-mx-base-src is not set # CONFIG_PACKAGE_python-email is not set # CONFIG_PACKAGE_python-email-src is not set # CONFIG_PACKAGE_python-enum34 is not set # CONFIG_PACKAGE_python-enum34-src is not set # CONFIG_PACKAGE_python-et_xmlfile is not set # CONFIG_PACKAGE_python-et_xmlfile-src is not set # CONFIG_PACKAGE_python-evdev is not set # CONFIG_PACKAGE_python-evdev-src is not set # CONFIG_PACKAGE_python-flup is not set # CONFIG_PACKAGE_python-flup-src is not set # CONFIG_PACKAGE_python-futures is not set # CONFIG_PACKAGE_python-futures-src is not set # CONFIG_PACKAGE_python-gdbm is not set # CONFIG_PACKAGE_python-gdbm-src is not set # CONFIG_PACKAGE_python-gmpy2 is not set # CONFIG_PACKAGE_python-gmpy2-src is not set # CONFIG_PACKAGE_python-gnupg is not set # CONFIG_PACKAGE_python-gunicorn is not set # CONFIG_PACKAGE_python-gunicorn-src is not set # CONFIG_PACKAGE_python-hyperlink is not set # CONFIG_PACKAGE_python-hyperlink-src is not set # CONFIG_PACKAGE_python-idna is not set # CONFIG_PACKAGE_python-idna-src is not set # CONFIG_PACKAGE_python-incremental is not set # CONFIG_PACKAGE_python-incremental-src is not set # CONFIG_PACKAGE_python-ipaddress is not set # CONFIG_PACKAGE_python-ipaddress-src is not set # CONFIG_PACKAGE_python-jdcal is not set # CONFIG_PACKAGE_python-jdcal-src is not set # CONFIG_PACKAGE_python-jmespath is not set # CONFIG_PACKAGE_python-jmespath-src is not set # CONFIG_PACKAGE_python-ldap is not set # CONFIG_PACKAGE_python-lib2to3 is not set # CONFIG_PACKAGE_python-lib2to3-src is not set # CONFIG_PACKAGE_python-libmodbus is not set # CONFIG_PACKAGE_python-light is not set # # Configuration # # CONFIG_PYTHON_BLUETOOTH_SUPPORT is not set # CONFIG_PACKAGE_python-light-src is not set # CONFIG_PACKAGE_python-logging is not set # CONFIG_PACKAGE_python-logging-src is not set # CONFIG_PACKAGE_python-lxml is not set # CONFIG_PACKAGE_python-lxml-src is not set # CONFIG_PACKAGE_python-multiprocessing is not set # CONFIG_PACKAGE_python-multiprocessing-src is not set # CONFIG_PACKAGE_python-mysqlclient is not set # CONFIG_PACKAGE_python-mysqlclient-src is not set # CONFIG_PACKAGE_python-ncurses is not set # CONFIG_PACKAGE_python-ncurses-src is not set # CONFIG_PACKAGE_python-oauthlib is not set # CONFIG_PACKAGE_python-oauthlib-src is not set # CONFIG_PACKAGE_python-openpyxl is not set # CONFIG_PACKAGE_python-openpyxl-src is not set # CONFIG_PACKAGE_python-openssl is not set # CONFIG_PACKAGE_python-openssl-src is not set # CONFIG_PACKAGE_python-parsley is not set # CONFIG_PACKAGE_python-parsley-src is not set # CONFIG_PACKAGE_python-passlib is not set # CONFIG_PACKAGE_python-passlib-src is not set # CONFIG_PACKAGE_python-pcapy is not set # CONFIG_PACKAGE_python-pillow is not set # CONFIG_PACKAGE_python-pillow-src is not set # CONFIG_PACKAGE_python-pip is not set # CONFIG_PACKAGE_python-pip-conf is not set # CONFIG_PACKAGE_python-pip-src is not set # CONFIG_PACKAGE_python-pkg-resources is not set # CONFIG_PACKAGE_python-pkg-resources-src is not set # CONFIG_PACKAGE_python-ply is not set # CONFIG_PACKAGE_python-ply-src is not set # CONFIG_PACKAGE_python-psycopg2 is not set # CONFIG_PACKAGE_python-pyasn1 is not set # CONFIG_PACKAGE_python-pyasn1-modules is not set # CONFIG_PACKAGE_python-pyasn1-modules-src is not set # CONFIG_PACKAGE_python-pyasn1-src is not set # CONFIG_PACKAGE_python-pycparser is not set # CONFIG_PACKAGE_python-pycparser-src is not set # CONFIG_PACKAGE_python-pydoc is not set # CONFIG_PACKAGE_python-pydoc-src is not set # CONFIG_PACKAGE_python-pyjwt is not set # CONFIG_PACKAGE_python-pyjwt-src is not set # CONFIG_PACKAGE_python-pyodbc is not set # CONFIG_PACKAGE_python-pyopenssl is not set # CONFIG_PACKAGE_python-pyopenssl-src is not set # CONFIG_PACKAGE_python-pyptlib is not set # CONFIG_PACKAGE_python-pyptlib-src is not set # CONFIG_PACKAGE_python-pyserial is not set # CONFIG_PACKAGE_python-pyserial-src is not set # CONFIG_PACKAGE_python-pytz is not set # CONFIG_PACKAGE_python-pytz-src is not set # CONFIG_PACKAGE_python-qrcode is not set # CONFIG_PACKAGE_python-qrcode-src is not set # CONFIG_PACKAGE_python-rcssmin is not set # CONFIG_PACKAGE_python-rcssmin-src is not set # CONFIG_PACKAGE_python-requests is not set # CONFIG_PACKAGE_python-requests-oauthlib is not set # CONFIG_PACKAGE_python-requests-oauthlib-src is not set # CONFIG_PACKAGE_python-requests-src is not set # CONFIG_PACKAGE_python-rsa is not set # CONFIG_PACKAGE_python-rsa-src is not set # CONFIG_PACKAGE_python-ruamel-yaml is not set # CONFIG_PACKAGE_python-ruamel-yaml-src is not set # CONFIG_PACKAGE_python-s3transfer is not set # CONFIG_PACKAGE_python-s3transfer-src is not set # CONFIG_PACKAGE_python-service-identity is not set # CONFIG_PACKAGE_python-service-identity-src is not set # CONFIG_PACKAGE_python-setuptools is not set # CONFIG_PACKAGE_python-setuptools-src is not set # CONFIG_PACKAGE_python-simplejson is not set # CONFIG_PACKAGE_python-simplejson-src is not set # CONFIG_PACKAGE_python-six is not set # CONFIG_PACKAGE_python-six-src is not set # CONFIG_PACKAGE_python-smbus is not set # CONFIG_PACKAGE_python-sqlite3 is not set # CONFIG_PACKAGE_python-sqlite3-src is not set # CONFIG_PACKAGE_python-text-unidecode is not set # CONFIG_PACKAGE_python-text-unidecode-src is not set # CONFIG_PACKAGE_python-twisted is not set # CONFIG_PACKAGE_python-twisted-src is not set # CONFIG_PACKAGE_python-txsocksx is not set # CONFIG_PACKAGE_python-txsocksx-src is not set # CONFIG_PACKAGE_python-unittest is not set # CONFIG_PACKAGE_python-unittest-src is not set # CONFIG_PACKAGE_python-urllib3 is not set # CONFIG_PACKAGE_python-urllib3-src is not set # CONFIG_PACKAGE_python-vobject is not set # CONFIG_PACKAGE_python-vobject-src is not set # CONFIG_PACKAGE_python-voluptuous is not set # CONFIG_PACKAGE_python-voluptuous-src is not set # CONFIG_PACKAGE_python-xml is not set # CONFIG_PACKAGE_python-xml-src is not set # CONFIG_PACKAGE_python-yaml is not set # CONFIG_PACKAGE_python-yaml-src is not set # CONFIG_PACKAGE_python-zope-interface is not set # CONFIG_PACKAGE_python-zope-interface-src is not set # CONFIG_PACKAGE_python3 is not set # CONFIG_PACKAGE_python3-aiohttp is not set # CONFIG_PACKAGE_python3-aiohttp-cors is not set # CONFIG_PACKAGE_python3-aiohttp-cors-src is not set # CONFIG_PACKAGE_python3-aiohttp-src is not set # CONFIG_PACKAGE_python3-appdirs is not set # CONFIG_PACKAGE_python3-appdirs-src is not set # CONFIG_PACKAGE_python3-asgiref is not set # CONFIG_PACKAGE_python3-asgiref-src is not set # CONFIG_PACKAGE_python3-asn1crypto is not set # CONFIG_PACKAGE_python3-asn1crypto-src is not set # CONFIG_PACKAGE_python3-astral is not set # CONFIG_PACKAGE_python3-astral-src is not set # CONFIG_PACKAGE_python3-async-timeout is not set # CONFIG_PACKAGE_python3-async-timeout-src is not set # CONFIG_PACKAGE_python3-asyncio is not set # CONFIG_PACKAGE_python3-asyncio-src is not set # CONFIG_PACKAGE_python3-atomicwrites is not set # CONFIG_PACKAGE_python3-atomicwrites-src is not set # CONFIG_PACKAGE_python3-attrs is not set # CONFIG_PACKAGE_python3-attrs-src is not set # CONFIG_PACKAGE_python3-automat is not set # CONFIG_PACKAGE_python3-automat-src is not set # CONFIG_PACKAGE_python3-awscli is not set # CONFIG_PACKAGE_python3-awscli-src is not set # CONFIG_PACKAGE_python3-base is not set # CONFIG_PACKAGE_python3-base-src is not set # CONFIG_PACKAGE_python3-bcrypt is not set # CONFIG_PACKAGE_python3-bcrypt-src is not set # CONFIG_PACKAGE_python3-boto3 is not set # CONFIG_PACKAGE_python3-boto3-src is not set # CONFIG_PACKAGE_python3-botocore is not set # CONFIG_PACKAGE_python3-botocore-src is not set # CONFIG_PACKAGE_python3-bottle is not set # CONFIG_PACKAGE_python3-bottle-src is not set # CONFIG_PACKAGE_python3-cachelib is not set # CONFIG_PACKAGE_python3-cachelib-src is not set # CONFIG_PACKAGE_python3-cachetools is not set # CONFIG_PACKAGE_python3-cachetools-src is not set # CONFIG_PACKAGE_python3-certifi is not set # CONFIG_PACKAGE_python3-certifi-src is not set # CONFIG_PACKAGE_python3-cffi is not set # CONFIG_PACKAGE_python3-cffi-src is not set # CONFIG_PACKAGE_python3-cgi is not set # CONFIG_PACKAGE_python3-cgi-src is not set # CONFIG_PACKAGE_python3-cgitb is not set # CONFIG_PACKAGE_python3-cgitb-src is not set # CONFIG_PACKAGE_python3-chardet is not set # CONFIG_PACKAGE_python3-chardet-src is not set # CONFIG_PACKAGE_python3-click is not set # CONFIG_PACKAGE_python3-click-log is not set # CONFIG_PACKAGE_python3-click-log-src is not set # CONFIG_PACKAGE_python3-click-src is not set # CONFIG_PACKAGE_python3-codecs is not set # CONFIG_PACKAGE_python3-codecs-src is not set # CONFIG_PACKAGE_python3-colorama is not set # CONFIG_PACKAGE_python3-colorama-src is not set # CONFIG_PACKAGE_python3-constantly is not set # CONFIG_PACKAGE_python3-constantly-src is not set # CONFIG_PACKAGE_python3-contextlib2 is not set # CONFIG_PACKAGE_python3-contextlib2-src is not set # CONFIG_PACKAGE_python3-crypto is not set # CONFIG_PACKAGE_python3-crypto-src is not set # CONFIG_PACKAGE_python3-cryptodome is not set # CONFIG_PACKAGE_python3-cryptodome-src is not set # CONFIG_PACKAGE_python3-cryptodomex is not set # CONFIG_PACKAGE_python3-cryptodomex-src is not set # CONFIG_PACKAGE_python3-cryptography is not set # CONFIG_PACKAGE_python3-cryptography-src is not set # CONFIG_PACKAGE_python3-ctypes is not set # CONFIG_PACKAGE_python3-ctypes-src is not set # CONFIG_PACKAGE_python3-curl is not set # CONFIG_PACKAGE_python3-curl-src is not set # CONFIG_PACKAGE_python3-dateutil is not set # CONFIG_PACKAGE_python3-dateutil-src is not set # CONFIG_PACKAGE_python3-dbm is not set # CONFIG_PACKAGE_python3-dbm-src is not set # CONFIG_PACKAGE_python3-decimal is not set # CONFIG_PACKAGE_python3-decimal-src is not set # CONFIG_PACKAGE_python3-decorator is not set # CONFIG_PACKAGE_python3-decorator-src is not set # CONFIG_PACKAGE_python3-defusedxml is not set # CONFIG_PACKAGE_python3-defusedxml-src is not set # CONFIG_PACKAGE_python3-dev is not set # CONFIG_PACKAGE_python3-dev-src is not set # CONFIG_PACKAGE_python3-distutils is not set # CONFIG_PACKAGE_python3-distutils-src is not set # CONFIG_PACKAGE_python3-django is not set # CONFIG_PACKAGE_python3-django-appconf is not set # CONFIG_PACKAGE_python3-django-appconf-src is not set # CONFIG_PACKAGE_python3-django-compressor is not set # CONFIG_PACKAGE_python3-django-compressor-src is not set # CONFIG_PACKAGE_python3-django-constance is not set # CONFIG_PACKAGE_python3-django-constance-src is not set # CONFIG_PACKAGE_python3-django-cors-headers is not set # CONFIG_PACKAGE_python3-django-cors-headers-src is not set # CONFIG_PACKAGE_python3-django-etesync-journal is not set # CONFIG_PACKAGE_python3-django-etesync-journal-src is not set # CONFIG_PACKAGE_python3-django-formtools is not set # CONFIG_PACKAGE_python3-django-formtools-src is not set # CONFIG_PACKAGE_python3-django-jsonfield is not set # CONFIG_PACKAGE_python3-django-jsonfield-src is not set # CONFIG_PACKAGE_python3-django-picklefield is not set # CONFIG_PACKAGE_python3-django-picklefield-src is not set # CONFIG_PACKAGE_python3-django-postoffice is not set # CONFIG_PACKAGE_python3-django-postoffice-src is not set # CONFIG_PACKAGE_python3-django-ranged-response is not set # CONFIG_PACKAGE_python3-django-ranged-response-src is not set # CONFIG_PACKAGE_python3-django-restframework is not set # CONFIG_PACKAGE_python3-django-restframework-src is not set # CONFIG_PACKAGE_python3-django-restframework39 is not set # CONFIG_PACKAGE_python3-django-restframework39-src is not set # CONFIG_PACKAGE_python3-django-simple-captcha is not set # CONFIG_PACKAGE_python3-django-simple-captcha-src is not set # CONFIG_PACKAGE_python3-django-src is not set # CONFIG_PACKAGE_python3-django-statici18n is not set # CONFIG_PACKAGE_python3-django-statici18n-src is not set # CONFIG_PACKAGE_python3-django-webpack-loader is not set # CONFIG_PACKAGE_python3-django-webpack-loader-src is not set # CONFIG_PACKAGE_python3-django1 is not set # CONFIG_PACKAGE_python3-django1-src is not set # CONFIG_PACKAGE_python3-dns is not set # CONFIG_PACKAGE_python3-dns-src is not set # CONFIG_PACKAGE_python3-docutils is not set # CONFIG_PACKAGE_python3-docutils-src is not set # CONFIG_PACKAGE_python3-drf-nested-routers is not set # CONFIG_PACKAGE_python3-drf-nested-routers-src is not set # CONFIG_PACKAGE_python3-email is not set # CONFIG_PACKAGE_python3-email-src is not set # CONFIG_PACKAGE_python3-et_xmlfile is not set # CONFIG_PACKAGE_python3-et_xmlfile-src is not set # CONFIG_PACKAGE_python3-evdev is not set # CONFIG_PACKAGE_python3-evdev-src is not set # CONFIG_PACKAGE_python3-flask is not set # CONFIG_PACKAGE_python3-flask-login is not set # CONFIG_PACKAGE_python3-flask-login-src is not set # CONFIG_PACKAGE_python3-flask-src is not set # CONFIG_PACKAGE_python3-flup is not set # CONFIG_PACKAGE_python3-flup-src is not set # CONFIG_PACKAGE_python3-gdbm is not set # CONFIG_PACKAGE_python3-gdbm-src is not set # CONFIG_PACKAGE_python3-gmpy2 is not set # CONFIG_PACKAGE_python3-gmpy2-src is not set # CONFIG_PACKAGE_python3-gnupg is not set # CONFIG_PACKAGE_python3-gunicorn is not set # CONFIG_PACKAGE_python3-gunicorn-src is not set # CONFIG_PACKAGE_python3-hyperlink is not set # CONFIG_PACKAGE_python3-hyperlink-src is not set # CONFIG_PACKAGE_python3-idna is not set # CONFIG_PACKAGE_python3-idna-src is not set # CONFIG_PACKAGE_python3-ifaddr is not set # CONFIG_PACKAGE_python3-ifaddr-src is not set # CONFIG_PACKAGE_python3-incremental is not set # CONFIG_PACKAGE_python3-incremental-src is not set # CONFIG_PACKAGE_python3-influxdb is not set # CONFIG_PACKAGE_python3-influxdb-src is not set # CONFIG_PACKAGE_python3-intelhex is not set # CONFIG_PACKAGE_python3-intelhex-src is not set # CONFIG_PACKAGE_python3-itsdangerous is not set # CONFIG_PACKAGE_python3-itsdangerous-src is not set # CONFIG_PACKAGE_python3-jdcal is not set # CONFIG_PACKAGE_python3-jdcal-src is not set # CONFIG_PACKAGE_python3-jinja2 is not set # CONFIG_PACKAGE_python3-jinja2-src is not set # CONFIG_PACKAGE_python3-jmespath is not set # CONFIG_PACKAGE_python3-jmespath-src is not set # CONFIG_PACKAGE_python3-jsonpath-ng is not set # CONFIG_PACKAGE_python3-jsonpath-ng-src is not set # CONFIG_PACKAGE_python3-lib2to3 is not set # CONFIG_PACKAGE_python3-lib2to3-src is not set # CONFIG_PACKAGE_python3-libmodbus is not set # CONFIG_PACKAGE_python3-light is not set # # Configuration # # CONFIG_PYTHON3_BLUETOOTH_SUPPORT is not set # CONFIG_PACKAGE_python3-light-src is not set # CONFIG_PACKAGE_python3-logging is not set # CONFIG_PACKAGE_python3-logging-src is not set # CONFIG_PACKAGE_python3-lxml is not set # CONFIG_PACKAGE_python3-lxml-src is not set # CONFIG_PACKAGE_python3-lzma is not set # CONFIG_PACKAGE_python3-lzma-src is not set # CONFIG_PACKAGE_python3-markdown is not set # CONFIG_PACKAGE_python3-markdown-src is not set # CONFIG_PACKAGE_python3-markupsafe is not set # CONFIG_PACKAGE_python3-markupsafe-src is not set # CONFIG_PACKAGE_python3-maxminddb is not set # CONFIG_PACKAGE_python3-maxminddb-src is not set # CONFIG_PACKAGE_python3-more-itertools is not set # CONFIG_PACKAGE_python3-more-itertools-src is not set # CONFIG_PACKAGE_python3-multidict is not set # CONFIG_PACKAGE_python3-multidict-src is not set # CONFIG_PACKAGE_python3-multiprocessing is not set # CONFIG_PACKAGE_python3-multiprocessing-src is not set # CONFIG_PACKAGE_python3-mysqlclient is not set # CONFIG_PACKAGE_python3-mysqlclient-src is not set # CONFIG_PACKAGE_python3-ncurses is not set # CONFIG_PACKAGE_python3-ncurses-src is not set # CONFIG_PACKAGE_python3-netdisco is not set # CONFIG_PACKAGE_python3-netdisco-src is not set # CONFIG_PACKAGE_python3-netifaces is not set # CONFIG_PACKAGE_python3-netifaces-src is not set # CONFIG_PACKAGE_python3-oauthlib is not set # CONFIG_PACKAGE_python3-oauthlib-src is not set # CONFIG_PACKAGE_python3-openpyxl is not set # CONFIG_PACKAGE_python3-openpyxl-src is not set # CONFIG_PACKAGE_python3-openssl is not set # CONFIG_PACKAGE_python3-openssl-src is not set # CONFIG_PACKAGE_python3-paho-mqtt is not set # CONFIG_PACKAGE_python3-paho-mqtt-src is not set # CONFIG_PACKAGE_python3-parsley is not set # CONFIG_PACKAGE_python3-parsley-src is not set # CONFIG_PACKAGE_python3-passlib is not set # CONFIG_PACKAGE_python3-passlib-src is not set # CONFIG_PACKAGE_python3-pillow is not set # CONFIG_PACKAGE_python3-pillow-src is not set # CONFIG_PACKAGE_python3-pip is not set # CONFIG_PACKAGE_python3-pip-src is not set # CONFIG_PACKAGE_python3-pkg-resources is not set # CONFIG_PACKAGE_python3-pkg-resources-src is not set # CONFIG_PACKAGE_python3-ply is not set # CONFIG_PACKAGE_python3-ply-src is not set # CONFIG_PACKAGE_python3-py is not set # CONFIG_PACKAGE_python3-py-src is not set # CONFIG_PACKAGE_python3-pyasn1 is not set # CONFIG_PACKAGE_python3-pyasn1-modules is not set # CONFIG_PACKAGE_python3-pyasn1-modules-src is not set # CONFIG_PACKAGE_python3-pyasn1-src is not set # CONFIG_PACKAGE_python3-pycparser is not set # CONFIG_PACKAGE_python3-pycparser-src is not set # CONFIG_PACKAGE_python3-pydoc is not set # CONFIG_PACKAGE_python3-pydoc-src is not set # CONFIG_PACKAGE_python3-pyjwt is not set # CONFIG_PACKAGE_python3-pyjwt-src is not set # CONFIG_PACKAGE_python3-pymysql is not set # CONFIG_PACKAGE_python3-pymysql-src is not set # CONFIG_PACKAGE_python3-pyodbc is not set # CONFIG_PACKAGE_python3-pyopenssl is not set # CONFIG_PACKAGE_python3-pyopenssl-src is not set # CONFIG_PACKAGE_python3-pyotp is not set # CONFIG_PACKAGE_python3-pyotp-src is not set # CONFIG_PACKAGE_python3-pyparsing is not set # CONFIG_PACKAGE_python3-pyparsing-src is not set # CONFIG_PACKAGE_python3-pyroute2 is not set # CONFIG_PACKAGE_python3-pyroute2-src is not set # CONFIG_PACKAGE_python3-pyrsistent is not set # CONFIG_PACKAGE_python3-pyrsistent-src is not set # CONFIG_PACKAGE_python3-pyserial is not set # CONFIG_PACKAGE_python3-pyserial-src is not set # CONFIG_PACKAGE_python3-pytz is not set # CONFIG_PACKAGE_python3-pytz-src is not set # CONFIG_PACKAGE_python3-qrcode is not set # CONFIG_PACKAGE_python3-qrcode-src is not set # CONFIG_PACKAGE_python3-rcssmin is not set # CONFIG_PACKAGE_python3-rcssmin-src is not set # CONFIG_PACKAGE_python3-requests is not set # CONFIG_PACKAGE_python3-requests-oauthlib is not set # CONFIG_PACKAGE_python3-requests-oauthlib-src is not set # CONFIG_PACKAGE_python3-requests-src is not set # CONFIG_PACKAGE_python3-rsa is not set # CONFIG_PACKAGE_python3-rsa-src is not set # CONFIG_PACKAGE_python3-ruamel-yaml is not set # CONFIG_PACKAGE_python3-ruamel-yaml-src is not set # CONFIG_PACKAGE_python3-s3transfer is not set # CONFIG_PACKAGE_python3-s3transfer-src is not set # CONFIG_PACKAGE_python3-schedule is not set # CONFIG_PACKAGE_python3-schedule-src is not set # CONFIG_PACKAGE_python3-schema is not set # CONFIG_PACKAGE_python3-schema-src is not set # CONFIG_PACKAGE_python3-seafile-ccnet is not set # CONFIG_PACKAGE_python3-seafile-ccnet-src is not set # CONFIG_PACKAGE_python3-seafile-server is not set # CONFIG_PACKAGE_python3-seafile-server-src is not set # CONFIG_PACKAGE_python3-searpc is not set # CONFIG_PACKAGE_python3-searpc-src is not set # CONFIG_PACKAGE_python3-sentry-sdk is not set # CONFIG_PACKAGE_python3-sentry-sdk-src is not set # CONFIG_PACKAGE_python3-service-identity is not set # CONFIG_PACKAGE_python3-service-identity-src is not set # CONFIG_PACKAGE_python3-setuptools is not set # CONFIG_PACKAGE_python3-setuptools-src is not set # CONFIG_PACKAGE_python3-simplejson is not set # CONFIG_PACKAGE_python3-simplejson-src is not set # CONFIG_PACKAGE_python3-six is not set # CONFIG_PACKAGE_python3-six-src is not set # CONFIG_PACKAGE_python3-slugify is not set # CONFIG_PACKAGE_python3-slugify-src is not set # CONFIG_PACKAGE_python3-smbus is not set # CONFIG_PACKAGE_python3-speedtest-cli is not set # CONFIG_PACKAGE_python3-speedtest-cli-src is not set # CONFIG_PACKAGE_python3-sqlalchemy is not set # CONFIG_PACKAGE_python3-sqlalchemy-src is not set # CONFIG_PACKAGE_python3-sqlite3 is not set # CONFIG_PACKAGE_python3-sqlite3-src is not set # CONFIG_PACKAGE_python3-sqlparse is not set # CONFIG_PACKAGE_python3-sqlparse-src is not set # CONFIG_PACKAGE_python3-stem is not set # CONFIG_PACKAGE_python3-stem-src is not set # CONFIG_PACKAGE_python3-text-unidecode is not set # CONFIG_PACKAGE_python3-text-unidecode-src is not set # CONFIG_PACKAGE_python3-twisted is not set # CONFIG_PACKAGE_python3-twisted-src is not set # CONFIG_PACKAGE_python3-unidecode is not set # CONFIG_PACKAGE_python3-unidecode-src is not set # CONFIG_PACKAGE_python3-unittest is not set # CONFIG_PACKAGE_python3-unittest-src is not set # CONFIG_PACKAGE_python3-urllib is not set # CONFIG_PACKAGE_python3-urllib-src is not set # CONFIG_PACKAGE_python3-urllib3 is not set # CONFIG_PACKAGE_python3-urllib3-src is not set # CONFIG_PACKAGE_python3-vobject is not set # CONFIG_PACKAGE_python3-vobject-src is not set # CONFIG_PACKAGE_python3-voluptuous is not set # CONFIG_PACKAGE_python3-voluptuous-serialize is not set # CONFIG_PACKAGE_python3-voluptuous-serialize-src is not set # CONFIG_PACKAGE_python3-voluptuous-src is not set # CONFIG_PACKAGE_python3-wcwidth is not set # CONFIG_PACKAGE_python3-wcwidth-src is not set # CONFIG_PACKAGE_python3-werkzeug is not set # CONFIG_PACKAGE_python3-werkzeug-src is not set # CONFIG_PACKAGE_python3-xml is not set # CONFIG_PACKAGE_python3-xml-src is not set # CONFIG_PACKAGE_python3-xmltodict is not set # CONFIG_PACKAGE_python3-xmltodict-src is not set # CONFIG_PACKAGE_python3-yaml is not set # CONFIG_PACKAGE_python3-yaml-src is not set # CONFIG_PACKAGE_python3-yarl is not set # CONFIG_PACKAGE_python3-yarl-src is not set # CONFIG_PACKAGE_python3-zeroconf is not set # CONFIG_PACKAGE_python3-zeroconf-src is not set # CONFIG_PACKAGE_python3-zipp is not set # CONFIG_PACKAGE_python3-zipp-src is not set # CONFIG_PACKAGE_python3-zope-interface is not set # CONFIG_PACKAGE_python3-zope-interface-src is not set # # Ruby # # CONFIG_PACKAGE_ruby is not set # # Tcl # # CONFIG_PACKAGE_vala is not set # # Libraries # # # Compression # # CONFIG_PACKAGE_libbz2 is not set # CONFIG_PACKAGE_liblzma is not set # CONFIG_PACKAGE_libunrar is not set # CONFIG_PACKAGE_libzstd is not set CONFIG_ZSTD_OPTIMIZE_O3=y # # Filesystem # # CONFIG_PACKAGE_libacl is not set # CONFIG_PACKAGE_libattr is not set # CONFIG_PACKAGE_libfuse is not set # CONFIG_PACKAGE_libow is not set # CONFIG_PACKAGE_libow-capi is not set # CONFIG_PACKAGE_libsysfs is not set # # Firewall # # CONFIG_PACKAGE_libfko is not set CONFIG_PACKAGE_libip4tc=y CONFIG_PACKAGE_libip6tc=y CONFIG_PACKAGE_libxtables=y # CONFIG_PACKAGE_libxtables-nft is not set # # Instant Messaging # # CONFIG_PACKAGE_quasselc is not set # # IoT # # CONFIG_PACKAGE_libupm is not set # CONFIG_PACKAGE_libupm-a110x is not set # CONFIG_PACKAGE_libupm-ad8232 is not set # CONFIG_PACKAGE_libupm-adafruitss is not set # CONFIG_PACKAGE_libupm-adc121c021 is not set # CONFIG_PACKAGE_libupm-adis16448 is not set # CONFIG_PACKAGE_libupm-adxl335 is not set # CONFIG_PACKAGE_libupm-adxl345 is not set # CONFIG_PACKAGE_libupm-am2315 is not set # CONFIG_PACKAGE_libupm-apds9002 is not set # CONFIG_PACKAGE_libupm-at42qt1070 is not set # CONFIG_PACKAGE_libupm-biss0001 is not set # CONFIG_PACKAGE_libupm-bmpx8x is not set # CONFIG_PACKAGE_libupm-buzzer is not set # CONFIG_PACKAGE_libupm-cjq4435 is not set # CONFIG_PACKAGE_libupm-ds1307 is not set # CONFIG_PACKAGE_libupm-ecs1030 is not set # CONFIG_PACKAGE_libupm-enc03r is not set # CONFIG_PACKAGE_libupm-flex is not set # CONFIG_PACKAGE_libupm-gas is not set # CONFIG_PACKAGE_libupm-gp2y0a is not set # CONFIG_PACKAGE_libupm-grove is not set # CONFIG_PACKAGE_libupm-grovecircularled is not set # CONFIG_PACKAGE_libupm-grovecollision is not set # CONFIG_PACKAGE_libupm-groveehr is not set # CONFIG_PACKAGE_libupm-groveeldriver is not set # CONFIG_PACKAGE_libupm-groveelectromagnet is not set # CONFIG_PACKAGE_libupm-groveemg is not set # CONFIG_PACKAGE_libupm-grovegprs is not set # CONFIG_PACKAGE_libupm-grovegsr is not set # CONFIG_PACKAGE_libupm-grovelinefinder is not set # CONFIG_PACKAGE_libupm-grovemd is not set # CONFIG_PACKAGE_libupm-grovemoisture is not set # CONFIG_PACKAGE_libupm-groveo2 is not set # CONFIG_PACKAGE_libupm-grovescam is not set # CONFIG_PACKAGE_libupm-grovespeaker is not set # CONFIG_PACKAGE_libupm-grovevdiv is not set # CONFIG_PACKAGE_libupm-grovewater is not set # CONFIG_PACKAGE_libupm-grovewfs is not set # CONFIG_PACKAGE_libupm-guvas12d is not set # CONFIG_PACKAGE_libupm-h3lis331dl is not set # CONFIG_PACKAGE_libupm-hcsr04 is not set # CONFIG_PACKAGE_libupm-hm11 is not set # CONFIG_PACKAGE_libupm-hmc5883l is not set # CONFIG_PACKAGE_libupm-hmtrp is not set # CONFIG_PACKAGE_libupm-hp20x is not set # CONFIG_PACKAGE_libupm-ht9170 is not set # CONFIG_PACKAGE_libupm-htu21d is not set # CONFIG_PACKAGE_libupm-hx711 is not set # CONFIG_PACKAGE_libupm-i2clcd is not set # CONFIG_PACKAGE_libupm-ina132 is not set # CONFIG_PACKAGE_libupm-isd1820 is not set # CONFIG_PACKAGE_libupm-itg3200 is not set # CONFIG_PACKAGE_libupm-joystick12 is not set # CONFIG_PACKAGE_libupm-l298 is not set # CONFIG_PACKAGE_libupm-ldt0028 is not set # CONFIG_PACKAGE_libupm-lm35 is not set # CONFIG_PACKAGE_libupm-lol is not set # CONFIG_PACKAGE_libupm-loudness is not set # CONFIG_PACKAGE_libupm-lpd8806 is not set # CONFIG_PACKAGE_libupm-lsm303 is not set # CONFIG_PACKAGE_libupm-lsm9ds0 is not set # CONFIG_PACKAGE_libupm-m24lr64e is not set # CONFIG_PACKAGE_libupm-max31723 is not set # CONFIG_PACKAGE_libupm-max31855 is not set # CONFIG_PACKAGE_libupm-max44000 is not set # CONFIG_PACKAGE_libupm-max5487 is not set # CONFIG_PACKAGE_libupm-maxds3231m is not set # CONFIG_PACKAGE_libupm-maxsonarez is not set # CONFIG_PACKAGE_libupm-mg811 is not set # CONFIG_PACKAGE_libupm-mhz16 is not set # CONFIG_PACKAGE_libupm-mic is not set # CONFIG_PACKAGE_libupm-mlx90614 is not set # CONFIG_PACKAGE_libupm-mma7455 is not set # CONFIG_PACKAGE_libupm-mma7660 is not set # CONFIG_PACKAGE_libupm-mpl3115a2 is not set # CONFIG_PACKAGE_libupm-mpr121 is not set # CONFIG_PACKAGE_libupm-mpu9150 is not set # CONFIG_PACKAGE_libupm-mq303a is not set # CONFIG_PACKAGE_libupm-my9221 is not set # CONFIG_PACKAGE_libupm-nrf24l01 is not set # CONFIG_PACKAGE_libupm-nrf8001 is not set # CONFIG_PACKAGE_libupm-nunchuck is not set # CONFIG_PACKAGE_libupm-otp538u is not set # CONFIG_PACKAGE_libupm-pn532 is not set # CONFIG_PACKAGE_libupm-ppd42ns is not set # CONFIG_PACKAGE_libupm-pulsensor is not set # CONFIG_PACKAGE_libupm-rfr359f is not set # CONFIG_PACKAGE_libupm-rgbringcoder is not set # CONFIG_PACKAGE_libupm-rotaryencoder is not set # CONFIG_PACKAGE_libupm-rpr220 is not set # CONFIG_PACKAGE_libupm-servo is not set # CONFIG_PACKAGE_libupm-si114x is not set # CONFIG_PACKAGE_libupm-sm130 is not set # CONFIG_PACKAGE_libupm-st7735 is not set # CONFIG_PACKAGE_libupm-stepmotor is not set # CONFIG_PACKAGE_libupm-sx6119 is not set # CONFIG_PACKAGE_libupm-ta12200 is not set # CONFIG_PACKAGE_libupm-tcs3414cs is not set # CONFIG_PACKAGE_libupm-th02 is not set # CONFIG_PACKAGE_libupm-tm1637 is not set # CONFIG_PACKAGE_libupm-tsl2561 is not set # CONFIG_PACKAGE_libupm-ttp223 is not set # CONFIG_PACKAGE_libupm-ublox6 is not set # CONFIG_PACKAGE_libupm-uln200xa is not set # CONFIG_PACKAGE_libupm-waterlevel is not set # CONFIG_PACKAGE_libupm-wheelencoder is not set # CONFIG_PACKAGE_libupm-wt5001 is not set # CONFIG_PACKAGE_libupm-yg1006 is not set # CONFIG_PACKAGE_libupm-zfm20 is not set # # Languages # # CONFIG_PACKAGE_libyaml is not set # # Networking # # CONFIG_PACKAGE_libdcwproto is not set # CONFIG_PACKAGE_libdcwsocket is not set # CONFIG_PACKAGE_libsctp is not set # CONFIG_PACKAGE_libuhttpd-mbedtls is not set # CONFIG_PACKAGE_libuhttpd-nossl is not set # CONFIG_PACKAGE_libuhttpd-openssl is not set # CONFIG_PACKAGE_libuhttpd-wolfssl is not set # CONFIG_PACKAGE_libunbound is not set # CONFIG_PACKAGE_libunbound-heavy is not set # CONFIG_PACKAGE_libuwsc-mbedtls is not set # CONFIG_PACKAGE_libuwsc-nossl is not set # CONFIG_PACKAGE_libuwsc-openssl is not set # CONFIG_PACKAGE_libuwsc-wolfssl is not set # # Qt5 # # CONFIG_PACKAGE_qt5-core is not set # CONFIG_PACKAGE_qt5-network is not set # CONFIG_PACKAGE_qt5-xml is not set # # SSL # # CONFIG_PACKAGE_libgnutls is not set # CONFIG_PACKAGE_libmbedtls is not set CONFIG_PACKAGE_libopenssl=y # # Build Options # CONFIG_OPENSSL_OPTIMIZE_SPEED=y CONFIG_OPENSSL_WITH_ASM=y CONFIG_OPENSSL_WITH_DEPRECATED=y # CONFIG_OPENSSL_NO_DEPRECATED is not set # CONFIG_OPENSSL_WITH_ERROR_MESSAGES is not set # # Protocol Support # CONFIG_OPENSSL_WITH_TLS13=y # CONFIG_OPENSSL_WITH_DTLS is not set # CONFIG_OPENSSL_WITH_NPN is not set CONFIG_OPENSSL_WITH_SRP=y CONFIG_OPENSSL_WITH_CMS=y # # Algorithm Selection # # CONFIG_OPENSSL_WITH_EC2M is not set CONFIG_OPENSSL_WITH_CHACHA_POLY1305=y CONFIG_OPENSSL_PREFER_CHACHA_OVER_GCM=y CONFIG_OPENSSL_WITH_PSK=y # # Less commonly used build options # # CONFIG_OPENSSL_WITH_ARIA is not set # CONFIG_OPENSSL_WITH_CAMELLIA is not set # CONFIG_OPENSSL_WITH_IDEA is not set # CONFIG_OPENSSL_WITH_SEED is not set # CONFIG_OPENSSL_WITH_SM234 is not set # CONFIG_OPENSSL_WITH_BLAKE2 is not set # CONFIG_OPENSSL_WITH_MDC2 is not set # CONFIG_OPENSSL_WITH_WHIRLPOOL is not set # CONFIG_OPENSSL_WITH_COMPRESSION is not set # CONFIG_OPENSSL_WITH_RFC3779 is not set # # Engine/Hardware Support # CONFIG_OPENSSL_ENGINE=y CONFIG_OPENSSL_ENGINE_BUILTIN=y CONFIG_OPENSSL_ENGINE_BUILTIN_DEVCRYPTO=y # CONFIG_OPENSSL_WITH_GOST is not set CONFIG_PACKAGE_libopenssl-conf=y # CONFIG_PACKAGE_libopenssl-devcrypto is not set # CONFIG_PACKAGE_libpolarssl is not set # CONFIG_PACKAGE_libwolfssl is not set # # Sound # # CONFIG_PACKAGE_liblo is not set # # database # # CONFIG_PACKAGE_libpq is not set # CONFIG_PACKAGE_libsqlite3 is not set # CONFIG_PACKAGE_pgsqlodbc is not set # CONFIG_PACKAGE_psqlodbca is not set # CONFIG_PACKAGE_psqlodbcw is not set # CONFIG_PACKAGE_tdb is not set # CONFIG_PACKAGE_unixodbc is not set # # libelektra # # CONFIG_PACKAGE_libelektra-boost is not set # CONFIG_PACKAGE_libelektra-core is not set # CONFIG_PACKAGE_libelektra-cpp is not set # CONFIG_PACKAGE_libelektra-crypto is not set # CONFIG_PACKAGE_libelektra-curlget is not set # CONFIG_PACKAGE_libelektra-dbus is not set # CONFIG_PACKAGE_libelektra-extra is not set # CONFIG_PACKAGE_libelektra-lua is not set # CONFIG_PACKAGE_libelektra-plugins is not set # CONFIG_PACKAGE_libelektra-python2 is not set # CONFIG_PACKAGE_libelektra-python3 is not set # CONFIG_PACKAGE_libelektra-resolvers is not set # CONFIG_PACKAGE_libelektra-xerces is not set # CONFIG_PACKAGE_libelektra-xml is not set # CONFIG_PACKAGE_libelektra-yajl is not set # CONFIG_PACKAGE_libelektra-yamlcpp is not set # CONFIG_PACKAGE_alsa-lib is not set # CONFIG_PACKAGE_argp-standalone is not set # CONFIG_PACKAGE_avro-c is not set # CONFIG_PACKAGE_bind-libs is not set # CONFIG_PACKAGE_bluez-libs is not set # CONFIG_PACKAGE_boost is not set # CONFIG_boost-context-exclude is not set # CONFIG_boost-coroutine-exclude is not set # CONFIG_boost-fiber-exclude is not set # CONFIG_PACKAGE_ccid is not set # CONFIG_PACKAGE_check is not set # CONFIG_PACKAGE_classpath is not set # CONFIG_PACKAGE_classpath-tools is not set # CONFIG_PACKAGE_confuse is not set # CONFIG_PACKAGE_dtndht is not set # CONFIG_PACKAGE_fcgi is not set # CONFIG_PACKAGE_fftw3 is not set # CONFIG_PACKAGE_fftw3f is not set # CONFIG_PACKAGE_getdns is not set # CONFIG_PACKAGE_giflib is not set # CONFIG_PACKAGE_glib2 is not set # CONFIG_PACKAGE_glog is not set # CONFIG_PACKAGE_hidapi is not set # CONFIG_PACKAGE_ibrcommon is not set # CONFIG_PACKAGE_ibrdtn is not set # CONFIG_PACKAGE_icu is not set # CONFIG_PACKAGE_icu-data-tools is not set # CONFIG_PACKAGE_icu-full-data is not set # CONFIG_PACKAGE_jansson is not set # CONFIG_PACKAGE_knot-libs is not set # CONFIG_PACKAGE_knot-libzscanner is not set # CONFIG_PACKAGE_libaio is not set # CONFIG_PACKAGE_libalac is not set # CONFIG_PACKAGE_libantlr3c is not set # CONFIG_PACKAGE_libao is not set # CONFIG_PACKAGE_libapr is not set # CONFIG_PACKAGE_libaprutil is not set # CONFIG_PACKAGE_libarchive is not set # CONFIG_PACKAGE_libarchive-noopenssl is not set # CONFIG_PACKAGE_libartnet is not set # CONFIG_PACKAGE_libasm is not set # CONFIG_PACKAGE_libaudiofile is not set # CONFIG_PACKAGE_libavahi-client is not set # CONFIG_PACKAGE_libavahi-compat-libdnssd is not set # CONFIG_PACKAGE_libavahi-dbus-support is not set # CONFIG_PACKAGE_libavahi-nodbus-support is not set # CONFIG_PACKAGE_libavl is not set # CONFIG_PACKAGE_libbfd is not set # CONFIG_PACKAGE_libblkid is not set CONFIG_PACKAGE_libblobmsg-json=y # CONFIG_PACKAGE_libbsd is not set # CONFIG_PACKAGE_libcanfestival is not set # CONFIG_PACKAGE_libcap is not set # CONFIG_PACKAGE_libcares is not set # CONFIG_PACKAGE_libcharset is not set # CONFIG_PACKAGE_libcoap is not set # CONFIG_PACKAGE_libcomerr is not set # CONFIG_PACKAGE_libconfig is not set # CONFIG_PACKAGE_libcryptopp is not set # CONFIG_PACKAGE_libcurl is not set # CONFIG_PACKAGE_libcxx is not set # CONFIG_PACKAGE_libdaemon is not set # CONFIG_PACKAGE_libdaq is not set # CONFIG_PACKAGE_libdb47 is not set # CONFIG_PACKAGE_libdb47xx is not set # CONFIG_PACKAGE_libdbi is not set # CONFIG_PACKAGE_libdbus is not set # CONFIG_PACKAGE_libdevmapper is not set # CONFIG_PACKAGE_libdmapsharing is not set # CONFIG_PACKAGE_libdnet is not set # CONFIG_PACKAGE_libdouble-conversion is not set # CONFIG_PACKAGE_libdrm is not set # CONFIG_PACKAGE_libdw is not set # CONFIG_PACKAGE_libecdsautil is not set # CONFIG_PACKAGE_libedit is not set CONFIG_PACKAGE_libelf=y # CONFIG_PACKAGE_libesmtp is not set # CONFIG_PACKAGE_libestr is not set # CONFIG_PACKAGE_libev is not set # CONFIG_PACKAGE_libevdev is not set # CONFIG_PACKAGE_libevent2 is not set # CONFIG_PACKAGE_libevent2-core is not set # CONFIG_PACKAGE_libevent2-extra is not set # CONFIG_PACKAGE_libevent2-openssl is not set # CONFIG_PACKAGE_libevent2-pthreads is not set # CONFIG_PACKAGE_libeventlog is not set # CONFIG_PACKAGE_libevhtp is not set # CONFIG_PACKAGE_libexif is not set # CONFIG_PACKAGE_libexpat is not set # CONFIG_PACKAGE_libexslt is not set # CONFIG_PACKAGE_libext2fs is not set # CONFIG_PACKAGE_libextractor is not set # CONFIG_PACKAGE_libf2fs is not set # CONFIG_PACKAGE_libfaad2 is not set # CONFIG_PACKAGE_libfastjson is not set # CONFIG_PACKAGE_libfdisk is not set # CONFIG_PACKAGE_libfdt is not set # CONFIG_PACKAGE_libffi is not set # CONFIG_PACKAGE_libffmpeg-audio-dec is not set # CONFIG_PACKAGE_libffmpeg-custom is not set # CONFIG_PACKAGE_libffmpeg-full is not set # CONFIG_PACKAGE_libffmpeg-mini is not set # CONFIG_PACKAGE_libflac is not set # CONFIG_PACKAGE_libfmt is not set # CONFIG_PACKAGE_libfreetype is not set # CONFIG_PACKAGE_libftdi is not set # CONFIG_PACKAGE_libftdi1 is not set # CONFIG_PACKAGE_libgcrypt is not set # CONFIG_PACKAGE_libgd is not set # CONFIG_PACKAGE_libgdbm is not set # CONFIG_PACKAGE_libgee is not set # CONFIG_PACKAGE_libglpk is not set # CONFIG_PACKAGE_libgmp is not set # CONFIG_PACKAGE_libgnurl is not set # CONFIG_PACKAGE_libgpg-error is not set # CONFIG_PACKAGE_libgphoto2 is not set # CONFIG_PACKAGE_libgpiod is not set # CONFIG_PACKAGE_libgps is not set # CONFIG_PACKAGE_libhamlib is not set # CONFIG_PACKAGE_libhavege is not set # CONFIG_PACKAGE_libhiredis is not set # CONFIG_PACKAGE_libhttp-parser is not set # CONFIG_PACKAGE_libhwloc is not set # CONFIG_PACKAGE_libical is not set # CONFIG_PACKAGE_libiconv is not set # CONFIG_PACKAGE_libiconv-full is not set # CONFIG_PACKAGE_libid3tag is not set # CONFIG_PACKAGE_libidn is not set # CONFIG_PACKAGE_libidn2 is not set # CONFIG_PACKAGE_libiio is not set # CONFIG_PACKAGE_libimobiledevice is not set # CONFIG_PACKAGE_libinotifytools is not set # CONFIG_PACKAGE_libinput is not set # CONFIG_PACKAGE_libintl is not set # CONFIG_PACKAGE_libintl-full is not set # CONFIG_PACKAGE_libiw is not set CONFIG_PACKAGE_libiwinfo=y # CONFIG_PACKAGE_libjpeg is not set CONFIG_PACKAGE_libjson-c=y # CONFIG_PACKAGE_libkeyutils is not set # CONFIG_PACKAGE_libkmod is not set # CONFIG_PACKAGE_libldns is not set # CONFIG_PACKAGE_libltdl is not set CONFIG_PACKAGE_liblua=y # CONFIG_PACKAGE_liblz4 is not set # CONFIG_PACKAGE_liblzo is not set # CONFIG_PACKAGE_libmad is not set # CONFIG_PACKAGE_libmagic is not set # CONFIG_PACKAGE_libmariadb is not set # CONFIG_PACKAGE_libmaxminddb is not set # CONFIG_PACKAGE_libmbim is not set # CONFIG_PACKAGE_libmcrypt is not set # CONFIG_PACKAGE_libmicrohttpd-no-ssl is not set # CONFIG_PACKAGE_libmicrohttpd-ssl is not set # CONFIG_PACKAGE_libmilter-sendmail is not set # CONFIG_PACKAGE_libminiupnpc is not set # CONFIG_PACKAGE_libmms is not set CONFIG_PACKAGE_libmnl=y # CONFIG_PACKAGE_libmodbus is not set # CONFIG_PACKAGE_libmosquitto-nossl is not set # CONFIG_PACKAGE_libmosquitto-ssl is not set # CONFIG_PACKAGE_libmount is not set # CONFIG_PACKAGE_libmpdclient is not set # CONFIG_PACKAGE_libmpeg2 is not set # CONFIG_PACKAGE_libmpg123 is not set # CONFIG_PACKAGE_libmraa is not set # CONFIG_PACKAGE_libnatpmp is not set # CONFIG_PACKAGE_libncurses is not set # CONFIG_PACKAGE_libndpi is not set # CONFIG_PACKAGE_libneon is not set # CONFIG_PACKAGE_libnet-1.2.x is not set # CONFIG_PACKAGE_libnetconf2 is not set # CONFIG_PACKAGE_libnetfilter-acct is not set # CONFIG_PACKAGE_libnetfilter-conntrack is not set # CONFIG_PACKAGE_libnetfilter-cthelper is not set # CONFIG_PACKAGE_libnetfilter-cttimeout is not set # CONFIG_PACKAGE_libnetfilter-log is not set # CONFIG_PACKAGE_libnetfilter-queue is not set # CONFIG_PACKAGE_libnetsnmp is not set # CONFIG_PACKAGE_libnettle is not set # CONFIG_PACKAGE_libnfnetlink is not set # CONFIG_PACKAGE_libnftnl is not set # CONFIG_PACKAGE_libnghttp2 is not set # CONFIG_PACKAGE_libnl is not set # CONFIG_PACKAGE_libnl-core is not set # CONFIG_PACKAGE_libnl-genl is not set # CONFIG_PACKAGE_libnl-nf is not set # CONFIG_PACKAGE_libnl-route is not set CONFIG_PACKAGE_libnl-tiny=y # CONFIG_PACKAGE_libnopoll is not set # CONFIG_PACKAGE_libogg is not set # CONFIG_PACKAGE_liboil is not set # CONFIG_PACKAGE_libopcodes is not set # CONFIG_PACKAGE_libopendkim is not set # CONFIG_PACKAGE_libopenobex is not set # CONFIG_PACKAGE_libopensc is not set # CONFIG_PACKAGE_libopenzwave is not set # CONFIG_PACKAGE_liboping is not set # CONFIG_PACKAGE_libopus is not set # CONFIG_PACKAGE_libout123 is not set # CONFIG_PACKAGE_libowfat is not set # CONFIG_PACKAGE_libp11 is not set # CONFIG_PACKAGE_libpagekite is not set # CONFIG_PACKAGE_libpam is not set # CONFIG_PACKAGE_libpcap is not set # CONFIG_PACKAGE_libpciaccess is not set CONFIG_PACKAGE_libpcre=y # CONFIG_PACKAGE_libpcre16 is not set # CONFIG_PACKAGE_libpcre2 is not set # CONFIG_PACKAGE_libpcre2-16 is not set # CONFIG_PACKAGE_libpcre2-32 is not set # CONFIG_PACKAGE_libpcrecpp is not set # CONFIG_PACKAGE_libpcsclite is not set # CONFIG_PACKAGE_libpkcs11-spy is not set # CONFIG_PACKAGE_libplist is not set # CONFIG_PACKAGE_libplistcxx is not set # CONFIG_PACKAGE_libpng is not set # CONFIG_PACKAGE_libpopt is not set # CONFIG_PACKAGE_libprotobuf-c is not set # CONFIG_PACKAGE_libqmi is not set # CONFIG_PACKAGE_libqrencode is not set # CONFIG_PACKAGE_libradcli is not set # CONFIG_PACKAGE_libreadline is not set # CONFIG_PACKAGE_libredblack is not set # CONFIG_PACKAGE_librouteros is not set # CONFIG_PACKAGE_libroxml is not set # CONFIG_PACKAGE_librpc is not set # CONFIG_PACKAGE_librrd1 is not set # CONFIG_PACKAGE_librtlsdr is not set # CONFIG_PACKAGE_libruby is not set # CONFIG_PACKAGE_libsamplerate is not set # CONFIG_PACKAGE_libsane is not set # CONFIG_PACKAGE_libsasl2 is not set # CONFIG_PACKAGE_libsearpc is not set # CONFIG_PACKAGE_libseccomp is not set # CONFIG_PACKAGE_libsensors is not set # CONFIG_PACKAGE_libshout is not set # CONFIG_PACKAGE_libshout-full is not set # CONFIG_PACKAGE_libshout-nossl is not set # CONFIG_PACKAGE_libsigcxx is not set # CONFIG_PACKAGE_libsmartcols is not set # CONFIG_PACKAGE_libsndfile is not set # CONFIG_PACKAGE_libsoc is not set # CONFIG_PACKAGE_libsocks is not set # CONFIG_PACKAGE_libsodium is not set # CONFIG_PACKAGE_libsoup is not set # CONFIG_PACKAGE_libsoxr is not set # CONFIG_PACKAGE_libspeex is not set # CONFIG_PACKAGE_libspeexdsp is not set # CONFIG_PACKAGE_libspice-server is not set # CONFIG_PACKAGE_libss is not set # CONFIG_PACKAGE_libssh is not set # CONFIG_PACKAGE_libssh2 is not set # CONFIG_PACKAGE_libstoken is not set # CONFIG_PACKAGE_libstrophe is not set # CONFIG_PACKAGE_libtalloc is not set # CONFIG_PACKAGE_libtasn1 is not set # CONFIG_PACKAGE_libtheora is not set # CONFIG_PACKAGE_libtiff is not set # CONFIG_PACKAGE_libtiffxx is not set # CONFIG_PACKAGE_libtins is not set # CONFIG_PACKAGE_libtirpc is not set # CONFIG_PACKAGE_libtorrent is not set CONFIG_PACKAGE_libubox=y # CONFIG_PACKAGE_libubox-lua is not set CONFIG_PACKAGE_libubus=y CONFIG_PACKAGE_libubus-lua=y CONFIG_PACKAGE_libuci=y CONFIG_PACKAGE_libuci-lua=y CONFIG_PACKAGE_libuclient=y # CONFIG_PACKAGE_libudev-fbsd is not set # CONFIG_PACKAGE_libudns is not set # CONFIG_PACKAGE_libuecc is not set # CONFIG_PACKAGE_libugpio is not set # CONFIG_PACKAGE_libunistring is not set # CONFIG_PACKAGE_libunwind is not set # CONFIG_PACKAGE_libupnp is not set # CONFIG_PACKAGE_libupnpp is not set # CONFIG_PACKAGE_liburcu is not set # CONFIG_PACKAGE_libusb-1.0 is not set # CONFIG_PACKAGE_libusb-compat is not set # CONFIG_PACKAGE_libusbmuxd is not set # CONFIG_PACKAGE_libustream-mbedtls is not set CONFIG_PACKAGE_libustream-openssl=y # CONFIG_PACKAGE_libustream-wolfssl is not set CONFIG_PACKAGE_libuuid=y # CONFIG_PACKAGE_libuv is not set # CONFIG_PACKAGE_libuvc is not set # CONFIG_PACKAGE_libv4l is not set # CONFIG_PACKAGE_libvorbis is not set # CONFIG_PACKAGE_libvorbisidec is not set # CONFIG_PACKAGE_libvpx is not set # CONFIG_PACKAGE_libwebcam is not set # CONFIG_PACKAGE_libwebsockets-full is not set # CONFIG_PACKAGE_libwebsockets-mbedtls is not set # CONFIG_PACKAGE_libwebsockets-openssl is not set # CONFIG_PACKAGE_libwrap is not set # CONFIG_PACKAGE_libwxbase is not set # CONFIG_PACKAGE_libx264 is not set # CONFIG_PACKAGE_libxerces-c is not set # CONFIG_PACKAGE_libxerces-c-samples is not set # CONFIG_PACKAGE_libxml2 is not set # CONFIG_PACKAGE_libxslt is not set # CONFIG_PACKAGE_libyaml-cpp is not set # CONFIG_PACKAGE_libyang is not set # CONFIG_PACKAGE_libzdb is not set # CONFIG_PACKAGE_libzmq-curve is not set # CONFIG_PACKAGE_libzmq-nc is not set # CONFIG_PACKAGE_linux-atm is not set # CONFIG_PACKAGE_loudmouth is not set # CONFIG_PACKAGE_lttng-ust is not set # CONFIG_PACKAGE_mtdev is not set # CONFIG_PACKAGE_musl-fts is not set # CONFIG_PACKAGE_mxml is not set # CONFIG_PACKAGE_nacl is not set # CONFIG_PACKAGE_oniguruma is not set # CONFIG_PACKAGE_opencv is not set # CONFIG_PACKAGE_p11-kit is not set # CONFIG_PACKAGE_pixman is not set # CONFIG_PACKAGE_poco is not set # CONFIG_PACKAGE_protobuf is not set # CONFIG_PACKAGE_protobuf-lite is not set # CONFIG_PACKAGE_pthsem is not set # CONFIG_PACKAGE_rblibtorrent is not set CONFIG_PACKAGE_rpcd-mod-rrdns=y # CONFIG_PACKAGE_rxtx is not set # CONFIG_PACKAGE_sbc is not set # CONFIG_PACKAGE_spice-protocol is not set # CONFIG_PACKAGE_terminfo is not set # CONFIG_PACKAGE_tinycdb is not set # CONFIG_PACKAGE_uclibcxx is not set # CONFIG_PACKAGE_uw-imap is not set # CONFIG_PACKAGE_xmlrpc-c is not set # CONFIG_PACKAGE_xmlrpc-c-client is not set # CONFIG_PACKAGE_xmlrpc-c-server is not set # CONFIG_PACKAGE_yajl is not set CONFIG_PACKAGE_zlib=y # # Configuration # # CONFIG_ZLIB_OPTIMIZE_SPEED is not set # # LuCI # # # 1. Collections # CONFIG_PACKAGE_luci=y # CONFIG_PACKAGE_luci-nginx is not set # CONFIG_PACKAGE_luci-ssl-nginx is not set # CONFIG_PACKAGE_luci-ssl-openssl is not set # # 2. Modules # CONFIG_PACKAGE_luci-base=y CONFIG_LUCI_SRCDIET=y # # Translations # # CONFIG_LUCI_LANG_hu is not set # CONFIG_LUCI_LANG_pt is not set # CONFIG_LUCI_LANG_sk is not set # CONFIG_LUCI_LANG_ko is not set # CONFIG_LUCI_LANG_en is not set # CONFIG_LUCI_LANG_el is not set # CONFIG_LUCI_LANG_uk is not set # CONFIG_LUCI_LANG_ja is not set # CONFIG_LUCI_LANG_vi is not set # CONFIG_LUCI_LANG_he is not set # CONFIG_LUCI_LANG_no is not set # CONFIG_LUCI_LANG_ms is not set # CONFIG_LUCI_LANG_pl is not set CONFIG_LUCI_LANG_zh-cn=y # CONFIG_LUCI_LANG_ro is not set # CONFIG_LUCI_LANG_de is not set # CONFIG_LUCI_LANG_zh-tw is not set # CONFIG_LUCI_LANG_tr is not set # CONFIG_LUCI_LANG_sv is not set # CONFIG_LUCI_LANG_ru is not set # CONFIG_LUCI_LANG_pt-br is not set # CONFIG_LUCI_LANG_ca is not set # CONFIG_LUCI_LANG_es is not set # CONFIG_LUCI_LANG_cs is not set # CONFIG_LUCI_LANG_fr is not set # CONFIG_LUCI_LANG_it is not set CONFIG_PACKAGE_luci-mod-admin-full=y # CONFIG_PACKAGE_luci-mod-failsafe is not set # CONFIG_PACKAGE_luci-mod-freifunk is not set # CONFIG_PACKAGE_luci-mod-freifunk-community is not set # CONFIG_PACKAGE_luci-mod-rpc is not set # # 3. Applications # # CONFIG_PACKAGE_luci-app-accesscontrol is not set # CONFIG_PACKAGE_luci-app-acme is not set # CONFIG_PACKAGE_luci-app-adblock is not set # CONFIG_PACKAGE_luci-app-adbyby-plus is not set # CONFIG_PACKAGE_luci-app-advanced-reboot is not set # CONFIG_PACKAGE_luci-app-ahcp is not set # CONFIG_PACKAGE_luci-app-airplay2 is not set # CONFIG_PACKAGE_luci-app-amule is not set # CONFIG_PACKAGE_luci-app-aria2 is not set # CONFIG_PACKAGE_luci-app-arpbind is not set # CONFIG_PACKAGE_luci-app-asterisk is not set # CONFIG_PACKAGE_luci-app-attendedsysupgrade is not set CONFIG_PACKAGE_luci-app-autoreboot=y # CONFIG_PACKAGE_luci-app-baidupcs-web is not set # CONFIG_PACKAGE_luci-app-bcp38 is not set # CONFIG_PACKAGE_luci-app-bird1-ipv4 is not set # CONFIG_PACKAGE_luci-app-bird1-ipv6 is not set # CONFIG_PACKAGE_luci-app-bmx6 is not set # CONFIG_PACKAGE_luci-app-bmx7 is not set # CONFIG_PACKAGE_luci-app-cifs-mount is not set # CONFIG_PACKAGE_luci-app-cifsd is not set # CONFIG_PACKAGE_luci-app-cjdns is not set # CONFIG_PACKAGE_luci-app-clamav is not set # CONFIG_PACKAGE_luci-app-commands is not set # CONFIG_PACKAGE_luci-app-cshark is not set # CONFIG_PACKAGE_luci-app-ddns is not set # CONFIG_PACKAGE_luci-app-diag-core is not set # CONFIG_PACKAGE_luci-app-diskman is not set # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_btrfs_progs is not set # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_lsblk is not set # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_mdadm is not set # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_kmod_md_raid456 is not set # CONFIG_PACKAGE_luci-app-diskman_INCLUDE_kmod_md_linear is not set # CONFIG_PACKAGE_luci-app-dnscrypt-proxy is not set # CONFIG_PACKAGE_luci-app-dump1090 is not set # CONFIG_PACKAGE_luci-app-dynapoint is not set # CONFIG_PACKAGE_luci-app-e2guardian is not set # CONFIG_PACKAGE_luci-app-familycloud is not set # CONFIG_PACKAGE_luci-app-filetransfer is not set CONFIG_PACKAGE_luci-app-firewall=y # CONFIG_PACKAGE_luci-app-freifunk-diagnostics is not set # CONFIG_PACKAGE_luci-app-freifunk-policyrouting is not set # CONFIG_PACKAGE_luci-app-freifunk-widgets is not set # CONFIG_PACKAGE_luci-app-frpc is not set # CONFIG_PACKAGE_luci-app-frps is not set # CONFIG_PACKAGE_luci-app-fwknopd is not set # CONFIG_PACKAGE_luci-app-guest-wifi is not set # CONFIG_PACKAGE_luci-app-haproxy-tcp is not set # CONFIG_PACKAGE_luci-app-hd-idle is not set # CONFIG_PACKAGE_luci-app-hnet is not set # CONFIG_PACKAGE_luci-app-ipsec-vpnd is not set # CONFIG_PACKAGE_luci-app-kodexplorer is not set # CONFIG_PACKAGE_luci-app-lxc is not set # CONFIG_PACKAGE_luci-app-meshwizard is not set # CONFIG_PACKAGE_luci-app-minidlna is not set # CONFIG_PACKAGE_luci-app-mjpg-streamer is not set # CONFIG_PACKAGE_luci-app-mtwifi is not set # CONFIG_PACKAGE_luci-app-music-remote-center is not set # CONFIG_PACKAGE_luci-app-mwan3 is not set # CONFIG_PACKAGE_luci-app-mwan3helper is not set # CONFIG_PACKAGE_luci-app-n2n_v2 is not set # CONFIG_PACKAGE_luci-app-netdata is not set # CONFIG_PACKAGE_luci-app-nfs is not set # CONFIG_PACKAGE_luci-app-nft-qos is not set # CONFIG_PACKAGE_luci-app-nlbwmon is not set # CONFIG_PACKAGE_luci-app-noddos is not set # CONFIG_PACKAGE_luci-app-nps is not set # CONFIG_PACKAGE_luci-app-ntpc is not set # CONFIG_PACKAGE_luci-app-ocserv is not set # CONFIG_PACKAGE_luci-app-olsr is not set # CONFIG_PACKAGE_luci-app-olsr-services is not set # CONFIG_PACKAGE_luci-app-olsr-viz is not set # CONFIG_PACKAGE_luci-app-openvpn is not set # CONFIG_PACKAGE_luci-app-openvpn-server is not set # CONFIG_PACKAGE_luci-app-p910nd is not set # CONFIG_PACKAGE_luci-app-pagekitec is not set # CONFIG_PACKAGE_luci-app-polipo is not set # CONFIG_PACKAGE_luci-app-pppoe-relay is not set # CONFIG_PACKAGE_luci-app-privoxy is not set # CONFIG_PACKAGE_luci-app-ps3netsrv is not set # CONFIG_PACKAGE_luci-app-qbittorrent is not set # CONFIG_PACKAGE_luci-app-qos is not set # CONFIG_PACKAGE_luci-app-radicale is not set CONFIG_PACKAGE_luci-app-ramfree=y # CONFIG_PACKAGE_luci-app-rclone is not set # CONFIG_PACKAGE_luci-app-rp-pppoe-server is not set # CONFIG_PACKAGE_luci-app-samba is not set # CONFIG_PACKAGE_luci-app-samba4 is not set CONFIG_PACKAGE_luci-app-sfe=y # CONFIG_PACKAGE_luci-app-shadowsocks-libev is not set # CONFIG_PACKAGE_luci-app-shairplay is not set # CONFIG_PACKAGE_luci-app-siitwizard is not set # CONFIG_PACKAGE_luci-app-simple-adblock is not set # CONFIG_PACKAGE_luci-app-softethervpn is not set # CONFIG_PACKAGE_luci-app-splash is not set # CONFIG_PACKAGE_luci-app-sqm is not set # CONFIG_PACKAGE_luci-app-squid is not set # CONFIG_PACKAGE_luci-app-ssrserver-python is not set # CONFIG_PACKAGE_luci-app-statistics is not set # CONFIG_PACKAGE_luci-app-syncdial is not set # CONFIG_PACKAGE_luci-app-tinyproxy is not set # CONFIG_PACKAGE_luci-app-transmission is not set # CONFIG_PACKAGE_luci-app-travelmate is not set # CONFIG_PACKAGE_luci-app-ttyd is not set # CONFIG_PACKAGE_luci-app-udpxy is not set # CONFIG_PACKAGE_luci-app-uhttpd is not set # CONFIG_PACKAGE_luci-app-unblockmusic is not set # CONFIG_UnblockNeteaseMusic_Go is not set # CONFIG_UnblockNeteaseMusic_NodeJS is not set # CONFIG_PACKAGE_luci-app-unbound is not set # CONFIG_PACKAGE_luci-app-upnp is not set # CONFIG_PACKAGE_luci-app-usb-printer is not set CONFIG_PACKAGE_luci-app-v2ray-server=y # CONFIG_PACKAGE_luci-app-verysync is not set # CONFIG_PACKAGE_luci-app-vlmcsd is not set # CONFIG_PACKAGE_luci-app-vnstat is not set # CONFIG_PACKAGE_luci-app-vpnbypass is not set # CONFIG_PACKAGE_luci-app-vsftpd is not set # CONFIG_PACKAGE_luci-app-watchcat is not set # CONFIG_PACKAGE_luci-app-webadmin is not set # CONFIG_PACKAGE_luci-app-wifischedule is not set # CONFIG_PACKAGE_luci-app-wireguard is not set # CONFIG_PACKAGE_luci-app-wol is not set # CONFIG_PACKAGE_luci-app-wrtbwmon is not set # CONFIG_PACKAGE_luci-app-xlnetacc is not set # CONFIG_PACKAGE_luci-app-zerotier is not set # # 4. Themes # # CONFIG_PACKAGE_luci-theme-argon is not set CONFIG_PACKAGE_luci-theme-bootstrap=y # CONFIG_PACKAGE_luci-theme-material is not set CONFIG_PACKAGE_luci-theme-netgear=y # # 5. Protocols # # CONFIG_PACKAGE_luci-proto-3g is not set # CONFIG_PACKAGE_luci-proto-bonding is not set # CONFIG_PACKAGE_luci-proto-ipip is not set # CONFIG_PACKAGE_luci-proto-ipv6 is not set # CONFIG_PACKAGE_luci-proto-ncm is not set # CONFIG_PACKAGE_luci-proto-openconnect is not set CONFIG_PACKAGE_luci-proto-ppp=y # CONFIG_PACKAGE_luci-proto-qmi is not set # CONFIG_PACKAGE_luci-proto-relay is not set # CONFIG_PACKAGE_luci-proto-vpnc is not set # CONFIG_PACKAGE_luci-proto-wireguard is not set # # 6. Libraries # # CONFIG_PACKAGE_luci-lib-docker is not set # CONFIG_PACKAGE_luci-lib-dracula is not set # CONFIG_PACKAGE_luci-lib-httpclient is not set # CONFIG_PACKAGE_luci-lib-httpprotoutils is not set CONFIG_PACKAGE_luci-lib-ip=y # CONFIG_PACKAGE_luci-lib-iptparser is not set # CONFIG_PACKAGE_luci-lib-jquery-1-4 is not set # CONFIG_PACKAGE_luci-lib-json is not set CONFIG_PACKAGE_luci-lib-jsonc=y # CONFIG_PACKAGE_luci-lib-luaneightbl is not set CONFIG_PACKAGE_luci-lib-nixio=y # CONFIG_PACKAGE_luci-lib-px5g is not set # # 9. Freifunk # # CONFIG_PACKAGE_freifunk-common is not set # CONFIG_PACKAGE_freifunk-firewall is not set # CONFIG_PACKAGE_freifunk-policyrouting is not set # CONFIG_PACKAGE_freifunk-watchdog is not set # CONFIG_PACKAGE_meshwizard is not set CONFIG_PACKAGE_default-settings=y CONFIG_PACKAGE_luci-i18n-autoreboot-zh-cn=y # CONFIG_PACKAGE_luci-i18n-base-ca is not set # CONFIG_PACKAGE_luci-i18n-base-cs is not set # CONFIG_PACKAGE_luci-i18n-base-de is not set # CONFIG_PACKAGE_luci-i18n-base-el is not set # CONFIG_PACKAGE_luci-i18n-base-en is not set # CONFIG_PACKAGE_luci-i18n-base-es is not set # CONFIG_PACKAGE_luci-i18n-base-fr is not set # CONFIG_PACKAGE_luci-i18n-base-he is not set # CONFIG_PACKAGE_luci-i18n-base-hu is not set # CONFIG_PACKAGE_luci-i18n-base-it is not set # CONFIG_PACKAGE_luci-i18n-base-ja is not set # CONFIG_PACKAGE_luci-i18n-base-ko is not set # CONFIG_PACKAGE_luci-i18n-base-ms is not set # CONFIG_PACKAGE_luci-i18n-base-no is not set # CONFIG_PACKAGE_luci-i18n-base-pl is not set # CONFIG_PACKAGE_luci-i18n-base-pt is not set # CONFIG_PACKAGE_luci-i18n-base-pt-br is not set # CONFIG_PACKAGE_luci-i18n-base-ro is not set # CONFIG_PACKAGE_luci-i18n-base-ru is not set # CONFIG_PACKAGE_luci-i18n-base-sk is not set # CONFIG_PACKAGE_luci-i18n-base-sv is not set # CONFIG_PACKAGE_luci-i18n-base-tr is not set # CONFIG_PACKAGE_luci-i18n-base-uk is not set # CONFIG_PACKAGE_luci-i18n-base-vi is not set CONFIG_PACKAGE_luci-i18n-base-zh-cn=y # CONFIG_PACKAGE_luci-i18n-base-zh-tw is not set # CONFIG_PACKAGE_luci-i18n-firewall-ca is not set # CONFIG_PACKAGE_luci-i18n-firewall-cs is not set # CONFIG_PACKAGE_luci-i18n-firewall-de is not set # CONFIG_PACKAGE_luci-i18n-firewall-el is not set # CONFIG_PACKAGE_luci-i18n-firewall-en is not set # CONFIG_PACKAGE_luci-i18n-firewall-es is not set # CONFIG_PACKAGE_luci-i18n-firewall-fr is not set # CONFIG_PACKAGE_luci-i18n-firewall-he is not set # CONFIG_PACKAGE_luci-i18n-firewall-hu is not set # CONFIG_PACKAGE_luci-i18n-firewall-it is not set # CONFIG_PACKAGE_luci-i18n-firewall-ja is not set # CONFIG_PACKAGE_luci-i18n-firewall-ko is not set # CONFIG_PACKAGE_luci-i18n-firewall-ms is not set # CONFIG_PACKAGE_luci-i18n-firewall-no is not set # CONFIG_PACKAGE_luci-i18n-firewall-pl is not set # CONFIG_PACKAGE_luci-i18n-firewall-pt is not set # CONFIG_PACKAGE_luci-i18n-firewall-pt-br is not set # CONFIG_PACKAGE_luci-i18n-firewall-ro is not set # CONFIG_PACKAGE_luci-i18n-firewall-ru is not set # CONFIG_PACKAGE_luci-i18n-firewall-sk is not set # CONFIG_PACKAGE_luci-i18n-firewall-sv is not set # CONFIG_PACKAGE_luci-i18n-firewall-tr is not set # CONFIG_PACKAGE_luci-i18n-firewall-uk is not set # CONFIG_PACKAGE_luci-i18n-firewall-vi is not set CONFIG_PACKAGE_luci-i18n-firewall-zh-cn=y # CONFIG_PACKAGE_luci-i18n-firewall-zh-tw is not set CONFIG_PACKAGE_luci-i18n-ramfree-zh-cn=y CONFIG_PACKAGE_luci-i18n-sfe-zh-cn=y CONFIG_PACKAGE_luci-i18n-v2ray-server-zh-cn=y # # Mail # # CONFIG_PACKAGE_alpine is not set # CONFIG_PACKAGE_alpine-nossl is not set # CONFIG_PACKAGE_bogofilter is not set # CONFIG_PACKAGE_clamsmtp is not set # CONFIG_PACKAGE_dovecot is not set # CONFIG_PACKAGE_dovecot-pigeonhole is not set # CONFIG_PACKAGE_dovecot-utils is not set # CONFIG_PACKAGE_emailrelay is not set # CONFIG_PACKAGE_fdm is not set # CONFIG_PACKAGE_greyfix is not set # CONFIG_PACKAGE_mailman is not set # CONFIG_PACKAGE_mailsend is not set # CONFIG_PACKAGE_mailsend-nossl is not set # CONFIG_PACKAGE_msmtp is not set # CONFIG_PACKAGE_msmtp-nossl is not set # CONFIG_PACKAGE_mutt is not set # CONFIG_PACKAGE_nail is not set # CONFIG_PACKAGE_opendkim is not set # CONFIG_PACKAGE_opendkim-tools is not set # CONFIG_PACKAGE_postfix is not set # # Select postfix build options # CONFIG_POSTFIX_TLS=y CONFIG_POSTFIX_SASL=y CONFIG_POSTFIX_LDAP=y # CONFIG_POSTFIX_DB is not set CONFIG_POSTFIX_CDB=y CONFIG_POSTFIX_SQLITE=y # CONFIG_POSTFIX_PGSQL is not set CONFIG_POSTFIX_PCRE=y # CONFIG_POSTFIX_EAI is not set # CONFIG_PACKAGE_ssmtp is not set # # Multimedia # # # Streaming # # CONFIG_PACKAGE_oggfwd is not set # CONFIG_PACKAGE_crtmpserver is not set # CONFIG_PACKAGE_ffmpeg is not set # CONFIG_PACKAGE_ffprobe is not set # CONFIG_PACKAGE_ffserver is not set # CONFIG_PACKAGE_fswebcam is not set # CONFIG_PACKAGE_gmediarender is not set # CONFIG_PACKAGE_gphoto2 is not set # CONFIG_PACKAGE_grilo is not set # CONFIG_PACKAGE_grilo-plugins is not set # CONFIG_PACKAGE_gst1-libav is not set # CONFIG_PACKAGE_gstreamer1-libs is not set # CONFIG_PACKAGE_gstreamer1-plugins-bad is not set # CONFIG_PACKAGE_gstreamer1-plugins-base is not set # CONFIG_PACKAGE_gstreamer1-plugins-good is not set # CONFIG_PACKAGE_gstreamer1-plugins-ugly is not set # CONFIG_PACKAGE_gstreamer1-utils is not set # CONFIG_PACKAGE_icecast is not set # CONFIG_PACKAGE_lcdgrilo is not set # CONFIG_PACKAGE_minidlna is not set # CONFIG_PACKAGE_mjpg-streamer is not set # CONFIG_PACKAGE_motion is not set # CONFIG_PACKAGE_tvheadend is not set # CONFIG_PACKAGE_v4l2rtspserver is not set # CONFIG_PACKAGE_vips is not set # CONFIG_PACKAGE_xupnpd is not set # CONFIG_PACKAGE_youtube-dl is not set # # Network # # # BitTorrent # # CONFIG_PACKAGE_mktorrent is not set # CONFIG_PACKAGE_opentracker is not set # CONFIG_PACKAGE_opentracker6 is not set # CONFIG_PACKAGE_qBittorrent is not set # CONFIG_PACKAGE_rtorrent is not set # CONFIG_PACKAGE_rtorrent-rpc is not set # CONFIG_PACKAGE_transmission-cli-openssl is not set # CONFIG_PACKAGE_transmission-daemon-openssl is not set # CONFIG_PACKAGE_transmission-remote-openssl is not set # CONFIG_PACKAGE_transmission-web is not set # CONFIG_PACKAGE_transmission-web-control is not set # # Captive Portals # # CONFIG_PACKAGE_coova-chilli is not set # CONFIG_PACKAGE_nodogsplash is not set # CONFIG_PACKAGE_wifidog is not set # CONFIG_PACKAGE_wifidog-ng-mbedtls is not set # CONFIG_PACKAGE_wifidog-ng-nossl is not set # CONFIG_PACKAGE_wifidog-ng-openssl is not set # CONFIG_PACKAGE_wifidog-ng-wolfssl is not set # CONFIG_PACKAGE_wifidog-tls is not set # # Cloud Manager # # CONFIG_PACKAGE_rclone-ng is not set # CONFIG_PACKAGE_rclone-webui-react is not set # # Download Manager # # CONFIG_PACKAGE_ariang is not set # CONFIG_PACKAGE_webui-aria2 is not set # CONFIG_PACKAGE_yaaw is not set # # File Transfer # # CONFIG_PACKAGE_aria2 is not set # CONFIG_PACKAGE_atftp is not set # CONFIG_PACKAGE_atftpd is not set # CONFIG_PACKAGE_curl is not set # CONFIG_PACKAGE_gnurl is not set # CONFIG_PACKAGE_lftp is not set # CONFIG_PACKAGE_ps3netsrv is not set # CONFIG_PACKAGE_rosy-file-server is not set # CONFIG_PACKAGE_rsync is not set # CONFIG_PACKAGE_rsyncd is not set # CONFIG_PACKAGE_vsftpd is not set CONFIG_PACKAGE_vsftpd-alt=y CONFIG_VSFTPD_USE_UCI_SCRIPTS=y # CONFIG_PACKAGE_vsftpd-tls is not set CONFIG_PACKAGE_wget=y # CONFIG_PACKAGE_wget-nossl is not set # # Filesystem # # CONFIG_PACKAGE_davfs2 is not set # CONFIG_PACKAGE_ksmbd-avahi-service is not set # CONFIG_PACKAGE_ksmbd-server is not set # CONFIG_PACKAGE_ksmbd-utils is not set # CONFIG_PACKAGE_netatalk is not set # CONFIG_PACKAGE_nfs-kernel-server is not set # CONFIG_PACKAGE_owftpd is not set # CONFIG_PACKAGE_owhttpd is not set # CONFIG_PACKAGE_owserver is not set # CONFIG_PACKAGE_sshfs is not set # # Firewall # # CONFIG_PACKAGE_arptables is not set # CONFIG_PACKAGE_conntrack is not set # CONFIG_PACKAGE_conntrackd is not set # CONFIG_PACKAGE_ebtables is not set # CONFIG_PACKAGE_fwknop is not set # CONFIG_PACKAGE_fwknopd is not set # CONFIG_PACKAGE_ip6tables is not set CONFIG_PACKAGE_iptables=y # CONFIG_IPTABLES_CONNLABEL is not set # CONFIG_IPTABLES_NFTABLES is not set # CONFIG_PACKAGE_iptables-mod-account is not set # CONFIG_PACKAGE_iptables-mod-chaos is not set # CONFIG_PACKAGE_iptables-mod-checksum is not set # CONFIG_PACKAGE_iptables-mod-cluster is not set # CONFIG_PACKAGE_iptables-mod-clusterip is not set # CONFIG_PACKAGE_iptables-mod-condition is not set # CONFIG_PACKAGE_iptables-mod-conntrack-extra is not set # CONFIG_PACKAGE_iptables-mod-delude is not set # CONFIG_PACKAGE_iptables-mod-dhcpmac is not set # CONFIG_PACKAGE_iptables-mod-dnetmap is not set # CONFIG_PACKAGE_iptables-mod-extra is not set # CONFIG_PACKAGE_iptables-mod-filter is not set CONFIG_PACKAGE_iptables-mod-fullconenat=y # CONFIG_PACKAGE_iptables-mod-fuzzy is not set # CONFIG_PACKAGE_iptables-mod-geoip is not set # CONFIG_PACKAGE_iptables-mod-hashlimit is not set # CONFIG_PACKAGE_iptables-mod-iface is not set # CONFIG_PACKAGE_iptables-mod-ipmark is not set # CONFIG_PACKAGE_iptables-mod-ipopt is not set # CONFIG_PACKAGE_iptables-mod-ipp2p is not set # CONFIG_PACKAGE_iptables-mod-iprange is not set # CONFIG_PACKAGE_iptables-mod-ipsec is not set # CONFIG_PACKAGE_iptables-mod-ipv4options is not set # CONFIG_PACKAGE_iptables-mod-led is not set # CONFIG_PACKAGE_iptables-mod-length2 is not set # CONFIG_PACKAGE_iptables-mod-logmark is not set # CONFIG_PACKAGE_iptables-mod-lscan is not set # CONFIG_PACKAGE_iptables-mod-lua is not set # CONFIG_PACKAGE_iptables-mod-nat-extra is not set # CONFIG_PACKAGE_iptables-mod-nflog is not set # CONFIG_PACKAGE_iptables-mod-nfqueue is not set # CONFIG_PACKAGE_iptables-mod-physdev is not set # CONFIG_PACKAGE_iptables-mod-psd is not set # CONFIG_PACKAGE_iptables-mod-quota2 is not set # CONFIG_PACKAGE_iptables-mod-rpfilter is not set # CONFIG_PACKAGE_iptables-mod-sysrq is not set # CONFIG_PACKAGE_iptables-mod-tarpit is not set # CONFIG_PACKAGE_iptables-mod-tee is not set # CONFIG_PACKAGE_iptables-mod-tproxy is not set # CONFIG_PACKAGE_iptables-mod-trace is not set # CONFIG_PACKAGE_iptables-mod-u32 is not set # CONFIG_PACKAGE_iptables-mod-ulog is not set # CONFIG_PACKAGE_iptaccount is not set # CONFIG_PACKAGE_iptgeoip is not set # CONFIG_PACKAGE_miniupnpc is not set CONFIG_PACKAGE_miniupnpd=y # CONFIG_MINIUPNPD_IGDv2 is not set # CONFIG_PACKAGE_natpmpc is not set # CONFIG_PACKAGE_nftables is not set # CONFIG_PACKAGE_shorewall is not set # CONFIG_PACKAGE_shorewall-core is not set # CONFIG_PACKAGE_shorewall-lite is not set # CONFIG_PACKAGE_shorewall6 is not set # CONFIG_PACKAGE_shorewall6-lite is not set # CONFIG_PACKAGE_snort is not set # # Firewall Tunnel # # CONFIG_PACKAGE_iodine is not set # CONFIG_PACKAGE_iodined is not set # # FreeRADIUS (version 3) # # CONFIG_PACKAGE_freeradius3 is not set # CONFIG_PACKAGE_freeradius3-common is not set # CONFIG_PACKAGE_freeradius3-utils is not set # # IP Addresses and Names # # CONFIG_PACKAGE_aggregate is not set # CONFIG_PACKAGE_announce is not set # CONFIG_PACKAGE_avahi-autoipd is not set # CONFIG_PACKAGE_avahi-daemon-service-http is not set # CONFIG_PACKAGE_avahi-daemon-service-ssh is not set # CONFIG_PACKAGE_avahi-dbus-daemon is not set # CONFIG_PACKAGE_avahi-dnsconfd is not set # CONFIG_PACKAGE_avahi-nodbus-daemon is not set # CONFIG_PACKAGE_avahi-utils is not set # CONFIG_PACKAGE_bind-check is not set # CONFIG_PACKAGE_bind-client is not set # CONFIG_PACKAGE_bind-dig is not set # CONFIG_PACKAGE_bind-dnssec is not set # CONFIG_PACKAGE_bind-host is not set # CONFIG_PACKAGE_bind-rndc is not set # CONFIG_PACKAGE_bind-server is not set # CONFIG_PACKAGE_bind-tools is not set # CONFIG_PACKAGE_danish is not set CONFIG_PACKAGE_ddns-scripts=y CONFIG_PACKAGE_ddns-scripts_aliyun=y # CONFIG_PACKAGE_ddns-scripts_cloudflare.com-v4 is not set CONFIG_PACKAGE_ddns-scripts_dnspod=y # CONFIG_PACKAGE_ddns-scripts_freedns_42_pl is not set # CONFIG_PACKAGE_ddns-scripts_godaddy.com-v1 is not set # CONFIG_PACKAGE_ddns-scripts_no-ip_com is not set # CONFIG_PACKAGE_ddns-scripts_nsupdate is not set # CONFIG_PACKAGE_ddns-scripts_route53-v1 is not set # CONFIG_PACKAGE_dhcp-forwarder is not set # CONFIG_PACKAGE_dns2socks is not set # CONFIG_PACKAGE_dnscrypt-proxy is not set # CONFIG_PACKAGE_dnscrypt-proxy-resolvers is not set # CONFIG_PACKAGE_drill is not set # CONFIG_PACKAGE_hostip is not set # CONFIG_PACKAGE_idn is not set # CONFIG_PACKAGE_idn2 is not set # CONFIG_PACKAGE_inadyn is not set # CONFIG_PACKAGE_isc-dhcp-client-ipv4 is not set # CONFIG_PACKAGE_isc-dhcp-client-ipv6 is not set # CONFIG_PACKAGE_isc-dhcp-omshell-ipv4 is not set # CONFIG_PACKAGE_isc-dhcp-omshell-ipv6 is not set # CONFIG_PACKAGE_isc-dhcp-relay-ipv4 is not set # CONFIG_PACKAGE_isc-dhcp-relay-ipv6 is not set # CONFIG_PACKAGE_isc-dhcp-server-ipv4 is not set # CONFIG_PACKAGE_isc-dhcp-server-ipv6 is not set # CONFIG_PACKAGE_kadnode is not set # CONFIG_PACKAGE_knot is not set # CONFIG_PACKAGE_knot-dig is not set # CONFIG_PACKAGE_knot-host is not set # CONFIG_PACKAGE_knot-keymgr is not set # CONFIG_PACKAGE_knot-nsupdate is not set # CONFIG_PACKAGE_knot-tests is not set # CONFIG_PACKAGE_knot-zonecheck is not set # CONFIG_PACKAGE_ldns-examples is not set # CONFIG_PACKAGE_mdns-utils is not set # CONFIG_PACKAGE_mdnsd is not set # CONFIG_PACKAGE_mdnsresponder is not set # CONFIG_PACKAGE_nsd is not set # CONFIG_PACKAGE_nsd-control is not set # CONFIG_PACKAGE_nsd-control-setup is not set # CONFIG_PACKAGE_nsd-nossl is not set # CONFIG_PACKAGE_ohybridproxy is not set # CONFIG_PACKAGE_stubby is not set # CONFIG_PACKAGE_unbound-anchor is not set # CONFIG_PACKAGE_unbound-checkconf is not set # CONFIG_PACKAGE_unbound-control is not set # CONFIG_PACKAGE_unbound-control-setup is not set # CONFIG_PACKAGE_unbound-daemon is not set # CONFIG_PACKAGE_unbound-daemon-heavy is not set # CONFIG_PACKAGE_unbound-host is not set # CONFIG_PACKAGE_wsdd2 is not set # CONFIG_PACKAGE_zonestitcher is not set # # Instant Messaging # # CONFIG_PACKAGE_bitlbee is not set # CONFIG_PACKAGE_irssi is not set # CONFIG_PACKAGE_ngircd is not set # CONFIG_PACKAGE_ngircd-nossl is not set # CONFIG_PACKAGE_prosody is not set # CONFIG_PACKAGE_quassel-irssi is not set # CONFIG_PACKAGE_umurmur-mbedtls is not set # CONFIG_PACKAGE_umurmur-openssl is not set # CONFIG_PACKAGE_znc is not set # # Linux ATM tools # # CONFIG_PACKAGE_atm-aread is not set # CONFIG_PACKAGE_atm-atmaddr is not set # CONFIG_PACKAGE_atm-atmdiag is not set # CONFIG_PACKAGE_atm-atmdump is not set # CONFIG_PACKAGE_atm-atmloop is not set # CONFIG_PACKAGE_atm-atmsigd is not set # CONFIG_PACKAGE_atm-atmswitch is not set # CONFIG_PACKAGE_atm-atmtcp is not set # CONFIG_PACKAGE_atm-awrite is not set # CONFIG_PACKAGE_atm-bus is not set # CONFIG_PACKAGE_atm-debug-tools is not set # CONFIG_PACKAGE_atm-diagnostics is not set # CONFIG_PACKAGE_atm-esi is not set # CONFIG_PACKAGE_atm-ilmid is not set # CONFIG_PACKAGE_atm-ilmidiag is not set # CONFIG_PACKAGE_atm-lecs is not set # CONFIG_PACKAGE_atm-les is not set # CONFIG_PACKAGE_atm-mpcd is not set # CONFIG_PACKAGE_atm-saaldump is not set # CONFIG_PACKAGE_atm-sonetdiag is not set # CONFIG_PACKAGE_atm-svc_recv is not set # CONFIG_PACKAGE_atm-svc_send is not set # CONFIG_PACKAGE_atm-tools is not set # CONFIG_PACKAGE_atm-ttcp_atm is not set # CONFIG_PACKAGE_atm-zeppelin is not set # CONFIG_PACKAGE_br2684ctl is not set # # NMAP Suite # # CONFIG_PACKAGE_ncat is not set # CONFIG_PACKAGE_ncat-ssl is not set # CONFIG_PACKAGE_ndiff is not set # CONFIG_PACKAGE_nmap is not set # CONFIG_PACKAGE_nmap-ssl is not set # CONFIG_PACKAGE_nping is not set # # NTRIP # # CONFIG_PACKAGE_ntripcaster is not set # CONFIG_PACKAGE_ntripclient is not set # CONFIG_PACKAGE_ntripserver is not set # # NeteaseMusic # # CONFIG_PACKAGE_UnblockNeteaseMusic is not set # CONFIG_PACKAGE_UnblockNeteaseMusicGo is not set # # OLSR.org network framework # # CONFIG_PACKAGE_oonf-dlep-proxy is not set # CONFIG_PACKAGE_oonf-dlep-radio is not set # CONFIG_PACKAGE_oonf-init-scripts is not set # CONFIG_PACKAGE_oonf-olsrd2 is not set # # Open vSwitch # # CONFIG_PACKAGE_openvswitch is not set # CONFIG_PACKAGE_openvswitch-ovn-host is not set # CONFIG_PACKAGE_openvswitch-ovn-north is not set # CONFIG_PACKAGE_openvswitch-python is not set # CONFIG_PACKAGE_openvswitch-python3 is not set # # OpenLDAP # # CONFIG_PACKAGE_libopenldap is not set CONFIG_OPENLDAP_DEBUG=y # CONFIG_OPENLDAP_CRYPT is not set # CONFIG_OPENLDAP_MONITOR is not set # CONFIG_OPENLDAP_DB47 is not set # CONFIG_OPENLDAP_ICU is not set # CONFIG_PACKAGE_openldap-server is not set # CONFIG_PACKAGE_openldap-utils is not set # # P2P # # CONFIG_PACKAGE_amule is not set # CONFIG_AMULE_CRYPTOPP_STATIC_LINKING is not set # CONFIG_PACKAGE_antileech is not set # # Printing # # CONFIG_PACKAGE_p910nd is not set # # Project V # CONFIG_PACKAGE_v2ray=y # # V2Ray Configuration # # CONFIG_V2RAY_COMPRESS_GOPROXY is not set # CONFIG_V2RAY_JSON_V2CTL is not set CONFIG_V2RAY_JSON_INTERNAL=y # CONFIG_V2RAY_JSON_NONE is not set CONFIG_V2RAY_EXCLUDE_V2CTL=y CONFIG_V2RAY_EXCLUDE_ASSETS=y CONFIG_V2RAY_COMPRESS_UPX=y CONFIG_V2RAY_DISABLE_NONE=y # CONFIG_V2RAY_DISABLE_CUSTOM is not set # CONFIG_PACKAGE_v2ray-plugin is not set # CONFIG_v2ray-plugin_INCLUDE_GOPROXY is not set # # Routing and Redirection # # CONFIG_PACKAGE_babel-pinger is not set # CONFIG_PACKAGE_babeld is not set # CONFIG_PACKAGE_batmand is not set # CONFIG_PACKAGE_bcp38 is not set # CONFIG_PACKAGE_bird1-ipv4 is not set # CONFIG_PACKAGE_bird1-ipv4-uci is not set # CONFIG_PACKAGE_bird1-ipv6 is not set # CONFIG_PACKAGE_bird1-ipv6-uci is not set # CONFIG_PACKAGE_bird1c-ipv4 is not set # CONFIG_PACKAGE_bird1c-ipv6 is not set # CONFIG_PACKAGE_bird1cl-ipv4 is not set # CONFIG_PACKAGE_bird1cl-ipv6 is not set # CONFIG_PACKAGE_bird2 is not set # CONFIG_PACKAGE_bird2c is not set # CONFIG_PACKAGE_bird2cl is not set # CONFIG_PACKAGE_bmx6 is not set # CONFIG_PACKAGE_bmx7 is not set # CONFIG_PACKAGE_cjdns is not set # CONFIG_PACKAGE_cjdns-tests is not set # CONFIG_PACKAGE_dcwapd is not set # CONFIG_PACKAGE_devlink is not set # CONFIG_PACKAGE_genl is not set # CONFIG_PACKAGE_igmpproxy is not set # CONFIG_PACKAGE_ip-bridge is not set CONFIG_PACKAGE_ip-full=y # CONFIG_PACKAGE_ip-tiny is not set # CONFIG_PACKAGE_lldpd is not set # CONFIG_PACKAGE_mcproxy is not set # CONFIG_PACKAGE_mrmctl is not set # CONFIG_PACKAGE_mwan3 is not set # CONFIG_PACKAGE_nstat is not set # CONFIG_PACKAGE_olsrd is not set # CONFIG_PACKAGE_prince is not set # CONFIG_PACKAGE_quagga is not set # CONFIG_PACKAGE_rdma is not set # CONFIG_PACKAGE_relayd is not set # CONFIG_PACKAGE_ss is not set # CONFIG_PACKAGE_sslh is not set # CONFIG_PACKAGE_tc is not set # CONFIG_PACKAGE_tcpproxy is not set # CONFIG_PACKAGE_vis is not set # # SSH # # CONFIG_PACKAGE_autossh is not set # CONFIG_PACKAGE_openssh-client is not set # CONFIG_PACKAGE_openssh-client-utils is not set # CONFIG_PACKAGE_openssh-keygen is not set # CONFIG_PACKAGE_openssh-moduli is not set # CONFIG_PACKAGE_openssh-server is not set # CONFIG_PACKAGE_openssh-server-pam is not set # CONFIG_PACKAGE_openssh-sftp-avahi-service is not set # CONFIG_PACKAGE_openssh-sftp-client is not set # CONFIG_PACKAGE_openssh-sftp-server is not set # CONFIG_PACKAGE_sshtunnel is not set # # THC-IPv6 attack and analyzing toolkit # # CONFIG_PACKAGE_thc-ipv6-address6 is not set # CONFIG_PACKAGE_thc-ipv6-alive6 is not set # CONFIG_PACKAGE_thc-ipv6-covert-send6 is not set # CONFIG_PACKAGE_thc-ipv6-covert-send6d is not set # CONFIG_PACKAGE_thc-ipv6-denial6 is not set # CONFIG_PACKAGE_thc-ipv6-detect-new-ip6 is not set # CONFIG_PACKAGE_thc-ipv6-detect-sniffer6 is not set # CONFIG_PACKAGE_thc-ipv6-dnsdict6 is not set # CONFIG_PACKAGE_thc-ipv6-dnsrevenum6 is not set # CONFIG_PACKAGE_thc-ipv6-dos-new-ip6 is not set # CONFIG_PACKAGE_thc-ipv6-dump-router6 is not set # CONFIG_PACKAGE_thc-ipv6-exploit6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-advertise6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-dhcps6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-dns6d is not set # CONFIG_PACKAGE_thc-ipv6-fake-dnsupdate6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-mipv6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-mld26 is not set # CONFIG_PACKAGE_thc-ipv6-fake-mld6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-mldrouter6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-router26 is not set # CONFIG_PACKAGE_thc-ipv6-fake-router6 is not set # CONFIG_PACKAGE_thc-ipv6-fake-solicitate6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-advertise6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-dhcpc6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-mld26 is not set # CONFIG_PACKAGE_thc-ipv6-flood-mld6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-mldrouter6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-router26 is not set # CONFIG_PACKAGE_thc-ipv6-flood-router6 is not set # CONFIG_PACKAGE_thc-ipv6-flood-solicitate6 is not set # CONFIG_PACKAGE_thc-ipv6-fragmentation6 is not set # CONFIG_PACKAGE_thc-ipv6-fuzz-dhcpc6 is not set # CONFIG_PACKAGE_thc-ipv6-fuzz-dhcps6 is not set # CONFIG_PACKAGE_thc-ipv6-fuzz-ip6 is not set # CONFIG_PACKAGE_thc-ipv6-implementation6 is not set # CONFIG_PACKAGE_thc-ipv6-implementation6d is not set # CONFIG_PACKAGE_thc-ipv6-inverse-lookup6 is not set # CONFIG_PACKAGE_thc-ipv6-kill-router6 is not set # CONFIG_PACKAGE_thc-ipv6-ndpexhaust6 is not set # CONFIG_PACKAGE_thc-ipv6-node-query6 is not set # CONFIG_PACKAGE_thc-ipv6-parasite6 is not set # CONFIG_PACKAGE_thc-ipv6-passive-discovery6 is not set # CONFIG_PACKAGE_thc-ipv6-randicmp6 is not set # CONFIG_PACKAGE_thc-ipv6-redir6 is not set # CONFIG_PACKAGE_thc-ipv6-rsmurf6 is not set # CONFIG_PACKAGE_thc-ipv6-sendpees6 is not set # CONFIG_PACKAGE_thc-ipv6-sendpeesmp6 is not set # CONFIG_PACKAGE_thc-ipv6-smurf6 is not set # CONFIG_PACKAGE_thc-ipv6-thcping6 is not set # CONFIG_PACKAGE_thc-ipv6-toobig6 is not set # CONFIG_PACKAGE_thc-ipv6-trace6 is not set # # Time Synchronization # # CONFIG_PACKAGE_chrony is not set # CONFIG_PACKAGE_htpdate is not set # CONFIG_PACKAGE_linuxptp is not set # CONFIG_PACKAGE_ntp-keygen is not set # CONFIG_PACKAGE_ntp-utils is not set # CONFIG_PACKAGE_ntpclient is not set # CONFIG_PACKAGE_ntpd is not set # CONFIG_PACKAGE_ntpdate is not set # # VPN # # CONFIG_PACKAGE_chaosvpn is not set # CONFIG_PACKAGE_fastd is not set # CONFIG_PACKAGE_ipsec-tools is not set # CONFIG_PACKAGE_n2n-edge is not set # CONFIG_PACKAGE_n2n-supernode is not set # CONFIG_PACKAGE_ocserv is not set # CONFIG_PACKAGE_openconnect is not set # CONFIG_PACKAGE_opennhrp is not set # CONFIG_PACKAGE_openvpn-easy-rsa is not set # CONFIG_PACKAGE_openvpn-mbedtls is not set # CONFIG_PACKAGE_openvpn-nossl is not set # CONFIG_PACKAGE_openvpn-openssl is not set # CONFIG_PACKAGE_pptpd is not set # CONFIG_PACKAGE_softethervpn-base is not set # CONFIG_PACKAGE_softethervpn-bridge is not set # CONFIG_PACKAGE_softethervpn-client is not set # CONFIG_PACKAGE_softethervpn-server is not set # CONFIG_PACKAGE_softethervpn5-bridge is not set # CONFIG_PACKAGE_softethervpn5-client is not set # CONFIG_PACKAGE_softethervpn5-server is not set # CONFIG_PACKAGE_sstp-client is not set # CONFIG_PACKAGE_strongswan is not set # CONFIG_PACKAGE_strongswan-charon is not set # CONFIG_PACKAGE_strongswan-charon-cmd is not set # CONFIG_PACKAGE_strongswan-default is not set # CONFIG_PACKAGE_strongswan-ipsec is not set # CONFIG_PACKAGE_strongswan-isakmp is not set # CONFIG_PACKAGE_strongswan-libtls is not set # CONFIG_PACKAGE_strongswan-minimal is not set # CONFIG_PACKAGE_strongswan-mod-addrblock is not set # CONFIG_PACKAGE_strongswan-mod-aes is not set # CONFIG_PACKAGE_strongswan-mod-af-alg is not set # CONFIG_PACKAGE_strongswan-mod-agent is not set # CONFIG_PACKAGE_strongswan-mod-attr is not set # CONFIG_PACKAGE_strongswan-mod-attr-sql is not set # CONFIG_PACKAGE_strongswan-mod-blowfish is not set # CONFIG_PACKAGE_strongswan-mod-ccm is not set # CONFIG_PACKAGE_strongswan-mod-cmac is not set # CONFIG_PACKAGE_strongswan-mod-connmark is not set # CONFIG_PACKAGE_strongswan-mod-constraints is not set # CONFIG_PACKAGE_strongswan-mod-coupling is not set # CONFIG_PACKAGE_strongswan-mod-ctr is not set # CONFIG_PACKAGE_strongswan-mod-curl is not set # CONFIG_PACKAGE_strongswan-mod-curve25519 is not set # CONFIG_PACKAGE_strongswan-mod-des is not set # CONFIG_PACKAGE_strongswan-mod-dhcp is not set # CONFIG_PACKAGE_strongswan-mod-dnskey is not set # CONFIG_PACKAGE_strongswan-mod-duplicheck is not set # CONFIG_PACKAGE_strongswan-mod-eap-identity is not set # CONFIG_PACKAGE_strongswan-mod-eap-md5 is not set # CONFIG_PACKAGE_strongswan-mod-eap-mschapv2 is not set # CONFIG_PACKAGE_strongswan-mod-eap-radius is not set # CONFIG_PACKAGE_strongswan-mod-eap-tls is not set # CONFIG_PACKAGE_strongswan-mod-farp is not set # CONFIG_PACKAGE_strongswan-mod-fips-prf is not set # CONFIG_PACKAGE_strongswan-mod-forecast is not set # CONFIG_PACKAGE_strongswan-mod-gcm is not set # CONFIG_PACKAGE_strongswan-mod-gcrypt is not set # CONFIG_PACKAGE_strongswan-mod-gmp is not set # CONFIG_PACKAGE_strongswan-mod-gmpdh is not set # CONFIG_PACKAGE_strongswan-mod-ha is not set # CONFIG_PACKAGE_strongswan-mod-hmac is not set # CONFIG_PACKAGE_strongswan-mod-kernel-libipsec is not set # CONFIG_PACKAGE_strongswan-mod-kernel-netlink is not set # CONFIG_PACKAGE_strongswan-mod-ldap is not set # CONFIG_PACKAGE_strongswan-mod-led is not set # CONFIG_PACKAGE_strongswan-mod-load-tester is not set # CONFIG_PACKAGE_strongswan-mod-md4 is not set # CONFIG_PACKAGE_strongswan-mod-md5 is not set # CONFIG_PACKAGE_strongswan-mod-mysql is not set # CONFIG_PACKAGE_strongswan-mod-nonce is not set # CONFIG_PACKAGE_strongswan-mod-openssl is not set # CONFIG_PACKAGE_strongswan-mod-pem is not set # CONFIG_PACKAGE_strongswan-mod-pgp is not set # CONFIG_PACKAGE_strongswan-mod-pkcs1 is not set # CONFIG_PACKAGE_strongswan-mod-pkcs11 is not set # CONFIG_PACKAGE_strongswan-mod-pkcs12 is not set # CONFIG_PACKAGE_strongswan-mod-pkcs7 is not set # CONFIG_PACKAGE_strongswan-mod-pkcs8 is not set # CONFIG_PACKAGE_strongswan-mod-pubkey is not set # CONFIG_PACKAGE_strongswan-mod-random is not set # CONFIG_PACKAGE_strongswan-mod-rc2 is not set # CONFIG_PACKAGE_strongswan-mod-resolve is not set # CONFIG_PACKAGE_strongswan-mod-revocation is not set # CONFIG_PACKAGE_strongswan-mod-sha1 is not set # CONFIG_PACKAGE_strongswan-mod-sha2 is not set # CONFIG_PACKAGE_strongswan-mod-smp is not set # CONFIG_PACKAGE_strongswan-mod-socket-default is not set # CONFIG_PACKAGE_strongswan-mod-socket-dynamic is not set # CONFIG_PACKAGE_strongswan-mod-sql is not set # CONFIG_PACKAGE_strongswan-mod-sqlite is not set # CONFIG_PACKAGE_strongswan-mod-sshkey is not set # CONFIG_PACKAGE_strongswan-mod-stroke is not set # CONFIG_PACKAGE_strongswan-mod-test-vectors is not set # CONFIG_PACKAGE_strongswan-mod-uci is not set # CONFIG_PACKAGE_strongswan-mod-unity is not set # CONFIG_PACKAGE_strongswan-mod-updown is not set # CONFIG_PACKAGE_strongswan-mod-vici is not set # CONFIG_PACKAGE_strongswan-mod-whitelist is not set # CONFIG_PACKAGE_strongswan-mod-x509 is not set # CONFIG_PACKAGE_strongswan-mod-xauth-eap is not set # CONFIG_PACKAGE_strongswan-mod-xauth-generic is not set # CONFIG_PACKAGE_strongswan-mod-xcbc is not set # CONFIG_PACKAGE_strongswan-pki is not set # CONFIG_PACKAGE_strongswan-scepclient is not set # CONFIG_PACKAGE_strongswan-swanctl is not set # CONFIG_PACKAGE_tinc is not set # CONFIG_PACKAGE_uanytun is not set # CONFIG_PACKAGE_uanytun-nettle is not set # CONFIG_PACKAGE_uanytun-nocrypt is not set # CONFIG_PACKAGE_uanytun-sslcrypt is not set # CONFIG_PACKAGE_vpnc is not set # CONFIG_PACKAGE_vpnc-scripts is not set # CONFIG_PACKAGE_wireguard is not set # CONFIG_PACKAGE_xl2tpd is not set # CONFIG_PACKAGE_zerotier is not set # # Version Control Systems # # CONFIG_PACKAGE_fossil is not set # CONFIG_PACKAGE_git is not set # CONFIG_PACKAGE_git-http is not set # CONFIG_PACKAGE_subversion-client is not set # CONFIG_PACKAGE_subversion-libs is not set # CONFIG_PACKAGE_subversion-server is not set # # WWAN # # CONFIG_PACKAGE_adb-enablemodem is not set # CONFIG_PACKAGE_comgt is not set # CONFIG_PACKAGE_comgt-directip is not set # CONFIG_PACKAGE_comgt-ncm is not set # CONFIG_PACKAGE_uqmi is not set # # Web Servers/Proxies # # CONFIG_PACKAGE_apache is not set # CONFIG_PACKAGE_cgi-io is not set # CONFIG_PACKAGE_clamav is not set # CONFIG_PACKAGE_e2guardian is not set # CONFIG_PACKAGE_freshclam is not set # CONFIG_PACKAGE_frpc is not set # CONFIG_PACKAGE_frps is not set # CONFIG_PACKAGE_haproxy is not set # CONFIG_PACKAGE_haproxy-nossl is not set # CONFIG_PACKAGE_kcptun-client is not set # CONFIG_PACKAGE_kcptun-server is not set # CONFIG_PACKAGE_lighttpd is not set # CONFIG_PACKAGE_nginx is not set # CONFIG_PACKAGE_nginx-all-module is not set # CONFIG_PACKAGE_nginx-mod-luci is not set # CONFIG_PACKAGE_nginx-mod-luci-ssl is not set # CONFIG_PACKAGE_nginx-ssl is not set CONFIG_PACKAGE_pdnsd-alt=y # CONFIG_PACKAGE_polipo is not set # CONFIG_PACKAGE_privoxy is not set # CONFIG_PACKAGE_radicale-py2 is not set # CONFIG_PACKAGE_radicale-py3 is not set # CONFIG_PACKAGE_radicale2 is not set # CONFIG_PACKAGE_radicale2-examples is not set # CONFIG_PACKAGE_radicale2-src is not set # CONFIG_PACKAGE_shadowsocks-client is not set # CONFIG_PACKAGE_shadowsocks-libev-ss-local is not set # CONFIG_PACKAGE_shadowsocks-libev-ss-redir is not set # CONFIG_PACKAGE_shadowsocks-libev-ss-rules is not set # CONFIG_PACKAGE_shadowsocks-libev-ss-server is not set # CONFIG_PACKAGE_shadowsocks-libev-ss-tunnel is not set # CONFIG_PACKAGE_shadowsocksr-libev is not set # CONFIG_PACKAGE_shadowsocksr-libev-alt is not set # CONFIG_PACKAGE_shadowsocksr-libev-server is not set # CONFIG_PACKAGE_shadowsocksr-libev-ssr-local is not set # CONFIG_PACKAGE_sockd is not set # CONFIG_PACKAGE_socksify is not set # CONFIG_PACKAGE_spawn-fcgi is not set # CONFIG_PACKAGE_squid is not set # CONFIG_PACKAGE_srelay is not set # CONFIG_PACKAGE_tinyproxy is not set CONFIG_PACKAGE_uhttpd=y # CONFIG_PACKAGE_uhttpd-mod-lua is not set CONFIG_PACKAGE_uhttpd-mod-ubus=y # CONFIG_PACKAGE_uwsgi-cgi is not set # CONFIG_PACKAGE_uwsgi-cgi-luci-support is not set # # Wireless # # CONFIG_PACKAGE_aircrack-ng is not set # CONFIG_PACKAGE_airmon-ng is not set # # dial-in/up # # CONFIG_PACKAGE_rp-pppoe-common is not set # CONFIG_PACKAGE_rp-pppoe-relay is not set # CONFIG_PACKAGE_rp-pppoe-server is not set # # tcprelay # # CONFIG_PACKAGE_tcpbridge is not set # CONFIG_PACKAGE_tcpcapinfo is not set # CONFIG_PACKAGE_tcpliveplay is not set # CONFIG_PACKAGE_tcpprep is not set # CONFIG_PACKAGE_tcpreplay is not set # CONFIG_PACKAGE_tcpreplay-all is not set # CONFIG_PACKAGE_tcpreplay-edit is not set # CONFIG_PACKAGE_tcprewrite is not set # # wireless # # CONFIG_PACKAGE_dynapoint is not set # CONFIG_PACKAGE_horst is not set # CONFIG_PACKAGE_kismet-client is not set # CONFIG_PACKAGE_kismet-drone is not set # CONFIG_PACKAGE_kismet-server is not set # CONFIG_PACKAGE_pixiewps is not set # CONFIG_PACKAGE_reaver is not set # CONFIG_PACKAGE_wavemon is not set # CONFIG_PACKAGE_wifischedule is not set # CONFIG_PACKAGE_464xlat is not set # CONFIG_PACKAGE_6in4 is not set # CONFIG_PACKAGE_6rd is not set # CONFIG_PACKAGE_6to4 is not set # CONFIG_PACKAGE_acme is not set # CONFIG_PACKAGE_acme-dnsapi is not set # CONFIG_PACKAGE_adblock is not set # CONFIG_PACKAGE_adbyby is not set # CONFIG_PACKAGE_addrwatch is not set # CONFIG_PACKAGE_ahcpd is not set # CONFIG_PACKAGE_alfred is not set # CONFIG_PACKAGE_apcupsd is not set # CONFIG_PACKAGE_apcupsd-cgi is not set # CONFIG_PACKAGE_apinger is not set # CONFIG_PACKAGE_arp-scan is not set # CONFIG_PACKAGE_baidupcs-web is not set # CONFIG_PACKAGE_banip is not set # CONFIG_PACKAGE_batctl-default is not set # CONFIG_PACKAGE_batctl-full is not set # CONFIG_PACKAGE_batctl-tiny is not set # CONFIG_PACKAGE_beanstalkd is not set # CONFIG_PACKAGE_bmon is not set # CONFIG_PACKAGE_bwm-ng is not set # CONFIG_PACKAGE_chat is not set # CONFIG_PACKAGE_cifsmount is not set # CONFIG_PACKAGE_coap-server is not set # CONFIG_PACKAGE_conserver is not set # CONFIG_PACKAGE_cshark is not set # CONFIG_PACKAGE_daemonlogger is not set # CONFIG_PACKAGE_darkstat is not set # CONFIG_PACKAGE_dhcpcd is not set # CONFIG_PACKAGE_dmapd is not set # CONFIG_PACKAGE_ds-lite is not set # CONFIG_PACKAGE_dsmboot is not set # CONFIG_PACKAGE_eapol-test is not set # CONFIG_PACKAGE_eapol-test-openssl is not set # CONFIG_PACKAGE_eapol-test-wolfssl is not set # CONFIG_PACKAGE_esniper is not set # CONFIG_PACKAGE_etherwake is not set # CONFIG_PACKAGE_ethtool is not set # CONFIG_PACKAGE_fakeidentd is not set # CONFIG_PACKAGE_foolsm is not set # CONFIG_PACKAGE_fping is not set # CONFIG_PACKAGE_gnunet is not set # CONFIG_PACKAGE_gre is not set # CONFIG_PACKAGE_hnet-full is not set # CONFIG_PACKAGE_hnet-full-l2tp is not set # CONFIG_PACKAGE_hnet-full-secure is not set # CONFIG_PACKAGE_hnetd-nossl is not set # CONFIG_PACKAGE_hnetd-openssl is not set # CONFIG_PACKAGE_hostapd is not set # CONFIG_PACKAGE_hostapd-basic is not set CONFIG_PACKAGE_hostapd-common=y # CONFIG_PACKAGE_hostapd-mini is not set # CONFIG_PACKAGE_hostapd-openssl is not set # CONFIG_PACKAGE_hostapd-utils is not set # CONFIG_PACKAGE_hostapd-wolfssl is not set # CONFIG_PACKAGE_httping is not set # CONFIG_PACKAGE_httping-nossl is not set # CONFIG_PACKAGE_https_dns_proxy is not set # CONFIG_PACKAGE_i2pd is not set # CONFIG_PACKAGE_ibrdtn-tools is not set # CONFIG_PACKAGE_ibrdtnd is not set # CONFIG_PACKAGE_ifstat is not set # CONFIG_PACKAGE_iftop is not set # CONFIG_PACKAGE_iiod is not set # CONFIG_PACKAGE_iotivity is not set # CONFIG_PACKAGE_iotivity-cpp is not set # CONFIG_PACKAGE_iotivity-example-garage is not set # CONFIG_PACKAGE_iotivity-example-simple is not set # CONFIG_PACKAGE_iotivity-oic-middle is not set # CONFIG_PACKAGE_iotivity-resource-container-hue is not set # CONFIG_PACKAGE_iotivity-resource-container-lib is not set # CONFIG_PACKAGE_iotivity-resource-container-sample is not set # CONFIG_PACKAGE_iotivity-resource-directory-lib is not set # CONFIG_PACKAGE_iperf is not set # CONFIG_PACKAGE_iperf3 is not set # CONFIG_PACKAGE_iperf3-ssl is not set # CONFIG_PACKAGE_ipip is not set CONFIG_PACKAGE_ipset=y # CONFIG_PACKAGE_ipset-dns is not set # CONFIG_PACKAGE_ipset-lists is not set # CONFIG_PACKAGE_ipt2socks is not set # CONFIG_PACKAGE_iptraf-ng is not set # CONFIG_PACKAGE_iputils-arping is not set # CONFIG_PACKAGE_iputils-clockdiff is not set # CONFIG_PACKAGE_iputils-ping is not set # CONFIG_PACKAGE_iputils-ping6 is not set # CONFIG_PACKAGE_iputils-tftpd is not set # CONFIG_PACKAGE_iputils-tracepath is not set # CONFIG_PACKAGE_iputils-tracepath6 is not set # CONFIG_PACKAGE_iputils-traceroute6 is not set CONFIG_PACKAGE_iw=y # CONFIG_PACKAGE_iw-full is not set # CONFIG_PACKAGE_jool is not set # CONFIG_PACKAGE_jool-tools is not set # CONFIG_PACKAGE_keepalived is not set # CONFIG_PACKAGE_knxd is not set # CONFIG_PACKAGE_kplex is not set # CONFIG_PACKAGE_krb5-client is not set # CONFIG_PACKAGE_krb5-libs is not set # CONFIG_PACKAGE_krb5-server is not set CONFIG_PACKAGE_libipset=y # CONFIG_PACKAGE_linknx is not set # CONFIG_PACKAGE_lispd is not set # CONFIG_PACKAGE_mac-telnet-client is not set # CONFIG_PACKAGE_mac-telnet-discover is not set # CONFIG_PACKAGE_mac-telnet-ping is not set # CONFIG_PACKAGE_mac-telnet-server is not set # CONFIG_PACKAGE_map is not set # CONFIG_PACKAGE_memcached is not set # CONFIG_PACKAGE_microsocks is not set # CONFIG_PACKAGE_mii-tool is not set # CONFIG_PACKAGE_mikrotik-btest is not set # CONFIG_PACKAGE_mini_snmpd is not set # CONFIG_PACKAGE_minimalist-pcproxy is not set # CONFIG_PACKAGE_modemmanager is not set # CONFIG_PACKAGE_mosquitto-client-nossl is not set # CONFIG_PACKAGE_mosquitto-client-ssl is not set # CONFIG_PACKAGE_mosquitto-nossl is not set # CONFIG_PACKAGE_mosquitto-ssl is not set # CONFIG_PACKAGE_mrd6 is not set # CONFIG_PACKAGE_mtr is not set # CONFIG_PACKAGE_nbd is not set # CONFIG_PACKAGE_nbd-server is not set # CONFIG_PACKAGE_ncp is not set # CONFIG_PACKAGE_ndppd is not set # CONFIG_PACKAGE_netcat is not set # CONFIG_PACKAGE_netdiscover is not set # CONFIG_PACKAGE_netperf is not set # CONFIG_PACKAGE_nextdns is not set CONFIG_PACKAGE_nlbwmon=y # CONFIG_PACKAGE_noddos is not set # CONFIG_PACKAGE_noping is not set # CONFIG_PACKAGE_npc is not set # CONFIG_PACKAGE_nut is not set # CONFIG_PACKAGE_obfsproxy is not set # CONFIG_PACKAGE_obfsproxy-src is not set # CONFIG_PACKAGE_odhcp6c is not set # CONFIG_PACKAGE_odhcpd is not set # CONFIG_PACKAGE_odhcpd-ipv6only is not set # CONFIG_PACKAGE_ola is not set # CONFIG_PACKAGE_omcproxy is not set # CONFIG_PACKAGE_oping is not set # CONFIG_PACKAGE_pagekitec is not set # CONFIG_PACKAGE_pen is not set # CONFIG_PACKAGE_pimbd is not set # CONFIG_PACKAGE_pingcheck is not set # CONFIG_PACKAGE_port-mirroring is not set # CONFIG_PACKAGE_portmap is not set CONFIG_PACKAGE_ppp=y # CONFIG_PACKAGE_ppp-mod-passwordfd is not set # CONFIG_PACKAGE_ppp-mod-pppoa is not set CONFIG_PACKAGE_ppp-mod-pppoe=y # CONFIG_PACKAGE_ppp-mod-pppol2tp is not set # CONFIG_PACKAGE_ppp-mod-pptp is not set # CONFIG_PACKAGE_ppp-mod-radius is not set # CONFIG_PACKAGE_ppp-multilink is not set # CONFIG_PACKAGE_pppdump is not set # CONFIG_PACKAGE_pppoe-discovery is not set # CONFIG_PACKAGE_pppossh is not set # CONFIG_PACKAGE_pppstats is not set # CONFIG_PACKAGE_proto-bonding is not set # CONFIG_PACKAGE_proxychains-ng is not set # CONFIG_PACKAGE_radsecproxy is not set # CONFIG_PACKAGE_redsocks is not set # CONFIG_PACKAGE_redsocks2 is not set # CONFIG_PACKAGE_remserial is not set # CONFIG_PACKAGE_rpcbind is not set # CONFIG_PACKAGE_rssileds is not set # CONFIG_PACKAGE_rsyslog is not set # CONFIG_PACKAGE_samba36-client is not set # CONFIG_PACKAGE_samba36-net is not set # CONFIG_PACKAGE_samba36-server is not set # CONFIG_PACKAGE_samba4-admin is not set # CONFIG_PACKAGE_samba4-client is not set # CONFIG_PACKAGE_samba4-libs is not set # CONFIG_PACKAGE_samba4-server is not set # CONFIG_PACKAGE_samba4-utils is not set # CONFIG_PACKAGE_scapy is not set # CONFIG_PACKAGE_sctp is not set # CONFIG_PACKAGE_sctp-tools is not set # CONFIG_PACKAGE_seafile-ccnet is not set # CONFIG_PACKAGE_seafile-seahub is not set # CONFIG_PACKAGE_seafile-seahub-src is not set # CONFIG_PACKAGE_ser2net is not set # CONFIG_PACKAGE_simple-adblock is not set # CONFIG_PACKAGE_simple-obfs is not set # CONFIG_PACKAGE_simple-obfs-server is not set # CONFIG_PACKAGE_smartsnmpd is not set # CONFIG_PACKAGE_snmp-mibs is not set # CONFIG_PACKAGE_snmp-utils is not set # CONFIG_PACKAGE_snmpd is not set # CONFIG_PACKAGE_snmpd-static is not set # CONFIG_PACKAGE_snmptrapd is not set # CONFIG_PACKAGE_socat is not set # CONFIG_PACKAGE_softflowd is not set # CONFIG_PACKAGE_soloscli is not set # CONFIG_PACKAGE_stunnel is not set # CONFIG_PACKAGE_tayga is not set # CONFIG_PACKAGE_tcpdump is not set # CONFIG_PACKAGE_tcpdump-mini is not set # CONFIG_PACKAGE_tcpping is not set # CONFIG_PACKAGE_tor is not set # CONFIG_PACKAGE_tor-gencert is not set # CONFIG_PACKAGE_tor-geoip is not set # CONFIG_PACKAGE_tor-resolve is not set # CONFIG_PACKAGE_travelmate is not set # CONFIG_PACKAGE_trojan is not set # CONFIG_PACKAGE_u2pnpd is not set CONFIG_PACKAGE_uclient-fetch=y # CONFIG_PACKAGE_udpxy is not set # CONFIG_PACKAGE_ulogd is not set # CONFIG_PACKAGE_umbim is not set # CONFIG_PACKAGE_umdns is not set # CONFIG_PACKAGE_usbip is not set # CONFIG_PACKAGE_vallumd is not set # CONFIG_PACKAGE_verysync is not set CONFIG_PACKAGE_vlmcsd=y # CONFIG_PACKAGE_vncrepeater is not set # CONFIG_PACKAGE_vnstat is not set # CONFIG_PACKAGE_vpnbypass is not set # CONFIG_PACKAGE_vsc7385-ucode-pb44 is not set # CONFIG_PACKAGE_vsc7395-ucode-pb44 is not set # CONFIG_PACKAGE_vti is not set # CONFIG_PACKAGE_vxlan is not set # CONFIG_PACKAGE_wakeonlan is not set # CONFIG_PACKAGE_wpa-cli is not set # CONFIG_PACKAGE_wpa-supplicant is not set # CONFIG_WPA_RFKILL_SUPPORT is not set CONFIG_WPA_MSG_MIN_PRIORITY=3 # CONFIG_WPA_WOLFSSL is not set # CONFIG_DRIVER_WEXT_SUPPORT is not set CONFIG_DRIVER_11N_SUPPORT=y CONFIG_DRIVER_11AC_SUPPORT=y CONFIG_DRIVER_11W_SUPPORT=y # CONFIG_PACKAGE_wpa-supplicant-basic is not set # CONFIG_PACKAGE_wpa-supplicant-mesh-openssl is not set # CONFIG_PACKAGE_wpa-supplicant-mesh-wolfssl is not set # CONFIG_PACKAGE_wpa-supplicant-mini is not set # CONFIG_PACKAGE_wpa-supplicant-openssl is not set # CONFIG_PACKAGE_wpa-supplicant-p2p is not set # CONFIG_PACKAGE_wpa-supplicant-wolfssl is not set # CONFIG_PACKAGE_wpad is not set # CONFIG_PACKAGE_wpad-basic is not set # CONFIG_PACKAGE_wpad-mesh-openssl is not set # CONFIG_PACKAGE_wpad-mesh-wolfssl is not set # CONFIG_PACKAGE_wpad-mini is not set CONFIG_PACKAGE_wpad-openssl=y # CONFIG_PACKAGE_wpad-wolfssl is not set # CONFIG_PACKAGE_wpan-tools is not set # CONFIG_PACKAGE_wwan is not set # CONFIG_PACKAGE_xinetd is not set # # Sound # # CONFIG_PACKAGE_alsa-utils is not set # CONFIG_PACKAGE_alsa-utils-seq is not set # CONFIG_PACKAGE_alsa-utils-tests is not set # CONFIG_PACKAGE_espeak is not set # CONFIG_PACKAGE_faad2 is not set # CONFIG_PACKAGE_fdk-aac is not set # CONFIG_PACKAGE_forked-daapd is not set # CONFIG_PACKAGE_ices is not set # CONFIG_PACKAGE_lame is not set # CONFIG_PACKAGE_lame-lib is not set # CONFIG_PACKAGE_liblo-utils is not set # CONFIG_PACKAGE_madplay is not set # CONFIG_PACKAGE_madplay-alsa is not set # CONFIG_PACKAGE_moc is not set # CONFIG_PACKAGE_mpc is not set # CONFIG_PACKAGE_mpd-avahi-service is not set # CONFIG_PACKAGE_mpd-full is not set # CONFIG_PACKAGE_mpd-mini is not set # CONFIG_PACKAGE_mpg123 is not set # CONFIG_PACKAGE_opus-tools is not set # CONFIG_PACKAGE_pianod is not set # CONFIG_PACKAGE_pianod-client is not set # CONFIG_PACKAGE_portaudio is not set # CONFIG_PACKAGE_pulseaudio-daemon is not set # CONFIG_PACKAGE_pulseaudio-daemon-avahi is not set # CONFIG_PACKAGE_shairplay is not set # CONFIG_PACKAGE_shairport-sync-mbedtls is not set # CONFIG_PACKAGE_shairport-sync-mini is not set # CONFIG_PACKAGE_shairport-sync-openssl is not set # CONFIG_PACKAGE_shine is not set # CONFIG_PACKAGE_sox is not set # CONFIG_PACKAGE_squeezelite-full is not set # CONFIG_PACKAGE_squeezelite-mini is not set # CONFIG_PACKAGE_svox is not set # CONFIG_PACKAGE_upmpdcli is not set # # Utilities # # # Boot Loaders # # CONFIG_PACKAGE_fconfig is not set # CONFIG_PACKAGE_rbcfg is not set CONFIG_PACKAGE_uboot-envtools=y # # Compression # # CONFIG_PACKAGE_bsdtar is not set # CONFIG_PACKAGE_bzip2 is not set # CONFIG_PACKAGE_gzip is not set # CONFIG_PACKAGE_pigz is not set # CONFIG_PACKAGE_unrar is not set # CONFIG_PACKAGE_unzip is not set # CONFIG_PACKAGE_xz-utils is not set # CONFIG_PACKAGE_zip is not set # CONFIG_PACKAGE_zstd is not set # # Database # # CONFIG_PACKAGE_mariadb-common is not set # # Disc # # CONFIG_PACKAGE_blkdiscard is not set # CONFIG_PACKAGE_blkid is not set # CONFIG_PACKAGE_blockdev is not set # CONFIG_PACKAGE_cfdisk is not set # CONFIG_PACKAGE_cgdisk is not set # CONFIG_PACKAGE_eject is not set # CONFIG_PACKAGE_fdisk is not set # CONFIG_PACKAGE_findfs is not set # CONFIG_PACKAGE_fixparts is not set # CONFIG_PACKAGE_gdisk is not set # CONFIG_PACKAGE_hd-idle is not set # CONFIG_PACKAGE_hdparm is not set # CONFIG_PACKAGE_lsblk is not set # CONFIG_PACKAGE_lvm2 is not set # CONFIG_PACKAGE_mdadm is not set # CONFIG_PACKAGE_parted is not set # CONFIG_PACKAGE_partx-utils is not set # CONFIG_PACKAGE_sfdisk is not set # CONFIG_PACKAGE_sgdisk is not set # CONFIG_PACKAGE_wipefs is not set # # Editors # # CONFIG_PACKAGE_joe is not set # CONFIG_PACKAGE_nano is not set # CONFIG_PACKAGE_vim is not set # CONFIG_PACKAGE_vim-full is not set # CONFIG_PACKAGE_vim-fuller is not set # CONFIG_PACKAGE_vim-help is not set # CONFIG_PACKAGE_vim-runtime is not set # CONFIG_PACKAGE_zile is not set # # Encryption # # CONFIG_PACKAGE_ccrypt is not set # CONFIG_PACKAGE_certtool is not set # CONFIG_PACKAGE_cryptsetup is not set # CONFIG_PACKAGE_cryptsetup-openssl is not set # CONFIG_PACKAGE_gnupg is not set # CONFIG_PACKAGE_gnutls-utils is not set # CONFIG_PACKAGE_gpgv is not set # CONFIG_PACKAGE_keyctl is not set # CONFIG_PACKAGE_px5g-mbedtls is not set # CONFIG_PACKAGE_px5g-standalone is not set # CONFIG_PACKAGE_stoken is not set # # Filesystem # # CONFIG_PACKAGE_acl is not set # CONFIG_PACKAGE_antfs-mount is not set # CONFIG_PACKAGE_attr is not set # CONFIG_PACKAGE_badblocks is not set # CONFIG_PACKAGE_btrfs-progs is not set # CONFIG_PACKAGE_chattr is not set # CONFIG_PACKAGE_debugfs is not set # CONFIG_PACKAGE_dosfstools is not set # CONFIG_PACKAGE_dumpe2fs is not set # CONFIG_PACKAGE_e2freefrag is not set # CONFIG_PACKAGE_e2fsprogs is not set # CONFIG_PACKAGE_f2fs-tools is not set # CONFIG_PACKAGE_f2fsck is not set # CONFIG_PACKAGE_filefrag is not set # CONFIG_PACKAGE_fstrim is not set # CONFIG_PACKAGE_fuse-utils is not set # CONFIG_PACKAGE_hfsfsck is not set # CONFIG_PACKAGE_lsattr is not set # CONFIG_PACKAGE_mkf2fs is not set # CONFIG_PACKAGE_mkhfs is not set # CONFIG_PACKAGE_ncdu is not set # CONFIG_PACKAGE_nfs-utils is not set # CONFIG_PACKAGE_nfs-utils-libs is not set # CONFIG_PACKAGE_ntfs-3g is not set # CONFIG_PACKAGE_ntfs-3g-low is not set # CONFIG_PACKAGE_ntfs-3g-utils is not set # CONFIG_PACKAGE_owfs is not set # CONFIG_PACKAGE_owshell is not set # CONFIG_PACKAGE_resize2fs is not set # CONFIG_PACKAGE_squashfs-tools-mksquashfs is not set # CONFIG_PACKAGE_squashfs-tools-unsquashfs is not set # CONFIG_PACKAGE_swap-utils is not set # CONFIG_PACKAGE_sysfsutils is not set # CONFIG_PACKAGE_tune2fs is not set # CONFIG_PACKAGE_xfs-admin is not set # CONFIG_PACKAGE_xfs-fsck is not set # CONFIG_PACKAGE_xfs-growfs is not set # CONFIG_PACKAGE_xfs-mkfs is not set # # Image Manipulation # # CONFIG_PACKAGE_jpeg-tools is not set # CONFIG_PACKAGE_tiff-utils is not set # # Microcontroller programming # # CONFIG_PACKAGE_avrdude is not set # CONFIG_PACKAGE_dfu-programmer is not set # CONFIG_PACKAGE_stm32flash is not set # # RTKLIB Suite # # CONFIG_PACKAGE_convbin is not set # CONFIG_PACKAGE_pos2kml is not set # CONFIG_PACKAGE_rnx2rtkp is not set # CONFIG_PACKAGE_rtkrcv is not set # CONFIG_PACKAGE_str2str is not set # # Shells # # CONFIG_PACKAGE_bash is not set # CONFIG_PACKAGE_klish is not set # CONFIG_PACKAGE_mksh is not set # CONFIG_PACKAGE_tcsh is not set # CONFIG_PACKAGE_zsh is not set # # Terminal # # CONFIG_PACKAGE_agetty is not set # CONFIG_PACKAGE_dvtm is not set # CONFIG_PACKAGE_minicom is not set # CONFIG_PACKAGE_picocom is not set # CONFIG_PACKAGE_rtty-mbedtls is not set # CONFIG_PACKAGE_rtty-nossl is not set # CONFIG_PACKAGE_rtty-openssl is not set # CONFIG_PACKAGE_rtty-wolfssl is not set # CONFIG_PACKAGE_screen is not set # CONFIG_PACKAGE_script-utils is not set # CONFIG_PACKAGE_serialconsole is not set # CONFIG_PACKAGE_setterm is not set # CONFIG_PACKAGE_tio is not set # CONFIG_PACKAGE_tmux is not set # CONFIG_PACKAGE_ttyd is not set # CONFIG_PACKAGE_wall is not set # # Virtualization # # # Zoneinfo # # CONFIG_PACKAGE_zoneinfo-africa is not set # CONFIG_PACKAGE_zoneinfo-asia is not set # CONFIG_PACKAGE_zoneinfo-atlantic is not set # CONFIG_PACKAGE_zoneinfo-australia-nz is not set # CONFIG_PACKAGE_zoneinfo-core is not set # CONFIG_PACKAGE_zoneinfo-europe is not set # CONFIG_PACKAGE_zoneinfo-india is not set # CONFIG_PACKAGE_zoneinfo-northamerica is not set # CONFIG_PACKAGE_zoneinfo-pacific is not set # CONFIG_PACKAGE_zoneinfo-poles is not set # CONFIG_PACKAGE_zoneinfo-simple is not set # CONFIG_PACKAGE_zoneinfo-southamerica is not set # # database # # CONFIG_PACKAGE_pgsql-cli is not set # CONFIG_PACKAGE_pgsql-cli-extra is not set # CONFIG_PACKAGE_pgsql-server is not set # CONFIG_PACKAGE_rrdcgi1 is not set # CONFIG_PACKAGE_rrdtool1 is not set # CONFIG_PACKAGE_sqlite3-cli is not set # CONFIG_PACKAGE_unixodbc-tools is not set # CONFIG_PACKAGE_adb is not set # CONFIG_PACKAGE_ap51-flash is not set # CONFIG_PACKAGE_at is not set # CONFIG_PACKAGE_bandwidthd is not set # CONFIG_PACKAGE_bandwidthd-pgsql is not set # CONFIG_PACKAGE_bandwidthd-php is not set # CONFIG_PACKAGE_bandwidthd-sqlite is not set # CONFIG_PACKAGE_banhostlist is not set # CONFIG_PACKAGE_bc is not set # CONFIG_PACKAGE_bluelog is not set # CONFIG_PACKAGE_bluez-daemon is not set # CONFIG_PACKAGE_bluez-utils is not set # CONFIG_PACKAGE_bluez-utils-extra is not set # CONFIG_PACKAGE_bonniexx is not set # CONFIG_PACKAGE_bsdiff is not set # CONFIG_PACKAGE_bspatch is not set # CONFIG_PACKAGE_cal is not set # CONFIG_PACKAGE_canutils is not set # CONFIG_PACKAGE_cgroupfs-mount is not set # CONFIG_PACKAGE_cmdpad is not set # CONFIG_PACKAGE_coap-client is not set # CONFIG_PACKAGE_collectd is not set CONFIG_PACKAGE_coremark=y # CONFIG_PACKAGE_coreutils is not set # CONFIG_PACKAGE_crconf is not set # CONFIG_PACKAGE_crelay is not set # CONFIG_PACKAGE_csstidy is not set # CONFIG_PACKAGE_ct-bugcheck is not set # CONFIG_PACKAGE_dbus is not set # CONFIG_PACKAGE_dfu-util is not set # CONFIG_PACKAGE_digitemp is not set # CONFIG_PACKAGE_digitemp-usb is not set # CONFIG_PACKAGE_dmesg is not set # # Kernel features for Docker # CONFIG_DOCKER_KERNEL_OPTIONS=y # CONFIG_DOCKER_SECCOMP is not set # CONFIG_DOCKER_RES_SHAPE is not set # # Network # # CONFIG_DOCKER_NET_OVERLAY is not set # CONFIG_DOCKER_NET_MACVLAN is not set # CONFIG_DOCKER_NET_TFTP is not set # # Storage # # CONFIG_DOCKER_STO_EXT4 is not set # CONFIG_DOCKER_STO_BTRFS is not set # CONFIG_PACKAGE_dropbearconvert is not set # CONFIG_PACKAGE_dtc is not set # CONFIG_PACKAGE_dump1090 is not set # CONFIG_PACKAGE_ecdsautils is not set # CONFIG_PACKAGE_elektra-kdb is not set # CONFIG_PACKAGE_evtest is not set # CONFIG_PACKAGE_extract is not set # CONFIG_PACKAGE_fdt-utils is not set # CONFIG_PACKAGE_file is not set # CONFIG_PACKAGE_findutils-find is not set # CONFIG_PACKAGE_findutils-locate is not set # CONFIG_PACKAGE_findutils-xargs is not set # CONFIG_PACKAGE_flashrom is not set # CONFIG_PACKAGE_flashrom-pci is not set # CONFIG_PACKAGE_flashrom-spi is not set # CONFIG_PACKAGE_flashrom-usb is not set # CONFIG_PACKAGE_flent-tools is not set # CONFIG_PACKAGE_flock is not set # CONFIG_PACKAGE_fritz-caldata is not set # CONFIG_PACKAGE_fritz-tffs is not set # CONFIG_PACKAGE_ftdi_eeprom is not set # CONFIG_PACKAGE_gammu is not set # CONFIG_PACKAGE_gawk is not set # CONFIG_PACKAGE_getopt is not set # CONFIG_PACKAGE_giflib-utils is not set # CONFIG_PACKAGE_gkermit is not set # CONFIG_PACKAGE_gpioctl-sysfs is not set # CONFIG_PACKAGE_gpiod-tools is not set # CONFIG_PACKAGE_gpsd is not set # CONFIG_PACKAGE_gpsd-clients is not set # CONFIG_PACKAGE_grep is not set # CONFIG_PACKAGE_hamlib is not set # CONFIG_PACKAGE_haserl is not set # CONFIG_PACKAGE_haveged is not set # CONFIG_PACKAGE_hub-ctrl is not set # CONFIG_PACKAGE_hwclock is not set # CONFIG_PACKAGE_hwloc-utils is not set # CONFIG_PACKAGE_i2c-tools is not set # CONFIG_PACKAGE_iconv is not set # CONFIG_PACKAGE_iio-utils is not set # CONFIG_PACKAGE_inotifywait is not set # CONFIG_PACKAGE_inotifywatch is not set # CONFIG_PACKAGE_io is not set # CONFIG_PACKAGE_irqbalance is not set # CONFIG_PACKAGE_iwcap is not set # CONFIG_PACKAGE_iwinfo is not set # CONFIG_PACKAGE_jq is not set CONFIG_PACKAGE_jshn=y # CONFIG_PACKAGE_kmod is not set # CONFIG_PACKAGE_lcd4linux-custom is not set # CONFIG_PACKAGE_lcdproc-clients is not set # CONFIG_PACKAGE_lcdproc-drivers is not set # CONFIG_PACKAGE_lcdproc-server is not set # CONFIG_PACKAGE_less is not set # CONFIG_PACKAGE_less-wide is not set # CONFIG_PACKAGE_libimobiledevice-utils is not set CONFIG_PACKAGE_libjson-script=y # CONFIG_PACKAGE_libplist-utils is not set # CONFIG_PACKAGE_libsysrepo is not set # CONFIG_PACKAGE_libusbmuxd-utils is not set # CONFIG_PACKAGE_libxml2-utils is not set # CONFIG_PACKAGE_lm-sensors is not set # CONFIG_PACKAGE_lm-sensors-detect is not set # CONFIG_PACKAGE_logger is not set # CONFIG_PACKAGE_logrotate is not set # CONFIG_PACKAGE_look is not set # CONFIG_PACKAGE_losetup is not set # CONFIG_PACKAGE_lrzsz is not set # CONFIG_PACKAGE_lscpu is not set # CONFIG_PACKAGE_lsof is not set # CONFIG_PACKAGE_lxc is not set # CONFIG_PACKAGE_lxc-unprivileged is not set # CONFIG_PACKAGE_maccalc is not set # CONFIG_PACKAGE_macchanger is not set # CONFIG_PACKAGE_mbedtls-util is not set # CONFIG_PACKAGE_mbim-utils is not set # CONFIG_PACKAGE_mbtools is not set # CONFIG_PACKAGE_mc is not set # CONFIG_PACKAGE_mcookie is not set # CONFIG_PACKAGE_mmc-utils is not set # CONFIG_PACKAGE_moreutils is not set # CONFIG_PACKAGE_mount-utils is not set # CONFIG_PACKAGE_mpack is not set # CONFIG_PACKAGE_mt-st is not set # CONFIG_PACKAGE_namei is not set # CONFIG_PACKAGE_netopeer2-cli is not set # CONFIG_PACKAGE_netopeer2-keystored is not set # CONFIG_PACKAGE_netopeer2-server is not set # CONFIG_PACKAGE_netwhere is not set # CONFIG_PACKAGE_nsenter is not set # CONFIG_PACKAGE_oath-toolkit is not set # CONFIG_PACKAGE_open-plc-utils is not set # CONFIG_PACKAGE_open2300 is not set # CONFIG_PACKAGE_openobex is not set # CONFIG_PACKAGE_openobex-apps is not set # CONFIG_PACKAGE_openocd is not set # CONFIG_PACKAGE_opensc-utils is not set CONFIG_PACKAGE_openssl-util=y # CONFIG_PACKAGE_openzwave is not set # CONFIG_PACKAGE_openzwave-config is not set # CONFIG_PACKAGE_owipcalc is not set # CONFIG_PACKAGE_pciutils is not set # CONFIG_PACKAGE_pcsc-tools is not set # CONFIG_PACKAGE_pcscd is not set # CONFIG_PACKAGE_pps-tools is not set # CONFIG_PACKAGE_prlimit is not set # CONFIG_PACKAGE_procps-ng is not set # CONFIG_PACKAGE_progress is not set # CONFIG_PACKAGE_prometheus-node-exporter-lua is not set # CONFIG_PACKAGE_pv is not set # CONFIG_PACKAGE_qmi-utils is not set # CONFIG_PACKAGE_qrencode is not set # CONFIG_PACKAGE_rclone is not set # CONFIG_PACKAGE_relayctl is not set # CONFIG_PACKAGE_rename is not set # CONFIG_PACKAGE_rng-tools is not set # CONFIG_PACKAGE_rtl-ais is not set # CONFIG_PACKAGE_rtl-sdr is not set # CONFIG_PACKAGE_rtl_433 is not set # CONFIG_PACKAGE_sane-backends is not set # CONFIG_PACKAGE_sane-daemon is not set # CONFIG_PACKAGE_sane-frontends is not set # CONFIG_PACKAGE_setserial is not set # CONFIG_PACKAGE_shadow-utils is not set CONFIG_PACKAGE_shellsync=y # CONFIG_PACKAGE_sispmctl is not set # CONFIG_PACKAGE_slide-switch is not set # CONFIG_PACKAGE_smartd is not set # CONFIG_PACKAGE_smartmontools is not set # CONFIG_PACKAGE_smartmontools-drivedb is not set # CONFIG_PACKAGE_smstools3 is not set # CONFIG_PACKAGE_sockread is not set # CONFIG_PACKAGE_spi-tools is not set # CONFIG_PACKAGE_spidev-test is not set # CONFIG_PACKAGE_strace is not set CONFIG_STRACE_NONE=y # CONFIG_STRACE_LIBDW is not set # CONFIG_STRACE_LIBUNWIND is not set # CONFIG_PACKAGE_stress is not set # CONFIG_PACKAGE_sumo is not set # CONFIG_PACKAGE_sysrepo is not set # CONFIG_PACKAGE_sysrepocfg is not set # CONFIG_PACKAGE_sysrepoctl is not set # CONFIG_PACKAGE_sysstat is not set # CONFIG_PACKAGE_tar is not set # CONFIG_PACKAGE_taskwarrior is not set # CONFIG_PACKAGE_tini is not set # CONFIG_PACKAGE_tracertools is not set # CONFIG_PACKAGE_tree is not set # CONFIG_PACKAGE_triggerhappy is not set # CONFIG_PACKAGE_udns-dnsget is not set # CONFIG_PACKAGE_udns-ex-rdns is not set # CONFIG_PACKAGE_udns-rblcheck is not set # CONFIG_PACKAGE_ugps is not set # CONFIG_PACKAGE_uledd is not set # CONFIG_PACKAGE_unshare is not set # CONFIG_PACKAGE_usb-modeswitch is not set # CONFIG_PACKAGE_usbmuxd is not set # CONFIG_PACKAGE_usbreset is not set # CONFIG_PACKAGE_usbutils is not set # CONFIG_PACKAGE_uuidd is not set # CONFIG_PACKAGE_uuidgen is not set # CONFIG_PACKAGE_uvcdynctrl is not set # CONFIG_PACKAGE_v4l-utils is not set # CONFIG_PACKAGE_view1090 is not set # CONFIG_PACKAGE_watchcat is not set # CONFIG_PACKAGE_whereis is not set # CONFIG_PACKAGE_wifitoggle is not set # CONFIG_PACKAGE_xsltproc is not set # CONFIG_PACKAGE_xxd is not set # CONFIG_PACKAGE_yanglint is not set # CONFIG_PACKAGE_yara is not set # CONFIG_PACKAGE_yunbridge is not set # # Xorg # # # font-utils # # CONFIG_PACKAGE_fontconfig is not set
+* [grml/grml-live](https://github.com/grml/grml-live) - Build tool for Grml Live Linux
+* [jaromaz/yosild](https://github.com/jaromaz/yosild) - Yosild is a single shell script that builds a full, minimal Linux distribution based on BusyBox.
+* [Zena-Linux/Zena](https://github.com/Zena-Linux/Zena) - Zena is a bootc-based, immutable Linux desktop focused on performance and modern Wayland workflows. It ships with the Cachy kernel, Niri, MangoWC, and Dank Material Shell.
+* [illiliti/tinyramfs](https://github.com/illiliti/tinyramfs) - Tiny initramfs written in POSIX shell
+* [emkey1/AOK-Filesystem-Tools](https://github.com/emkey1/AOK-Filesystem-Tools) - Scripts and files to build a highly functional filesystem for the iOS iSH Linux Shell. Also used to build the default boot image for the iSH-AOK fork of iSH
+* [neurobin/JLIVECD](https://github.com/neurobin/JLIVECD) - Live cd/dvd customization tool
+* [garybgenett/gary-os](https://github.com/garybgenett/gary-os) - GaryOS is an entire GNU/Linux system in a single bootable file
+
+## Other
+
+* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+* [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+* [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+* [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+* [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+* [base/node](https://github.com/base/node) - Everything required to run your own Base node *(archived)*
+* [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+* [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+* [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+* [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
+* [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+* [inkonchain/node](https://github.com/inkonchain/node) - How to run an Ink Node
+* [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+* [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
+* [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+* [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+* [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta! Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more
+* [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.
+* [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model. *(archived)*
 * [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-* [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment (Version) Manager ( rvm ) ~ Monitor GitHub Issues ( https://github.com/rvm/rvm/issues/ ) for bug reports and fixes.  Fundraiser for mpapis: https://www.bountysource.com/fundraisers/489-rvm-2-0
-* [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
-* [Russell91/sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you ssh
-* [tj/n](https://github.com/tj/n) - Node version management
-* [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
-* [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
-* [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
-* [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
-* [sstephenson/ruby-build](https://github.com/sstephenson/ruby-build) - Compile and install Ruby
-* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - Varying Vagrant Vagrants is an evolving Vagrant configuration focused on WordPress development.
-* [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
-* [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
-* [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-* [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.
-* [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-* [rancher/rancher](https://github.com/rancher/rancher) - A Platform for Operating Docker in Production
-* [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
-* [nojhan/liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-* [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-* [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized gitlab web server
-* [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
-* [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE for OS X extends OS X by adding support for FUSE file systems
-* [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-* [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
-* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-* [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - Statusbar configuration for tmux that looks like vim-powerline and consist of dynamic segments.
-* [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-* [gilesbowkett/rewind](https://github.com/gilesbowkett/rewind) - Rewind is an intelligent archivist.
-* [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
-* [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
-* [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
-* [jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
-* [chef/bento](https://github.com/chef/bento) - Packer definitions for building minimal Vagrant baseboxes
-* [fideloper/Vaprobash](https://github.com/fideloper/Vaprobash) - Vagrant Provisioning Bash Scripts
-* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-* [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker, with real DevOps practice!
-* [barryclark/bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up your terminal in OSX.
-* [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
-* [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) - Sans serif font family for user interface environments
-* [qw3rtman/gg](https://github.com/qw3rtman/gg) - Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts
-* [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
-* [simpligility/maven-android-sdk-deployer](https://github.com/simpligility/maven-android-sdk-deployer) - A tool to install components of the Android SDK into a Maven repository or repository manager to use with the Android Maven Plugin, Gradle and other tools.
-* [ninjudd/drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
-* [Anthony25/gnome-terminal-colors-solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized) - Solarized Gnome Terminal colors, based on http://ethanschoonover.com/solarized
-* [basecamp/sub](https://github.com/basecamp/sub) - a delicious way to organize programs
-* [smarthosts/smarthosts](https://github.com/smarthosts/smarthosts) - Smarthosts
-* [ndbroadbent/scm_breeze](https://github.com/ndbroadbent/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
-* [icefox/git-achievements](https://github.com/icefox/git-achievements) - Aquire achievements while using git.
-* [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
-* [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Reaction Commerce
-* [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
-* [noplay/docker-osx](https://github.com/noplay/docker-osx) - Fast and easy installation of Docker on OS X
-* [openstack-dev/devstack](https://github.com/openstack-dev/devstack) - oneiric powered development environment for openstack
-* [progrium/gitreceive](https://github.com/progrium/gitreceive) - Easily accept and handle arbitrary git pushes
-* [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate.
-* [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained, portable Ruby binaries
-* [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-* [paz-sh/paz](https://github.com/paz-sh/paz) - An open-source, in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet. This repository houses the documentation and installation scripts.
-* [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on Mac OS X
-* [apenwarr/git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
-* [dokku-alt/dokku-alt](https://github.com/dokku-alt/dokku-alt) - Dokku on steroids
-* [andreasgal/B2G](https://github.com/andreasgal/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
-* [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
-* [fizx/parsley](https://github.com/fizx/parsley) - Parsley is a simple language for extracting structured data from web pages. Parsley consists of an powerful selector language wrapped with a JSON structure that can represent page-wide formatting.
-* [dokterdok/Continuity-Activation-Tool](https://github.com/dokterdok/Continuity-Activation-Tool) - An all-in-one tool to activate and diagnose OS X 10.10 Continuity on compatible Mac configurations.
-* [joshfng/railsready](https://github.com/joshfng/railsready) - Ruby and Rails setup script for Linux and OSX
-* [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
-* [keyboardsurfer/idea-live-templates](https://github.com/keyboardsurfer/idea-live-templates) - An #androidDev collection of Live Templates for Android Studio
-* [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
-* [micha/jsawk](https://github.com/micha/jsawk) - Like awk, but for JSON.
-* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. https://dockerbench.com
-* [tylertreat/chan](https://github.com/tylertreat/chan) - Pure C implementation of Go channels.
-* [philcryer/lipsync](https://github.com/philcryer/lipsync) - lipsync sets up a lightweight service that provides command-line, Dropbox like syncing
-* [sickill/git-dude](https://github.com/sickill/git-dude) - Git commit notifier
-* [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
-* [jonathanpenn/ui-screen-shooter](https://github.com/jonathanpenn/ui-screen-shooter) - Using UI Automation to automatically generate all screenshots of your iOS app, on different device types, in different locales by running a single command. Hands free.
-* [sickill/bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
-* [pote/gpm](https://github.com/pote/gpm) - Barebones dependency manager for Go.
-* [zhuangbiaowei/learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) - 借助开源项目，学习软件开发
-* [petervanderdoes/gitflow](https://github.com/petervanderdoes/gitflow) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
-* [mozilla-b2g/B2G](https://github.com/mozilla-b2g/B2G) - Boot to Gecko aims to create a complete, standalone operating system for the open web.
-* [adobe-fonts/source-serif-pro](https://github.com/adobe-fonts/source-serif-pro) - Serif typeface designed to complement Source Sans Pro
-* [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
-* [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
-* [gcuisinier/jenv](https://github.com/gcuisinier/jenv) - Manage your Java environment
-* [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
-* [lifetyper/FreeRouter_V2](https://github.com/lifetyper/FreeRouter_V2) - 一个适用于OpenWRT的全平台翻墙路由方案
-* [ioerror/duraconf](https://github.com/ioerror/duraconf) - duraconf - A collection of hardened configuration files for SSL/TLS services
-* [subtleGradient/Appify-UI](https://github.com/subtleGradient/Appify-UI) - Create the simplest possible Mac OS X apps. Uses HTML5 for the UI. Supports scripting with anything and everything
-* [flexiondotorg/oab-java6](https://github.com/flexiondotorg/oab-java6) - Create a local 'apt' repository for Sun Java 6 and/or Oracle Java 7 packages.
-* [shadowhand/git-encrypt](https://github.com/shadowhand/git-encrypt) - Transparent Git Encryption
-* [ddollar/heroku-buildpack-multi](https://github.com/ddollar/heroku-buildpack-multi) - Composable buildpacks
-* [arnoo/git-deliver](https://github.com/arnoo/git-deliver) - Delivery system based on git push and ssh
-* [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
-* [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
-* [ohoachuck/wwdc-downloader](https://github.com/ohoachuck/wwdc-downloader) - WWDC 2014 & 2013 video and PDF downloader script - no external dependency. Just a bash script!
-* [ingydotnet/git-hub](https://github.com/ingydotnet/git-hub) - Do GitHub operations from the `git` command
-* [jimeh/git-aware-prompt](https://github.com/jimeh/git-aware-prompt) - Display current Git branch name in your terminal prompt when in a Git working directory.
-* [rtomayko/git-sh](https://github.com/rtomayko/git-sh) - A customized bash environment suitable for git work.
-* [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files
-* [icefox/git-hooks](https://github.com/icefox/git-hooks) - A tool to manage project, user, and global Git hooks
-* [square/java-code-styles](https://github.com/square/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects.
-* [jpetazzo/dind](https://github.com/jpetazzo/dind) - Docker in Docker
-* [hannob/bashcheck](https://github.com/hannob/bashcheck) - test script for shellshocker and related vulnerabilities
-* [guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android
-* [coreos/docs](https://github.com/coreos/docs) - Documentation for CoreOS in markdown
-* [heroku/heroku-buildpack-nodejs](https://github.com/heroku/heroku-buildpack-nodejs) - The official Heroku buildpack for Node.js apps.
-* [yrashk/kerl](https://github.com/yrashk/kerl) - Easy building and installing of Erlang/OTP instances
-* [debian-pi/raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
-* [heroku/heroku-buildpack-go](https://github.com/heroku/heroku-buildpack-go) - Go support for Heroku
-* [authy/authy-ssh](https://github.com/authy/authy-ssh) - Easy two-factor authentication for ssh servers
-* [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
-* [jneen/balls](https://github.com/jneen/balls) - Bash on Balls
-* [colinbjohnson/aws-missing-tools](https://github.com/colinbjohnson/aws-missing-tools) - tools for managing AWS resources including EC2, EBS, RDS and Route53.
-* [jeremyFreeAgent/oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme) - oh-my-zsh Powerline style Theme
-* [manovotny/wptest](https://github.com/manovotny/wptest) - WP Test - The Best Tests For WordPress
-* [lexrus/ios-makefile](https://github.com/lexrus/ios-makefile) - [DEPRECATED] The universal makefile for my iOS projects distributes IPAs in seconds
-* [vigneshwaranr/bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory in linux instead of typing "cd ../../.." repeatedly
-* [rogaha/docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
-* [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream:
-* [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash
-* [tpope/heroku-fucking-console](https://github.com/tpope/heroku-fucking-console) - When I run heroku console, I want a fucking console, dammit
-* [rauchg/spot](https://github.com/rauchg/spot) - Tiny file search utility (bash)
-* [msmhq/msm](https://github.com/msmhq/msm) - An init script for managing Minecraft servers
-* [beautifulcode/ssh-copy-id-for-OSX](https://github.com/beautifulcode/ssh-copy-id-for-OSX) - Quick Mac OSX port of the useful unix utility ssh-copy-id
-* [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-* [eugeneware/docker-wordpress-nginx](https://github.com/eugeneware/docker-wordpress-nginx) - A Dockerfile that installs the latest wordpress, nginx and php-fpm.
-* [ftao/vpn-deploy-playbook](https://github.com/ftao/vpn-deploy-playbook) - A Collection of Ansible Playbook for deploy vpn services
-* [maddox/magick-installer](https://github.com/maddox/magick-installer) - ImageMagick installer script because macports sucks
-* [seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) - A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
-* [larsenwork/Gidole](https://github.com/larsenwork/Gidole) - Gidole - Open Source Modern DIN
-* [lj2007331/lnmp](https://github.com/lj2007331/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
-* [chovy/node-startup](https://github.com/chovy/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
-* [colinmollenhour/modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks. Voted #1 Magento tool by @WebShopApps!
-* [mydzor/bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
-* [jpadilla/juicebox](https://github.com/jpadilla/juicebox) - A virtual machine designed for programming workshops.
-* [matthewmueller/dots](https://github.com/matthewmueller/dots) - WIP bootstrapping library for osx & ubuntu (and maybe others!)
-* [qw3rtman/p](https://github.com/qw3rtman/p) - Python Version Management Made Simple.
-* [schreiberstein/lucidagrandeyosemite](https://github.com/schreiberstein/lucidagrandeyosemite) - An Automator/Apple-script to use 'Lucida Grande' as system font on OS X Yosemite
-* [php-build/php-build](https://github.com/php-build/php-build) - Builds PHP so that multiple versions can be used side by side.
-* [gvmtool/gvm-cli](https://github.com/gvmtool/gvm-cli) - Groovy enVironment Manager (GVM)
-* [leftnode/get-shit-done](https://github.com/leftnode/get-shit-done) - Small script to configure your hosts file so you don't get distracted during the day.
-* [tarruda/zsh-autosuggestions](https://github.com/tarruda/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-* [fonnesbeck/ScipySuperpack](https://github.com/fonnesbeck/ScipySuperpack) - Recent builds of Numpy, Scipy, Matplotlib, iPython and PyMC for OSX
-* [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
-* [fnichol/dvm](https://github.com/fnichol/dvm) - An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels.
-* [mesosphere/kubernetes-mesos](https://github.com/mesosphere/kubernetes-mesos) - A Kubernetes Framework for Apache Mesos
-* [jclem/gifify](https://github.com/jclem/gifify) - gifify turns movies into gifs.
-* [AntiZapret/antizapret](https://github.com/AntiZapret/antizapret) - Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.
-* [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
-* [yyuu/pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
-* [alandipert/gherkin](https://github.com/alandipert/gherkin) -  a functional programming language and interpreter written in GNU Bash 4
-* [phusion/open-vagrant-boxes](https://github.com/phusion/open-vagrant-boxes) - Docker-compatible Vagrant base boxes
-* [dabeaz/python-cookbook](https://github.com/dabeaz/python-cookbook) - Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.
-* [archlinuxarm/PKGBUILDs](https://github.com/archlinuxarm/PKGBUILDs) - PKGBUILDs modified to build on Arch Linux ARM
-* [leo-project/leofs](https://github.com/leo-project/leofs) - LeoFS is an unstructured object/data storage for the Web and a highly available, distributed, eventually consistent storage system.
-* [aerofs/gockerize](https://github.com/aerofs/gockerize) - Package golang service into minimal docker containers
-* [jordansissel/heroku-buildpack-meteor](https://github.com/jordansissel/heroku-buildpack-meteor) - a heroku buildpack for meteor (meteor.com)
-* [zddhub/opensse](https://github.com/zddhub/opensse) - Open Sketch Search Engine－ 3D object retrieval based on sketch image as input
-* [necolas/dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
-* [docker/dockerlite](https://github.com/docker/dockerlite) - Lightweight virtualization system based on LXC and BTRFS. See dotcloud/docker.
-* [donmelton/video-transcoding-scripts](https://github.com/donmelton/video-transcoding-scripts) - Utilities to transcode, inspect and convert videos.
-* [roots/trellis](https://github.com/roots/trellis) - Ansible playbooks for setting up a LEMP stack for WordPress.
-* [rimraf/k](https://github.com/rimraf/k) - k is the new l, yo
-* [kafka-dev/kafka](https://github.com/kafka-dev/kafka) - A distributed publish/subscribe messaging service
-* [krzysztofzablocki/IconOverlaying](https://github.com/krzysztofzablocki/IconOverlaying) - Build informations on top of your app icon.
-* [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Scripts to Rule Them All
-* [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
-* [saltstack/salt-bootstrap](https://github.com/saltstack/salt-bootstrap) - Generic Salt Bootstrap Script
-* [ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code) - Recipes of the IPython Cookbook, the definitive guide to high-performance scientific computing and data science in Python
-* [pixelb/scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
-* [davecheney/golang-crosscompile](https://github.com/davecheney/golang-crosscompile) - Go cross compilation support
-* [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
-* [jf/rbenv-gemset](https://github.com/jf/rbenv-gemset) - KISS yet powerful gem / gemset management for rbenv
-* [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust OS X configuration files and utilities.
-* [octohost/octohost](https://github.com/octohost/octohost) - Simple web focused Dockerfile based PaaS server.
-* [paulp/sbt-extras](https://github.com/paulp/sbt-extras) - A more featureful runner for sbt, the simple/scala/standard build tool
-* [shadowsocks/openwrt-shadowsocks](https://github.com/shadowsocks/openwrt-shadowsocks) - Shadowsocks-libev for OpenWrt
-* [oblique/create_ap](https://github.com/oblique/create_ap) - This script creates a NATed or Bridged WiFi Access Point.
-* [heroku/heroku-buildpack-php](https://github.com/heroku/heroku-buildpack-php) - The official PHP buildpack for Heroku.
-* [bradp/vv](https://github.com/bradp/vv) - :globe_with_meridians: Variable VVV - a VVV Site Creation Wizard
-* [timsutton/osx-vm-templates](https://github.com/timsutton/osx-vm-templates) - OS X templates for Packer and VeeWee.
-* [jpetazzo/dockvpn](https://github.com/jpetazzo/dockvpn) - Recipe to build an OpenVPN image for Docker
-* [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
-* [dgibbs64/linuxgsm](https://github.com/dgibbs64/linuxgsm) - Linux Game Server Managers_
-* [virtualhost/virtualhost.sh](https://github.com/virtualhost/virtualhost.sh) - A script for Mac OS X to create virtual hosts under Apache
-* [rasa/vmware-tools-patches](https://github.com/rasa/vmware-tools-patches) - Patch and build VMware tools automatically
-* [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - Toward a more useful keyboard
-* [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
-* [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-* [CHH/phpenv](https://github.com/CHH/phpenv) - Thin Wrapper around rbenv for PHP version managment
-* [rtrouton/rtrouton_scripts](https://github.com/rtrouton/rtrouton_scripts) - Scripts to share
-* [lxdvs/apk2gold](https://github.com/lxdvs/apk2gold) - CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
-* [cryptoparty/handbook](https://github.com/cryptoparty/handbook) - The CryptoParty Handbook
-* [wyvernlang/wyvern](https://github.com/wyvernlang/wyvern) - The Wyvern programming language.
-* [flynn-archive/flynn-demo](https://github.com/flynn-archive/flynn-demo) - Archived -- see https://github.com/flynn/flynn
-* [micahwedemeyer/automongobackup](https://github.com/micahwedemeyer/automongobackup) - Nightly, rotated backups of MongoDB (port of AutoMySQLBackup for use with Mongo)
-* [JasonGiedymin/nginx-init-ubuntu](https://github.com/JasonGiedymin/nginx-init-ubuntu) - Tried and true Nginx init script - got enhancements? Send a pull!
-* [MacMiniVault/Mac-Scripts](https://github.com/MacMiniVault/Mac-Scripts) - Automation scripts focused around Mac OS X Server
-* [pjan/the-ansibles](https://github.com/pjan/the-ansibles) - One of the most extensive sets of ansible roles/examples, including a vagrant testbox and a setup to quickly run your full-featured and secured personal cloudbox.
-* [saltstack/salty-vagrant](https://github.com/saltstack/salty-vagrant) - Use Salt as a Vagrant provisioner.
-* [aliso/vvv-site-wizard](https://github.com/aliso/vvv-site-wizard) - Automates setting up new WordPress sites in Varying Vagrant Vagrants
-* [rkitover/vimpager](https://github.com/rkitover/vimpager) - Use ViM as PAGER
-* [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
-* [tutumcloud/mysql](https://github.com/tutumcloud/mysql) - Docker image to run an out-of-the-box MySQL server
-* [sstephenson/rbenv-gem-rehash](https://github.com/sstephenson/rbenv-gem-rehash) - Never run `rbenv rehash` again
-* [kristopolous/TickTick](https://github.com/kristopolous/TickTick) - JSON in your Bash scripts
-* [CentOS/CentOS-Dockerfiles](https://github.com/CentOS/CentOS-Dockerfiles) - Dockerfiles for various common implementations
-* [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) - Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
-* [tevko/Resources](https://github.com/tevko/Resources) - A collection of the latest and most useful resources for front end devs
-* [jsmess/jsmess](https://github.com/jsmess/jsmess) - Efforts to port MESS to JavaScript
-* [LiuLang/bcloud-packages](https://github.com/LiuLang/bcloud-packages) - bcloud 的安装包
-* [phpenv/phpenv](https://github.com/phpenv/phpenv) - Simple PHP version management
-* [necolas/griddle](https://github.com/necolas/griddle) - A CSS grid constructor
-* [mseknibilel/OpenStack-Grizzly-Install-Guide](https://github.com/mseknibilel/OpenStack-Grizzly-Install-Guide) - A full install guide for OpenStack Grizzly
-* [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
-* [MrMEEE/bumblebee-Old-and-abbandoned](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned) - OUTDATED!!!!! - Replaced by "The Bumblebee Project" and "Ironhide"
-* [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
-* [Ahtenus/minecraft-init](https://github.com/Ahtenus/minecraft-init) - Init script for minecraft and bukkit servers
-* [rcrowley/certified](https://github.com/rcrowley/certified) - Generate and manage an internal CA for your company
-* [eduardolundgren/dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt.
-* [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X
-* [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - BlackArch Linux is an Arch Linux-based distribution for penetration testers and security researchers.
-* [hashicorp/puppet-bootstrap](https://github.com/hashicorp/puppet-bootstrap) - A collection of single-file scripts to bootstrap your machines with Puppet.
-* [rcrowley/freight](https://github.com/rcrowley/freight) - A modern take on the Debian archive.
-* [cattleio/stampede](https://github.com/cattleio/stampede) - Hybrid IaaS/Docker orchestration platform running on CoreOS
-* [chadoe/docker-cleanup-volumes](https://github.com/chadoe/docker-cleanup-volumes) - Shellscript to delete orphaned docker volumes
-* [haithembelhaj/oh-my-cygwin](https://github.com/haithembelhaj/oh-my-cygwin) - Setup a functioning terminal for Windows
-* [elastic/elasticsearch-servicewrapper](https://github.com/elastic/elasticsearch-servicewrapper) - A service wrapper on top of elasticsearch
-* [cstrap/monaco-font](https://github.com/cstrap/monaco-font) - Install Monaco Font on Linux distro (Ubuntu, CentOS...)
-* [Netflix/aws-autoscaling](https://github.com/Netflix/aws-autoscaling) - Tools and Documentation about using Auto Scaling
-* [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server
-* [pristineio/webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) - A set of build scripts useful for building WebRTC libraries for Android and iOS.
-* [robwierzbowski/grunt-build-control](https://github.com/robwierzbowski/grunt-build-control) - Version control your built code.
-* [huacnlee/init.d](https://github.com/huacnlee/init.d) - 快速安装 Ruby 产品部署环境的批量脚本
-* [MysticTreeGames/Boost-for-Android](https://github.com/MysticTreeGames/Boost-for-Android) - Android port of Boost C++ Libraries
-* [sameersbn/docker-redmine](https://github.com/sameersbn/docker-redmine) - Dockerized redmine app server
-* [omega8cc/boa](https://github.com/omega8cc/boa) - Barracuda Octopus Aegir BOA-2.4.5
-* [bigeagle/gohop](https://github.com/bigeagle/gohop) - A VPN implemention in golang, with crypto and obfuscation in nature.
-* [hakobera/nvmw](https://github.com/hakobera/nvmw) - Simple Node Version Manager for Windows
-* [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack) - Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
-* [netmute/meteor.sh](https://github.com/netmute/meteor.sh) - Setup a Meteor server and deploy Meteor apps to it.
-* [zakjan/cert-chain-resolver](https://github.com/zakjan/cert-chain-resolver) - SSL certificate chain resolver
-* [misheska/basebox-packer](https://github.com/misheska/basebox-packer) - Packer templates for vagrant baseboxes
-* [linrunner/TLP](https://github.com/linrunner/TLP) - Advanced Power Management for Linux
-* [mchung/heroku-buildpack-wordpress](https://github.com/mchung/heroku-buildpack-wordpress) - Heroku buildpack: Wordpress on Heroku
-* [protocool/ack-tmbundle](https://github.com/protocool/ack-tmbundle) - "Ack in Project" TextMate bundle
-* [perusio/nginx_ensite](https://github.com/perusio/nginx_ensite) - A script to enable or disable a site in nginx.
-* [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows) - Vagrant redis configuration and the binary releases of MS Open Tech redis port of windows
-* [brikis98/docker-osx-dev](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X
-* [lvv/git-prompt](https://github.com/lvv/git-prompt) - bash prompt with GIT, SVN and HG modules
-* [Supervisor/initscripts](https://github.com/Supervisor/initscripts) - User-contributed OS init scripts for Supervisor
-* [morgant/tools-osx](https://github.com/morgant/tools-osx) - A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, ql, swuser, trash & with.
-* [rosylilly/git-tasukete](https://github.com/rosylilly/git-tasukete) - gitで助けて欲しい時に
-* [riywo/anyenv](https://github.com/riywo/anyenv) - all in one for **env
-* [lamw/ghettoVCB](https://github.com/lamw/ghettoVCB) - ghettoVCB
-* [fhd/init-script-template](https://github.com/fhd/init-script-template) - A template for simple System V init scripts
-* [ryandotsmith/nginx-buildpack](https://github.com/ryandotsmith/nginx-buildpack) - Run NGINX in front of your app server on Heroku
-* [philplckthun/setup-simple-ipsec-l2tp-vpn](https://github.com/philplckthun/setup-simple-ipsec-l2tp-vpn) - Setup a simple IPSec/L2TP VPN Server for Ubuntu and Debian
-* [VISIONAI/clouddream](https://github.com/VISIONAI/clouddream) - Deepdreaming in the clouds: A Dockerized deepdream Guide
-* [shiguredo/packer-templates](https://github.com/shiguredo/packer-templates) - Packer templates.
-* [overtrue/latest-laravel](https://github.com/overtrue/latest-laravel) - 每天准时更新的 Laravel 不同分支完整包
-* [fusesource/leveldbjni](https://github.com/fusesource/leveldbjni) - A Java Native Interface to LevelDB
-* [geerlingguy/drupal-vm](https://github.com/geerlingguy/drupal-vm) - A VM for local Drupal development
-* [imgo/imgo](https://github.com/imgo/imgo) - Image optimization tool
-* [brson/multirust](https://github.com/brson/multirust) - A tool for managing multiple Rust installations
-* [komljen/dockerfile-examples](https://github.com/komljen/dockerfile-examples) - Dockerfile examples
-* [cosmin/git-hg](https://github.com/cosmin/git-hg) - A git-hg utility for checking out and tracking a mercurial repo.
-* [jakubnabrdalik/gitkurwa](https://github.com/jakubnabrdalik/gitkurwa) - A sample project containing usefull verbose aliases, for those who feel lost and angry at git. Basically for those Polish folks, who scream "Git, kurwa!".
-* [startup-class/setup](https://github.com/startup-class/setup) - AWS EC2 setup files for Startup Engineering MOOC.
-* [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
-* [zhuowei/Xenologer](https://github.com/zhuowei/Xenologer) - #notglass #untilnow
-* [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc) - Rick Astley invades your terminal.
-* [gh2o/digitalocean-debian-to-arch](https://github.com/gh2o/digitalocean-debian-to-arch) - Script to convert a Debian installation on DigitalOcean to Arch Linux
-* [linux-china/jenv](https://github.com/linux-china/jenv) - Java enVironment Manager
-* [kosborn/p2p-adb](https://github.com/kosborn/p2p-adb) - Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones.
-* [hipchat/hipchat-cli](https://github.com/hipchat/hipchat-cli) - Command line scripts for working with the HipChat REST API
-* [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - Docker image for ASP.NET 5.
-* [tokuhirom/plenv](https://github.com/tokuhirom/plenv) - Perl binary manager
-* [begriffs/heroku-buildpack-ghc](https://github.com/begriffs/heroku-buildpack-ghc) - Deploy Haskell apps to Heroku
-* [sstephenson/rbenv-vars](https://github.com/sstephenson/rbenv-vars) - An rbenv plugin that safely sets global and per-project environment variables
-* [mig/gedit-themes](https://github.com/mig/gedit-themes) - Color themes for Gnome's default editor Gedit
-* [CHH/heroku-buildpack-php](https://github.com/CHH/heroku-buildpack-php) - A more advanced PHP buildpack for Heroku, inspired by the Node.js buildpack
-* [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Easy installation and running GNU/Linux on Android | Простая установка и запуск GNU/Linux под Android
-* [xbianonpi/xbian](https://github.com/xbianonpi/xbian) - XBMC on Raspberry Pi, Bleeding Edge
-* [lxde/lxqt](https://github.com/lxde/lxqt) - Checkout all lxde-qt components at once by using git submodule.
-* [ansible/ansible-docker-base](https://github.com/ansible/ansible-docker-base) - Ansible base Images for easy Ansible-Playbook-based Docker builds
-* [jcorbin/zsh-git](https://github.com/jcorbin/zsh-git) - Towards better Zsh Git integration
-* [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
-* [github/backup-utils](https://github.com/github/backup-utils) - GitHub Enterprise Backup Utilities
-* [miguno/wirbelsturm](https://github.com/miguno/wirbelsturm) - Wirbelsturm is a Vagrant and Puppet based tool to perform 1-click local and remote deployments, with a focus on big data related infrastructure.
-* [yixia/FFmpeg-Android](https://github.com/yixia/FFmpeg-Android) - Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android
-* [fritz-hh/OCRmyPDF](https://github.com/fritz-hh/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-* [ejholmes/vagrant-heroku](https://github.com/ejholmes/vagrant-heroku) - A Vagrant base box that closely mirrors the Celadon Cedar stack on heroku
-* [danielbruce/entypo](https://github.com/danielbruce/entypo) - Further development of the pictogram suite Entypo
-* [ClusterLabs/resource-agents](https://github.com/ClusterLabs/resource-agents) - Combined repository of OCF agents from the RHCS and Linux-HA projects
-* [sequenceiq/hadoop-docker](https://github.com/sequenceiq/hadoop-docker) - Hadoop docker image
-* [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
-* [apankrat/now.sh](https://github.com/apankrat/now.sh) - Pipeable bash script that prints current time while waiting for an input from stdin
-* [lexrus/ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook) - 不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Countly、Jenkins、Ghost、Ajenti、Seafile 等常用服务。
-* [kstaken/dockerfile-examples](https://github.com/kstaken/dockerfile-examples) - Some example dockerfiles for use with Docker
-* [mozilla/minion](https://github.com/mozilla/minion) - Minion
-* [analytically/hadoop-ansible](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana for monitoring and centralized log indexing.
-* [technopagan/adept-jpg-compressor](https://github.com/technopagan/adept-jpg-compressor) - A Bash script to automate adaptive JPEG compression using common CLI tools
-* [Sensebloom/OSCeleton](https://github.com/Sensebloom/OSCeleton) - OSCeleton is a proxy that sends skeleton information collected from the kinect sensor via OSC, making it easier to use input from the device in any language / framework that supports the OSC protocol.
-* [sirthias/BlueForest](https://github.com/sirthias/BlueForest) - IntelliJ IDEA Dark Color Scheme for Java, Scala, Ruby, XML and more
-* [Alexpux/MINGW-packages](https://github.com/Alexpux/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
-* [progrium/busybox](https://github.com/progrium/busybox) - Busybox container with glibc+opkg
-* [mesosphere/playa-mesos](https://github.com/mesosphere/playa-mesos) - Quickly build Mesos sandbox environments using Vagrant.  Run apps on top!
-* [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
-* [zsh-users/zaw](https://github.com/zsh-users/zaw) - zsh anything.el-like widget.
-* [jedda/OSX-Monitoring-Tools](https://github.com/jedda/OSX-Monitoring-Tools) - A collection of scripts and tools to assist in monitoring Mac OS X and essential services with Nagios.
-* [juven/maven-bash-completion](https://github.com/juven/maven-bash-completion) - Maven Bash Auto Completion
-* [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons) - A repo of every emoji icon as a separate file and commit.
-* [johnf/m3u8-segmenter](https://github.com/johnf/m3u8-segmenter) - Apple HTTP Live Streaming Segmenter
-* [queezythegreat/arduino-cmake](https://github.com/queezythegreat/arduino-cmake) - Arduino CMake Build system
-* [punkave/stagecoach](https://github.com/punkave/stagecoach) - Painlessly deploy node.js applications to your staging and production servers. Use a standard VPS or dedicated server to host both Node and traditional Apache-based websites. Built on cool things like node-http-proxy and forever.
-* [tdlm/os-x-self-destruct](https://github.com/tdlm/os-x-self-destruct) - Deletes files/folders in OS X based on a time specified in tags.
-* [spf13/hugoThemes](https://github.com/spf13/hugoThemes) - All Themes Hugo
-* [hchbaw/auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh) - #zsh automatic complete-word and list-choices. Originally incr-0.2.zsh  by y.fujii <y-fujii at mimosa-pudica.net>
-* [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
-* [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
-* [keenerd/packer](https://github.com/keenerd/packer) - Bash wrapper for pacman and AUR.
-* [jamiew/git-friendly](https://github.com/jamiew/git-friendly) - Pimp your git workflow. Just type pull, branch, merge, push
-* [jspahrsummers/objc-build-scripts](https://github.com/jspahrsummers/objc-build-scripts) - Bootstrap and CI scripts for Objective-C projects.
-* [JeffreyWay/Vagrant-Setup](https://github.com/JeffreyWay/Vagrant-Setup) - My Vagrant install script
-* [tonycoco/heroku-buildpack-ember-cli](https://github.com/tonycoco/heroku-buildpack-ember-cli) - A Heroku Buildpack for Ember CLI Applications
-* [Krijger/docker-cookbooks](https://github.com/Krijger/docker-cookbooks) - A collection of Dockerfiles, also shared on the docker index (https://index.docker.io/).
-* [lolilolicon/FFcast](https://github.com/lolilolicon/FFcast) - FFcast has almost nothing to do with FFmpeg or screencast ;)
-* [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
+* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+* [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.
+* [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+* [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+* [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+* [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A command-line system information tool written in bash 3.2+ *(archived)*
+* [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. *(archived)*
+* [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 * [lewagon/dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
-* [Alexpux/MSYS2-packages](https://github.com/Alexpux/MSYS2-packages) - Package scripts for MSYS2.
-* [rerun/rerun](https://github.com/rerun/rerun) - Core rerun. See also http://github.com/rerun-modules
-* [ffuenf/vagrant-boxes](https://github.com/ffuenf/vagrant-boxes) - baseboxes build with packer.io for use with vagrant
-* [hchbaw/opp.zsh](https://github.com/hchbaw/opp.zsh) - # Vim's text-objects-ish for zsh (obsolete for zsh-5.0.8)
-* [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-* [amplab/docker-scripts](https://github.com/amplab/docker-scripts) - Dockerfiles and scripts for Spark and Shark Docker images
-* [omgmog/install-all-firefox](https://github.com/omgmog/install-all-firefox) - bash script to install major Firefox versions on Mac OS X
-* [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
-* [progrium/sshcommand](https://github.com/progrium/sshcommand) - Turn SSH into a thin client specifically for your app
-* [HashNuke/heroku-buildpack-elixir](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku Buildpack for Elixir with nitro boost
-* [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
-* [wilmoore/php-version](https://github.com/wilmoore/php-version) - stupid simple PHP version management
-* [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight plugin manager for ZSH inspired by Antigen.
-* [esden/summon-arm-toolchain](https://github.com/esden/summon-arm-toolchain) - This project is not under active development any more. Consider using https://launchpad.net/gcc-arm-embedded instead! A very simple build script for bare metal arm toolchain. NO LINUX!
-* [tianon/dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
-* [pierce403/keyhunter](https://github.com/pierce403/keyhunter) - A tool to recover lost bitcoin private keys from dead harddrives.
-* [mattias-ohlsson/gitlab-installer](https://github.com/mattias-ohlsson/gitlab-installer) - Installer for GitLab
-* [fcambus/telize](https://github.com/fcambus/telize) - Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua
-* [oliverlloyd/jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2) - Automates running Apache JMeter on Amazon EC2
-* [ianheggie/rbenv-binstubs](https://github.com/ianheggie/rbenv-binstubs) - A Bundler binstubs Plugin for rbenv
-* [crosbymichael/Dockerfiles](https://github.com/crosbymichael/Dockerfiles) - Collection of Dockerfiles
-* [funtoo/keychain](https://github.com/funtoo/keychain) - keychain ssh-agent front-end
-* [jbfink/docker-wordpress](https://github.com/jbfink/docker-wordpress) - Dockerfile and etc for a Wordpress docker image
-* [icy/pacapt](https://github.com/icy/pacapt) - An Arch's pacman-like package manager for some Unices
-* [seapy/dockerfiles](https://github.com/seapy/dockerfiles) - dockerfiles
-* [hgomez/obuildfactory](https://github.com/hgomez/obuildfactory) - OpenJDK Build Factory
-* [CodeCatalyst/mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized) - Mou (http://mouapp.com/) theme for Markdown syntax highlighting using Ethan Schoonover's Solarized color scheme.
-* [sampson-chen/sack](https://github.com/sampson-chen/sack) - s(hortcut)-ack: a faster way to use ag, ack (or grep)!
-* [jakearchibald/sass-ie](https://github.com/jakearchibald/sass-ie) - Writing mobile-first styles without leaving IE<9 behind
-* [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Copypastable templates to write better bash scripts
-* [jayway/maven-android-plugin-samples](https://github.com/jayway/maven-android-plugin-samples) - DEPRECATED! Usage examples for Android Maven Plugin
-* [Answers4AWS/netflixoss-ansible](https://github.com/Answers4AWS/netflixoss-ansible) - NetflixOSS Ansible Playbooks
-* [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
-* [2creatives/vagrant-centos](https://github.com/2creatives/vagrant-centos) - Scripts to create a lean CentOS Vagrant box.
-* [leebaird/discover](https://github.com/leebaird/discover) - For use with Kali Linux. Custom bash scripts used to automate various pentesting tasks.
-* [dz0ny/lightdm-login-chromeos](https://github.com/dz0ny/lightdm-login-chromeos) - Installs chromiumos-aura window manager to Ubuntu
-* [appersonlabs/MakeTi](https://github.com/appersonlabs/MakeTi) - This repo is no longer supported and exists only for the sake of reference. Please use the new Titanium CLI
-* [ojbucao/Workman](https://github.com/ojbucao/Workman) - Workman keyboard layout
-* [RichardBronosky/ota-tools](https://github.com/RichardBronosky/ota-tools) - A burgeoning collection of tools for Over-The-Air distribution of mobile applications.
-* [woxxy/MySQL-backup-to-Amazon-S3](https://github.com/woxxy/MySQL-backup-to-Amazon-S3) - Backup daily/weekly/monhtly all your MySQL databases to Amazon S3 via SH and s3cmd
-* [steamos-community/stephensons-rocket](https://github.com/steamos-community/stephensons-rocket) - Stephenson's Rocket - a modified SteamOS installer, with support for older and virtualized computers
-* [sstephenson/rbenv-default-gems](https://github.com/sstephenson/rbenv-default-gems) - Automatically install gems every time you install a new version of Ruby
-* [octo-online/Xcode-formatter](https://github.com/octo-online/Xcode-formatter) - Simple automatic code formatter for Xcode
-* [fedora-cloud/Fedora-Dockerfiles](https://github.com/fedora-cloud/Fedora-Dockerfiles) - Fedora Dockerfiles
-* [seuros/capistrano-puma](https://github.com/seuros/capistrano-puma) - Puma integration for Capistrano 3
-* [phallus/fonts](https://github.com/phallus/fonts) - oh gee I wonder what could be in this repo
-* [pote/gvp](https://github.com/pote/gvp) - Go Versioning Packager
-* [nicolasff/docker-cassandra](https://github.com/nicolasff/docker-cassandra) - A set of scripts and config files to run a Cassandra cluster from Docker
-* [mmastrac/iterm2-zmodem](https://github.com/mmastrac/iterm2-zmodem) - Automatic ZModem support for iTerm 2
-* [Kloadut/dokku-pg-plugin](https://github.com/Kloadut/dokku-pg-plugin) - PostgreSQL plugin for Dokku
-* [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
-* [crashsystems/gitlab-docker](https://github.com/crashsystems/gitlab-docker) - Automated buld of GitLab with Docker.io
-* [archlinuxfr/yaourt](https://github.com/archlinuxfr/yaourt) - A Pacman frontend with more features and AUR support
-* [pblittle/docker-logstash](https://github.com/pblittle/docker-logstash) - Docker image for Logstash 1.4
-* [BlueDragonX/xf86-input-mtrack](https://github.com/BlueDragonX/xf86-input-mtrack) - Xorg Multitouch Trackpad Driver
-* [wargio/Twitch-Streamer-Linux](https://github.com/wargio/Twitch-Streamer-Linux) - This is a script dedicated to stream to Twitch.tv with Webcam support
-* [JakeWharton/mkvdts2ac3](https://github.com/JakeWharton/mkvdts2ac3) - Bash script to convert DTS audio to AC3 within a matroska file.
-* [julien-c/meteoric.sh](https://github.com/julien-c/meteoric.sh) - Deploy Meteor apps to EC2 (or your own server)
-* [fideloper/docker-nginx-php](https://github.com/fideloper/docker-nginx-php) - An Ubuntu, Nginx and PHP stack Built in Docker
-* [gabriel/ffmpeg-iphone-build](https://github.com/gabriel/ffmpeg-iphone-build) - Build scripts for building ffmpeg on iPhone
-* [altercation/mutt-colors-solarized](https://github.com/altercation/mutt-colors-solarized) - mutt mail client color schemes
-* [openwebos/build-desktop](https://github.com/openwebos/build-desktop) - Build, install, and run scripts for the desktop build of Open webOS
-* [geo8bit/nodebob](https://github.com/geo8bit/nodebob) - nodebob is a build tool for node-webkit.
-* [Russell91/runcython](https://github.com/Russell91/runcython) - Making cython as easy as python
-* [fpco/stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
-* [cal/vagrant-ubuntu-precise-64](https://github.com/cal/vagrant-ubuntu-precise-64) - Automatic vagrant base box building
-* [swaroopch/flask-boilerplate](https://github.com/swaroopch/flask-boilerplate) - A Flask skeleton for Apache/mod_wsgi deployment and many other goodies
-* [hiteshsondhi88/ffmpeg-android](https://github.com/hiteshsondhi88/ffmpeg-android) - FFmpeg for Android compiled with x264, libass, fontconfig, freetype and fribidi (Supports Android L)
-* [dockerfile/java](https://github.com/dockerfile/java) - Java Dockerfile for trusted automated Docker builds.
-* [musictheory/rchook](https://github.com/musictheory/rchook) - Make Xcode bump build #, tag git, and archive files on Product->Archive
-* [jpalardy/warp](https://github.com/jpalardy/warp) - A bash script to SSH from a list of hostnames.
-* [grugq/PORTALofPi](https://github.com/grugq/PORTALofPi) - PORTAL of Pi - RaspberyPi based PORTAL device. Certified UNIX Network Technicians only!
-* [X1011/git-directory-deploy](https://github.com/X1011/git-directory-deploy) - deploy a directory as a git branch
-* [tobegit3hub/understand_linux_process](https://github.com/tobegit3hub/understand_linux_process) - 开源电子书《理解Linux进程》
-* [progrium/nginx-appliance](https://github.com/progrium/nginx-appliance) - A programmable Nginx container
-* [egold/better-xcode-ibeam-cursor](https://github.com/egold/better-xcode-ibeam-cursor) - Better i-bar (text cursor) for Xcode for dark background / light text color themes.
-* [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption
-* [coreos/coreos-xhyve](https://github.com/coreos/coreos-xhyve) - CoreOS running on xhyve hypervisor
-* [dotwaffle/rancid-git](https://github.com/dotwaffle/rancid-git) - Really Awesome New Cisco confIg Differ with git extensions and support for colorized emails!
-* [marshyski/quick-secure](https://github.com/marshyski/quick-secure) - Quickly secure UNIX/Linux systems
-* [javer/hhvm-vagrant-vm](https://github.com/javer/hhvm-vagrant-vm) - Vagrant VM for HipHop VM
-* [deeplearningparis/dl-machine](https://github.com/deeplearningparis/dl-machine) - Scripts to setup a GPU / CUDA-enabled compute server with libraries for deep learning
-* [NodeOS/NodeOS-Docker](https://github.com/NodeOS/NodeOS-Docker) - Build NodeOS on Docker
-* [saulmm/Android-Notification-Example](https://github.com/saulmm/Android-Notification-Example) - A simple sample showing the different types of notifications on Andoid
-* [felipec/git-remote-hg](https://github.com/felipec/git-remote-hg) - Transparent bidirectional bridge between Git and Mercurial for Git
-* [bartman/git-wip](https://github.com/bartman/git-wip) - help track git Work In Progress branches
-* [dotzero/vagrant-debian-jessie-64](https://github.com/dotzero/vagrant-debian-jessie-64) - Automatic Debian 8 Vagrant base box building on OSX, Linux and Windows
-* [wmanley/git-meld](https://github.com/wmanley/git-meld) - Wrapper around git and meld for comparing git trees
-* [stackforge/kolla](https://github.com/stackforge/kolla) - Kolla - Deploying OpenStack using Docker
-* [masterkain/ImageMagick-sl](https://github.com/masterkain/ImageMagick-sl) - Install ImageMagick on Snow Leopard / Leopard
-* [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide) - A guide for spec authors on how to use Promises in prose and WebIDL.
-* [thi-ng/geom](https://github.com/thi-ng/geom) - 2D/3D geometry toolkit for Clojure
-* [sammcj/delete-unknown-root-ca](https://github.com/sammcj/delete-unknown-root-ca) - Delete Known Government-Linked Certificate Authorities in OS X
-* [r-baker/simple-magento-vagrant](https://github.com/r-baker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant
-* [nevik/gitwatch](https://github.com/nevik/gitwatch) - A script to watch a file or folder and automatically commit changes to a Git repo
-* [tutumcloud/lamp](https://github.com/tutumcloud/lamp) - LAMP base docker image
-* [scottkosty/install-tl-ubuntu](https://github.com/scottkosty/install-tl-ubuntu) - Install script for TeX Live on Ubuntu
-* [sapegin/shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
-* [samrocketman/gitlab-mirrors](https://github.com/samrocketman/gitlab-mirrors) - A set of scripts adding the ability of managing remote mirrors to GitLab.
-* [djanowski/hasp](https://github.com/djanowski/hasp) - Half-assed CSS preprocessor.
-* [rvagg/dnt](https://github.com/rvagg/dnt) - Docker Node Tester
-* [AdmitHub/meteor-buildpack-horse](https://github.com/AdmitHub/meteor-buildpack-horse) - Heroku buildpack for Meteor v1.0+ with support for npm and phantomjs.  The horse one.
-* [janbrennen/rice](https://github.com/janbrennen/rice) - rice, hax, etc
-* [ianunruh/monitoring](https://github.com/ianunruh/monitoring) - :chart_with_upwards_trend: Scripts to configure various monitoring services on Ubuntu 14.04
-* [bripkens/dock](https://github.com/bripkens/dock) - easily bootstrap databases and other tools that you need for development purposes
-* [joshuaclayton/dotfiles](https://github.com/joshuaclayton/dotfiles) - Because everyone else is doing it
-* [henrik/dotfiles](https://github.com/henrik/dotfiles) - Dotfiles.
-* [wunki/vagrant-freebsd](https://github.com/wunki/vagrant-freebsd) - FreeBSD with ZFS for Vagrant
-* [sameersbn/docker-gitlab-ci](https://github.com/sameersbn/docker-gitlab-ci) - Dockerfile to build a GitLab CI container image.
-* [nodejs/docker-iojs](https://github.com/nodejs/docker-iojs) - Official Docker images from the io.js project
-* [mattandersen/vagrant-lamp](https://github.com/mattandersen/vagrant-lamp) - Ubuntu LAMP server implemented with Vagrant
-* [mseknibilel/OpenStack-Folsom-Install-guide](https://github.com/mseknibilel/OpenStack-Folsom-Install-guide) - A full installation guide for OpenStack Folsom with Quantum
-* [iocage/iocage](https://github.com/iocage/iocage) - FreeBSD jail manager
-* [imperialwicket/elasticsearch-logstash-index-mgmt](https://github.com/imperialwicket/elasticsearch-logstash-index-mgmt) - Bash scripts for managing backup, delete, and restore of elasticsearch indexes created by logstash.
-* [cloudbuilders/devstack](https://github.com/cloudbuilders/devstack) - THIS IS A MIRROR OF https://github.com/openstack-dev/devstack - PULL REQUESTS ARE NOT MANAGED THROUGH THIS REPO.  SEE https://launchpad.net/devstack
-* [mmozuras/git-playback](https://github.com/mmozuras/git-playback) - Create visual playback of your commits
-* [mitchellh/packer-ubuntu-12.04-docker](https://github.com/mitchellh/packer-ubuntu-12.04-docker) - Packer template that builds images that are Docker-ready on Ubuntu 12.04.
-* [engineyard/vertebra](https://github.com/engineyard/vertebra) - Top-level repository with the entire vertebra distribution
-* [calfzhou/autoproxy-gfwlist](https://github.com/calfzhou/autoproxy-gfwlist) - A mirror of autoproxy-gfwlist
-* [wine-compholio/wine-staging](https://github.com/wine-compholio/wine-staging) - Staging repository for Wine.
-* [matthewmccullough/scripts](https://github.com/matthewmccullough/scripts) - A series of Bash and ZShell scripts
-* [ynniv/opengenera](https://github.com/ynniv/opengenera) - Convenience scripts to run Open Genera on Mac OS X or a modern Linux.
-* [schacon/whygitisbetter](https://github.com/schacon/whygitisbetter) - the source code for whygitisbetterthanx.com
-* [firecat53/dockerfiles](https://github.com/firecat53/dockerfiles) - Dockerfiles: Btsync, Couchpotato, Crashplan, Gollum, Headphones, Lazy Librarian, Open Monitoring Distribution (OMD), Plex, Sabnzbd, Samba, Sickbeard, Syncthing, Stringer and Transmission/OpenVPN. Ansible playbook for configuring Nginx in Docker.
-* [Mins/TuxLite](https://github.com/Mins/TuxLite) - A complete LAMP and LNMP setup script for Debian or Ubuntu
-* [wertarbyte/autorandr](https://github.com/wertarbyte/autorandr) - Auto-detect the connect display hardware and load the appropiate X11 setup using xrandr or disper
-* [tj/mad](https://github.com/tj/mad) - mad(1) is a markdown manual page viewer
-* [project-nsmg/figure](https://github.com/project-nsmg/figure) - Fig powered mini-Heroku
-* [myfreeweb/zshuery](https://github.com/myfreeweb/zshuery) - [DEPRECATED] Minimal zsh framework
-* [docker-library/postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
-* [yyuu/pyenv-installer](https://github.com/yyuu/pyenv-installer) - This tools is used to install `pyenv` and friends.
-* [mietek/halcyon](https://github.com/mietek/halcyon) - System for installing Haskell apps
-* [kura/vagrant-bash-completion](https://github.com/kura/vagrant-bash-completion) - Add autocomplete for Vagrant to bash completion
-* [RoverWire/virtualhost](https://github.com/RoverWire/virtualhost) - Bash Script to easy create or delete apache virtual hosts on ubuntu
-* [wmluke/dokku-domains-plugin](https://github.com/wmluke/dokku-domains-plugin) - Dokku plugin to create nginx vhost with multiple domains
-* [anthonix/ffts](https://github.com/anthonix/ffts) - The Fastest Fourier Transform in the South
-* [aespinosa/docker-jenkins](https://github.com/aespinosa/docker-jenkins) - Builds a Docker image for Jenkins
-* [stephenh/git-central](https://github.com/stephenh/git-central) - scripts and hooks for use with a centralized git repo
-* [ps3dev/ps3toolchain](https://github.com/ps3dev/ps3toolchain) - A script to autobuild an open source toolchain for the PS3.
-* [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A setup wizard for Chinese wine usrs
-* [haosdent/s](https://github.com/haosdent/s) - s is a tool for ssh like z for cd
-* [MnO2/learnyouahaskell-zh](https://github.com/MnO2/learnyouahaskell-zh) - Chinese translation of Learn you a Haskell for great good
-* [jacobsalmela/pi-hole](https://github.com/jacobsalmela/pi-hole) - Raspberry Pi Ad Blocker
-* [Traackr/ansible-elasticsearch](https://github.com/Traackr/ansible-elasticsearch) - Ansible playbook for Elasticsearch
-* [wppurking/ocserv-docker](https://github.com/wppurking/ocserv-docker) - 用于初始化 ocserv 的 Dockfile 脚本
-* [taigaio/taiga-scripts](https://github.com/taigaio/taiga-scripts) - Taiga deploy scripts
-* [neurocyte/ghc-android](https://github.com/neurocyte/ghc-android) - Build scripts for building ghc cross compilers targeting Android
-* [lehmannro/assert.sh](https://github.com/lehmannro/assert.sh) - bash unit testing framework
-* [fgrehm/devstep](https://github.com/fgrehm/devstep) - Development environments powered by Docker and buildpacks
-* [corbindavenport/nexus-tools](https://github.com/corbindavenport/nexus-tools) - Tool to install ADB and Fastboot on Mac OS X and Linux.
-* [cloudfoundry-attic/oss-docs](https://github.com/cloudfoundry-attic/oss-docs) - Documentation for the Cloud Foundry Platform as a Service
-* [bmaeser/iptables-boilerplate](https://github.com/bmaeser/iptables-boilerplate) - rock solid default firewall-rules for webhosts
-* [RoelN/SansBullshitSans](https://github.com/RoelN/SansBullshitSans) - Source for the Sans Bullshit Sans font
-* [puppetlabs/puppet-vagrant-boxes](https://github.com/puppetlabs/puppet-vagrant-boxes) - Veewee definitions for a set of generic vagrant boxes
-* [jgallen23/mongroup](https://github.com/jgallen23/mongroup) - Monitor a group of processes with mon
-* [dockerfiles/django-uwsgi-nginx](https://github.com/dockerfiles/django-uwsgi-nginx) - Dockerfile and configuration files to build a working Django container with uwsgi and nginx
-* [n8gray/Backup-Bouncer](https://github.com/n8gray/Backup-Bouncer) - A metadata test suite for OS X backup tools
-* [jradavenport/batlog](https://github.com/jradavenport/batlog) - 1 Year of MacBook Air Battery Logs
-* [Veil-Framework/Veil](https://github.com/Veil-Framework/Veil) - Veil is the superproject containing all tools in the Veil-Framework
-* [mpalourdio/xps13](https://github.com/mpalourdio/xps13) - DELL xps13 2015 (9343) Linux Support
-* [heroku/heroku-buildpack-scala](https://github.com/heroku/heroku-buildpack-scala) - Heroku buildpack: Scala
-* [beagleboard/kernel](https://github.com/beagleboard/kernel) - Kernel for the beagleboard.org boards
-* [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot) - Take screenshot selection, upload to imgur. + more cool things
-* [0xAX/git-cheat](https://github.com/0xAX/git-cheat) - git cheat sheets in your command line
-* [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-* [chriskempson/base16-gnome-terminal](https://github.com/chriskempson/base16-gnome-terminal) - Base16 for Gnome Terminal
-* [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-* [wnameless/docker-oracle-xe-11g](https://github.com/wnameless/docker-oracle-xe-11g) - Dockerfile of Oracle Database Express Edition 11g Release 2
-* [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
-* [thornomad/dt-s3-backup](https://github.com/thornomad/dt-s3-backup) - Bash script for automated backups with duplicity and Amazon's S3 online storage
-* [neilorangepeel/Free-Social-Icons](https://github.com/neilorangepeel/Free-Social-Icons) - Vector based social icons made with Sketch App for mac
-* [funcoeszz/funcoeszz](https://github.com/funcoeszz/funcoeszz) - Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin
-* [drewconway/data_science_box](https://github.com/drewconway/data_science_box) - Simple scripts to setup a fresh data science box using an Ubuntu 12.04.* LTS 64-bit server running on an EC2
-* [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
-* [cloudfoundry/bosh-lite](https://github.com/cloudfoundry/bosh-lite) - A lite development env for BOSH
-* [asb/raspi-config](https://github.com/asb/raspi-config) - Configuration tool for the Raspberry Pi
-* [s0enke/git-hooks](https://github.com/s0enke/git-hooks) - git-hooks
-* [relevance/etc](https://github.com/relevance/etc) - bash scripts, aliases, other misc things go here
-* [mkropat/sslfie](https://github.com/mkropat/sslfie) - Generate self-signed x.509 certificates for use with SSL/TLS
-* [fraction/sshcd](https://github.com/fraction/sshcd) - Connect with SSH and cd (change directory) with one command.
-* [gma/bundler-exec](https://github.com/gma/bundler-exec) - Automatically run Ruby scripts with "bundle exec" (but only when appropriate).
-* [frntn/x509-san](https://github.com/frntn/x509-san) - Generate self-signed x509 certificates valid for multiple URLs/IPs
-* [splinesoft/SSBuild](https://github.com/splinesoft/SSBuild) - A build script for continuous integration of iOS apps.
-* [purple52/librarian-puppet-vagrant](https://github.com/purple52/librarian-puppet-vagrant) - An example of how to use Librarian-puppet to manage Puppet modules for a Vagrant box
-* [meteorhacks/meteord](https://github.com/meteorhacks/meteord) - MeteorD - Docker Runtime for Meteor Apps for Production Deployments
-* [lucy/tewi-font](https://github.com/lucy/tewi-font) - A font
-* [jeffutter/dokku-mongodb-plugin](https://github.com/jeffutter/dokku-mongodb-plugin) - Plugin to setup Mongodb accounts for containers deployed to Dokku
-* [cmoudy/mean-vagrant](https://github.com/cmoudy/mean-vagrant) - Vagrant Development Environment for Kick-Starting Developing an application in the MEAN Stack.
-* [airtonix/ansible-django](https://github.com/airtonix/ansible-django) - django playbook
-* [terinjokes/docker-npmjs](https://github.com/terinjokes/docker-npmjs) - Docker image for a private npmjs repository
-* [cikelengfeng/RPAXU](https://github.com/cikelengfeng/RPAXU) - refresh plugins after Xcode upgrading
-* [aschenkels-ictstudio/openerp-install-scripts](https://github.com/aschenkels-ictstudio/openerp-install-scripts) - ODOO / OpenERP Install Scripts
-* [ZeitOnline/briefkasten](https://github.com/ZeitOnline/briefkasten) - a reasonably secure web application for submitting content anonymously
-* [walshie4/Ultimate-Blocklist](https://github.com/walshie4/Ultimate-Blocklist) - A super blocklist made from the most popular ones on the web!
-* [roojs/gir-1.2-gtk-3.4](https://github.com/roojs/gir-1.2-gtk-3.4) - girs for Ubuntu 12.04 / gtk-3.4
-* [conda/conda-recipes](https://github.com/conda/conda-recipes) - build and test recipes for conda
-* [zfsonlinux/zfs-auto-snapshot](https://github.com/zfsonlinux/zfs-auto-snapshot) - ZFS Automatic Snapshot Service for Linux
-* [telmich/cdist](https://github.com/telmich/cdist) - cdist configuration management
-* [ryandotsmith/null-buildpack](https://github.com/ryandotsmith/null-buildpack) - a heroku buildpack that runs executables
-* [dclardy64/ISPConfig-3-Debian-Installer](https://github.com/dclardy64/ISPConfig-3-Debian-Installer) - Auto install script for ISPConfig 3 on Debian
-* [StreakyCobra/gws](https://github.com/StreakyCobra/gws) - Colorful KISS helper for git workspaces
-* [JohnAlbin/git-svn-migrate](https://github.com/JohnAlbin/git-svn-migrate) - Helper scripts to ease the migration of Subversion repositories to Git
-* [lowendbox/lowendscript](https://github.com/lowendbox/lowendscript) - Bash scripts to set up/bootstrap low end virtual servers
-* [GaryJones/wordpress-plugin-git-flow-svn-deploy](https://github.com/GaryJones/wordpress-plugin-git-flow-svn-deploy) - Deploys a WordPress plugin from Github (git) to the WordPress Plugin Repostiory (svn), taking account of git-flow usage.
-* [rbartolome/xcode-cappuccino](https://github.com/rbartolome/xcode-cappuccino) - This project is no longer under active development. Here for historical reasons.
-* [poliva/random-scripts](https://github.com/poliva/random-scripts) - scripts I use from time to time
-* [kelseyhightower/intro-to-kubernetes-workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop) - Intro to Kubernetes Workshop
-* [elasticdog/genhost](https://github.com/elasticdog/genhost) - generate unused hostnames by randomly picking from a word list
-* [victorhsieh/tw-law-corpus](https://github.com/victorhsieh/tw-law-corpus) - Taiwan law corpus, generated by https://github.com/g0v/twlaw
-* [anoopdixith/TheConstitutionOfIndia](https://github.com/anoopdixith/TheConstitutionOfIndia) - Repository for the Constitution of India.
-* [elasticdog/packer-arch](https://github.com/elasticdog/packer-arch) - packer.io template for building an Arch Linux base box
-* [William-Yeh/docker-workshop](https://github.com/William-Yeh/docker-workshop) - Slides and lab materials for my Docker Workshop (in Traditional Chinese).
-* [zbal/zabbix](https://github.com/zbal/zabbix) - Zabbix custom scripts and auto-install
-* [viljoviitanen/setup-simple-pptp-vpn](https://github.com/viljoviitanen/setup-simple-pptp-vpn) - Setup Simple PPTP VPN Server for Ubuntu and Debian
-* [spicycode/ze-best-zsh-config](https://github.com/spicycode/ze-best-zsh-config) - Ze Best ZSH Config
-* [junegunn/myvim](https://github.com/junegunn/myvim) - :bento: Script to create a portable bundle of Vim environment
-* [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
-* [judofyr/perloku](https://github.com/judofyr/perloku) - Perl on Heroku
-* [dflydev/git-subsplit](https://github.com/dflydev/git-subsplit) - Automate and simplify the process of managing one-way read-only subtree splits.
-* [basecamp/xip-pdns](https://github.com/basecamp/xip-pdns) - PowerDNS pipe backend adapter powering xip.io
-* [nvk/sketch-icons](https://github.com/nvk/sketch-icons) - All kinds of icons
-* [mikeplus64/fun.sh](https://github.com/mikeplus64/fun.sh) - Functional /bin/sh
-* [kazeburo/mysetup](https://github.com/kazeburo/mysetup) - my setup scripts repository
-* [hpc/dcp](https://github.com/hpc/dcp) - dcp is a distributed file copy program that automatically distributes and dynamically balances work equally across nodes in a large distributed system without centralized state.
-* [conceptsandtraining/modernie_selenium](https://github.com/conceptsandtraining/modernie_selenium) - Manage modern.ie VBox-VMs with Selenium-Support
-* [SecUpwN/Spotify-AdKiller](https://github.com/SecUpwN/Spotify-AdKiller) - Your Party with Spotify - but without ads!
-* [RangeNetworks/dev](https://github.com/RangeNetworks/dev) - Start Here! Development Environment Tools and System Releases
-* [ipython/docker-notebook](https://github.com/ipython/docker-notebook) - Docker containers for the IPython notebook (+SciPy Stack)
-* [hodgesmr/FindGitHubEmail](https://github.com/hodgesmr/FindGitHubEmail) - Bash script that finds a GitHub user's email address based on username
-* [Graylog2/graylog2-images](https://github.com/Graylog2/graylog2-images) - Ready to run machine images
-* [wet-boew/wet-boew-drupal](https://github.com/wet-boew/wet-boew-drupal) - Drupal variant of the Web Experience Toolkit (WET)
-* [rtomayko/rpg](https://github.com/rtomayko/rpg) - Fast ruby package management for unix
-* [bluss/git-remote-gcrypt](https://github.com/bluss/git-remote-gcrypt) - git-remote-gcrypt: A git remote helper for GPG-encrypted remotes
-* [EnterpriseDB/pg_nosql_benchmark](https://github.com/EnterpriseDB/pg_nosql_benchmark) - A tool which can be used to benchmark PostgreSQL (JSONB) and MongoDB (BSON)
-* [sensorflo/git-draw](https://github.com/sensorflo/git-draw) - draws nearly the full content of a tiny git repository as a graph
-* [jplew/SyncDB](https://github.com/jplew/SyncDB) - Bash script meant to take the tedium out of deploying and updating database-driven (eg Wordpress) websites. It rapidly synchronizes local and remote versions of a MySQL database, performs the necessary search and replace queries, then synchronizes all your uploads/binaries.
-* [dcneiner/html5-site-template](https://github.com/dcneiner/html5-site-template) - A simple HTML5 site template to save me some time when starting a new site design/development.
-* [yyuu/pyenv-virtualenvwrapper](https://github.com/yyuu/pyenv-virtualenvwrapper) - an alternative approach to manage virtualenvs from pyenv.
-* [sukria/Backup-Manager](https://github.com/sukria/Backup-Manager) - Versatile yet easy to use command line backup tool for GNU/Linux. Suitable for desktop and servers.
-* [NixOS/nixos](https://github.com/NixOS/nixos) - OBSOLETE (go to NixOS/nixpkgs) - NixOS, a Linux distribution based on the Nix package manager - OBSOLETE (go to NixOS/nixpkgs)
-* [CenturyLinkLabs/golang-builder](https://github.com/CenturyLinkLabs/golang-builder) - Containerized build environment for compiling an executable Golang package and packaging it in a light-weight Docker container.
-* [stvs/ffmpeg-static](https://github.com/stvs/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included)
-* [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt
-* [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-* [int0x80/anti-forensics](https://github.com/int0x80/anti-forensics) - for the louise
-* [holman/spaceman-diff](https://github.com/holman/spaceman-diff) - diff images from the command line
-* [chuckha/goenv](https://github.com/chuckha/goenv) - Create a go environment!
-* [Kerwood/rtorrent.auto.install](https://github.com/Kerwood/rtorrent.auto.install) - Auto install script for rtorrent with Rutorrent as GUI.
-* [smurfmonitor/dns-iptables-rules](https://github.com/smurfmonitor/dns-iptables-rules) - DNS Amplification IPTABLES block lists
-* [pires/kubernetes-vagrant-coreos-cluster](https://github.com/pires/kubernetes-vagrant-coreos-cluster) - Kubernetes cluster (for testing purposes) made easy with Vagrant and CoreOS.
-* [perberos/Mate-Desktop-Environment](https://github.com/perberos/Mate-Desktop-Environment) - MATE Desktop Environment, a non-intuitive and unattractive desktop for users, using traditional computing desktop metaphor. Also known as the GNOME2 fork.
-* [coreos/coreos-overlay](https://github.com/coreos/coreos-overlay) - Custom ebuilds for CoreOS
-* [cmacrae/saveosx](https://github.com/cmacrae/saveosx) - Bringing fast, secure, 64bit binary package management to OS X
-* [timhaak/docker-plex](https://github.com/timhaak/docker-plex) - This is a Dockerfile to set up Plex Media Server https://plex.tv/
-* [offensive-security/kali-arm-build-scripts](https://github.com/offensive-security/kali-arm-build-scripts) - Kali Linux ARM build scripts
-* [mevansam/cmoss](https://github.com/mevansam/cmoss) - Scripts for building cross-platform c/c++ open source software libraries for iOS and Android.
-* [hmans/rbfu](https://github.com/hmans/rbfu) - Minimal Ruby version management is minimal.
-* [igrigorik/heroku-buildpack-dart](https://github.com/igrigorik/heroku-buildpack-dart) - Heroku buildpack for Dart
-* [ghc-ios/ghc-ios-scripts](https://github.com/ghc-ios/ghc-ios-scripts) - Scripts for building GHC and Haskell programs for iOS
-* [awslabs/aws-codedeploy-samples](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios for AWS CodeDeploy
-* [Zettt/km-markdown-library](https://github.com/Zettt/km-markdown-library) - Markdown library for Keyboard Maestro.
-* [paoloantinori/hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms
-* [kaltura/platform-install-packages](https://github.com/kaltura/platform-install-packages) - Official deployment packages to install the Kaltura platform on a server or cluster environments using native OS package managers
-* [ianb/git-sync](https://github.com/ianb/git-sync) - Use git as a sync tool, without munging your source and sync VCS operations
-* [hectcastro/docker-riak](https://github.com/hectcastro/docker-riak) - A Docker project to bring up a local Riak cluster.
-* [Whonix/Whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP. https://www.whonix.org
-* [othercat/CJKFontScript](https://github.com/othercat/CJKFontScript) - Use Source Han Sans (all CTJK GUI) or Hiragino Sans (Simp & Trad Chinese GUI) as OS X's default GUI Fonts
-* [jneen/ry](https://github.com/jneen/ry) - The simplest ruby version manager
-* [ghost1227/cdm](https://github.com/ghost1227/cdm) - Console Display Manager
-* [ericpaulbishop/yourchili](https://github.com/ericpaulbishop/yourchili) - Bash script library for configuring Debian/Ubuntu VPS hosting, with emphasis on ChiliProject deployment
-* [dz0ny/docker-wpdev](https://github.com/dz0ny/docker-wpdev) - Wordpress in Docker
-* [craigcitro/r-travis](https://github.com/craigcitro/r-travis) - Tools for using R with Travis (http://travis-ci.org)   in lieu of a website:
-* [cobbal/python-for-iphone](https://github.com/cobbal/python-for-iphone) - Build script for compiling python into a static library that can be used with the official SDK
-* [clyfish/zerosprites](https://github.com/clyfish/zerosprites) - ZeroSprites is a CSS sprites generator aimed at area minimization using VLSI floorplaning algorithms.
-* [chriseldredge/git-slack-hook](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
-* [centos-bz/EZHTTP](https://github.com/centos-bz/EZHTTP) - install apache nginx php mysql etc on linux system
-* [DavidWittman/ansible-redis](https://github.com/DavidWittman/ansible-redis) - Highly-configurable Ansible role to install Redis and Redis Sentinel from source
-* [ttscoff/QuickQuestion](https://github.com/ttscoff/QuickQuestion) - A simple, text-based system for building an easily-searchable knowlegebase on OS X. CLI, LaunchBar and Alfred included.
-* [riywo/ndenv](https://github.com/riywo/ndenv) - node.js version manager based on rbenv
-* [pokle/cassandra](https://github.com/pokle/cassandra) - A Docker Cassandra container
-* [alecive/FlatWoken](https://github.com/alecive/FlatWoken) - Official FlatWoken icon theme source repository.
-* [Bumblebee-Project/Bumblebee-old](https://github.com/Bumblebee-Project/Bumblebee-old) - nVidia Optimus support for GNU/Linux aimed at stability. Rewritten and improved fork
-* [BloodAxe/OpenCV-iOS-build-script](https://github.com/BloodAxe/OpenCV-iOS-build-script) - OpenCV iOS build script
-* [toleda/audio_CloverALC](https://github.com/toleda/audio_CloverALC) - OS X Realtek ALC onboard audio with Clover
-* [shyiko/commacd](https://github.com/shyiko/commacd) - When `cd` is just too slow.
-* [iye/lightsOn](https://github.com/iye/lightsOn) - Bash script that prevents the screensaver and display power # management (DPMS) to be activated when you are watching Flash Videos fullscreen on Firefox.
-* [amplab/datascience-sp14](https://github.com/amplab/datascience-sp14) - Repository for data science course Spring 14
-* [StackGeek/openstackgeek](https://github.com/StackGeek/openstackgeek) - StackGeek OpenStack Deploy
-* [SilverFoxx/PwnSTAR](https://github.com/SilverFoxx/PwnSTAR) - PwnSTAR (Pwn SofT-Ap scRipt) - for all your fake-AP needs!
-* [zdj/themes](https://github.com/zdj/themes) - Jetbrains (IDEA) and iTerm2 Themes
-* [sindresorhus/opn](https://github.com/sindresorhus/opn) - A better node-open. Opens stuff like websites, files, executables. Cross-platform.
-* [lvjian700/ffmpegc](https://github.com/lvjian700/ffmpegc) - Compile ffmpeg for iOS, support armv7s , armvs7 & i386 simulator
-* [leamas/spotify-make](https://github.com/leamas/spotify-make) - Experimental, third-party installer for native linux spotify client
-* [heroku/heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) -  Run pgbouncer and stunnel in a dyno along with your application
-* [drothlis/clang-ctags](https://github.com/drothlis/clang-ctags) - Generate tag file for C++ source code, using the clang C++ compiler's parsing libraries
-* [squeaky-pl/portable-pypy](https://github.com/squeaky-pl/portable-pypy) - Portable 32 and 64 bit x86 PyPy binaries for many Linux distributions.
-* [rkjha/RailsOnUbuntu](https://github.com/rkjha/RailsOnUbuntu) - Rails goodies for Ubuntu Users!
-* [owntracks/owntracks](https://github.com/owntracks/owntracks) - OwnTracks
-* [imsky/git-fresh](https://github.com/imsky/git-fresh) - :lemon: Fresh Git repository.
-* [graysky2/anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
-* [bleis-tift/Git-Hooks](https://github.com/bleis-tift/Git-Hooks) - Redmine等のITS/BTSとGitとCIツールを使った開発を支援するためのフックスクリプト集・・・になる予定
-* [Tarrasch/zsh-bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
-* [viljoviitanen/setup-simple-openvpn](https://github.com/viljoviitanen/setup-simple-openvpn) - Setup Simple OpenVPN server for Linux
-* [joyent/nhttpsnoop](https://github.com/joyent/nhttpsnoop) - Trace Node.js HTTP server activity
-* [hak8or/Embedded-Linux-System](https://github.com/hak8or/Embedded-Linux-System) - Very rough documentation for my embedded linux system
-* [dfsq/compressJS.sh](https://github.com/dfsq/compressJS.sh) - Build several javascript files into the one build file previously compressing them with Google Closure Compiler.
-* [lhl/chrome-ssb-osx](https://github.com/lhl/chrome-ssb-osx) - Simple script for making Chrome-based SSBs (site specific browsers)
-* [hbons/Dazzle](https://github.com/hbons/Dazzle) - A script to easily set up a SparkleShare host
-* [fourkitchens/server-playbooks](https://github.com/fourkitchens/server-playbooks) - Ansible playbooks for use in setting up servers.
-* [benlinton/bash-slugify](https://github.com/benlinton/bash-slugify) - Command that converts filenames and directories to a web friendly format.
-* [agnoster/git-dropbox](https://github.com/agnoster/git-dropbox) - The easiest way to use a Dropbox for git repositories
-* [SkyFireArchives/SkyFireDB](https://github.com/SkyFireArchives/SkyFireDB) - This Repository will no longer be updated. Download here.
-* [Red5d/pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
-* [supertopher/dotfiles](https://github.com/supertopher/dotfiles) - dot files
-* [sabersalv/freedom-routes](https://github.com/sabersalv/freedom-routes) - chnroutes改进版, 智能生成路由表, 大幅提升VPN浏览国内网页速度
-* [rkh/rbenv-update](https://github.com/rkh/rbenv-update) - update rbenv and plugins
-* [ivyl/i3-config](https://github.com/ivyl/i3-config) - i3 wm configuration files
-* [ricardoamaro/docker-drupal](https://github.com/ricardoamaro/docker-drupal) - Docker with Drupal, running Apache, mod_php, Apc, Mysql, memcache
-* [openstack/diskimage-builder](https://github.com/openstack/diskimage-builder) - Image building tools for OpenStack
-* [hellais/TAILS-OSX](https://github.com/hellais/TAILS-OSX) - Contains instructions and scripts to create a TAILS live cd that will boot on OSX without any additional software installed (no REFIT, etc.)
-* [gregs1104/hppt](https://github.com/gregs1104/hppt) - High Performance PostgreSQL Tools
-* [ceph/ceph-docker](https://github.com/ceph/ceph-docker) - Docker files and images to run Ceph in containers
-* [grayhemp/pgcookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project
-* [cckpg/autoproxy2privoxy](https://github.com/cckpg/autoproxy2privoxy) - Convert AutoProxy rules to Privoxy forward rules
-* [overshard/docker-minecraft](https://github.com/overshard/docker-minecraft) - An easy way to get a Minecraft server up and running using docker.
-* [mietek/haskell-on-heroku](https://github.com/mietek/haskell-on-heroku) - Buildpack for deploying Haskell apps
-* [embarkmobile/android-sdk-installer](https://github.com/embarkmobile/android-sdk-installer) - Android SDK Installer Script
-* [dmotz/jade-html5-boilerplate](https://github.com/dmotz/jade-html5-boilerplate) - HTML5 Boilerplate ported to Jade. Great as a drop and go markup skeleton for Express apps.
-* [crazy-max/csgo-server-launcher](https://github.com/crazy-max/csgo-server-launcher) - Counter-Strike : Global Offensive Server Launcher
-* [boxcutter/ubuntu](https://github.com/boxcutter/ubuntu) - Virtual machine templates for Ubuntu
-* [adapteva/epiphany-sdk](https://github.com/adapteva/epiphany-sdk) - Epiphany SDK build scripts (start here!)
-* [wurstmeister/storm-docker](https://github.com/wurstmeister/storm-docker) - Dockerfiles for building a storm cluster.
-* [phbaer/lxc-tools](https://github.com/phbaer/lxc-tools) - Admin tools for LXC
-* [mbrubeck/android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for "adb" from the Google Android SDK
-* [aldeed/deploymeteor](https://github.com/aldeed/deploymeteor) - The deploymeteor script makes it as easy as possible to deploy a meteor app to a standard Amazon EC2 server running the latest Amazon Linux AMI.
-* [tomas/skull](https://github.com/tomas/skull) - Object-oriented-like Bash framework
-* [tj/bm](https://github.com/tj/bm) - CLI bookmarks -- dropbox persisted bookmarks in your terminal - view screenshots in your browser
-* [tagomoris/xbuild](https://github.com/tagomoris/xbuild) - Language runtimes installer for production environment
-* [dockerfile/redis](https://github.com/dockerfile/redis) - Redis Dockerfile for trusted automated Docker builds.
-* [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The ELK stack powered by Docker and Docker-compose.
-* [dchest/semicolon-js](https://github.com/dchest/semicolon-js) - Semicolon.js — the most useful JavaScript library for cargo cult programmers
-* [MisterDA/love-release](https://github.com/MisterDA/love-release) - A Bash script to make LÖVE games releases easier
-* [zfsnap/zfsnap](https://github.com/zfsnap/zfsnap) - A portable, performant script to make rolling ZFS snapshots easy.
-* [tj/burl](https://github.com/tj/burl) - better curl(1) through augmentation
-* [thenigan/git-diffall](https://github.com/thenigan/git-diffall) - Script to perform directory diffs using an external diff tool in Git
-* [sinkcup/AntDemo](https://github.com/sinkcup/AntDemo) - 安卓自动打包ant auto build Android Package
-* [orefalo/g2](https://github.com/orefalo/g2) - g2 - the friendly git command line client
-* [dockerfile/mongodb](https://github.com/dockerfile/mongodb) - MongoDB Dockerfile for trusted automated Docker builds.
-* [dcarley/rbenv-sudo](https://github.com/dcarley/rbenv-sudo) - Sudo plugin for rbenv
-* [ahunnargikar/vagrant-mesos](https://github.com/ahunnargikar/vagrant-mesos) - Mesos/Docker/Marathon/Aurora development Vagrant Virtualbox setup
-* [adaline/dockermail](https://github.com/adaline/dockermail) - A secure, minimal-configuration mail service in docker containers.
-* [Outernet-Project/orx-install](https://github.com/Outernet-Project/orx-install) - ORx install scripts
-* [stevef1uk/docker_for_rpi](https://github.com/stevef1uk/docker_for_rpi) - Docker for Raspberry Pi
-* [statianzo/dokku-supervisord](https://github.com/statianzo/dokku-supervisord) - Use supervisord as the runner within dokku
-* [luxifer/dokku-redis-plugin](https://github.com/luxifer/dokku-redis-plugin) - Redis plugin for Dokku
-* [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler
-* [jvehent/haproxy-aws](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack in AWS with HAProxy
-* [hukl/freebsd-toolbox](https://github.com/hukl/freebsd-toolbox) - Collection of Tools and Howtos
-* [cweiske/phpfarm](https://github.com/cweiske/phpfarm) - Tool to install multiple versions of PHP beside each other
-* [comperiosearch/vagrant-elk-box](https://github.com/comperiosearch/vagrant-elk-box) - Vagrant box to install elasticsearch, logstash and kibana
-* [FFMS/ffms2](https://github.com/FFMS/ffms2) - A libav/ffmpeg based source library and Avisynth plugin for easy frame accurate access
-* [zant95/elementary-dropbox](https://github.com/zant95/elementary-dropbox) - Installs Dropbox and integrates it with WingPanel (for Elementary OS Freya).
-* [subtleGradient/StandaloneWebInspector.app](https://github.com/subtleGradient/StandaloneWebInspector.app) - a really simple app for Mac OS X that wraps the very latest WebKit Web Inspector and simplifies remote debugging
-* [opensas/play2-openshift-quickstart](https://github.com/opensas/play2-openshift-quickstart) - Play framework 2.0 quickstart for Openshift
-* [mozilla/moz-git-tools](https://github.com/mozilla/moz-git-tools) - Tools for working with Git at Mozilla
-* [ask/rabbitmq-munin](https://github.com/ask/rabbitmq-munin) - Munin-plugins for RabbitMQ
-* [aplura/Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk
-* [eyecreate/ubuntu-chromebook-installer](https://github.com/eyecreate/ubuntu-chromebook-installer) - Installer for Ubuntu/Kubuntu on Chromebook (only tested with c720)
-* [eskimoapps/ResourceNestingExample](https://github.com/eskimoapps/ResourceNestingExample) - This is a demo app for android that shows how to create nested resource directories using the gradle build system.
-* [cmaitchison/git_diet](https://github.com/cmaitchison/git_diet) - When your git repo needs to lose some weight...
-* [voidlinux/void-packages](https://github.com/voidlinux/void-packages) - The XBPS source packages collection
-* [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
-* [rcbops/oz-image-build](https://github.com/rcbops/oz-image-build) - Tools to build images with oz.  THIS CODE BASE IS NO LONGER MAINTAINED
-* [obdev/CrossPack-AVR](https://github.com/obdev/CrossPack-AVR) - Script and associated files for building avr-gcc and related tools on Mac OS X with Xcode 4
-* [mislav/coral](https://github.com/mislav/coral) - Hacker's toolbelt for Ruby, gems, Bundler, git, and more
-* [RGBboy/mongodb-s3-backup](https://github.com/RGBboy/mongodb-s3-backup) - Mongodb to Amazon S3 Backup
-* [OpenHFT/OpenHFT](https://github.com/OpenHFT/OpenHFT) - Parent module to include active modules
-* [Kayven/OneStack](https://github.com/Kayven/OneStack) - A tool to deploy complete and real OpenStack cloud computing service.（一键部署OpenStack）
-* [themattrix/sed2048](https://github.com/themattrix/sed2048) - The 2048 game implemented in sed
-* [heroku/stack-images](https://github.com/heroku/stack-images) - Automated generation of stack images
-* [crazy-max/nodejs-portable](https://github.com/crazy-max/nodejs-portable) - Make Node.js portable on Windows
-* [bkerley/zshkit](https://github.com/bkerley/zshkit) - My way-overdone zsh config scripts
-* [andrewd18/df-lnp-installer](https://github.com/andrewd18/df-lnp-installer) - An installation script for the Dwarf Fortress Lazy Newb Pack, for Linux.
-* [radiac/caman](https://github.com/radiac/caman) - A self-signing certificate authority manager
-* [orchardup/docker-postgresql](https://github.com/orchardup/docker-postgresql) - Deprecated - use the official postgres image.
-* [mgutz/vpsbench](https://github.com/mgutz/vpsbench) - Benchmarks VPS perfomance
-* [vitorgalvao/alfred-workflows](https://github.com/vitorgalvao/alfred-workflows) - Collection of Alfred workflows
-* [mururu/exenv](https://github.com/mururu/exenv) - Elixir versions management tool
-* [milgner/k290-fnkeyctl](https://github.com/milgner/k290-fnkeyctl) - Configures the behaviour of the F-keys on the Logitech K290
-* [microcai/gentoo-zh](https://github.com/microcai/gentoo-zh) - gentoo-zh is an overlay for China and Taiwan Users
-* [mclamp/JAuth](https://github.com/mclamp/JAuth) - Java GUI client to generate Google authentication codes
-* [koush/AnyKernel](https://github.com/koush/AnyKernel) - AnyKernel is a template for an update.zip that can apply any kernel to any ROM, regardless of ramdisk.
-* [jweslley/rails_completion](https://github.com/jweslley/rails_completion) - Bash completion support for Ruby on Rails.
-* [gotbletu/shownotes](https://github.com/gotbletu/shownotes) - notes for random stuff
-* [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
-* [coreos/toolbox](https://github.com/coreos/toolbox) - bring your tools with you
-* [Gnurou/busybox-android](https://github.com/Gnurou/busybox-android) - A Busybox binary that is ready to be integrated into your Android project
-* [xing/TinyPNG](https://github.com/xing/TinyPNG) - Automated mass optimization script for web images
-* [treyhunner/tmuxstart](https://github.com/treyhunner/tmuxstart) - Create default configurations for your named tmux sessions
-* [sdnhub/lorispack](https://github.com/sdnhub/lorispack) - Network Microsegmentation for Docker container deployments
+* [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+* [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+* [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
+* [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+* [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.
+* [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+* [tj/n](https://github.com/tj/n) - Node version management
+* [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+* [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+* [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+* [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+* [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) - 关于Python的面试题
+* [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+* [termux/termux-packages](https://github.com/termux/termux-packages) - A package build system for Termux.
+* [rupa/z](https://github.com/rupa/z) - z - jump around
+* [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+* [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+* [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
+* [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+* [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+* [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
+* [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts *(archived)*
+* [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
+* [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+* [nelvko/clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
+* [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
+* [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+* [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+* [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+* [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+* [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS *(archived)*
+* [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+* [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+* [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k. *(archived)*
+* [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+* [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+* [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)
+* [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
+* [google/oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
+* [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
+* [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+* [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+* [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together. See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications. *(archived)*
+* [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+* [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+* [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
+* [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+* [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
+* [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
+* [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
+* [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+* [1N3/Sn1per](https://github.com/1N3/Sn1per) - Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+* [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+* [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+* [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+* [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+* [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+* [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
+* [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions *(archived)*
+* [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+* [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+* [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
+* [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+* [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能、本地IP订阅生成
+* [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+* [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
+* [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art: *(archived)*
+* [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+* [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+* [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+* [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+* [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
+* [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
+* [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+* [iuricode/padroes-de-commits](https://github.com/iuricode/padroes-de-commits) - Padrões de commits
+* [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+* [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
+* [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+* [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
+* [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
+* [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+* [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+* [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+* [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+* [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+* [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+* [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
+* [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
+* [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
+* [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
+* [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+* [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+* [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
+* [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+* [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+* [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.
+* [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+* [facebookarchive/caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework. *(archived)*
+* [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
+* [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408 *(archived)*
+* [teddysun/shadowsocks_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
+* [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+* [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+* [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+* [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org *(archived)*
+* [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer Microsoft Office For MacOS
+* [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
+* [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
+* [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+* [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
+* [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
+* [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
+* [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
+* [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+* [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+* [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+* [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
+* [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件 *(archived)*
+* [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
+* [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
+* [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
+* [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
+* [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
+* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+* [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+* [fbelavenuto/arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader *(archived)*
+* [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+* [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评脚本 —— 更推荐使用无环境依赖的 Go 版本：https://github.com/oneclickvirt/ecs VPS Fusion Monster Server Test Script — we now recommend the Go version (zero external dependencies): https://github.com/oneclickvirt/ecs
+* [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+* [filsv/iOSDeviceSupport](https://github.com/filsv/iOSDeviceSupport) - Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 17.0)
+* [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
+* [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
+* [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills) - Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
+* [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
+* [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
+* [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System *(archived)*
+* [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
+* [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
+* [oracle/docker-images](https://github.com/oracle/docker-images) - Official source of container configurations, images, and examples for Oracle products and projects
+* [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
+* [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
+* [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
+* [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+* [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
+* [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
+* [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
+* [ROCm/legacy-rocm-build](https://github.com/ROCm/legacy-rocm-build) - AMD ROCm™ Software - GitHub Home
+* [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
+* [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
+* [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+* [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+* [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+* [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
+* [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+* [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+* [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+* [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
+* [The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) - Linux privilege escalation auditing tool
+* [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
+* [Jeevan-kumar-Raj/Grokking-System-Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design) - Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.
+* [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。
+* [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+* [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - n8n skillset for Claude Code to build flawless n8n workflows
+* [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update) *(archived)*
+* [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
+* [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+* [mishakorzik/AllHackingTools](https://github.com/mishakorzik/AllHackingTools) - All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.
+* [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+* [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+* [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
+* [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
+* [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 * [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-* [flomotlik/packer-example](https://github.com/flomotlik/packer-example) - Packer files we use for Codeship
-* [juliangruber/npm-diff](https://github.com/juliangruber/npm-diff) - Diff two versions of a node module
-* [harryallerston/RPI-Wireless-Hotspot](https://github.com/harryallerston/RPI-Wireless-Hotspot) - Configure your Raspberry Pi to act as a WPA encrypted WiFi hotspot, sharing the attatched ethernet connection. Allows the selection from a range of common DNS providers, including unblock-us for netflix. Chromecast support with this feature is also configured.
-* [colinkeenan/silentcast](https://github.com/colinkeenan/silentcast) - Create silent mkv screencast and animated gif.
-* [terrywang/vagrantboxes](https://github.com/terrywang/vagrantboxes) - Vagrant Base Boxes for vagrantbox.es plus veewee definitions
-* [tav/ampify](https://github.com/tav/ampify) - Ampify is a decentralised application platform. See the README for more info and join in!
-* [rhwood/jenkins-slave-osx](https://github.com/rhwood/jenkins-slave-osx) - Jenkins JNLP slave service for modern OS X systems
-* [rear/rear](https://github.com/rear/rear) - Relax-and-Recover - Linux bare metal disaster recovery and system migration solution (cfr. mksysb, ignite)
-* [funtoo/funtoo-overlay](https://github.com/funtoo/funtoo-overlay) - Funtoo overlay (all funtoo ebuild/eclass changes in one place)
-* [chnm/WP-Static](https://github.com/chnm/WP-Static) - Bash script to turn a WordPress install into static HTML.
-* [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) - A Powerline-Inspired theme for ZSH!
-* [tutumcloud/influxdb](https://github.com/tutumcloud/influxdb) - Docker image to run an out-of-the-box InfluxDB server
-* [javierarce/epub-boilerplate](https://github.com/javierarce/epub-boilerplate) - A simple template to help you create ePub-formatted books.
-* [gitlabhq/gitlab-recipes](https://github.com/gitlabhq/gitlab-recipes) - Mostly unofficial GitLab recipes for setup on different platforms, update etc...
-* [tryolabs/metamon](https://github.com/tryolabs/metamon) - Collection of Ansible playbooks to quickly start your Django Application
-* [karalabe/srcbox](https://github.com/karalabe/srcbox) - Source code inside Dropbox
-* [jasonreece/css-burrito](https://github.com/jasonreece/css-burrito) - An organizational Sass template.
-* [chenzhiwei/linux](https://github.com/chenzhiwei/linux) - Linux related notes.
-* [wsargent/docker-devenv](https://github.com/wsargent/docker-devenv) - Docker based development environment
-* [aglover/ubuntu-equip](https://github.com/aglover/ubuntu-equip) - Equip Ubuntu with Ruby, Mongo, CI, Java, you name it.
-* [substack/alarm](https://github.com/substack/alarm) - wake the fuck up
-* [ibuildthecloud/coreos-on-do](https://github.com/ibuildthecloud/coreos-on-do) - Script to install CoreOS on Digital Ocean
-* [dreamerslab/nodejs.production](https://github.com/dreamerslab/nodejs.production) - Some tools and scripts that helps for node.js on production
-* [oscardelben/git-diff-grep](https://github.com/oscardelben/git-diff-grep) - Run grep across git diffs history
-* [berfarah/LESS-build-sublime](https://github.com/berfarah/LESS-build-sublime) - Less build sytem for Sublime Text 2
-* [jwerle/mush](https://github.com/jwerle/mush) - Mustache templates for bash
-* [Goles/Battery](https://github.com/Goles/Battery) - Battery is a little bash script that uses Spark to display the battery status on your tmux sessions or the terminal.
-* [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
+* [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
+* [snowdream/awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites *(archived)*
+* [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v. *(archived)*
+* [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
+* [yonggekkk/argosbx](https://github.com/yonggekkk/argosbx) - 小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道
+* [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+* [nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup) - A beginner's guide to setting up a development environment on macOS
+* [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
+* [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+* [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵活。
+* [npryce/adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
+* [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) - Alpine Linux Docker image. Win at minimalism!
+* [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor *(archived)*
+* [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
+* [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+* [ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
+* [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
+* [armbian/build](https://github.com/armbian/build) - The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.
+* [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Linux
+* [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
+* [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+* [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
+* [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
+* [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理 *(archived)*
+* [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
+* [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
+* [rvm/rvm](https://github.com/rvm/rvm) - Ruby enVironment Manager (RVM)
+* [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration *(archived)*
+* [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议
+* [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+* [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
+* [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
+* [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+* [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+* [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+* [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+* [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
+* [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
+* [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
+* [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
+* [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+* [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
+* [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+* [urbanadventurer/Android-PIN-Bruteforce](https://github.com/urbanadventurer/Android-PIN-Bruteforce) - Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)
+* [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders
+* [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+* [233boy/sing-box](https://github.com/233boy/sing-box) - 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议
+* [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
+* [uswds/public-sans](https://github.com/uswds/public-sans) - A strong, neutral, principles-driven, open source typeface for text or display
+* [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https://github.com/devcontainers/feature-starter for information on creating your own! *(archived)*
+* [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
+* [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+* [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
+* [ToyoDAdoubi/doubi](https://github.com/ToyoDAdoubi/doubi) - 一个逗比写的各种逗比脚本~
+* [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
+* [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
+* [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+* [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
+* [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+* [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
+* [rauchg/wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the wifi you're on (bash)
+* [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+* [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial) - 从零开始玩转OpenClaw：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南（github版）
+* [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) - 这是 mattpocock/skills 的简体中文本地化版本。
+* [samsesh/SocialBox-Termux](https://github.com/samsesh/SocialBox-Termux) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android
+* [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
+* [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
+* [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
+* [Varying-Vagrant-Vagrants/VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress
+* [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
+* [Gictorbit/photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Photoshop CC v19 installer for Gnu/Linux
+* [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point. *(archived)*
+* [Astrosp/Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
+* [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
+* [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
+* [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
+* [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) - Online resources that will help you prepare for taking the CNCF CKA 2020 "Kubernetes Certified Administrator" Certification exam. with time, This is not likely the comprehensive up to date list - please make a pull request if there something that should be added here.
+* [pry0cc/axiom](https://github.com/pry0cc/axiom) - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more!
+* [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+* [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
+* [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+* [unifi-utilities/unifi-common](https://github.com/unifi-utilities/unifi-common) - UniFi Common - on_boot.d
+* [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
+* [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster. *(archived)*
+* [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
+* [kanshurichard/enableAppleAI](https://github.com/kanshurichard/enableAppleAI) - Enable Apple Intelligence on Macs sold in Mainland China with SIP enabled, for version between MacOS 15.4.1+ and 26.5 beta3 *(archived)*
+* [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
+* [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
+* [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
+* [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers)
+* [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
+* [osixia/container-openldap](https://github.com/osixia/container-openldap) - OpenLDAP container image 🐳🪪🌴
+* [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) - Pytorch 中文文档
+* [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended (now Morphe) YT and YT-M for both root and non-root users.
+* [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
+* [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
+* [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. *(archived)*
+* [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+* [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is
+* [github/mona-sans](https://github.com/github/mona-sans) - Mona Sans, a variable font from GitHub
+* [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
+* [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
+* [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way.
+* [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) - Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.
+* [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+* [Drewsif/PiShrink](https://github.com/Drewsif/PiShrink) - Make your pi images smaller!
+* [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
+* [Joshua-Riek/ubuntu-rockchip](https://github.com/Joshua-Riek/ubuntu-rockchip) - Ubuntu for Rockchip RK35XX Devices *(archived)*
+* [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej's personal agent skills
+* [garylab/dnmp](https://github.com/garylab/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
+* [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+* [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
+* [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持Hysteria2、Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+* [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
+* [badtuxx/DescomplicandoKubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
+* [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
+* [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
+* [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
+* [diego-treitos/linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) - Linux enumeration tool for pentesting and CTFs with verbosity levels
+* [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
+* [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
+* [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - A tool to download, compile, and install Ruby on Unix-like systems.
+* [lambci/lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
+* [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes.
+* [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
+* [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
+* [leebaird/discover](https://github.com/leebaird/discover) - Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Ubuntu. Limited support for Kali Linux.
+* [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本 *(archived)*
+* [jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
+* [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
+* [BrowserBox/BrowserBox](https://github.com/BrowserBox/BrowserBox) - 💚🇺🇸🗽Secure remote browsing anywhere, any way you like it.
+* [leitbogioro/Tools](https://github.com/leitbogioro/Tools) - Something about tools
+* [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
+* [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
+* [htr-tech/nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool *(archived)*
+* [laravel/homestead](https://github.com/laravel/homestead) - *(archived)*
+* [trimstray/htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
+* [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.
+* [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+* [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash, fish, and zsh
+* [puckel/docker-airflow](https://github.com/puckel/docker-airflow) - Docker Apache Airflow
+* [Medicean/VulApps](https://github.com/Medicean/VulApps) - 快速搭建各种漏洞环境(Various vulnerability environment) *(archived)*
+* [antonbabenko/pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
+* [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries
+* [olegos2/mobox](https://github.com/olegos2/mobox) - *(archived)*
+* [milanm/DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap for 2026 by seniority level.
+* [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+* [justlovemaki/openclaw-china-docker](https://github.com/justlovemaki/openclaw-china-docker) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+* [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+* [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills)
+* [zolrath/wemux](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
+* [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
+* [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) - TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. *(archived)*
+* [conduktor/kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose) - docker compose files to create a fully working kafka stack
+* [mayukh4/linux-android](https://github.com/mayukh4/linux-android) - Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server — using Termux. No root, no PC, no cloud.
+* [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo)
+* [Wangnov/codex-app-mirror](https://github.com/Wangnov/codex-app-mirror) - 原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连下载、 Mac 可增量更新 | Verbatim, verifiable mirror of the official Codex desktop app — probed every 15 min, with a Sparkle delta-update feed.
+* [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+* [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
+* [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
+* [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+* [BlackArch/blackarch](https://github.com/BlackArch/blackarch) - An ArchLinux based distribution for penetration testers and security researchers.
+* [AuxXxilium/arc](https://github.com/AuxXxilium/arc) - Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced hardwaresupport, addons, guided (semi-automated) installation and more. Multiple customization options are built-in. It is modified to run on different hardware (More informations in wiki).
+* [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
+* [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
+* [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.
+* [johanhaleby/kubetail](https://github.com/johanhaleby/kubetail) - Bash script to tail Kubernetes logs from multiple pods at the same time
+* [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
+* [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
+* [void-linux/void-packages](https://github.com/void-linux/void-packages) - The Void source packages collection
+* [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
+* [snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline. *(archived)*
+* [pewdiepie-archdaemon/dionysus](https://github.com/pewdiepie-archdaemon/dionysus) - laptop
+* [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
+* [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) - ClawdBot 一键部署工具
+* [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO
+* [datawhalechina/learn-nlp-with-transformers](https://github.com/datawhalechina/learn-nlp-with-transformers) - we want to create a repo to illustrate usage of transformers in chinese
+* [8483/notes](https://github.com/8483/notes) - Full-stack web development notes
+* [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) - 🚀 Awesome (free) web apps that work without login
+* [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts generator
+* [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
+* [ophub/fnnas](https://github.com/ophub/fnnas) - Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+* [wowu/docker-rollout](https://github.com/wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose
+* [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
+* [tom-snow/wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+* [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects. *(archived)*
+* [cryinkfly/Autodesk-Fusion-360-for-Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux) - This is a project, where I give you a way to use Autodesk Fusion 360 on Linux! *(archived)*
+* [scopatz/nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+* [RPi-Distro/pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
+* [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
+* [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
+* [h5bp/server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
+* [jkaving/intellij-colors-solarized](https://github.com/jkaving/intellij-colors-solarized) - Solarized Colorscheme for IntelliJ IDEA
+* [mars/create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack) - ⚛️ Heroku Buildpack for create-react-app: static hosting for React.js web apps *(archived)*
+* [wmnnd/nginx-certbot](https://github.com/wmnnd/nginx-certbot) - Boilerplate configuration for nginx and certbot with docker-compose
+* [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
+* [BEPb/BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
+* [jaykali/maskphish](https://github.com/jaykali/maskphish) - Introducing "URL Making Technology" to the world for the very FIRST TIME. Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+* [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+* [thananon/9arm-skills](https://github.com/thananon/9arm-skills)
+* [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
+* [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux
+* [zilliztech/attu](https://github.com/zilliztech/attu) - The Best GUI for Milvus
+* [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
+* [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B、树莓派4B、R66S、R68S、M68S、H28K、H66K、H68K、H88K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等 *(archived)*
+* [neargle/re0-kubernetes-sec-archive](https://github.com/neargle/re0-kubernetes-sec-archive) - :atom: [WIP] 整理过去我和K8s、容器、虚拟化相关的分享 🧐
+* [Hax4us/Nethunter-In-Termux](https://github.com/Hax4us/Nethunter-In-Termux) - This is a script by which you can install Kali nethunter (Kali Linux) in your termux application without rooted phone
+* [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Burpsuite Professional Latest Version 2026
+* [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
+* [csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China) - 介绍中国各二线以上城市的互联网环境以及生活成本
+* [hoverbike1/TOTK-Mods-collection](https://github.com/hoverbike1/TOTK-Mods-collection) - Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation
+* [microsoft/amplifier](https://github.com/microsoft/amplifier)
+* [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
+* [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
+* [21y4d/nmapAutomator](https://github.com/21y4d/nmapAutomator) - A script that you can run in the background!
+* [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
+* [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - *(archived)*
+* [rawfilejson/awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+* [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
+* [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server.
+* [pipeseroni/pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver
+* [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+* [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) - Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.
+* [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
+* [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
+* [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit) - An all-in-one tool to restore/downgrade, save SHSH blobs, jailbreak legacy iOS devices, and more
+* [sucong426/VPN](https://github.com/sucong426/VPN) - 快速搭建个人VPN/科学上网/翻墙/教程/ssr/ss/bbr/梯子搭建/自建机场/自由上网/代理服务/VPN/2023最新教程
+* [noob-hackers/infect](https://github.com/noob-hackers/infect) - Infect Any Android Device With Virus From Link In Termux
+* [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend) - 🔎 互联网内推信息（社招、校招、实习）
+* [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
+* [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
+* [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provides network connectivity to WSL 2 when blocked by VPN
+* [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
+* [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) - Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp
+* [P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh) - Aria2 一键安装管理脚本 增强版 *(archived)*
+* [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux container for the iCloud Photos Downloader command line utility
+* [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier!
+* [square/java-code-styles](https://github.com/square/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects. *(archived)*
+* [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, curl installer...
+* [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A huge collection (80+) of plymouth themes ported from android bootanimations
+* [AndronixApp/AndronixOrigin](https://github.com/AndronixApp/AndronixOrigin) - This is the official repository for the back end of the Andronix app 🚀. Here you can know all the scripts you're installing 😎
+* [alacritty/alacritty-theme](https://github.com/alacritty/alacritty-theme) - Collection of Alacritty color schemes
+* [Alvin9999-newpac/fanqiang](https://github.com/Alvin9999-newpac/fanqiang) - 免费翻墙、免费科学上网、翻墙翻墙、科学上网、Mac/iOS/安卓翻墙、翻墙翻墙、自由上网、 一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、fanqiang、翻墙翻墙、科学上网、翻墙翻墙翻墙翻墙翻墙翻墙翻墙、 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙翻墙翻墙翻墙
+* [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
+* [postmodern/chruby](https://github.com/postmodern/chruby) - Changes the current Ruby
+* [scmbreeze/scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more
+* [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
+* [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
+* [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
+* [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) - Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals.
+* [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
+* [Java-Edge/Java-Interview-Tutorial](https://github.com/Java-Edge/Java-Interview-Tutorial) - 请star，勿fork，因为爱force push！涵盖国际大厂Java/数据库/DDD/设计模式/微服务/中间件/AI大模型应用/区块链开发最佳实践。关注公众号【JavaEdge】，一起交流学习！
+* [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide) - This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist.
+* [sonic2kk/steamtinkerlaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs
+* [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+* [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
+* [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
+* [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
+* [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
+* [HenryChiao/MIHOMO_YAMLS](https://github.com/HenryChiao/MIHOMO_YAMLS) - 一个精心整理的 Mihomo (Clash Meta) 配置文件仓库，通过 GitHub Actions 每日自动同步上游优质规则，提供从入门到进阶的完整解决方案。
+* [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
+* [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
+* [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow.
+* [neologd/mecab-ipadic-neologd](https://github.com/neologd/mecab-ipadic-neologd) - Neologism dictionary based on the language resources on the Web for mecab-ipadic
+* [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
+* [QiuSimons/YAOF](https://github.com/QiuSimons/YAOF) - OpenWrt for Nanopi R2C/R2S/R4S/X86
+* [lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat) - 微信小助手的安装 / 更新工具。 *(archived)*
+* [getlantern/lantern-binaries-archive](https://github.com/getlantern/lantern-binaries-archive) - Lantern installers binary downloads.
+* [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
+* [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages *(archived)*
+* [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
+* [linuxeye/lnmp](https://github.com/linuxeye/lnmp) - LEMP stack/LAMP stack/LNMP stack installation scripts for CentOS/Redhat Debian and Ubuntu
+* [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
+* [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows) - Vagrant redis configuration and the binary releases of MS Open Tech redis port of windows
+* [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
+* [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
+* [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
+* [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt)
+* [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
+* [aws-samples/aws-workshop-for-kubernetes](https://github.com/aws-samples/aws-workshop-for-kubernetes) - AWS Workshop for Kubernetes *(archived)*
+* [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
+* [homebridge/docker-homebridge](https://github.com/homebridge/docker-homebridge) - Homebridge Docker. HomeKit support for the impatient using Docker on x86_64, Raspberry Pi (ARM64). Includes ffmpeg + libfdk-aac.
+* [DominicBreuker/stego-toolkit](https://github.com/DominicBreuker/stego-toolkit) - Collection of steganography tools - helps with CTF challenges
+* [Homebrew/install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
+* [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
+* [wukongdaily/ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder) - 它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。
+* [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
+* [zhaoweih/Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial) - 🐱给小白的Shadowsocks翻墙教程-Easy-to-follow tutorials for beginners on using Shadowsocks to bypass internet restrictions.
+* [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
+* [micha/resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+* [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
+* [expo/skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
+* [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
+* [steveloughran/winutils](https://github.com/steveloughran/winutils) - Windows binaries for Hadoop versions (built from the git commit ID used for the ASF relase)
+* [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
+* [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files
+* [kboghdady/youTube_ads_4_pi-hole](https://github.com/kboghdady/youTube_ads_4_pi-hole) - YouTube ad-serving domain blocklist for Pi-hole (v5 & v6), AdGuard Home, pfBlockerNG and other DNS blockers - add one URL and block YouTube ads on every device on your network. Updated daily.
+* [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
+* [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
+* [ublue-os/bluefin](https://github.com/ublue-os/bluefin) - The next generation Linux workstation, designed for reliability, performance, and sustainability.
+* [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
+* [usagi/rust-memory-container-cs](https://github.com/usagi/rust-memory-container-cs) - Rust Memory Container Cheat-sheet
+* [subosito/flutter-action](https://github.com/subosito/flutter-action) - Flutter environment for use in GitHub Actions. It works on Linux, Windows, and macOS.
+* [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
+* [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
+* [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
+* [LongQT-sea/macos-iso-builder](https://github.com/LongQT-sea/macos-iso-builder) - Generate bootable macOS installer ISO or DMG images directly from Apple servers via GitHub Actions - no Mac required. Mac OS X 10.7 - macOS 26 Tahoe
+* [SHORiN-KiWATA/Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。
+* [Blackjacx/WWDC](https://github.com/Blackjacx/WWDC) - You don't have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳
+* [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
+* [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) - The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.
+* [jverkoey/iOS-Framework](https://github.com/jverkoey/iOS-Framework) - How to create, develop, and distribute iOS Static Frameworks quickly and efficiently *(archived)*
+* [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - *(archived)*
+* [geerlingguy/macos-virtualbox-vm](https://github.com/geerlingguy/macos-virtualbox-vm) - Instructions and script to help you create a VirtualBox VM running macOS.
+* [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+* [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
+* [MatMoul/archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer *(archived)*
+* [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser) - Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad
+* [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
+* [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W) *(archived)*
+* [NVISOsecurity/AlwaysTrustUserCerts](https://github.com/NVISOsecurity/AlwaysTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
+* [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
+* [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+* [japaric/rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs!
+* [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+* [JaKooLit/Fedora-Hyprland](https://github.com/JaKooLit/Fedora-Hyprland) - For automated installation of Hyprland on Fedora (latest release) or any Fedora based distros
+* [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 Nginx 或 Caddy(v2 版) 配合 V2Ray(v4 版) 或 Xray、Caddy(v2 版) 加专用插件、Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成特定插件的 Caddy(v2 版) 文件，分享给大家食用及自己备份。
+* [jpetazzo/dind](https://github.com/jpetazzo/dind) - Docker in Docker *(archived)*
+* [x2on/OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) - A script for compiling OpenSSL for iOS Devices (iPhone, iPad, Watch, iPod Touch, AppleTV, MacCatalyst)
+* [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
+* [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
+* [fatihacet/turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com) - Özenle seçilmiş Türkçe kaynaklar listesi En: Curated list of Turkish resources
+* [docker-library/postgres](https://github.com/docker-library/postgres) - Docker Official Image packaging for Postgres
+* [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
+* [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
+* [crosstool-ng/crosstool-ng](https://github.com/crosstool-ng/crosstool-ng) - A versatile (cross-)toolchain generator.
+* [kingkongshot/Pensieve](https://github.com/kingkongshot/Pensieve) - tore your decisions and principles. Claude reads them to make better choices.
+* [serversideup/docker-php](https://github.com/serversideup/docker-php) - 🐳 Production-ready Docker images for PHP. Optimized for Laravel, WordPress, and more!
+* [robcowart/elastiflow](https://github.com/robcowart/elastiflow) - Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack *(archived)*
+* [TH3xACE/SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems. It takes advantage of a specific misconfiguration or flaw in sudo to gain elevated privileges on the system, essentially allowing a regular user to execute commands as the root user.
+* [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
+* [DrCatHicks/learning-opportunities](https://github.com/DrCatHicks/learning-opportunities) - A Claude or Codex skill for deliberate skill development during AI-assisted coding
+* [noob-hackers/hacklock](https://github.com/noob-hackers/hacklock) - Hack Android Pattern From Termux With This Tool
+* [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
+* [ONLYOFFICE/Docker-DocumentServer](https://github.com/ONLYOFFICE/Docker-DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
+* [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) - ApacheCN AI 路线图（知识树）
+* [oneinstack/oneinstack](https://github.com/oneinstack/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
+* [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
+* [c0ny1/vulstudy](https://github.com/c0ny1/vulstudy) - 使用docker快速搭建各大漏洞靶场，目前可以一键搭建17个靶场。
+* [gentoo/gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
+* [Dewalt-arch/pimpmykali](https://github.com/Dewalt-arch/pimpmykali) - Kali Linux Fixes for Newly Imported VM's
+* [yuru7/HackGen](https://github.com/yuru7/HackGen) - Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
+* [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+* [screetsec/Sudomy](https://github.com/screetsec/Sudomy) - Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting
+* [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
+* [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
+* [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
+* [assafdori/bypass-mdm](https://github.com/assafdori/bypass-mdm) - Bypass MDM Setup for MacOS, up to MacOS Golden Gate.
+* [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
+* [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
+* [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server. *(archived)*
+* [community-valheim-tools/valheim-server-docker](https://github.com/community-valheim-tools/valheim-server-docker) - Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support
+* [Hax4us/TermuxBlack](https://github.com/Hax4us/TermuxBlack) - Termux repository for hacking tools and packages
+* [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap) - 👢 Bootstrap your macOS development system.
+* [WhatsApp/proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)
+* [noob-hackers/mrphish](https://github.com/noob-hackers/mrphish) - All In One Social Accounts Phishing With Otp Bypass In Termux.
+* [Cocos-BCX/cocos-bcx-node-bin](https://github.com/Cocos-BCX/cocos-bcx-node-bin)
+* [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
+* [ahmetb/cloud-run-faq](https://github.com/ahmetb/cloud-run-faq) - Unofficial FAQ and everything you've been wondering about Google Cloud Run.
+* [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
+* [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux
+* [LCTT/TranslateProject](https://github.com/LCTT/TranslateProject) - Linux中国翻译项目 *(archived)*
+* [big-data-europe/docker-hadoop](https://github.com/big-data-europe/docker-hadoop) - Apache Hadoop docker image
+* [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser *(archived)*
+* [hijkpw/scripts](https://github.com/hijkpw/scripts) - Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
+* [owerdogan/whoami-project](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions
+* [1N3/BruteX](https://github.com/1N3/BruteX) - Automatically brute force all services running on a target.
+* [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
+* [redis/redis-doc](https://github.com/redis/redis-doc) - Redis documentation source code for markdown and metadata files, conversion scripts, and so forth *(archived)*
+* [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
+* [clangd/clangd](https://github.com/clangd/clangd) - clangd language server
+* [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents) - Turn Claude Code into your offensive security research assistant. Specialized AI subagents for authorized penetration testing plan engagements, analyze recon, research exploits, build detections, audit STIGs, and write reports.
+* [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances. *(archived)*
+* [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
+* [acmalexandria/internships](https://github.com/acmalexandria/internships)
+* [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
+* [cdarlint/winutils](https://github.com/cdarlint/winutils) - winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows
+* [sabamdarif/termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+* [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
+* [RichiH/vcsh](https://github.com/RichiH/vcsh) - config manager based on Git
+* [1995chen/dnf](https://github.com/1995chen/dnf)
+* [iamj0ker/bypass-403](https://github.com/iamj0ker/bypass-403) - A simple script just made for self use for bypassing 403
+* [techjarves/Portable-AI-USB](https://github.com/techjarves/Portable-AI-USB) - A 100% offline, fully portable, zero-trace AI (Ollama + Llama 3 + AnythingLLM) that runs natively from a USB drive on Windows and Mac. *(archived)*
+* [snail007/proxy_admin_free](https://github.com/snail007/proxy_admin_free) - Proxy是高性能全功能的http代理、https代理、socks5代理、内网穿透、内网穿透p2p、内网穿透代理、内网穿透反向代理、内网穿透服务器、Websocket代理、TCP代理、UDP代理、DNS代理、DNS加密代理，代理API认证，全能跨平台代理服务器。
+* [UnblockNeteaseMusic/luci-app-unblockneteasemusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) - [OpenWrt] 解除网易云音乐播放限制
+* [dysfunc/ascii-emoji](https://github.com/dysfunc/ascii-emoji) - Essential Emoji
+* [hbin/top-programming-fonts](https://github.com/hbin/top-programming-fonts)
+* [donnyyou/torchcv](https://github.com/donnyyou/torchcv) - TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision
+* [linkease/istore](https://github.com/linkease/istore) - 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT
+* [cozystack/cozystack](https://github.com/cozystack/cozystack) - Cozystack: Free Cloud Platform based on Kubernetes
+* [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents
+* [aditya-shri/VPN](https://github.com/aditya-shri/VPN) - Personal VPN using Shadowsocks and v2ray
+* [Magisk-Modules-Repo/MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) - This tool is now dead... *(archived)*
+* [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server Suitable for automating the process on remote servers.
+* [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
+* [home-assistant/addons](https://github.com/home-assistant/addons) - :heavy_plus_sign: Docker add-ons for Home Assistant
+* [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker *(archived)*
+* [lefayjey/linWinPwn](https://github.com/lefayjey/linWinPwn) - linWinPwn is a bash script that streamlines the use of a number of Active Directory tools
+* [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+* [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
+* [ru-de/faq](https://github.com/ru-de/faq) - Полезная информация о жизни в Германии
+* [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+* [pocopico/tinycore-redpill](https://github.com/pocopico/tinycore-redpill)
+* [wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey)
+* [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
+* [FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency) - 青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.
+* [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+* [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
+* [donavon/hook-flow](https://github.com/donavon/hook-flow) - A flowchart that explains the new lifecycle of a Hooks component. https://dwe.st/hf
+* [LloydAsp/NodeQuality](https://github.com/LloydAsp/NodeQuality) - 在沙箱环境中运行vps测试脚本，并排版测试结果
+* [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
+* [ryanmjacobs/c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go!
+* [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
+* [dennyzhang/cheatsheet-kubernetes-A4](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - :book: Kubernetes CheatSheets In A4
+* [PVE-Tools/PVE-Tools-9](https://github.com/PVE-Tools/PVE-Tools-9) - 面向 Proxmox VE 9.x 的一键运维脚本，覆盖 VM 生命周期运维、宿主机网络 / 防火墙 / IPv6、GPU / PCI 直通、系统维护与第三方生态集成。
+* [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
+* [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI) - 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+* [sgerrand/alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
+* [GloriousEggroll/wine-ge-custom](https://github.com/GloriousEggroll/wine-ge-custom) - My custom build of wine, made to use with lutris. Built with lutris's buildbot. *(archived)*
+* [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
+* [vulhub/java-chains](https://github.com/vulhub/java-chains) - Java Vulnerability Exploitation Platform
+* [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial)
+* [spujadas/elk-docker](https://github.com/spujadas/elk-docker) - Elasticsearch, Logstash, Kibana (ELK) Docker image
+* [MasterDevX/Termux-ADB](https://github.com/MasterDevX/Termux-ADB) - Install ADB & FastBoot Tools in Termux!
+* [jimeh/git-aware-prompt](https://github.com/jimeh/git-aware-prompt) - Display current Git branch name in your terminal prompt when in a Git working directory.
+* [noob-hackers/ighack](https://github.com/noob-hackers/ighack) - Hack Instagram From Termux With Help of Tor
+* [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
+* [taigaio/taiga-docker](https://github.com/taigaio/taiga-docker)
+* [hmaverickadams/breach-parse](https://github.com/hmaverickadams/breach-parse) - A tool for parsing breached passwords
+* [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container.
+* [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System *(archived)*
+* [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
+* [openstack/devstack](https://github.com/openstack/devstack) - System for quickly installing an OpenStack cloud from upstream git for testing and development. Mirror of code maintained at opendev.org.
+* [karalabe/xgo](https://github.com/karalabe/xgo) - Go CGO cross compiler *(archived)*
+* [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU
+* [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
+* [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
+* [snakem982/proxypool](https://github.com/snakem982/proxypool) - Free Proxies，Free Nodes，免费节点，白嫖节点，免费vpn，免费v2ray，免费订阅，免费clash，Free VPN，Free v2ray，Free Sub，Free Clash
+* [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
+* [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+* [Khan/style-guides](https://github.com/Khan/style-guides) - Docs for the Organization
+* [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
+* [bulianglin/demo](https://github.com/bulianglin/demo) - 阿巴阿巴阿巴阿巴阿巴阿巴阿巴阿巴
+* [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) - 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!
+* [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor) - Distributed advertisement-based BTLE presence detection reported via mqtt
+* [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
+* [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
+* [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
+* [Leanmcp/superview.sh](https://github.com/Leanmcp/superview.sh) - See your claude code logs in clear details in your dashboard
+* [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
+* [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
+* [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
+* [quericy/one-key-ikev2-vpn](https://github.com/quericy/one-key-ikev2-vpn) - A bash script base on Centos or Ubuntu help you to create IKEV2/L2TP vpn.
+* [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
+* [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+* [lensesio/fast-data-dev](https://github.com/lensesio/fast-data-dev) - Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, , 20+ connectors
+* [vinceliuice/WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - MacOS Big Sur style icon theme for linux desktops
+* [insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting) - Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。
+* [gushmazuko/metasploit_in_termux](https://github.com/gushmazuko/metasploit_in_termux) - Install Metasploit Framework 6 in Termux
+* [basecamp/gh-signoff](https://github.com/basecamp/gh-signoff) - Local CI. Sign off on your own work.
+* [pmkol/easymosdns](https://github.com/pmkol/easymosdns) - An easy script for the Mosdns basic functions, enabling you to set up a pollution-free DNS server that supports ECS in just a few minutes.
+* [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server) - A Dockerized version of the Satisfactory dedicated server
+* [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
+* [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) - SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi
+* [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
+* [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
+* [big-data-europe/docker-spark](https://github.com/big-data-europe/docker-spark) - Apache Spark docker image
+* [looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn) - Elasticsearch权威指南中文版
+* [rails/rails-dev-box](https://github.com/rails/rails-dev-box) - A virtual machine for Ruby on Rails core development
+* [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
+* [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments
+* [nahamsec/lazyrecon](https://github.com/nahamsec/lazyrecon) - This script is intended to automate your reconnaissance process in an organized fashion
+* [nezhar/wordpress-docker-compose](https://github.com/nezhar/wordpress-docker-compose) - Easy Wordpress development with Docker and Docker Compose
+* [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - An OpenTelemetry backend in a Docker container image
+* [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming *(archived)*
+* [ASHWIN990/ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
+* [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+* [dominictarr/JSON.sh](https://github.com/dominictarr/JSON.sh) - a pipeable JSON parser written in Bash
+* [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - ArgoX（Argo + Xray）—— 一键多协议脚本。基于 Xray 核心，支持 Reality、Hysteria2、VLESS、VMess、Trojan、Shadowsocks、XHTTP 等十余种协议，搭配 Cloudflare Argo 隧道，内置自定义 WARP 路由分流（域名 / geosite / geoip），支持多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFI / SFA / SFM），无须域名、无须证书、功能强大、配置灵活。
+* [Juude/droidReverse](https://github.com/Juude/droidReverse) - reverse engineering tools for android（android 逆向工程工具集）
+* [ttlequals0/autovpn](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints on AWS. *(archived)*
+* [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
+* [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
+* [ChimeraOS/chimeraos](https://github.com/ChimeraOS/chimeraos) - A Steam Big Picture based couch gaming OS
+* [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
+* [pimox/pimox7](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi
+* [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
+* [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
+* [zabbix/community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
+* [kylef/swiftenv](https://github.com/kylef/swiftenv) - Swift Version Manager
+* [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
+* [suifei/fridare](https://github.com/suifei/fridare) - 强大的 Frida 重打包工具，用于 iOS 和 Android。轻松修改 Frida 特征，增强隐蔽性，绕过检测。简化逆向工程和安全测试。Powerful Frida repackaging tool for iOS and Android. Easily modify Frida servers to enhance stealth and bypass detection. Streamlines reverse engineering and security testing.
+* [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
+* [neverpanic/google-font-download](https://github.com/neverpanic/google-font-download) - Locally host Google's web fonts
+* [chromedp/docker-headless-shell](https://github.com/chromedp/docker-headless-shell) - Minimal container for Chrome's headless shell, useful for automating / driving the web
+* [Washington-University/HCPpipelines](https://github.com/Washington-University/HCPpipelines) - Processing pipelines for the HCP
+* [Har-Kuun/OneClickCDN](https://github.com/Har-Kuun/OneClickCDN) - A one-click shell script to set up a CDN node for your websites.
+* [binpash/pash](https://github.com/binpash/pash) - PaSh: Light-touch Data-Parallel Shell Processing
+* [magicant/yash](https://github.com/magicant/yash) - Yet another shell
+* [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
+* [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
+* [h4l/json.bash](https://github.com/h4l/json.bash) - Command-line tool and bash library that creates JSON
+* [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
+* [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
+* [iljaiwas/objc-run](https://github.com/iljaiwas/objc-run) - A shell script that makes it easy to use Objective-C files for shell script-like tasks.
+* [yanncam/UnSHc](https://github.com/yanncam/UnSHc) - UnSHc - How to decrypt SHc *.sh.x encrypted file ?
+* [zoltan-dulac/css3FontConverter](https://github.com/zoltan-dulac/css3FontConverter) - A shell script that can use other command line tools to produce @font-face compatible fonts in all browsers. Works under Windows (using Cygwin), Mac OS X and Linux
+* [flplv/ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
+* [FICS/atcmd](https://github.com/FICS/atcmd) - Android AT command scripts and firmware extraction
+* [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
+* [Trepan-Debuggers/zshdb](https://github.com/Trepan-Debuggers/zshdb) - gdb-like "trepan" debugger for zsh
+* [codigofuerte/GeoNames-MySQL-DataImport](https://github.com/codigofuerte/GeoNames-MySQL-DataImport) - Shell Script to download and import geonames.org dumps into a mysql database.
+* [ko1nksm/shdotenv](https://github.com/ko1nksm/shdotenv) - dotenv for shells with support for POSIX-compliant and multiple .env file syntax
+* [hanoglu/TermiC](https://github.com/hanoglu/TermiC) - GCC powered interactive C/C++ REPL terminal created with BASH
+* [w00fz/xdebug-osx](https://github.com/w00fz/xdebug-osx) - Simple bash script to toggle xdebug on/off in OSX
+* [LukeSmithxyz/lb](https://github.com/LukeSmithxyz/lb) - Blog & RSS system in less than 100 lines of shell script *(archived)*
+* [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
+* [kvz/cronlock](https://github.com/kvz/cronlock) - cronlock lets you deploy cronjobs cluster-wide without worrying about overlaps. It uses Redis to keep track of locks.
+* [mroth/evalcache](https://github.com/mroth/evalcache) - :hatching_chick: zsh plugin to cache eval loads to improve shell startup time
+* [frederic/superbird-bulkcmd](https://github.com/frederic/superbird-bulkcmd) - Spotify Car Thing (superbird) resources to access U-Boot shell over USB
+* [ftrvxmtrx/split2flac](https://github.com/ftrvxmtrx/split2flac) - Split flac/ape/wv/wav + cue sheet into separate tracks *(archived)*
+* [rogalmic/vscode-bash-debug](https://github.com/rogalmic/vscode-bash-debug) - Bash shell debugger extension for VSCode (based on bashdb)
+* [adityaathalye/shite](https://github.com/adityaathalye/shite) - The little hot-reloadin' static site maker from shell.
+* [tw-yshuang/Git_SSH-Account_Switch](https://github.com/tw-yshuang/Git_SSH-Account_Switch) - A CLI tool can switch ssh account to your current shell. You will easily switch to your git account & ssh key when using the server, and using your account to manipulate the project on the server.
+* [raphaelcohn/bish-bosh](https://github.com/raphaelcohn/bish-bosh) - MQTT shell script client, for bash, dash, BusyBox ash and others. Gives you MQTT on anything Unix like, from embedded routers to AIX servers with almost no dependenices.
+* [pretzelhands/jinx](https://github.com/pretzelhands/jinx) - ✨jinx - a magical nginx wrapper
+* [chris-rock/vesper](https://github.com/chris-rock/vesper) - 🍸Vesper - HTTP Framework for Bash Shell
+* [spiritLHLS/ecsspeed](https://github.com/spiritLHLS/ecsspeed) - 自动更新测试服务器节点列表的网络基准测试脚本(Network benchmarking script that automatically updates the list of the measurement server nodes)
+* [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Selenium Webdriver for Bash (or Zsh).
+* [scponly/scponly](https://github.com/scponly/scponly) - The scponly pseudo-shell provides a file-transfer only shell for *Nix systems with optional support for using a chrooted environment.
+* [zpm-zsh/autoenv](https://github.com/zpm-zsh/autoenv) - Autoenv for zsh
+* [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
+* [belgianbeer/tzdiff](https://github.com/belgianbeer/tzdiff) - Displays Timezone differences with localtime in CLI (shell script)
+* [muhmud/qsh](https://github.com/muhmud/qsh) - shell-based query tool
+* [shellbound/jwalk](https://github.com/shellbound/jwalk) - Streaming JSON parser for Unix
+* [kward/log4sh](https://github.com/kward/log4sh) - log4sh is an advanced logging framework for Unix shell scripts.
+* [tengla/sqlite3-to-mysql](https://github.com/tengla/sqlite3-to-mysql) - Make an Sqlite3 export MySQL readable.
+* [kobe1941/shell](https://github.com/kobe1941/shell) - 一个根据linkMap文件计算Xcode里各个工程代码占安装包大小的工具
+* [bash-c/main_arena_offset](https://github.com/bash-c/main_arena_offset) - A simple shell script to get main_arena offset of a given libc
+* [sirjaren/redoflacs](https://github.com/sirjaren/redoflacs) - Parallel BASH commandline FLAC compressor, verifier, organizer, analyzer, and retagger
+* [webpro-nl/unbash](https://github.com/webpro-nl/unbash) - Fast 0-deps bash parser written in TypeScript
+* [BlazejosP/huawei-sun2000-API-CLI](https://github.com/BlazejosP/huawei-sun2000-API-CLI) - Huawei SUN2000 compatible devices which working with Huawei Cloud Service command line bash API for monitoring or download data from their FusionSolarApp API
+* [seebi/rdf.sh](https://github.com/seebi/rdf.sh) - A multi-tool shell script for doing Semantic Web jobs on the command line.
+* [digitoimistodude/dudestack](https://github.com/digitoimistodude/dudestack) - A toolkit for creating a new professional WordPress project with deployments. Originally based on Roots/bedrock.
+* [louwrentius/PPSS](https://github.com/louwrentius/PPSS) - Parallel Processing Shell Script
+* [adsr/rw.rs](https://github.com/adsr/rw.rs) - free shell account and web 1.0 hosting @ http://rw.rs/~you
+* [dante4rt/Ramanode-Guides](https://github.com/dante4rt/Ramanode-Guides) - A shell script collection about shortcuts to run nodes/testnets in Web3.
+* [zeroQiaoba/ivector-xvector](https://github.com/zeroQiaoba/ivector-xvector) - Extract xvector and ivector under kaldi
+* [jgigault/42MapGenerator](https://github.com/jgigault/42MapGenerator) - Generate FdF maps of the real world, the Earth's moon and the planet Venus for the project Fil de Fer
+* [damphat/kv-bash](https://github.com/damphat/kv-bash) - key/value database written in bash script (permanent variables in shell)
+* [dalibo/pitrery](https://github.com/dalibo/pitrery) - DEPRECATED. PostgreSQL Point In Time Recovery made easy
+* [g0r60n/InstaShell](https://github.com/g0r60n/InstaShell) - InstaShell
+* [TUVIMEN/torge](https://github.com/TUVIMEN/torge) - A shell script for searching for links on torrent sites
+* [tobiasBora/Scribd-downloader](https://github.com/tobiasBora/Scribd-downloader) - A little shell script to download a pdf file from a scribd document. This script isn't perfect, but it's enough for me.
+* [shellspec/shellbench](https://github.com/shellspec/shellbench) - A benchmark utility for POSIX shell comparison
+* [tlrobinson/martin.sh](https://github.com/tlrobinson/martin.sh) - A simple web server and Sinatra-like microframework written in shell script. Why? WHY NOT?
+* [rcrowley/json.sh](https://github.com/rcrowley/json.sh) - Pure-shell JSON parser *(archived)*
+* [kristapsk/bitcoin-scripts](https://github.com/kristapsk/bitcoin-scripts) - Various shell scripts, mainly to be used together with Bitcoin Core (bitcoind or bitcoin-qt) wallet. Fake coinjoin, ricochet, poor man's cli block explorer.
+* [KHP-Informatics/ngseasy](https://github.com/KHP-Informatics/ngseasy) - Dockerised Next Generation Sequencing Pipeline (QC, Align, Calling, Annotation)
+* [opencultureconsulting/openrefine-batch](https://github.com/opencultureconsulting/openrefine-batch) - Shell script to run OpenRefine in batch mode (import, transform, export). It orchestrates OpenRefine (server) and a python client that communicates with the OpenRefine API. *(archived)*
+* [zhenruyan/codefont](https://github.com/zhenruyan/codefont) - 60余种常用的等宽字体 愉快的code吧 欢迎issues我 收录更多字体 Happy code bar with more than 60 common fonts of equal width. Welcome issues. I include more fonts.
+* [christianbaun/ossperf](https://github.com/christianbaun/ossperf) - A lightweight tool for analyzing the performance and data integrity of object-based storage services
+* [dnmfarrell/jp](https://github.com/dnmfarrell/jp) - Validate and transform JSON with Bash
+* [madcoda/dotenv-shell](https://github.com/madcoda/dotenv-shell) - Use Dotenv in everything
+* [mattiabasone/tuning-primer](https://github.com/mattiabasone/tuning-primer) - MySQL performance tuning primer script (with MariaDB patch)
+* [RicterZ/shell-blog](https://github.com/RicterZ/shell-blog) - My blog
+* [lebensterben/awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
+* [xr09/cron-last-sunday](https://github.com/xr09/cron-last-sunday) - Run a cron task the first, nth or last weekday of the month
+* [clhenrick/shell_scripts](https://github.com/clhenrick/shell_scripts) - Bash shell scripts for batch GeoProcessing using GDAL & OGR2OGR
+* [emerleite/mongo-migrate](https://github.com/emerleite/mongo-migrate) - MongoDB Migration using shell
+* [ronalde/mpd-configure](https://github.com/ronalde/mpd-configure) - Bash scripts to assist users of mpd to configure it as an audiophile bit perfect music player. *(archived)*
+* [dryruner/imagecrawler](https://github.com/dryruner/imagecrawler) - An image crawler implemented in shell script
+* [aizk/shell](https://github.com/aizk/shell) - bash shell script.
+* [treffynnon/Benchmark-PHP-HHVM-Zephir](https://github.com/treffynnon/Benchmark-PHP-HHVM-Zephir) - Benchmark PHP, HHVM and Zephir *(archived)*
+* [Anil-matcha/open-dots](https://github.com/Anil-matcha/open-dots) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+* [faithleysath/comander](https://github.com/faithleysath/comander) - 一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。
